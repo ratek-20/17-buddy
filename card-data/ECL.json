@@ -1,0 +1,1442 @@
+{
+  "98316": {
+    "name": "Changeling Wayfinder",
+    "gihwr": 0.54,
+    "grade": "D+"
+  },
+  "98317": {
+    "name": "Rooftop Percher",
+    "gihwr": 0.559,
+    "grade": "C"
+  },
+  "98318": {
+    "name": "Adept Watershaper",
+    "gihwr": 0.579,
+    "grade": "C+"
+  },
+  "98319": {
+    "name": "Ajani, Outland Chaperone",
+    "gihwr": 0.609,
+    "grade": "B+"
+  },
+  "98320": {
+    "name": "Appeal to Eirdu",
+    "gihwr": 0.504,
+    "grade": "D-"
+  },
+  "98321": {
+    "name": "Bark of Doran",
+    "gihwr": 0.511,
+    "grade": "D-"
+  },
+  "98322": {
+    "name": "Brigid, Clachan's Heart",
+    "gihwr": 0.615,
+    "grade": "B+"
+  },
+  "98324": {
+    "name": "Burdened Stoneback",
+    "gihwr": 0.532,
+    "grade": "D+"
+  },
+  "98325": {
+    "name": "Champion of the Clachan",
+    "gihwr": 0.562,
+    "grade": "C"
+  },
+  "98326": {
+    "name": "Clachan Festival",
+    "gihwr": 0.575,
+    "grade": "C+"
+  },
+  "98327": {
+    "name": "Crib Swap",
+    "gihwr": 0.507,
+    "grade": "D-"
+  },
+  "98328": {
+    "name": "Curious Colossus",
+    "gihwr": 0.631,
+    "grade": "A"
+  },
+  "98329": {
+    "name": "Eirdu, Carrier of Dawn",
+    "gihwr": 0.615,
+    "grade": "B+"
+  },
+  "98331": {
+    "name": "Encumbered Reejerey",
+    "gihwr": 0.569,
+    "grade": "C+"
+  },
+  "98332": {
+    "name": "Evershrike's Gift",
+    "gihwr": 0.541,
+    "grade": "D+"
+  },
+  "98333": {
+    "name": "Flock Impostor",
+    "gihwr": 0.554,
+    "grade": "C-"
+  },
+  "98334": {
+    "name": "Gallant Fowlknight",
+    "gihwr": 0.549,
+    "grade": "C-"
+  },
+  "98335": {
+    "name": "Goldmeadow Nomad",
+    "gihwr": 0.533,
+    "grade": "D+"
+  },
+  "98336": {
+    "name": "Keep Out",
+    "gihwr": 0.532,
+    "grade": "D+"
+  },
+  "98337": {
+    "name": "Kinbinding",
+    "gihwr": 0.648,
+    "grade": "A+"
+  },
+  "98338": {
+    "name": "Kinsbaile Aspirant",
+    "gihwr": 0.592,
+    "grade": "B-"
+  },
+  "98339": {
+    "name": "Kinscaer Sentry",
+    "gihwr": 0.591,
+    "grade": "B-"
+  },
+  "98340": {
+    "name": "Kithkeeper",
+    "gihwr": 0.542,
+    "grade": "C-"
+  },
+  "98341": {
+    "name": "Liminal Hold",
+    "gihwr": 0.562,
+    "grade": "C"
+  },
+  "98342": {
+    "name": "Meanders Guide",
+    "gihwr": 0.542,
+    "grade": "C-"
+  },
+  "98343": {
+    "name": "Moonlit Lamenter",
+    "gihwr": 0.559,
+    "grade": "C"
+  },
+  "98344": {
+    "name": "Morningtide's Light",
+    "gihwr": 0.548,
+    "grade": "C-"
+  },
+  "98345": {
+    "name": "Personify",
+    "gihwr": 0.55,
+    "grade": "C-"
+  },
+  "98346": {
+    "name": "Protective Response",
+    "gihwr": 0.576,
+    "grade": "C+"
+  },
+  "98347": {
+    "name": "Pyrrhic Strike",
+    "gihwr": 0.589,
+    "grade": "B-"
+  },
+  "98348": {
+    "name": "Reluctant Dounguard",
+    "gihwr": 0.52,
+    "grade": "D"
+  },
+  "98349": {
+    "name": "Rhys, the Evermore",
+    "gihwr": 0.527,
+    "grade": "D"
+  },
+  "98350": {
+    "name": "Riverguard's Reflexes",
+    "gihwr": 0.533,
+    "grade": "D+"
+  },
+  "98351": {
+    "name": "Shore Lurker",
+    "gihwr": 0.545,
+    "grade": "C-"
+  },
+  "98352": {
+    "name": "Slumbering Walker",
+    "gihwr": 0.602,
+    "grade": "B"
+  },
+  "98353": {
+    "name": "Spiral into Solitude",
+    "gihwr": 0.548,
+    "grade": "C-"
+  },
+  "98354": {
+    "name": "Sun-Dappled Celebrant",
+    "gihwr": 0.537,
+    "grade": "D+"
+  },
+  "98355": {
+    "name": "Thoughtweft Imbuer",
+    "gihwr": 0.589,
+    "grade": "B-"
+  },
+  "98356": {
+    "name": "Timid Shieldbearer",
+    "gihwr": 0.553,
+    "grade": "C-"
+  },
+  "98357": {
+    "name": "Tributary Vaulter",
+    "gihwr": 0.562,
+    "grade": "C"
+  },
+  "98358": {
+    "name": "Wanderbrine Preacher",
+    "gihwr": 0.561,
+    "grade": "C"
+  },
+  "98359": {
+    "name": "Wanderbrine Trapper",
+    "gihwr": 0.599,
+    "grade": "B"
+  },
+  "98360": {
+    "name": "Winnowing",
+    "gihwr": 0.537,
+    "grade": "D+"
+  },
+  "98361": {
+    "name": "Aquitect's Defenses",
+    "gihwr": 0.539,
+    "grade": "D+"
+  },
+  "98362": {
+    "name": "Blossombind",
+    "gihwr": 0.556,
+    "grade": "C"
+  },
+  "98363": {
+    "name": "Champions of the Shoal",
+    "gihwr": 0.626,
+    "grade": "A-"
+  },
+  "98364": {
+    "name": "Disruptor of Currents",
+    "gihwr": 0.619,
+    "grade": "A-"
+  },
+  "98365": {
+    "name": "Flitterwing Nuisance",
+    "gihwr": 0.605,
+    "grade": "B+"
+  },
+  "98366": {
+    "name": "Glamer Gifter",
+    "gihwr": 0.569,
+    "grade": "C+"
+  },
+  "98367": {
+    "name": "Glamermite",
+    "gihwr": 0.54,
+    "grade": "D+"
+  },
+  "98368": {
+    "name": "Glen Elendra Guardian",
+    "gihwr": 0.565,
+    "grade": "C"
+  },
+  "98369": {
+    "name": "Glen Elendra's Answer",
+    "gihwr": 0.591,
+    "grade": "B-"
+  },
+  "98370": {
+    "name": "Gravelgill Scoundrel",
+    "gihwr": 0.563,
+    "grade": "C"
+  },
+  "98371": {
+    "name": "Harmonized Crescendo",
+    "gihwr": 0.536,
+    "grade": "D+"
+  },
+  "98372": {
+    "name": "Illusion Spinners",
+    "gihwr": 0.519,
+    "grade": "D"
+  },
+  "98373": {
+    "name": "Kulrath Mystic",
+    "gihwr": 0.544,
+    "grade": "C-"
+  },
+  "98374": {
+    "name": "Loch Mare",
+    "gihwr": 0.622,
+    "grade": "A-"
+  },
+  "98375": {
+    "name": "Lofty Dreams",
+    "gihwr": 0.556,
+    "grade": "C"
+  },
+  "98376": {
+    "name": "Mirrorform",
+    "gihwr": 0.559,
+    "grade": "C"
+  },
+  "98377": {
+    "name": "Noggle the Mind",
+    "gihwr": 0.557,
+    "grade": "C"
+  },
+  "98378": {
+    "name": "Oko, Lorwyn Liege",
+    "gihwr": 0.573,
+    "grade": "C+"
+  },
+  "98380": {
+    "name": "Omni-Changeling",
+    "gihwr": 0.56,
+    "grade": "C"
+  },
+  "98381": {
+    "name": "Pestered Wellguard",
+    "gihwr": 0.55,
+    "grade": "C-"
+  },
+  "98382": {
+    "name": "Rime Chill",
+    "gihwr": 0.53,
+    "grade": "D+"
+  },
+  "98383": {
+    "name": "Rimefire Torque",
+    "gihwr": null,
+    "grade": null
+  },
+  "98384": {
+    "name": "Rimekin Recluse",
+    "gihwr": 0.607,
+    "grade": "B+"
+  },
+  "98385": {
+    "name": "Run Away Together",
+    "gihwr": 0.521,
+    "grade": "D"
+  },
+  "98386": {
+    "name": "Shinestriker",
+    "gihwr": 0.592,
+    "grade": "B"
+  },
+  "98387": {
+    "name": "Silvergill Mentor",
+    "gihwr": 0.606,
+    "grade": "B+"
+  },
+  "98388": {
+    "name": "Silvergill Peddler",
+    "gihwr": 0.554,
+    "grade": "C-"
+  },
+  "98389": {
+    "name": "Spell Snare",
+    "gihwr": 0.482,
+    "grade": "F"
+  },
+  "98390": {
+    "name": "Stratosoarer",
+    "gihwr": 0.552,
+    "grade": "C-"
+  },
+  "98391": {
+    "name": "Summit Sentinel",
+    "gihwr": 0.542,
+    "grade": "C-"
+  },
+  "98392": {
+    "name": "Sunderflock",
+    "gihwr": 0.647,
+    "grade": "A+"
+  },
+  "98393": {
+    "name": "Swat Away",
+    "gihwr": 0.55,
+    "grade": "C-"
+  },
+  "98394": {
+    "name": "Sygg, Wanderwine Wisdom",
+    "gihwr": 0.608,
+    "grade": "B+"
+  },
+  "98396": {
+    "name": "Tanufel Rimespeaker",
+    "gihwr": 0.571,
+    "grade": "C+"
+  },
+  "98397": {
+    "name": "Temporal Cleansing",
+    "gihwr": 0.566,
+    "grade": "C"
+  },
+  "98398": {
+    "name": "Thirst for Identity",
+    "gihwr": 0.534,
+    "grade": "D+"
+  },
+  "98399": {
+    "name": "Unexpected Assistance",
+    "gihwr": 0.564,
+    "grade": "C"
+  },
+  "98400": {
+    "name": "Unwelcome Sprite",
+    "gihwr": 0.568,
+    "grade": "C+"
+  },
+  "98401": {
+    "name": "Wanderwine Distracter",
+    "gihwr": 0.519,
+    "grade": "D"
+  },
+  "98402": {
+    "name": "Wanderwine Farewell",
+    "gihwr": 0.577,
+    "grade": "C+"
+  },
+  "98403": {
+    "name": "Wild Unraveling",
+    "gihwr": 0.538,
+    "grade": "D+"
+  },
+  "98404": {
+    "name": "Auntie's Sentence",
+    "gihwr": 0.539,
+    "grade": "D+"
+  },
+  "98405": {
+    "name": "Barbed Bloodletter",
+    "gihwr": 0.536,
+    "grade": "D+"
+  },
+  "98406": {
+    "name": "Bile-Vial Boggart",
+    "gihwr": 0.526,
+    "grade": "D"
+  },
+  "98407": {
+    "name": "Bitterbloom Bearer",
+    "gihwr": 0.581,
+    "grade": "B-"
+  },
+  "98408": {
+    "name": "Blight Rot",
+    "gihwr": 0.56,
+    "grade": "C"
+  },
+  "98409": {
+    "name": "Blighted Blackthorn",
+    "gihwr": 0.51,
+    "grade": "D-"
+  },
+  "98410": {
+    "name": "Bloodline Bidding",
+    "gihwr": 0.593,
+    "grade": "B"
+  },
+  "98411": {
+    "name": "Boggart Mischief",
+    "gihwr": 0.577,
+    "grade": "C+"
+  },
+  "98412": {
+    "name": "Boggart Prankster",
+    "gihwr": 0.529,
+    "grade": "D"
+  },
+  "98413": {
+    "name": "Bogslither's Embrace",
+    "gihwr": 0.565,
+    "grade": "C"
+  },
+  "98414": {
+    "name": "Champion of the Weird",
+    "gihwr": 0.599,
+    "grade": "B"
+  },
+  "98415": {
+    "name": "Creakwood Safewright",
+    "gihwr": 0.579,
+    "grade": "C+"
+  },
+  "98416": {
+    "name": "Darkness Descends",
+    "gihwr": 0.482,
+    "grade": "F"
+  },
+  "98417": {
+    "name": "Dawnhand Dissident",
+    "gihwr": 0.593,
+    "grade": "B"
+  },
+  "98418": {
+    "name": "Dawnhand Eulogist",
+    "gihwr": 0.584,
+    "grade": "B-"
+  },
+  "98419": {
+    "name": "Dose of Dawnglow",
+    "gihwr": 0.512,
+    "grade": "D-"
+  },
+  "98420": {
+    "name": "Dream Seizer",
+    "gihwr": 0.518,
+    "grade": "D"
+  },
+  "98421": {
+    "name": "Gloom Ripper",
+    "gihwr": 0.666,
+    "grade": "A+"
+  },
+  "98422": {
+    "name": "Gnarlbark Elm",
+    "gihwr": 0.545,
+    "grade": "C-"
+  },
+  "98423": {
+    "name": "Graveshifter",
+    "gihwr": 0.544,
+    "grade": "C-"
+  },
+  "98424": {
+    "name": "Grub, Storied Matriarch",
+    "gihwr": 0.587,
+    "grade": "B-"
+  },
+  "98426": {
+    "name": "Gutsplitter Gang",
+    "gihwr": 0.518,
+    "grade": "D"
+  },
+  "98427": {
+    "name": "Heirloom Auntie",
+    "gihwr": 0.489,
+    "grade": "F"
+  },
+  "98428": {
+    "name": "Iron-Shield Elf",
+    "gihwr": 0.584,
+    "grade": "B-"
+  },
+  "98429": {
+    "name": "Moonglove Extractor",
+    "gihwr": 0.524,
+    "grade": "D"
+  },
+  "98430": {
+    "name": "Moonshadow",
+    "gihwr": 0.574,
+    "grade": "C+"
+  },
+  "98431": {
+    "name": "Mornsong Aria",
+    "gihwr": null,
+    "grade": null
+  },
+  "98432": {
+    "name": "Mudbutton Cursetosser",
+    "gihwr": 0.584,
+    "grade": "B-"
+  },
+  "98433": {
+    "name": "Nameless Inversion",
+    "gihwr": 0.569,
+    "grade": "C+"
+  },
+  "98434": {
+    "name": "Nightmare Sower",
+    "gihwr": 0.513,
+    "grade": "D-"
+  },
+  "98435": {
+    "name": "Perfect Intimidation",
+    "gihwr": 0.481,
+    "grade": "F"
+  },
+  "98436": {
+    "name": "Requiting Hex",
+    "gihwr": 0.531,
+    "grade": "D+"
+  },
+  "98437": {
+    "name": "Retched Wretch",
+    "gihwr": 0.535,
+    "grade": "D+"
+  },
+  "98438": {
+    "name": "Scarblade Scout",
+    "gihwr": 0.579,
+    "grade": "B-"
+  },
+  "98439": {
+    "name": "Scarblade's Malice",
+    "gihwr": 0.543,
+    "grade": "C-"
+  },
+  "98440": {
+    "name": "Shimmercreep",
+    "gihwr": 0.55,
+    "grade": "C-"
+  },
+  "98441": {
+    "name": "Taster of Wares",
+    "gihwr": 0.609,
+    "grade": "B+"
+  },
+  "98442": {
+    "name": "Twilight Diviner",
+    "gihwr": 0.564,
+    "grade": "C"
+  },
+  "98443": {
+    "name": "Unbury",
+    "gihwr": 0.556,
+    "grade": "C"
+  },
+  "98444": {
+    "name": "Ashling, Rekindled",
+    "gihwr": 0.604,
+    "grade": "B"
+  },
+  "98446": {
+    "name": "Boldwyr Aggressor",
+    "gihwr": 0.524,
+    "grade": "D"
+  },
+  "98447": {
+    "name": "Boneclub Berserker",
+    "gihwr": 0.513,
+    "grade": "D-"
+  },
+  "98448": {
+    "name": "Boulder Dash",
+    "gihwr": 0.561,
+    "grade": "C"
+  },
+  "98449": {
+    "name": "Brambleback Brute",
+    "gihwr": 0.53,
+    "grade": "D+"
+  },
+  "98450": {
+    "name": "Burning Curiosity",
+    "gihwr": 0.522,
+    "grade": "D"
+  },
+  "98451": {
+    "name": "Champion of the Path",
+    "gihwr": 0.544,
+    "grade": "C-"
+  },
+  "98452": {
+    "name": "Cinder Strike",
+    "gihwr": 0.563,
+    "grade": "C"
+  },
+  "98453": {
+    "name": "Collective Inferno",
+    "gihwr": 0.494,
+    "grade": "F"
+  },
+  "98454": {
+    "name": "Elder Auntie",
+    "gihwr": 0.521,
+    "grade": "D"
+  },
+  "98455": {
+    "name": "End-Blaze Epiphany",
+    "gihwr": 0.607,
+    "grade": "B+"
+  },
+  "98456": {
+    "name": "Enraged Flamecaster",
+    "gihwr": 0.534,
+    "grade": "D+"
+  },
+  "98457": {
+    "name": "Explosive Prodigy",
+    "gihwr": 0.586,
+    "grade": "B-"
+  },
+  "98458": {
+    "name": "Feed the Flames",
+    "gihwr": 0.552,
+    "grade": "C-"
+  },
+  "98459": {
+    "name": "Flame-Chain Mauler",
+    "gihwr": 0.538,
+    "grade": "D+"
+  },
+  "98460": {
+    "name": "Flamebraider",
+    "gihwr": 0.592,
+    "grade": "B"
+  },
+  "98461": {
+    "name": "Flamekin Gildweaver",
+    "gihwr": 0.568,
+    "grade": "C+"
+  },
+  "98462": {
+    "name": "Giantfall",
+    "gihwr": 0.543,
+    "grade": "C-"
+  },
+  "98463": {
+    "name": "Goatnap",
+    "gihwr": 0.494,
+    "grade": "F"
+  },
+  "98464": {
+    "name": "Goliath Daydreamer",
+    "gihwr": 0.553,
+    "grade": "C-"
+  },
+  "98465": {
+    "name": "Gristle Glutton",
+    "gihwr": 0.543,
+    "grade": "C-"
+  },
+  "98466": {
+    "name": "Hexing Squelcher",
+    "gihwr": 0.507,
+    "grade": "D-"
+  },
+  "98467": {
+    "name": "Impolite Entrance",
+    "gihwr": 0.443,
+    "grade": "F"
+  },
+  "98468": {
+    "name": "Kindle the Inner Flame",
+    "gihwr": 0.553,
+    "grade": "C-"
+  },
+  "98469": {
+    "name": "Kulrath Zealot",
+    "gihwr": 0.571,
+    "grade": "C+"
+  },
+  "98470": {
+    "name": "Lasting Tarfire",
+    "gihwr": 0.477,
+    "grade": "F"
+  },
+  "98471": {
+    "name": "Lavaleaper",
+    "gihwr": 0.473,
+    "grade": "F"
+  },
+  "98472": {
+    "name": "Meek Attack",
+    "gihwr": null,
+    "grade": null
+  },
+  "98473": {
+    "name": "Reckless Ransacking",
+    "gihwr": 0.501,
+    "grade": "F"
+  },
+  "98474": {
+    "name": "Scuzzback Scrounger",
+    "gihwr": 0.559,
+    "grade": "C"
+  },
+  "98475": {
+    "name": "Sear",
+    "gihwr": 0.569,
+    "grade": "C+"
+  },
+  "98476": {
+    "name": "Sizzling Changeling",
+    "gihwr": 0.543,
+    "grade": "C-"
+  },
+  "98477": {
+    "name": "Soul Immolation",
+    "gihwr": 0.642,
+    "grade": "A+"
+  },
+  "98478": {
+    "name": "Soulbright Seeker",
+    "gihwr": 0.556,
+    "grade": "C"
+  },
+  "98479": {
+    "name": "Sourbread Auntie",
+    "gihwr": 0.558,
+    "grade": "C"
+  },
+  "98480": {
+    "name": "Spinerock Tyrant",
+    "gihwr": 0.634,
+    "grade": "A"
+  },
+  "98481": {
+    "name": "Squawkroaster",
+    "gihwr": 0.522,
+    "grade": "D"
+  },
+  "98482": {
+    "name": "Sting-Slinger",
+    "gihwr": 0.52,
+    "grade": "D"
+  },
+  "98483": {
+    "name": "Tweeze",
+    "gihwr": 0.551,
+    "grade": "C-"
+  },
+  "98484": {
+    "name": "Warren Torchmaster",
+    "gihwr": 0.516,
+    "grade": "D-"
+  },
+  "98485": {
+    "name": "Assert Perfection",
+    "gihwr": 0.587,
+    "grade": "B-"
+  },
+  "98486": {
+    "name": "Aurora Awakener",
+    "gihwr": 0.607,
+    "grade": "B+"
+  },
+  "98487": {
+    "name": "Bloom Tender",
+    "gihwr": 0.546,
+    "grade": "C-"
+  },
+  "98488": {
+    "name": "Blossoming Defense",
+    "gihwr": 0.564,
+    "grade": "C"
+  },
+  "98489": {
+    "name": "Bristlebane Battler",
+    "gihwr": 0.602,
+    "grade": "B"
+  },
+  "98490": {
+    "name": "Bristlebane Outrider",
+    "gihwr": 0.565,
+    "grade": "C"
+  },
+  "98491": {
+    "name": "Celestial Reunion",
+    "gihwr": 0.538,
+    "grade": "D+"
+  },
+  "98492": {
+    "name": "Champions of the Perfect",
+    "gihwr": 0.612,
+    "grade": "B+"
+  },
+  "98493": {
+    "name": "Chomping Changeling",
+    "gihwr": 0.5,
+    "grade": "F"
+  },
+  "98494": {
+    "name": "Crossroads Watcher",
+    "gihwr": 0.56,
+    "grade": "C"
+  },
+  "98495": {
+    "name": "Dawn's Light Archer",
+    "gihwr": 0.555,
+    "grade": "C"
+  },
+  "98496": {
+    "name": "Dundoolin Weaver",
+    "gihwr": 0.565,
+    "grade": "C"
+  },
+  "98497": {
+    "name": "Formidable Speaker",
+    "gihwr": 0.578,
+    "grade": "C+"
+  },
+  "98498": {
+    "name": "Gilt-Leaf's Embrace",
+    "gihwr": 0.552,
+    "grade": "C-"
+  },
+  "98499": {
+    "name": "Great Forest Druid",
+    "gihwr": 0.544,
+    "grade": "C-"
+  },
+  "98500": {
+    "name": "Luminollusk",
+    "gihwr": 0.521,
+    "grade": "D"
+  },
+  "98501": {
+    "name": "Lys Alana Dignitary",
+    "gihwr": 0.581,
+    "grade": "B-"
+  },
+  "98502": {
+    "name": "Lys Alana Informant",
+    "gihwr": 0.576,
+    "grade": "C+"
+  },
+  "98503": {
+    "name": "Midnight Tilling",
+    "gihwr": 0.57,
+    "grade": "C+"
+  },
+  "98504": {
+    "name": "Mistmeadow Council",
+    "gihwr": 0.571,
+    "grade": "C+"
+  },
+  "98505": {
+    "name": "Moon-Vigil Adherents",
+    "gihwr": 0.59,
+    "grade": "B-"
+  },
+  "98506": {
+    "name": "Morcant's Eyes",
+    "gihwr": 0.609,
+    "grade": "B+"
+  },
+  "98507": {
+    "name": "Mutable Explorer",
+    "gihwr": 0.551,
+    "grade": "C-"
+  },
+  "98508": {
+    "name": "Pitiless Fists",
+    "gihwr": 0.587,
+    "grade": "B-"
+  },
+  "98509": {
+    "name": "Prismabasher",
+    "gihwr": 0.572,
+    "grade": "C+"
+  },
+  "98510": {
+    "name": "Prismatic Undercurrents",
+    "gihwr": 0.492,
+    "grade": "F"
+  },
+  "98511": {
+    "name": "Pummeler for Hire",
+    "gihwr": 0.566,
+    "grade": "C"
+  },
+  "98512": {
+    "name": "Safewright Cavalry",
+    "gihwr": 0.569,
+    "grade": "C+"
+  },
+  "98513": {
+    "name": "Sapling Nursery",
+    "gihwr": 0.574,
+    "grade": "C+"
+  },
+  "98514": {
+    "name": "Selfless Safewright",
+    "gihwr": 0.57,
+    "grade": "C+"
+  },
+  "98515": {
+    "name": "Shimmerwilds Growth",
+    "gihwr": 0.51,
+    "grade": "D-"
+  },
+  "98516": {
+    "name": "Spry and Mighty",
+    "gihwr": 0.537,
+    "grade": "D+"
+  },
+  "98517": {
+    "name": "Surly Farrier",
+    "gihwr": 0.542,
+    "grade": "D+"
+  },
+  "98518": {
+    "name": "Tend the Sprigs",
+    "gihwr": 0.506,
+    "grade": "D-"
+  },
+  "98519": {
+    "name": "Thoughtweft Charge",
+    "gihwr": 0.55,
+    "grade": "C-"
+  },
+  "98520": {
+    "name": "Trystan, Callous Cultivator",
+    "gihwr": 0.613,
+    "grade": "B+"
+  },
+  "98522": {
+    "name": "Unforgiving Aim",
+    "gihwr": 0.514,
+    "grade": "D-"
+  },
+  "98523": {
+    "name": "Vinebred Brawler",
+    "gihwr": 0.562,
+    "grade": "C"
+  },
+  "98524": {
+    "name": "Virulent Emissary",
+    "gihwr": 0.59,
+    "grade": "B-"
+  },
+  "98525": {
+    "name": "Wildvine Pummeler",
+    "gihwr": 0.525,
+    "grade": "D"
+  },
+  "98526": {
+    "name": "Abigale, Eloquent First-Year",
+    "gihwr": 0.583,
+    "grade": "B-"
+  },
+  "98527": {
+    "name": "Ashling's Command",
+    "gihwr": 0.668,
+    "grade": "A+"
+  },
+  "98528": {
+    "name": "Boggart Cursecrafter",
+    "gihwr": 0.575,
+    "grade": "C+"
+  },
+  "98529": {
+    "name": "Bre of Clan Stoutarm",
+    "gihwr": 0.564,
+    "grade": "C"
+  },
+  "98530": {
+    "name": "Brigid's Command",
+    "gihwr": 0.607,
+    "grade": "B+"
+  },
+  "98531": {
+    "name": "Catharsis",
+    "gihwr": 0.532,
+    "grade": "D+"
+  },
+  "98532": {
+    "name": "Chaos Spewer",
+    "gihwr": 0.51,
+    "grade": "D-"
+  },
+  "98533": {
+    "name": "Chitinous Graspling",
+    "gihwr": 0.516,
+    "grade": "D-"
+  },
+  "98534": {
+    "name": "Deceit",
+    "gihwr": 0.593,
+    "grade": "B"
+  },
+  "98535": {
+    "name": "Deepchannel Duelist",
+    "gihwr": 0.637,
+    "grade": "A"
+  },
+  "98536": {
+    "name": "Deepway Navigator",
+    "gihwr": 0.569,
+    "grade": "C+"
+  },
+  "98537": {
+    "name": "Doran, Besieged by Time",
+    "gihwr": 0.58,
+    "grade": "B-"
+  },
+  "98538": {
+    "name": "Dream Harvest",
+    "gihwr": 0.509,
+    "grade": "D-"
+  },
+  "98539": {
+    "name": "Eclipsed Boggart",
+    "gihwr": 0.591,
+    "grade": "B-"
+  },
+  "98540": {
+    "name": "Eclipsed Elf",
+    "gihwr": 0.634,
+    "grade": "A"
+  },
+  "98541": {
+    "name": "Eclipsed Flamekin",
+    "gihwr": 0.601,
+    "grade": "B"
+  },
+  "98542": {
+    "name": "Eclipsed Kithkin",
+    "gihwr": 0.631,
+    "grade": "A"
+  },
+  "98543": {
+    "name": "Eclipsed Merrow",
+    "gihwr": 0.622,
+    "grade": "A-"
+  },
+  "98544": {
+    "name": "Emptiness",
+    "gihwr": 0.574,
+    "grade": "C+"
+  },
+  "98545": {
+    "name": "Feisty Spikeling",
+    "gihwr": 0.514,
+    "grade": "D-"
+  },
+  "98546": {
+    "name": "Figure of Fable",
+    "gihwr": 0.641,
+    "grade": "A"
+  },
+  "98547": {
+    "name": "Flaring Cinder",
+    "gihwr": 0.557,
+    "grade": "C"
+  },
+  "98548": {
+    "name": "Gangly Stompling",
+    "gihwr": 0.544,
+    "grade": "C-"
+  },
+  "98549": {
+    "name": "Glister Bairn",
+    "gihwr": 0.527,
+    "grade": "D"
+  },
+  "98550": {
+    "name": "Grub's Command",
+    "gihwr": 0.627,
+    "grade": "A-"
+  },
+  "98551": {
+    "name": "High Perfect Morcant",
+    "gihwr": 0.621,
+    "grade": "A-"
+  },
+  "98552": {
+    "name": "Hovel Hurler",
+    "gihwr": 0.536,
+    "grade": "D+"
+  },
+  "98553": {
+    "name": "Kirol, Attentive First-Year",
+    "gihwr": 0.534,
+    "grade": "D+"
+  },
+  "98554": {
+    "name": "Lluwen, Imperfect Naturalist",
+    "gihwr": 0.593,
+    "grade": "B"
+  },
+  "98555": {
+    "name": "Maralen, Fae Ascendant",
+    "gihwr": 0.611,
+    "grade": "B+"
+  },
+  "98556": {
+    "name": "Merrow Skyswimmer",
+    "gihwr": 0.574,
+    "grade": "C+"
+  },
+  "98557": {
+    "name": "Mischievous Sneakling",
+    "gihwr": 0.528,
+    "grade": "D"
+  },
+  "98558": {
+    "name": "Morcant's Loyalist",
+    "gihwr": 0.621,
+    "grade": "A-"
+  },
+  "98559": {
+    "name": "Noggle Robber",
+    "gihwr": 0.581,
+    "grade": "B-"
+  },
+  "98560": {
+    "name": "Prideful Feastling",
+    "gihwr": 0.535,
+    "grade": "D+"
+  },
+  "98561": {
+    "name": "Raiding Schemes",
+    "gihwr": null,
+    "grade": null
+  },
+  "98562": {
+    "name": "Reaping Willow",
+    "gihwr": 0.57,
+    "grade": "C+"
+  },
+  "98563": {
+    "name": "Sanar, Innovative First-Year",
+    "gihwr": 0.61,
+    "grade": "B+"
+  },
+  "98564": {
+    "name": "Shadow Urchin",
+    "gihwr": 0.538,
+    "grade": "D+"
+  },
+  "98565": {
+    "name": "Stoic Grove-Guide",
+    "gihwr": 0.534,
+    "grade": "D+"
+  },
+  "98566": {
+    "name": "Sygg's Command",
+    "gihwr": 0.587,
+    "grade": "B-"
+  },
+  "98567": {
+    "name": "Tam, Mindful First-Year",
+    "gihwr": 0.541,
+    "grade": "D+"
+  },
+  "98568": {
+    "name": "Thoughtweft Lieutenant",
+    "gihwr": 0.59,
+    "grade": "B-"
+  },
+  "98569": {
+    "name": "Trystan's Command",
+    "gihwr": 0.647,
+    "grade": "A+"
+  },
+  "98570": {
+    "name": "Twinflame Travelers",
+    "gihwr": 0.576,
+    "grade": "C+"
+  },
+  "98571": {
+    "name": "Vibrance",
+    "gihwr": 0.62,
+    "grade": "A-"
+  },
+  "98572": {
+    "name": "Voracious Tome-Skimmer",
+    "gihwr": 0.527,
+    "grade": "D"
+  },
+  "98573": {
+    "name": "Wary Farmer",
+    "gihwr": 0.556,
+    "grade": "C"
+  },
+  "98574": {
+    "name": "Wistfulness",
+    "gihwr": 0.61,
+    "grade": "B+"
+  },
+  "98575": {
+    "name": "Chronicle of Victory",
+    "gihwr": 0.639,
+    "grade": "A"
+  },
+  "98576": {
+    "name": "Dawn-Blessed Pennant",
+    "gihwr": 0.546,
+    "grade": "C-"
+  },
+  "98577": {
+    "name": "Firdoch Core",
+    "gihwr": 0.515,
+    "grade": "D-"
+  },
+  "98578": {
+    "name": "Foraging Wickermaw",
+    "gihwr": 0.541,
+    "grade": "D+"
+  },
+  "98579": {
+    "name": "Gathering Stone",
+    "gihwr": 0.59,
+    "grade": "B-"
+  },
+  "98580": {
+    "name": "Mirrormind Crown",
+    "gihwr": null,
+    "grade": null
+  },
+  "98581": {
+    "name": "Puca's Eye",
+    "gihwr": 0.55,
+    "grade": "C-"
+  },
+  "98582": {
+    "name": "Springleaf Drum",
+    "gihwr": 0.505,
+    "grade": "D-"
+  },
+  "98583": {
+    "name": "Stalactite Dagger",
+    "gihwr": 0.52,
+    "grade": "D"
+  },
+  "98584": {
+    "name": "Blood Crypt",
+    "gihwr": 0.527,
+    "grade": "D"
+  },
+  "98585": {
+    "name": "Eclipsed Realms",
+    "gihwr": 0.546,
+    "grade": "C-"
+  },
+  "98586": {
+    "name": "Evolving Wilds",
+    "gihwr": 0.55,
+    "grade": "C-"
+  },
+  "98587": {
+    "name": "Hallowed Fountain",
+    "gihwr": 0.532,
+    "grade": "D+"
+  },
+  "98588": {
+    "name": "Overgrown Tomb",
+    "gihwr": 0.55,
+    "grade": "C-"
+  },
+  "98589": {
+    "name": "Steam Vents",
+    "gihwr": 0.538,
+    "grade": "D+"
+  },
+  "98590": {
+    "name": "Temple Garden",
+    "gihwr": 0.526,
+    "grade": "D"
+  },
+  "98870": {
+    "name": "Idyllic Tutor",
+    "gihwr": null,
+    "grade": null
+  },
+  "98871": {
+    "name": "Kinsbaile Cavalier",
+    "gihwr": null,
+    "grade": null
+  },
+  "98872": {
+    "name": "Mistbind Clique",
+    "gihwr": null,
+    "grade": null
+  },
+  "98873": {
+    "name": "Wanderwine Prophets",
+    "gihwr": null,
+    "grade": null
+  },
+  "98874": {
+    "name": "Bitterblossom",
+    "gihwr": 0.574,
+    "grade": "C+"
+  },
+  "98875": {
+    "name": "Faerie Macabre",
+    "gihwr": null,
+    "grade": null
+  },
+  "98876": {
+    "name": "Goblin Chieftain",
+    "gihwr": null,
+    "grade": null
+  },
+  "98877": {
+    "name": "Goblin Sharpshooter",
+    "gihwr": 0.612,
+    "grade": "B+"
+  },
+  "98878": {
+    "name": "Heat Shimmer",
+    "gihwr": null,
+    "grade": null
+  },
+  "98879": {
+    "name": "Devoted Druid",
+    "gihwr": null,
+    "grade": null
+  },
+  "98880": {
+    "name": "Helix Pinnacle",
+    "gihwr": null,
+    "grade": null
+  },
+  "98881": {
+    "name": "Leaf-Crowned Visionary",
+    "gihwr": 0.587,
+    "grade": "B-"
+  },
+  "98882": {
+    "name": "Regal Force",
+    "gihwr": null,
+    "grade": null
+  },
+  "98883": {
+    "name": "Manamorphose",
+    "gihwr": null,
+    "grade": null
+  },
+  "98884": {
+    "name": "Risen Reef",
+    "gihwr": 0.615,
+    "grade": "B+"
+  },
+  "98885": {
+    "name": "Slippery Bogle",
+    "gihwr": null,
+    "grade": null
+  },
+  "98886": {
+    "name": "Dolmen Gate",
+    "gihwr": null,
+    "grade": null
+  },
+  "98887": {
+    "name": "Door of Destinies",
+    "gihwr": null,
+    "grade": null
+  },
+  "98888": {
+    "name": "Painter's Servant",
+    "gihwr": null,
+    "grade": null
+  },
+  "98889": {
+    "name": "Thousand-Year Elixir",
+    "gihwr": null,
+    "grade": null
+  }
+}

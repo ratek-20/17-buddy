@@ -1,5 +1,9 @@
-# Custom
-dataset
+# Raw card data
+/raw-card-data/
+
+# Python
+__pycache__/
+*.py[cod]
 
 # Logs
 logs
