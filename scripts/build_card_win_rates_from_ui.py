@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build runtime card ratings from a manually exported 17Lands Card Data CSV."""
+"""Build runtime card win rates from a manually exported 17Lands Card Data CSV."""
 
 from __future__ import annotations
 
@@ -11,14 +11,14 @@ from dataclasses import dataclass
 from pathlib import Path
 
 if __package__:
-    from .build_card_data import (
+    from .build_card_win_rates import (
         DEFAULT_MIN_GIH_OBSERVATIONS,
         PUBLIC_CARD_LIST_URL,
         grade_for,
         load_public_card_ids,
     )
 else:
-    from build_card_data import (
+    from build_card_win_rates import (
         DEFAULT_MIN_GIH_OBSERVATIONS,
         PUBLIC_CARD_LIST_URL,
         grade_for,

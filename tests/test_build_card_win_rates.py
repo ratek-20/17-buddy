@@ -3,7 +3,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from scripts.build_card_data import (
+from scripts.build_card_win_rates import (
     CardStats,
     build_output,
     collect_stats,

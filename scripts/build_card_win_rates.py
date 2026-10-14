@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build runtime card ratings from official 17Lands public CSV files."""
+"""Build runtime card win rates from official 17Lands public CSV files."""
 
 from __future__ import annotations
 

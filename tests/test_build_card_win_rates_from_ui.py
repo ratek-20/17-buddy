@@ -3,7 +3,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from scripts.build_card_data_from_ui import (
+from scripts.build_card_win_rates_from_ui import (
     UiCardStats,
     build_ui_output,
     grade_for_rounded_win_rate,
