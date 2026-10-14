@@ -1,5 +1,4 @@
 import csv
-import json
 import tempfile
 import unittest
 from pathlib import Path
@@ -10,38 +9,45 @@ from scripts.build_card_data import (
     collect_stats,
     find_card_columns,
     grade_for,
-    load_card_ids,
+    load_public_card_ids,
 )
 
 
-class LoadCardIdsTests(unittest.TestCase):
-    def test_loads_valid_mappings_and_ignores_invalid_entries(self) -> None:
-        metadata = [
-            {"name": "Alpha", "mtga_id": 101},
-            {"name": "Beta", "mtga_id": 102},
-            {"name": "Missing ID"},
-            {"mtga_id": 103},
-            "invalid",
+class LoadPublicCardIdsTests(unittest.TestCase):
+    def test_loads_booster_ids_and_prefers_the_first_matching_expansion(self) -> None:
+        rows = [
+            [101, "TST", "Alpha", "True"],
+            [102, "TST", "Alpha", "True"],
+            [999, "SPG", "Alpha", "True"],
+            [103, "SPG", "Beta", "True"],
+            [104, "TST", "Not in boosters", "False"],
+            [105, "OTHER", "Other set", "True"],
         ]
 
         with tempfile.TemporaryDirectory() as temporary_directory:
-            path = Path(temporary_directory) / "cards.json"
-            path.write_text(json.dumps(metadata), encoding="utf-8")
+            path = Path(temporary_directory) / "cards.csv"
+            with path.open("w", newline="", encoding="utf-8") as csv_file:
+                writer = csv.writer(csv_file)
+                writer.writerow(["id", "expansion", "name", "is_booster"])
+                writer.writerows(rows)
 
-            self.assertEqual(load_card_ids(path), {"Alpha": 101, "Beta": 102})
+            self.assertEqual(
+                load_public_card_ids(path, ["TST", "SPG"]),
+                {"Alpha": (101, 102), "Beta": (103,)},
+            )
 
-    def test_rejects_conflicting_ids_for_the_same_name(self) -> None:
-        metadata = [
-            {"name": "Alpha", "mtga_id": 101},
-            {"name": "Alpha", "mtga_id": 202},
-        ]
+    def test_rejects_invalid_arena_ids(self) -> None:
+        rows = [["invalid", "TST", "Alpha", "True"]]
 
         with tempfile.TemporaryDirectory() as temporary_directory:
-            path = Path(temporary_directory) / "cards.json"
-            path.write_text(json.dumps(metadata), encoding="utf-8")
+            path = Path(temporary_directory) / "cards.csv"
+            with path.open("w", newline="", encoding="utf-8") as csv_file:
+                writer = csv.writer(csv_file)
+                writer.writerow(["id", "expansion", "name", "is_booster"])
+                writer.writerows(rows)
 
-            with self.assertRaisesRegex(ValueError, "Multiple Arena IDs"):
-                load_card_ids(path)
+            with self.assertRaisesRegex(ValueError, "Invalid Arena ID"):
+                load_public_card_ids(path, ["TST"])
 
 
 class CsvAggregationTests(unittest.TestCase):
@@ -108,7 +114,12 @@ class GradeTests(unittest.TestCase):
 
 class BuildOutputTests(unittest.TestCase):
     def test_uses_population_statistics_and_nulls_cards_below_the_threshold(self) -> None:
-        card_ids = {"Alpha": 200, "Beta": 100, "Gamma": 300, "Delta": 400}
+        card_ids = {
+            "Alpha": (200,),
+            "Beta": (100,),
+            "Gamma": (300,),
+            "Delta": (400,),
+        }
         stats = {
             "Alpha": CardStats(games_in_hand=600, wins_in_hand=360),
             "Beta": CardStats(games_in_hand=500, wins_in_hand=250),
@@ -126,7 +137,7 @@ class BuildOutputTests(unittest.TestCase):
         self.assertEqual(output["400"], {"name": "Delta", "gihwr": None, "grade": None})
 
     def test_rejects_invalid_or_unmet_observation_thresholds(self) -> None:
-        card_ids = {"Alpha": 100}
+        card_ids = {"Alpha": (100,)}
         stats = {"Alpha": CardStats(games_in_hand=10, wins_in_hand=5)}
 
         with self.assertRaisesRegex(ValueError, "must be at least 1"):

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build runtime card ratings from a 17Lands game-data CSV."""
+"""Build runtime card ratings from official 17Lands public CSV files."""
 
 from __future__ import annotations
 
@@ -11,13 +11,15 @@ import statistics
 from collections.abc import Sequence
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Any
 
 
 GRADE_BAND_WIDTH = 0.33
 GRADES = ("F", "D-", "D", "D+", "C-", "C", "C+", "B-", "B", "B+", "A-", "A", "A+")
 C_GRADE_INDEX = GRADES.index("C")
 DEFAULT_MIN_GIH_OBSERVATIONS = 500
+PUBLIC_CARD_LIST_URL = (
+    "https://17lands-public.s3.amazonaws.com/analysis_data/cards/cards.csv"
+)
 
 
 @dataclass(frozen=True)
@@ -41,15 +43,25 @@ class CardStats:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Convert a 17Lands game-data CSV into runtime card-rating JSON."
+        description="Convert a public 17Lands game-data CSV into runtime card-rating JSON.",
+        epilog=f"Official public card list: {PUBLIC_CARD_LIST_URL}",
     )
-    parser.add_argument("csv_path", type=Path, help="17Lands game-data CSV")
+    parser.add_argument("csv_path", type=Path, help="Public 17Lands game-data CSV")
     parser.add_argument(
-        "card_metadata_path",
+        "card_list_path",
         type=Path,
-        help="17Lands card metadata JSON containing name and mtga_id fields",
+        help="Official 17Lands public cards.csv helper file",
     )
     parser.add_argument("output_path", type=Path, help="Destination JSON file")
+    parser.add_argument(
+        "--card-expansions",
+        nargs="+",
+        required=True,
+        help=(
+            "Expansion codes to use for Arena IDs in priority order, "
+            "for example ECL SPG"
+        ),
+    )
     parser.add_argument(
         "--min-gih-observations",
         type=int,
@@ -62,30 +74,53 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
-def load_card_ids(path: Path) -> dict[str, int]:
-    with path.open(encoding="utf-8") as metadata_file:
-        metadata: Any = json.load(metadata_file)
+def load_public_card_ids(
+    path: Path, expansions: Sequence[str]
+) -> dict[str, tuple[int, ...]]:
+    requested_expansions = tuple(
+        dict.fromkeys(
+            expansion.strip().upper()
+            for expansion in expansions
+            if expansion.strip()
+        )
+    )
+    if not requested_expansions:
+        raise ValueError("At least one card expansion is required")
 
-    if not isinstance(metadata, list):
-        raise ValueError(f"Expected a JSON array in {path}")
+    ids_by_expansion: dict[str, dict[str, set[int]]] = {
+        expansion: {} for expansion in requested_expansions
+    }
+    with path.open(newline="", encoding="utf-8-sig") as csv_file:
+        reader = csv.DictReader(csv_file)
+        required_columns = {"id", "expansion", "name", "is_booster"}
+        missing_columns = required_columns - set(reader.fieldnames or ())
+        if missing_columns:
+            missing = ", ".join(sorted(missing_columns))
+            raise ValueError(f"Missing required card-list columns: {missing}")
 
-    card_ids: dict[str, int] = {}
-    for card in metadata:
-        if not isinstance(card, dict):
-            continue
+        for row_number, row in enumerate(reader, start=2):
+            expansion = row["expansion"].upper()
+            if expansion not in ids_by_expansion or row["is_booster"] != "True":
+                continue
 
-        name = card.get("name")
-        mtga_id = card.get("mtga_id")
-        if not isinstance(name, str) or not isinstance(mtga_id, int):
-            continue
+            name = row["name"].strip()
+            try:
+                arena_id = int(row["id"])
+            except ValueError as error:
+                raise ValueError(
+                    f"Invalid Arena ID on card-list row {row_number}: {row['id']!r}"
+                ) from error
 
-        previous_id = card_ids.get(name)
-        if previous_id is not None and previous_id != mtga_id:
-            raise ValueError(f"Multiple Arena IDs found for {name!r}")
-        card_ids[name] = mtga_id
+            ids_by_expansion[expansion].setdefault(name, set()).add(arena_id)
+
+    card_ids: dict[str, tuple[int, ...]] = {}
+    for expansion in requested_expansions:
+        for name, arena_ids in ids_by_expansion[expansion].items():
+            card_ids.setdefault(name, tuple(sorted(arena_ids)))
 
     if not card_ids:
-        raise ValueError(f"No name-to-Arena-ID mappings found in {path}")
+        requested = ", ".join(requested_expansions)
+        raise ValueError(f"No booster cards found for expansions: {requested}")
     return card_ids
 
 
@@ -174,7 +209,9 @@ def grade_for(win_rate: float, mean: float, standard_deviation: float) -> str:
 
 
 def build_output(
-    card_ids: dict[str, int], stats: dict[str, CardStats], min_gih_observations: int
+    card_ids: dict[str, tuple[int, ...]],
+    stats: dict[str, CardStats],
+    min_gih_observations: int,
 ) -> tuple[dict[str, dict[str, str | float | None]], float, float]:
     if min_gih_observations < 1:
         raise ValueError("Minimum GIH observations must be at least 1")
@@ -191,7 +228,12 @@ def build_output(
     standard_deviation = statistics.pstdev(valid_win_rates)
     output: dict[str, dict[str, str | float | None]] = {}
 
-    for name, mtga_id in sorted(card_ids.items(), key=lambda item: item[1]):
+    cards_by_id = sorted(
+        (arena_id, name)
+        for name, arena_ids in card_ids.items()
+        for arena_id in arena_ids
+    )
+    for mtga_id, name in cards_by_id:
         card_stats = stats.get(name)
         win_rate = (
             card_stats.win_rate
@@ -209,10 +251,17 @@ def build_output(
 
 def main() -> None:
     args = parse_args()
-    card_ids = load_card_ids(args.card_metadata_path)
     stats, row_count, first_game_time, last_game_time = collect_stats(args.csv_path)
+    available_card_ids = load_public_card_ids(
+        args.card_list_path, args.card_expansions
+    )
 
-    missing_ids = sorted(set(stats) - set(card_ids))
+    missing_ids = sorted(set(stats) - set(available_card_ids))
+    card_ids = {
+        name: available_card_ids[name]
+        for name in stats
+        if name in available_card_ids
+    }
     output, mean, standard_deviation = build_output(
         card_ids, stats, args.min_gih_observations
     )

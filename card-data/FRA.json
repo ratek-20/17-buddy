@@ -1,0 +1,1452 @@
+{
+  "106225": {
+    "name": "Emrakul, the Exigent Doom",
+    "gihwr": 0.524,
+    "grade": "D+"
+  },
+  "106226": {
+    "name": "Academic Ascent",
+    "gihwr": 0.527,
+    "grade": "D+"
+  },
+  "106227": {
+    "name": "Blossom-Blessed Angel",
+    "gihwr": 0.561,
+    "grade": "C+"
+  },
+  "106229": {
+    "name": "Campus Crier",
+    "gihwr": 0.558,
+    "grade": "C"
+  },
+  "106230": {
+    "name": "Enlightened Confidant",
+    "gihwr": 0.574,
+    "grade": "C+"
+  },
+  "106231": {
+    "name": "Fateshaper Aspirant",
+    "gihwr": 0.521,
+    "grade": "D+"
+  },
+  "106232": {
+    "name": "Flickering Hound",
+    "gihwr": 0.455,
+    "grade": "F"
+  },
+  "106233": {
+    "name": "Generous Revival",
+    "gihwr": 0.574,
+    "grade": "C+"
+  },
+  "106234": {
+    "name": "Germinate Recruits",
+    "gihwr": 0.475,
+    "grade": "F"
+  },
+  "106235": {
+    "name": "Graft Surgeon",
+    "gihwr": 0.517,
+    "grade": "D"
+  },
+  "106236": {
+    "name": "Guiding Hydra",
+    "gihwr": 0.581,
+    "grade": "B-"
+  },
+  "106237": {
+    "name": "Hexhaven Battalion",
+    "gihwr": 0.577,
+    "grade": "B-"
+  },
+  "106238": {
+    "name": "Kindred Judgment",
+    "gihwr": 0.62,
+    "grade": "A-"
+  },
+  "106239": {
+    "name": "Loyal Tutor",
+    "gihwr": null,
+    "grade": null
+  },
+  "106240": {
+    "name": "Memory Trap",
+    "gihwr": 0.56,
+    "grade": "C"
+  },
+  "106241": {
+    "name": "Predictive Preparations",
+    "gihwr": 0.488,
+    "grade": "F"
+  },
+  "106242": {
+    "name": "Prophesied End",
+    "gihwr": 0.557,
+    "grade": "C"
+  },
+  "106243": {
+    "name": "Refute Destiny",
+    "gihwr": 0.528,
+    "grade": "D+"
+  },
+  "106244": {
+    "name": "Repurposed Enforcer",
+    "gihwr": 0.599,
+    "grade": "B"
+  },
+  "106245": {
+    "name": "Return to the Light Realms",
+    "gihwr": 0.498,
+    "grade": "D-"
+  },
+  "106246": {
+    "name": "Shatterwing Pegasus",
+    "gihwr": 0.539,
+    "grade": "C-"
+  },
+  "106247": {
+    "name": "Surgical Precision",
+    "gihwr": 0.575,
+    "grade": "B-"
+  },
+  "106248": {
+    "name": "Unflinching Hortimancer",
+    "gihwr": 0.539,
+    "grade": "C-"
+  },
+  "106249": {
+    "name": "Your Fate Ends Here",
+    "gihwr": 0.575,
+    "grade": "B-"
+  },
+  "106250": {
+    "name": "Countersculpt",
+    "gihwr": 0.601,
+    "grade": "B"
+  },
+  "106251": {
+    "name": "Cruel Calculations",
+    "gihwr": 0.493,
+    "grade": "D-"
+  },
+  "106252": {
+    "name": "Cryotheory Adept",
+    "gihwr": 0.533,
+    "grade": "C-"
+  },
+  "106253": {
+    "name": "Diviner of Victory",
+    "gihwr": 0.599,
+    "grade": "B"
+  },
+  "106255": {
+    "name": "Divining Duelist",
+    "gihwr": 0.55,
+    "grade": "C"
+  },
+  "106256": {
+    "name": "Icy Reception",
+    "gihwr": 0.579,
+    "grade": "B-"
+  },
+  "106257": {
+    "name": "Infinite Coursework",
+    "gihwr": 0.561,
+    "grade": "C+"
+  },
+  "106258": {
+    "name": "Jace's Machinations",
+    "gihwr": 0.578,
+    "grade": "B-"
+  },
+  "106259": {
+    "name": "Mindseeker Oculus",
+    "gihwr": 0.602,
+    "grade": "B"
+  },
+  "106260": {
+    "name": "Perfected Theory",
+    "gihwr": 0.52,
+    "grade": "D+"
+  },
+  "106261": {
+    "name": "Plan for All Outcomes",
+    "gihwr": 0.595,
+    "grade": "B"
+  },
+  "106262": {
+    "name": "Precise Redaction",
+    "gihwr": null,
+    "grade": null
+  },
+  "106263": {
+    "name": "Protege's Awakening",
+    "gihwr": 0.586,
+    "grade": "B-"
+  },
+  "106264": {
+    "name": "Seasoned Cryomancer",
+    "gihwr": 0.593,
+    "grade": "B"
+  },
+  "106265": {
+    "name": "Semester Foreseer",
+    "gihwr": 0.539,
+    "grade": "C-"
+  },
+  "106267": {
+    "name": "Sphinx of False Conclusions",
+    "gihwr": 0.643,
+    "grade": "A"
+  },
+  "106268": {
+    "name": "Sphinx's Approach",
+    "gihwr": 0.563,
+    "grade": "C+"
+  },
+  "106269": {
+    "name": "Surveillance Phantasm",
+    "gihwr": 0.576,
+    "grade": "B-"
+  },
+  "106270": {
+    "name": "The Theorist, Jace Beleren",
+    "gihwr": 0.684,
+    "grade": "A+"
+  },
+  "106271": {
+    "name": "Theorist's Proxy",
+    "gihwr": 0.574,
+    "grade": "C+"
+  },
+  "106272": {
+    "name": "Undulating Witness",
+    "gihwr": 0.559,
+    "grade": "C"
+  },
+  "106273": {
+    "name": "Unsummon",
+    "gihwr": 0.575,
+    "grade": "B-"
+  },
+  "106274": {
+    "name": "Variable Chaser",
+    "gihwr": 0.572,
+    "grade": "C+"
+  },
+  "106276": {
+    "name": "Apex Witchstalker",
+    "gihwr": 0.558,
+    "grade": "C"
+  },
+  "106277": {
+    "name": "Bloodline Recollector",
+    "gihwr": 0.515,
+    "grade": "D"
+  },
+  "106279": {
+    "name": "Break Under Pressure",
+    "gihwr": 0.596,
+    "grade": "B"
+  },
+  "106280": {
+    "name": "Cast Away Doubt",
+    "gihwr": 0.53,
+    "grade": "D+"
+  },
+  "106281": {
+    "name": "Dark Matter Manipulator",
+    "gihwr": 0.578,
+    "grade": "B-"
+  },
+  "106282": {
+    "name": "Darklight Phoenix",
+    "gihwr": 0.531,
+    "grade": "D+"
+  },
+  "106283": {
+    "name": "Extended Absence",
+    "gihwr": 0.596,
+    "grade": "B"
+  },
+  "106284": {
+    "name": "Extrapolate the Impossible",
+    "gihwr": 0.491,
+    "grade": "D-"
+  },
+  "106285": {
+    "name": "Last Gasp",
+    "gihwr": 0.57,
+    "grade": "C+"
+  },
+  "106286": {
+    "name": "Lich's Relic",
+    "gihwr": 0.632,
+    "grade": "A"
+  },
+  "106287": {
+    "name": "Multiply by Zero",
+    "gihwr": 0.59,
+    "grade": "B"
+  },
+  "106288": {
+    "name": "Overwrite the Multiverse",
+    "gihwr": 0.659,
+    "grade": "A+"
+  },
+  "106289": {
+    "name": "Rampart Hunter",
+    "gihwr": 0.48,
+    "grade": "F"
+  },
+  "106290": {
+    "name": "Rank Rat",
+    "gihwr": 0.55,
+    "grade": "C"
+  },
+  "106291": {
+    "name": "Rewrite Regrets",
+    "gihwr": 0.593,
+    "grade": "B"
+  },
+  "106292": {
+    "name": "Rise of the Deathbringer",
+    "gihwr": 0.559,
+    "grade": "C"
+  },
+  "106293": {
+    "name": "Sanctum Lurker",
+    "gihwr": 0.618,
+    "grade": "A-"
+  },
+  "106294": {
+    "name": "Screeching Soulbreaker",
+    "gihwr": 0.538,
+    "grade": "C-"
+  },
+  "106295": {
+    "name": "Silence the Echo",
+    "gihwr": 0.529,
+    "grade": "D+"
+  },
+  "106296": {
+    "name": "Solve for Disappointment",
+    "gihwr": 0.526,
+    "grade": "D+"
+  },
+  "106297": {
+    "name": "Terminal Criticism",
+    "gihwr": 0.513,
+    "grade": "D"
+  },
+  "106298": {
+    "name": "Theoretical Necromancer",
+    "gihwr": 0.556,
+    "grade": "C"
+  },
+  "106299": {
+    "name": "Void Extrapolator",
+    "gihwr": 0.555,
+    "grade": "C"
+  },
+  "106301": {
+    "name": "Vraska's Final Mercy",
+    "gihwr": 0.545,
+    "grade": "C-"
+  },
+  "106302": {
+    "name": "Ajani's Anguish",
+    "gihwr": 0.562,
+    "grade": "C+"
+  },
+  "106303": {
+    "name": "Artifist Acumen",
+    "gihwr": 0.492,
+    "grade": "D-"
+  },
+  "106304": {
+    "name": "Awaken the Inferno",
+    "gihwr": 0.559,
+    "grade": "C"
+  },
+  "106305": {
+    "name": "Blazing Crescendo",
+    "gihwr": 0.516,
+    "grade": "D"
+  },
+  "106306": {
+    "name": "Chandra's Emberling",
+    "gihwr": 0.517,
+    "grade": "D"
+  },
+  "106307": {
+    "name": "Command the Stage",
+    "gihwr": 0.5,
+    "grade": "D-"
+  },
+  "106308": {
+    "name": "Craterclaw Colossus",
+    "gihwr": 0.561,
+    "grade": "C+"
+  },
+  "106309": {
+    "name": "Curse-Marred Demon",
+    "gihwr": 0.564,
+    "grade": "C+"
+  },
+  "106310": {
+    "name": "Draconic Visitor",
+    "gihwr": 0.539,
+    "grade": "C-"
+  },
+  "106311": {
+    "name": "Eardrum Rattler",
+    "gihwr": 0.493,
+    "grade": "D-"
+  },
+  "106312": {
+    "name": "Essence Burn",
+    "gihwr": 0.486,
+    "grade": "F"
+  },
+  "106313": {
+    "name": "Face Yourself",
+    "gihwr": 0.55,
+    "grade": "C"
+  },
+  "106314": {
+    "name": "Fulminous Forte",
+    "gihwr": 0.569,
+    "grade": "C+"
+  },
+  "106315": {
+    "name": "Hallway Heckler",
+    "gihwr": 0.523,
+    "grade": "D+"
+  },
+  "106317": {
+    "name": "Heartstring Puller",
+    "gihwr": 0.548,
+    "grade": "C"
+  },
+  "106318": {
+    "name": "Identity Echo",
+    "gihwr": null,
+    "grade": null
+  },
+  "106319": {
+    "name": "Master of Barbs",
+    "gihwr": 0.532,
+    "grade": "C-"
+  },
+  "106320": {
+    "name": "No Admittance",
+    "gihwr": 0.57,
+    "grade": "C+"
+  },
+  "106321": {
+    "name": "Pompous Battlemage",
+    "gihwr": 0.536,
+    "grade": "C-"
+  },
+  "106323": {
+    "name": "Pyre Rhymer",
+    "gihwr": 0.505,
+    "grade": "D"
+  },
+  "106325": {
+    "name": "Skilled Battlecarver",
+    "gihwr": 0.529,
+    "grade": "D+"
+  },
+  "106326": {
+    "name": "Stingcaster Mage",
+    "gihwr": 0.563,
+    "grade": "C+"
+  },
+  "106327": {
+    "name": "Tether Technician",
+    "gihwr": 0.525,
+    "grade": "D+"
+  },
+  "106328": {
+    "name": "Violent Echoes",
+    "gihwr": 0.594,
+    "grade": "B"
+  },
+  "106329": {
+    "name": "Wrath of the Bloodmane",
+    "gihwr": 0.561,
+    "grade": "C+"
+  },
+  "106330": {
+    "name": "Arcane Amphisbaena",
+    "gihwr": 0.559,
+    "grade": "C"
+  },
+  "106331": {
+    "name": "Bestial Incursion",
+    "gihwr": 0.564,
+    "grade": "C+"
+  },
+  "106332": {
+    "name": "Budding Insurgent",
+    "gihwr": 0.508,
+    "grade": "D"
+  },
+  "106333": {
+    "name": "Carnivorous Cultivator",
+    "gihwr": 0.593,
+    "grade": "B"
+  },
+  "106335": {
+    "name": "Compel Brutality",
+    "gihwr": 0.547,
+    "grade": "C"
+  },
+  "106336": {
+    "name": "Flourishing Grapple",
+    "gihwr": 0.444,
+    "grade": "F"
+  },
+  "106337": {
+    "name": "Gardenize",
+    "gihwr": null,
+    "grade": null
+  },
+  "106338": {
+    "name": "Greenhouse Propagator",
+    "gihwr": 0.544,
+    "grade": "C-"
+  },
+  "106339": {
+    "name": "Heartwood Crafter",
+    "gihwr": 0.569,
+    "grade": "C+"
+  },
+  "106341": {
+    "name": "Hexhaven Invigorator",
+    "gihwr": 0.55,
+    "grade": "C"
+  },
+  "106342": {
+    "name": "Hungering Puppetbeast",
+    "gihwr": 0.619,
+    "grade": "A-"
+  },
+  "106343": {
+    "name": "Hunter's Axe",
+    "gihwr": 0.512,
+    "grade": "D"
+  },
+  "106344": {
+    "name": "Inspired Tethermage",
+    "gihwr": 0.517,
+    "grade": "D"
+  },
+  "106345": {
+    "name": "Omnipresence",
+    "gihwr": null,
+    "grade": null
+  },
+  "106346": {
+    "name": "Puppet Crafting",
+    "gihwr": 0.508,
+    "grade": "D"
+  },
+  "106347": {
+    "name": "Restore with Empathy",
+    "gihwr": 0.548,
+    "grade": "C"
+  },
+  "106348": {
+    "name": "Simulacrum Shaper",
+    "gihwr": 0.599,
+    "grade": "B"
+  },
+  "106349": {
+    "name": "Something Worth Saving",
+    "gihwr": 0.569,
+    "grade": "C+"
+  },
+  "106350": {
+    "name": "Sureshot Sower",
+    "gihwr": 0.536,
+    "grade": "C-"
+  },
+  "106351": {
+    "name": "Tarmogoyf",
+    "gihwr": 0.561,
+    "grade": "C+"
+  },
+  "106352": {
+    "name": "Tethermage's Advantage",
+    "gihwr": 0.507,
+    "grade": "D"
+  },
+  "106353": {
+    "name": "Verdant Kraken",
+    "gihwr": 0.587,
+    "grade": "B-"
+  },
+  "106354": {
+    "name": "Vinelasher Adept",
+    "gihwr": 0.555,
+    "grade": "C"
+  },
+  "106355": {
+    "name": "Wrecking Gecko",
+    "gihwr": 0.55,
+    "grade": "C"
+  },
+  "106356": {
+    "name": "Aerid Konstrari",
+    "gihwr": 0.648,
+    "grade": "A+"
+  },
+  "106357": {
+    "name": "Avatar of Burgeoning Echoes",
+    "gihwr": 0.601,
+    "grade": "B"
+  },
+  "106358": {
+    "name": "Blessed Ghoul",
+    "gihwr": 0.54,
+    "grade": "C-"
+  },
+  "106359": {
+    "name": "Bloombrute",
+    "gihwr": 0.577,
+    "grade": "B-"
+  },
+  "106360": {
+    "name": "Charge the Sanctum",
+    "gihwr": 0.503,
+    "grade": "D"
+  },
+  "106361": {
+    "name": "Clash of Elements",
+    "gihwr": 0.585,
+    "grade": "B-"
+  },
+  "106362": {
+    "name": "Craftwork Crusher",
+    "gihwr": 0.624,
+    "grade": "A-"
+  },
+  "106363": {
+    "name": "Denzilore Fatehold",
+    "gihwr": 0.62,
+    "grade": "A-"
+  },
+  "106364": {
+    "name": "Desperate Futurescribe",
+    "gihwr": 0.579,
+    "grade": "B-"
+  },
+  "106365": {
+    "name": "Emergency Phytomedic",
+    "gihwr": 0.544,
+    "grade": "C-"
+  },
+  "106367": {
+    "name": "Entrust the Spark",
+    "gihwr": null,
+    "grade": null
+  },
+  "106368": {
+    "name": "Fatehold Charm",
+    "gihwr": 0.581,
+    "grade": "B-"
+  },
+  "106369": {
+    "name": "Fatehold Chronologist",
+    "gihwr": 0.565,
+    "grade": "C+"
+  },
+  "106371": {
+    "name": "Ferocity of the Hunt",
+    "gihwr": 0.528,
+    "grade": "D+"
+  },
+  "106372": {
+    "name": "Frostbite Pyromental",
+    "gihwr": 0.505,
+    "grade": "D"
+  },
+  "106373": {
+    "name": "Grim Repriser",
+    "gihwr": 0.536,
+    "grade": "C-"
+  },
+  "106374": {
+    "name": "Ingris Stingerquill",
+    "gihwr": 0.569,
+    "grade": "C+"
+  },
+  "106375": {
+    "name": "Konstrari Charm",
+    "gihwr": 0.561,
+    "grade": "C+"
+  },
+  "106376": {
+    "name": "Konstrari Improviser",
+    "gihwr": 0.54,
+    "grade": "C-"
+  },
+  "106378": {
+    "name": "Kwia Vigorbloom",
+    "gihwr": 0.626,
+    "grade": "A-"
+  },
+  "106379": {
+    "name": "Mind Meanderer",
+    "gihwr": 0.575,
+    "grade": "B-"
+  },
+  "106380": {
+    "name": "Null Summoner",
+    "gihwr": 0.629,
+    "grade": "A-"
+  },
+  "106381": {
+    "name": "Paradox Shaper",
+    "gihwr": 0.553,
+    "grade": "C"
+  },
+  "106383": {
+    "name": "Primal Witchstalker",
+    "gihwr": 0.59,
+    "grade": "B"
+  },
+  "106384": {
+    "name": "Proctor of Potential",
+    "gihwr": 0.604,
+    "grade": "B+"
+  },
+  "106385": {
+    "name": "Prudent Fateseer",
+    "gihwr": 0.558,
+    "grade": "C"
+  },
+  "106387": {
+    "name": "Recursive Recruitment",
+    "gihwr": 0.61,
+    "grade": "B+"
+  },
+  "106388": {
+    "name": "Solarium Sentry",
+    "gihwr": 0.561,
+    "grade": "C+"
+  },
+  "106389": {
+    "name": "Solitary Cell",
+    "gihwr": 0.507,
+    "grade": "D"
+  },
+  "106390": {
+    "name": "Stingerquill Charm",
+    "gihwr": 0.557,
+    "grade": "C"
+  },
+  "106391": {
+    "name": "Stingerquill Voxmancer",
+    "gihwr": 0.539,
+    "grade": "C-"
+  },
+  "106393": {
+    "name": "Stinging Vitriol",
+    "gihwr": 0.536,
+    "grade": "C-"
+  },
+  "106394": {
+    "name": "Tam's Resistance",
+    "gihwr": 0.562,
+    "grade": "C+"
+  },
+  "106395": {
+    "name": "Tenured Tethermage",
+    "gihwr": 0.586,
+    "grade": "B-"
+  },
+  "106396": {
+    "name": "Theorix Charm",
+    "gihwr": 0.572,
+    "grade": "C+"
+  },
+  "106397": {
+    "name": "Theorix Metamage",
+    "gihwr": 0.545,
+    "grade": "C-"
+  },
+  "106399": {
+    "name": "Twinned Vision",
+    "gihwr": 0.582,
+    "grade": "B-"
+  },
+  "106400": {
+    "name": "Twisted Fates",
+    "gihwr": 0.57,
+    "grade": "C+"
+  },
+  "106401": {
+    "name": "Uldaros Theorix",
+    "gihwr": 0.694,
+    "grade": "A+"
+  },
+  "106402": {
+    "name": "Vigorbloom Charm",
+    "gihwr": 0.566,
+    "grade": "C+"
+  },
+  "106403": {
+    "name": "Vigorbloom Vanguard",
+    "gihwr": 0.564,
+    "grade": "C+"
+  },
+  "106405": {
+    "name": "Vindictive Triumph",
+    "gihwr": 0.546,
+    "grade": "C"
+  },
+  "106406": {
+    "name": "Warrior's Blades",
+    "gihwr": 0.549,
+    "grade": "C"
+  },
+  "106407": {
+    "name": "Whiplash Wordsmith",
+    "gihwr": 0.493,
+    "grade": "D-"
+  },
+  "106409": {
+    "name": "Woodwork Prodigy",
+    "gihwr": 0.523,
+    "grade": "D+"
+  },
+  "106411": {
+    "name": "Afterthought Sentry",
+    "gihwr": 0.527,
+    "grade": "D+"
+  },
+  "106412": {
+    "name": "Archive Arbiter",
+    "gihwr": 0.558,
+    "grade": "C"
+  },
+  "106413": {
+    "name": "Codie, Ravenous Codex",
+    "gihwr": 0.458,
+    "grade": "F"
+  },
+  "106414": {
+    "name": "The Echoverse Fulcrum",
+    "gihwr": 0.588,
+    "grade": "B-"
+  },
+  "106415": {
+    "name": "Eye of Jace",
+    "gihwr": 0.504,
+    "grade": "D"
+  },
+  "106416": {
+    "name": "Keeper of the Quiet Hour",
+    "gihwr": 0.563,
+    "grade": "C+"
+  },
+  "106417": {
+    "name": "Living Library",
+    "gihwr": 0.53,
+    "grade": "D+"
+  },
+  "106418": {
+    "name": "Medic's Kitesail",
+    "gihwr": 0.543,
+    "grade": "C-"
+  },
+  "106419": {
+    "name": "Murmuring Volume",
+    "gihwr": 0.567,
+    "grade": "C+"
+  },
+  "106420": {
+    "name": "Dedicated Commons",
+    "gihwr": 0.531,
+    "grade": "D+"
+  },
+  "106421": {
+    "name": "Deserted Beach",
+    "gihwr": 0.557,
+    "grade": "C"
+  },
+  "106422": {
+    "name": "Fatehold Annex",
+    "gihwr": 0.557,
+    "grade": "C"
+  },
+  "106423": {
+    "name": "Formidable Commons",
+    "gihwr": 0.556,
+    "grade": "C"
+  },
+  "106424": {
+    "name": "Hall of Echoes",
+    "gihwr": 0.538,
+    "grade": "C-"
+  },
+  "106425": {
+    "name": "Haunted Ridge",
+    "gihwr": 0.549,
+    "grade": "C"
+  },
+  "106426": {
+    "name": "Hexhaven Dueling Arena",
+    "gihwr": 0.497,
+    "grade": "D-"
+  },
+  "106427": {
+    "name": "Innovative Commons",
+    "gihwr": 0.561,
+    "grade": "C+"
+  },
+  "106428": {
+    "name": "Konstrari Annex",
+    "gihwr": 0.544,
+    "grade": "C-"
+  },
+  "106429": {
+    "name": "Meticulous Commons",
+    "gihwr": 0.544,
+    "grade": "C-"
+  },
+  "106430": {
+    "name": "Overgrown Farmland",
+    "gihwr": 0.531,
+    "grade": "D+"
+  },
+  "106431": {
+    "name": "Rockfall Vale",
+    "gihwr": 0.548,
+    "grade": "C"
+  },
+  "106432": {
+    "name": "Roiling Canopy",
+    "gihwr": 0.491,
+    "grade": "D-"
+  },
+  "106433": {
+    "name": "Room of Refuge",
+    "gihwr": 0.558,
+    "grade": "C"
+  },
+  "106434": {
+    "name": "Shipwreck Marsh",
+    "gihwr": 0.58,
+    "grade": "B-"
+  },
+  "106435": {
+    "name": "Stingerquill Annex",
+    "gihwr": 0.539,
+    "grade": "C-"
+  },
+  "106436": {
+    "name": "Theorist's Sanctum",
+    "gihwr": 0.58,
+    "grade": "B-"
+  },
+  "106437": {
+    "name": "Theorix Annex",
+    "gihwr": 0.565,
+    "grade": "C+"
+  },
+  "106438": {
+    "name": "Transformative Commons",
+    "gihwr": 0.562,
+    "grade": "C+"
+  },
+  "106439": {
+    "name": "Vigorbloom Annex",
+    "gihwr": 0.535,
+    "grade": "C-"
+  },
+  "106440": {
+    "name": "Ajani Resolute",
+    "gihwr": 0.524,
+    "grade": "D+"
+  },
+  "106441": {
+    "name": "Danitha, Sword of Hope",
+    "gihwr": 0.519,
+    "grade": "D+"
+  },
+  "106442": {
+    "name": "Ghalta the Immovable",
+    "gihwr": 0.525,
+    "grade": "D+"
+  },
+  "106443": {
+    "name": "Gideon's Memorial",
+    "gihwr": 0.506,
+    "grade": "D"
+  },
+  "106444": {
+    "name": "Koth of the Homestead",
+    "gihwr": 0.545,
+    "grade": "C-"
+  },
+  "106445": {
+    "name": "Liliana the Faultless",
+    "gihwr": 0.581,
+    "grade": "B-"
+  },
+  "106446": {
+    "name": "Lyra, Archangel of Dawn",
+    "gihwr": 0.589,
+    "grade": "B"
+  },
+  "106447": {
+    "name": "Rescue Girl, First Responder",
+    "gihwr": 0.525,
+    "grade": "D+"
+  },
+  "106448": {
+    "name": "Saheeli, Consul of Oversight",
+    "gihwr": 0.553,
+    "grade": "C"
+  },
+  "106449": {
+    "name": "Teyo, Lightshield Expert",
+    "gihwr": 0.564,
+    "grade": "C+"
+  },
+  "106450": {
+    "name": "Thalia, the Survivor",
+    "gihwr": 0.548,
+    "grade": "C"
+  },
+  "106451": {
+    "name": "Tomik, Orzhov Lawmage",
+    "gihwr": 0.541,
+    "grade": "C-"
+  },
+  "106452": {
+    "name": "Way of the Healer",
+    "gihwr": 0.573,
+    "grade": "C+"
+  },
+  "106453": {
+    "name": "Way of the Mentor",
+    "gihwr": 0.504,
+    "grade": "D"
+  },
+  "106454": {
+    "name": "Yoshimaru, Beloved Companion",
+    "gihwr": 0.494,
+    "grade": "D-"
+  },
+  "106455": {
+    "name": "Yuriko, Blade of the Mighty",
+    "gihwr": 0.534,
+    "grade": "C-"
+  },
+  "106456": {
+    "name": "Arni, Humble Scribe",
+    "gihwr": 0.547,
+    "grade": "C"
+  },
+  "106457": {
+    "name": "Chandra, Chill of Compliance",
+    "gihwr": 0.594,
+    "grade": "B"
+  },
+  "106458": {
+    "name": "Fblthp, Impossibly Lost",
+    "gihwr": 0.597,
+    "grade": "B"
+  },
+  "106459": {
+    "name": "Geist of Saint Thalia",
+    "gihwr": 0.568,
+    "grade": "C+"
+  },
+  "106460": {
+    "name": "Hapatra, the Desert Frost",
+    "gihwr": 0.532,
+    "grade": "C-"
+  },
+  "106461": {
+    "name": "Jace, Reality Sculptor",
+    "gihwr": 0.584,
+    "grade": "B-"
+  },
+  "106462": {
+    "name": "Lyra, Tolarian Archangel",
+    "gihwr": 0.609,
+    "grade": "B+"
+  },
+  "106463": {
+    "name": "Proft, Consulting Detective",
+    "gihwr": 0.576,
+    "grade": "B-"
+  },
+  "106464": {
+    "name": "Ruric Thar, Biomagus",
+    "gihwr": 0.557,
+    "grade": "C"
+  },
+  "106465": {
+    "name": "Samut, Tyrant of Naktamun",
+    "gihwr": 0.478,
+    "grade": "F"
+  },
+  "106466": {
+    "name": "Tetsuko Umezawa, Fugitive",
+    "gihwr": 0.545,
+    "grade": "C-"
+  },
+  "106467": {
+    "name": "Traxos, Academy Guardian",
+    "gihwr": 0.559,
+    "grade": "C"
+  },
+  "106468": {
+    "name": "Way of the Cryomancer",
+    "gihwr": 0.528,
+    "grade": "D+"
+  },
+  "106469": {
+    "name": "Way of the Mind Sculptor",
+    "gihwr": 0.581,
+    "grade": "B-"
+  },
+  "106470": {
+    "name": "Yargle, Goliath of Otaria",
+    "gihwr": 0.466,
+    "grade": "F"
+  },
+  "106471": {
+    "name": "Yuriko, Hope from the Shadows",
+    "gihwr": 0.535,
+    "grade": "C-"
+  },
+  "106472": {
+    "name": "Danitha, Spear of Agony",
+    "gihwr": 0.507,
+    "grade": "D"
+  },
+  "106473": {
+    "name": "Gallia, Tragic Host",
+    "gihwr": 0.555,
+    "grade": "C"
+  },
+  "106474": {
+    "name": "Garruk, Veiled Butcher",
+    "gihwr": 0.66,
+    "grade": "A+"
+  },
+  "106475": {
+    "name": "Gideon the Oathless",
+    "gihwr": 0.597,
+    "grade": "B"
+  },
+  "106476": {
+    "name": "Liliana the Repentant",
+    "gihwr": 0.561,
+    "grade": "C+"
+  },
+  "106477": {
+    "name": "Loot, the Anomaly",
+    "gihwr": 0.48,
+    "grade": "F"
+  },
+  "106478": {
+    "name": "Mabel, Bitter Recluse",
+    "gihwr": 0.537,
+    "grade": "C-"
+  },
+  "106479": {
+    "name": "Massacre Girl, Most Wanted",
+    "gihwr": 0.502,
+    "grade": "D-"
+  },
+  "106480": {
+    "name": "Proft, Sinister Mastermind",
+    "gihwr": 0.546,
+    "grade": "C"
+  },
+  "106481": {
+    "name": "Teyo, Diamondblade Mage",
+    "gihwr": 0.51,
+    "grade": "D"
+  },
+  "106482": {
+    "name": "Tinybones, Pocket Nuisance",
+    "gihwr": 0.554,
+    "grade": "C"
+  },
+  "106483": {
+    "name": "Way of the Deathbringer",
+    "gihwr": 0.516,
+    "grade": "D"
+  },
+  "106484": {
+    "name": "Way of the Necromancer",
+    "gihwr": 0.444,
+    "grade": "F"
+  },
+  "106485": {
+    "name": "Winter, Tormented Loner",
+    "gihwr": 0.539,
+    "grade": "C-"
+  },
+  "106486": {
+    "name": "Yargle, Glutton of Urborg",
+    "gihwr": 0.46,
+    "grade": "F"
+  },
+  "106487": {
+    "name": "Ajani Unrelenting",
+    "gihwr": 0.733,
+    "grade": "A+"
+  },
+  "106488": {
+    "name": "Arni, Renowned Champion",
+    "gihwr": 0.459,
+    "grade": "F"
+  },
+  "106489": {
+    "name": "Chandra, Torch of Defiance",
+    "gihwr": 0.602,
+    "grade": "B"
+  },
+  "106490": {
+    "name": "Gallia, the Merrymaker",
+    "gihwr": 0.509,
+    "grade": "D"
+  },
+  "106491": {
+    "name": "Jiang Yanggu, Alone",
+    "gihwr": 0.531,
+    "grade": "D+"
+  },
+  "106492": {
+    "name": "Kiora of Fire and Ashes",
+    "gihwr": 0.614,
+    "grade": "B+"
+  },
+  "106493": {
+    "name": "Koth, the Geomancer",
+    "gihwr": 0.52,
+    "grade": "D+"
+  },
+  "106494": {
+    "name": "Marwyn, the Clearcutter",
+    "gihwr": 0.552,
+    "grade": "C"
+  },
+  "106495": {
+    "name": "Pia, Determined Rebuilder",
+    "gihwr": 0.564,
+    "grade": "C+"
+  },
+  "106496": {
+    "name": "Samut, Hazoret's Champion",
+    "gihwr": 0.561,
+    "grade": "C+"
+  },
+  "106497": {
+    "name": "Tetsuko Umezawa, Pursuer",
+    "gihwr": 0.52,
+    "grade": "D+"
+  },
+  "106498": {
+    "name": "Tomik, Izzet Sparkmage",
+    "gihwr": 0.514,
+    "grade": "D"
+  },
+  "106499": {
+    "name": "Way of the Pyromancer",
+    "gihwr": 0.517,
+    "grade": "D"
+  },
+  "106500": {
+    "name": "Way of the Warlord",
+    "gihwr": 0.535,
+    "grade": "C-"
+  },
+  "106501": {
+    "name": "Winter, Team Player",
+    "gihwr": 0.476,
+    "grade": "F"
+  },
+  "106502": {
+    "name": "Edgar, Moonlit Sovereign",
+    "gihwr": 0.502,
+    "grade": "D-"
+  },
+  "106503": {
+    "name": "Fblthp, Knows the Way",
+    "gihwr": 0.576,
+    "grade": "B-"
+  },
+  "106504": {
+    "name": "Garruk, Curse Breaker",
+    "gihwr": 0.657,
+    "grade": "A+"
+  },
+  "106505": {
+    "name": "Ghalta the Unstoppable",
+    "gihwr": 0.535,
+    "grade": "C-"
+  },
+  "106506": {
+    "name": "Jiang Yanggu, Never Alone",
+    "gihwr": 0.554,
+    "grade": "C"
+  },
+  "106507": {
+    "name": "Loot, the Nexus",
+    "gihwr": 0.524,
+    "grade": "D+"
+  },
+  "106508": {
+    "name": "Marwyn, the Preserver",
+    "gihwr": 0.544,
+    "grade": "C-"
+  },
+  "106509": {
+    "name": "Pia, Aether Ascetic",
+    "gihwr": 0.497,
+    "grade": "D-"
+  },
+  "106510": {
+    "name": "Ruric Thar, Magecrusher",
+    "gihwr": 0.548,
+    "grade": "C"
+  },
+  "106511": {
+    "name": "Titanbones, Towering Heart",
+    "gihwr": 0.522,
+    "grade": "D+"
+  },
+  "106512": {
+    "name": "Way of the Paradox",
+    "gihwr": 0.561,
+    "grade": "C+"
+  },
+  "106513": {
+    "name": "Way of the Wildspeaker",
+    "gihwr": 0.548,
+    "grade": "C"
+  },
+  "106514": {
+    "name": "Yoshimaru, Scrappy Stray",
+    "gihwr": 0.541,
+    "grade": "C-"
+  },
+  "106515": {
+    "name": "Edgar, Ancient Bloodlord",
+    "gihwr": 0.529,
+    "grade": "D+"
+  },
+  "106516": {
+    "name": "Hapatra, the Desert Fang",
+    "gihwr": 0.593,
+    "grade": "B"
+  },
+  "106517": {
+    "name": "Karn, Gilded Guardian",
+    "gihwr": 0.516,
+    "grade": "D"
+  },
+  "106518": {
+    "name": "Kiora of Salt and Sand",
+    "gihwr": 0.541,
+    "grade": "C-"
+  },
+  "106519": {
+    "name": "Mabel, Valley Hero",
+    "gihwr": 0.508,
+    "grade": "D"
+  },
+  "106520": {
+    "name": "Saheeli, Jewel of Avishkar",
+    "gihwr": 0.568,
+    "grade": "C+"
+  },
+  "106521": {
+    "name": "Tam, the Possibility",
+    "gihwr": null,
+    "grade": null
+  },
+  "106522": {
+    "name": "Vraska, Soul of Stone",
+    "gihwr": 0.532,
+    "grade": "C-"
+  },
+  "106523": {
+    "name": "Vraska, the Cutting Glare",
+    "gihwr": 0.628,
+    "grade": "A-"
+  },
+  "106524": {
+    "name": "Karn, Argent Defender",
+    "gihwr": 0.496,
+    "grade": "D-"
+  },
+  "106525": {
+    "name": "Traxos, Scourge Eternal",
+    "gihwr": 0.515,
+    "grade": "D"
+  },
+  "106566": {
+    "name": "Eye of Ugin",
+    "gihwr": null,
+    "grade": null
+  },
+  "106567": {
+    "name": "Austere Command",
+    "gihwr": 0.627,
+    "grade": "A-"
+  },
+  "106568": {
+    "name": "Flesh Duplicate",
+    "gihwr": 0.55,
+    "grade": "C"
+  },
+  "106569": {
+    "name": "Consign to Memory",
+    "gihwr": null,
+    "grade": null
+  },
+  "106570": {
+    "name": "Sublime Epiphany",
+    "gihwr": 0.669,
+    "grade": "A+"
+  },
+  "106571": {
+    "name": "Consider",
+    "gihwr": 0.561,
+    "grade": "C+"
+  },
+  "106572": {
+    "name": "Necrodominance",
+    "gihwr": null,
+    "grade": null
+  },
+  "106573": {
+    "name": "Mind Twist",
+    "gihwr": 0.642,
+    "grade": "A"
+  },
+  "106574": {
+    "name": "Splinter Twin",
+    "gihwr": 0.629,
+    "grade": "A-"
+  },
+  "106575": {
+    "name": "Root Maze",
+    "gihwr": null,
+    "grade": null
+  }
+}
