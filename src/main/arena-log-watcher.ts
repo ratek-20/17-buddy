@@ -1,4 +1,4 @@
-import { type Stats, unwatchFile, watchFile } from 'node:fs';
+import { statSync, type Stats, unwatchFile, watchFile } from 'node:fs';
 import { open } from 'node:fs/promises';
 import { StringDecoder } from 'node:string_decoder';
 
@@ -26,6 +26,7 @@ export class ArenaLogWatcher {
     }
 
     this.started = true;
+    this.moveToEndOfExistingFile();
     watchFile(this.logPath, { interval: 500 }, this.handleFileChange);
     this.queueRead(false);
   }
@@ -129,6 +130,16 @@ export class ArenaLogWatcher {
     this.byteOffset = 0;
     this.decoder = new StringDecoder('utf8');
     this.pendingLine = '';
+  }
+
+  private moveToEndOfExistingFile(): void {
+    try {
+      this.byteOffset = statSync(this.logPath).size;
+    } catch (error: unknown) {
+      if (!isFileNotFoundError(error)) {
+        this.onError(toError(error));
+      }
+    }
   }
 }
 
