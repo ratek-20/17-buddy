@@ -17,6 +17,9 @@ export type CardRating = {
   name: string;
   gihwr: number | null;
   grade: string | null;
+  rarity?: string;
+  color?: string;
+  isLand?: boolean;
 };
 
 export type RatedCard = CardRating & {

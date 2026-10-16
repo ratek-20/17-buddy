@@ -14,15 +14,19 @@ if __package__:
     from .build_card_win_rates import (
         DEFAULT_MIN_GIH_OBSERVATIONS,
         PUBLIC_CARD_LIST_URL,
+        CardDisplayMetadata,
         grade_for,
         load_public_card_ids,
+        load_public_card_metadata,
     )
 else:
     from build_card_win_rates import (
         DEFAULT_MIN_GIH_OBSERVATIONS,
         PUBLIC_CARD_LIST_URL,
+        CardDisplayMetadata,
         grade_for,
         load_public_card_ids,
+        load_public_card_metadata,
     )
 
 
@@ -33,6 +37,16 @@ UI_WIN_RATE_ROUNDING_MARGIN = 0.0005
 class UiCardStats:
     games_in_hand: int
     win_rate: float | None
+    color: str = ""
+    rarity: str = ""
+
+
+UI_RARITIES = {
+    "M": "mythic",
+    "R": "rare",
+    "U": "uncommon",
+    "C": "common",
+}
 
 
 def parse_args() -> argparse.Namespace:
@@ -91,6 +105,10 @@ def load_ui_stats(path: Path) -> dict[str, UiCardStats]:
             stats[name] = UiCardStats(
                 games_in_hand=parse_observation_count(row["# GIH"], row_number),
                 win_rate=parse_win_rate(row["GIH WR"], row_number),
+                color=(row.get("Color") or "").strip().upper(),
+                rarity=UI_RARITIES.get(
+                    (row.get("Rarity") or "").strip().upper(), ""
+                ),
             )
 
     if not stats:
@@ -139,7 +157,8 @@ def build_ui_output(
     card_ids: dict[str, tuple[int, ...]],
     stats: dict[str, UiCardStats],
     min_gih_observations: int,
-) -> tuple[dict[str, dict[str, str | float | None]], float, float]:
+    card_metadata: dict[str, CardDisplayMetadata] | None = None,
+) -> tuple[dict[str, dict[str, str | float | bool | None]], float, float]:
     if min_gih_observations < 1:
         raise ValueError("Minimum GIH observations must be at least 1")
 
@@ -179,6 +198,20 @@ def build_ui_output(
                 else None
             ),
         }
+        if card_metadata is not None and name in card_metadata:
+            metadata = card_metadata[name]
+            card_stats = stats.get(name)
+            output[str(mtga_id)].update(
+                {
+                    "rarity": (
+                        card_stats.rarity
+                        if card_stats and card_stats.rarity
+                        else metadata.rarity
+                    ),
+                    "color": card_stats.color if card_stats else metadata.color,
+                    "isLand": metadata.is_land,
+                }
+            )
 
     return output, mean, standard_deviation
 
@@ -203,6 +236,9 @@ def main() -> None:
     available_card_ids = load_public_card_ids(
         args.card_list_path, args.card_expansions
     )
+    card_metadata = load_public_card_metadata(
+        args.card_list_path, args.card_expansions
+    )
     missing_ids = sorted(set(stats) - set(available_card_ids))
 
     if missing_ids:
@@ -212,7 +248,7 @@ def main() -> None:
 
     card_ids = {name: available_card_ids[name] for name in stats}
     output, mean, standard_deviation = build_ui_output(
-        card_ids, stats, args.min_gih_observations
+        card_ids, stats, args.min_gih_observations, card_metadata
     )
 
     args.output_path.parent.mkdir(parents=True, exist_ok=True)

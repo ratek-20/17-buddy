@@ -29,6 +29,13 @@ class CardColumns:
     drawn: int
 
 
+@dataclass(frozen=True)
+class CardDisplayMetadata:
+    rarity: str
+    color: str
+    is_land: bool
+
+
 @dataclass
 class CardStats:
     games_in_hand: int = 0
@@ -100,7 +107,11 @@ def load_public_card_ids(
 
         for row_number, row in enumerate(reader, start=2):
             expansion = row["expansion"].upper()
-            if expansion not in ids_by_expansion or row["is_booster"] != "True":
+            if (
+                expansion not in ids_by_expansion
+                or row["is_booster"] != "True"
+                or row.get("rarity", "").lower() == "basic"
+            ):
                 continue
 
             name = row["name"].strip()
@@ -122,6 +133,59 @@ def load_public_card_ids(
         requested = ", ".join(requested_expansions)
         raise ValueError(f"No booster cards found for expansions: {requested}")
     return card_ids
+
+
+def load_public_card_metadata(
+    path: Path, expansions: Sequence[str]
+) -> dict[str, CardDisplayMetadata]:
+    requested_expansions = tuple(
+        dict.fromkeys(
+            expansion.strip().upper()
+            for expansion in expansions
+            if expansion.strip()
+        )
+    )
+    if not requested_expansions:
+        raise ValueError("At least one card expansion is required")
+
+    metadata_by_expansion: dict[str, dict[str, CardDisplayMetadata]] = {
+        expansion: {} for expansion in requested_expansions
+    }
+    with path.open(newline="", encoding="utf-8-sig") as csv_file:
+        reader = csv.DictReader(csv_file)
+        required_columns = {
+            "expansion",
+            "name",
+            "rarity",
+            "color_identity",
+            "types",
+            "is_booster",
+        }
+        missing_columns = required_columns - set(reader.fieldnames or ())
+        if missing_columns:
+            missing = ", ".join(sorted(missing_columns))
+            raise ValueError(f"Missing required card-list columns: {missing}")
+
+        for row in reader:
+            expansion = row["expansion"].upper()
+            if expansion not in metadata_by_expansion or row["is_booster"] != "True":
+                continue
+
+            metadata_by_expansion[expansion].setdefault(
+                row["name"].strip(),
+                CardDisplayMetadata(
+                    rarity=row["rarity"].lower(),
+                    color=row["color_identity"].upper(),
+                    is_land="Land" in row["types"],
+                ),
+            )
+
+    metadata: dict[str, CardDisplayMetadata] = {}
+    for expansion in requested_expansions:
+        for name, card_metadata in metadata_by_expansion[expansion].items():
+            metadata.setdefault(name, card_metadata)
+
+    return metadata
 
 
 def find_card_columns(header: Sequence[str]) -> list[CardColumns]:
@@ -212,7 +276,8 @@ def build_output(
     card_ids: dict[str, tuple[int, ...]],
     stats: dict[str, CardStats],
     min_gih_observations: int,
-) -> tuple[dict[str, dict[str, str | float | None]], float, float]:
+    card_metadata: dict[str, CardDisplayMetadata] | None = None,
+) -> tuple[dict[str, dict[str, str | float | bool | None]], float, float]:
     if min_gih_observations < 1:
         raise ValueError("Minimum GIH observations must be at least 1")
 
@@ -245,6 +310,15 @@ def build_output(
             "gihwr": round(win_rate, 3) if win_rate is not None else None,
             "grade": grade_for(win_rate, mean, standard_deviation) if win_rate is not None else None,
         }
+        if card_metadata is not None and name in card_metadata:
+            metadata = card_metadata[name]
+            output[str(mtga_id)].update(
+                {
+                    "rarity": metadata.rarity,
+                    "color": metadata.color,
+                    "isLand": metadata.is_land,
+                }
+            )
 
     return output, mean, standard_deviation
 
@@ -255,6 +329,9 @@ def main() -> None:
     available_card_ids = load_public_card_ids(
         args.card_list_path, args.card_expansions
     )
+    card_metadata = load_public_card_metadata(
+        args.card_list_path, args.card_expansions
+    )
 
     missing_ids = sorted(set(stats) - set(available_card_ids))
     card_ids = {
@@ -263,7 +340,7 @@ def main() -> None:
         if name in available_card_ids
     }
     output, mean, standard_deviation = build_output(
-        card_ids, stats, args.min_gih_observations
+        card_ids, stats, args.min_gih_observations, card_metadata
     )
 
     args.output_path.parent.mkdir(parents=True, exist_ok=True)

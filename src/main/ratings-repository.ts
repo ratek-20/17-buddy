@@ -33,11 +33,15 @@ export class RatingsRepository {
       cards: pack.cardIds.map((id) => {
         const rating = this.getRating(pack.setCode, id);
 
+        if (rating) {
+          return { id, ...rating };
+        }
+
         return {
           id,
-          name: rating?.name ?? 'Unknown card',
-          gihwr: rating?.gihwr ?? null,
-          grade: rating?.grade ?? null,
+          name: 'Unknown card',
+          gihwr: null,
+          grade: null,
         };
       }),
     };
