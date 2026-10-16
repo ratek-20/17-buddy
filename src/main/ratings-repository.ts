@@ -10,12 +10,19 @@ const RATINGS_BY_SET: Record<string, CardRatingDataset> = {
 };
 
 export class RatingsRepository {
+  constructor(
+    private readonly ratingsBySet: Record<
+      string,
+      CardRatingDataset
+    > = RATINGS_BY_SET,
+  ) {}
+
   hasSet(setCode: string): boolean {
-    return RATINGS_BY_SET[setCode] !== undefined;
+    return this.ratingsBySet[setCode] !== undefined;
   }
 
   getRating(setCode: string, cardId: number): CardRating | null {
-    return RATINGS_BY_SET[setCode]?.[String(cardId)] ?? null;
+    return this.ratingsBySet[setCode]?.[String(cardId)] ?? null;
   }
 
   ratePack(pack: PackReceived): RatedPack {
