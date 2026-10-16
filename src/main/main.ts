@@ -14,6 +14,17 @@ let arenaLogWatcher: ArenaLogWatcher | null = null;
 let overlayWindow: BrowserWindow | null = null;
 let latestRatedPack: RatedPack | null = null;
 
+const tolerateClosedOutputPipe = (stream: NodeJS.WriteStream): void => {
+  stream.on('error', (error: NodeJS.ErrnoException) => {
+    if (error.code !== 'EPIPE') {
+      throw error;
+    }
+  });
+};
+
+tolerateClosedOutputPipe(process.stdout);
+tolerateClosedOutputPipe(process.stderr);
+
 if (started) {
   app.quit();
 }
