@@ -4,6 +4,7 @@ import path from 'node:path';
 import started from 'electron-squirrel-startup';
 import { RATED_PACK_CHANNEL } from '../ipc/draft-overlay';
 import type { ArenaLogEvent, RatedPack } from '../model/draft';
+import { ArenaForegroundMonitor } from './arena-foreground-monitor';
 import { parseArenaLogLine } from './arena-log-parser';
 import { ArenaLogWatcher } from './arena-log-watcher';
 import { RatingsRepository } from './ratings-repository';
@@ -11,6 +12,8 @@ import { RatingsRepository } from './ratings-repository';
 const ratingsRepository = new RatingsRepository();
 
 let arenaLogWatcher: ArenaLogWatcher | null = null;
+let arenaForegroundMonitor: ArenaForegroundMonitor | null = null;
+let arenaIsForeground = false;
 let overlayWindow: BrowserWindow | null = null;
 let latestRatedPack: RatedPack | null = null;
 
@@ -59,7 +62,7 @@ const createOverlayWindow = (): BrowserWindow => {
   }
 
   window.webContents.on('did-finish-load', () => {
-    window.showInactive();
+    updateOverlayVisibility();
 
     if (latestRatedPack) {
       window.webContents.send(RATED_PACK_CHANNEL, latestRatedPack);
@@ -81,6 +84,38 @@ const createOverlayWindow = (): BrowserWindow => {
   }
 
   return window;
+};
+
+const updateOverlayVisibility = (): void => {
+  if (!overlayWindow || overlayWindow.isDestroyed()) {
+    return;
+  }
+
+  if (arenaIsForeground) {
+    overlayWindow.showInactive();
+  } else {
+    overlayWindow.hide();
+  }
+};
+
+const startArenaForegroundMonitor = (): void => {
+  if (arenaForegroundMonitor) {
+    return;
+  }
+
+  arenaForegroundMonitor = new ArenaForegroundMonitor(
+    (isForeground) => {
+      arenaIsForeground = isForeground;
+      updateOverlayVisibility();
+    },
+    (error) => {
+      console.error(
+        '[arena-window] Failed to detect the foreground app',
+        error,
+      );
+    },
+  );
+  arenaForegroundMonitor.start();
 };
 
 const resolveArenaLogPath = (): string | null => {
@@ -185,6 +220,7 @@ const startArenaLogWatcher = (): void => {
 
 app.whenReady().then(() => {
   overlayWindow = createOverlayWindow();
+  startArenaForegroundMonitor();
   overlayWindow.webContents.once('did-finish-load', startArenaLogWatcher);
 
   app.on('activate', () => {
@@ -195,7 +231,16 @@ app.whenReady().then(() => {
 });
 
 app.on('before-quit', () => {
+  arenaForegroundMonitor?.stop();
   arenaLogWatcher?.stop();
+});
+
+process.once('SIGINT', () => {
+  app.quit();
+});
+
+process.once('SIGTERM', () => {
+  app.quit();
 });
 
 app.on('window-all-closed', () => {
