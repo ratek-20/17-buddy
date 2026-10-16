@@ -1,4 +1,4 @@
-import type { ArenaLogEvent } from '../shared/draft-types';
+import type { ArenaLogEvent } from '../model/draft';
 
 type JsonObject = Record<string, unknown>;
 
