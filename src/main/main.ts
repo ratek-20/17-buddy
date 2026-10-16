@@ -33,6 +33,7 @@ const createOverlayWindow = (): BrowserWindow => {
   const { bounds } = screen.getPrimaryDisplay();
   const window = new BrowserWindow({
     ...bounds,
+    ...(process.platform === 'darwin' ? { type: 'panel' } : {}),
     transparent: true,
     frame: false,
     show: false,
