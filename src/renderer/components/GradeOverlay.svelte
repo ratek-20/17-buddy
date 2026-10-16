@@ -25,7 +25,7 @@
     position: fixed;
     top: 1rem;
     right: 1rem;
-    width: min(30rem, calc(100vw - 2rem));
+    width: min(24rem, calc(100vw - 2rem));
     padding: 0.75rem;
     border: 1px solid rgb(255 255 255 / 18%);
     border-radius: 0.9rem;
@@ -53,8 +53,8 @@
   }
 
   .ratings {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    display: flex;
+    flex-wrap: wrap;
     gap: 0.45rem;
   }
 </style>
