@@ -1,17 +1,6 @@
-type JsonObject = Record<string, unknown>;
+import type { ArenaLogEvent } from '../shared/draft-types';
 
-export type ArenaLogEvent =
-  | {
-      type: 'draft-started';
-      setCode: string;
-    }
-  | {
-      type: 'pack-received';
-      setCode: string;
-      packNumber: number;
-      pickNumber: number;
-      cardIds: number[];
-    };
+type JsonObject = Record<string, unknown>;
 
 const QUICK_DRAFT_EVENT_NAME = /^QuickDraft_([^_]+)/;
 const DRAFT_STATUS_MARKERS = ['BotDraftDraftStatus', 'BotDraft_DraftStatus'];
