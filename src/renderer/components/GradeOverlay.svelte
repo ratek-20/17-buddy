@@ -1,60 +1,44 @@
 <script lang="ts">
   import type { RatedPack } from '../../model/draft';
+  import { positionCards } from '../arena-card-layout';
   import CardGradeBadge from './CardGradeBadge.svelte';
 
   export let pack: RatedPack | null;
+
+  const FIRST_BADGE_LEFT_VW = 18.25;
+  const FIRST_BADGE_TOP_VH = 20.95;
+  const COLUMN_STEP_VW = 11.4;
+  const ROW_STEP_VH = 24.08;
+
+  $: positionedCards = pack ? positionCards(pack.cards) : [];
 </script>
 
 {#if pack}
-  <section class="overlay" aria-live="polite">
-    <header>
-      <strong>{pack.setCode}</strong>
-      <span>Pack {pack.packNumber} · Pick {pack.pickNumber}</span>
-    </header>
-
-    <div class="ratings">
-      {#each pack.cards as card}
-        <CardGradeBadge {card} />
-      {/each}
-    </div>
+  <section
+    class="overlay"
+    aria-label={`${pack.setCode} pack ${pack.packNumber}, pick ${pack.pickNumber} ratings`}
+    aria-live="polite"
+  >
+    {#each positionedCards as positionedCard (positionedCard.card.id)}
+      <div
+        class="badge-position"
+        style:left={`${FIRST_BADGE_LEFT_VW + positionedCard.column * COLUMN_STEP_VW}vw`}
+        style:top={`${FIRST_BADGE_TOP_VH + positionedCard.row * ROW_STEP_VH}vh`}
+      >
+        <CardGradeBadge card={positionedCard.card} />
+      </div>
+    {/each}
   </section>
 {/if}
 
 <style>
   .overlay {
     position: fixed;
-    top: 1rem;
-    right: 1rem;
-    width: min(24rem, calc(100vw - 2rem));
-    padding: 0.75rem;
-    border: 1px solid rgb(255 255 255 / 18%);
-    border-radius: 0.9rem;
-    background: rgb(5 8 12 / 78%);
-    box-shadow: 0 0.6rem 2rem rgb(0 0 0 / 42%);
-    backdrop-filter: blur(0.45rem);
+    inset: 0;
+    pointer-events: none;
   }
 
-  header {
-    display: flex;
-    gap: 0.5rem;
-    align-items: baseline;
-    margin-bottom: 0.6rem;
-    padding-inline: 0.2rem;
-    text-shadow: 0 1px 2px black;
-  }
-
-  header strong {
-    font-size: 1rem;
-  }
-
-  header span {
-    color: #cbd5e1;
-    font-size: 0.8rem;
-  }
-
-  .ratings {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.45rem;
+  .badge-position {
+    position: absolute;
   }
 </style>

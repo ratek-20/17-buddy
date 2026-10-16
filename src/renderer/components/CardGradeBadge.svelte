@@ -16,14 +16,16 @@
 <style>
   .grade {
     display: grid;
-    width: 2.8rem;
-    height: 2.8rem;
+    width: 2.25rem;
+    height: 2.25rem;
     place-items: center;
-    border: 2px solid rgb(255 255 255 / 70%);
-    border-radius: 0.55rem;
-    box-shadow: 0 0.25rem 0.7rem rgb(0 0 0 / 55%);
+    border: 2px solid rgb(15 18 22 / 85%);
+    border-radius: 0.45rem;
+    box-shadow:
+      0 0 0 1px rgb(255 255 255 / 65%),
+      0 0.2rem 0.55rem rgb(0 0 0 / 70%);
     color: #101318;
-    font-size: 1.1rem;
+    font-size: 0.95rem;
     font-weight: 900;
     line-height: 1;
   }
