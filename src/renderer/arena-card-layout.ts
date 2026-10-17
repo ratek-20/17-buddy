@@ -9,6 +9,18 @@ const RARITY_ORDER: Record<string, number> = {
   basic: 4,
 };
 const MONO_COLOR_ORDER = 'WUBRG';
+const MULTICOLOR_ORDER = [
+  'WU',
+  'UB',
+  'BR',
+  'RG',
+  'WG',
+  'WB',
+  'UR',
+  'BG',
+  'WR',
+  'UG',
+];
 
 export type PositionedCard = {
   card: RatedCard;
@@ -28,6 +40,7 @@ function compareArenaCardOrder(first: RatedCard, second: RatedCard): number {
   return (
     rarityOrder(first) - rarityOrder(second) ||
     colorOrder(first) - colorOrder(second) ||
+    multicolorOrder(first) - multicolorOrder(second) ||
     first.id - second.id
   );
 }
@@ -47,4 +60,14 @@ function colorOrder(card: RatedCard): number {
   }
 
   return color.length === 1 ? MONO_COLOR_ORDER.indexOf(color) : 6;
+}
+
+function multicolorOrder(card: RatedCard): number {
+  const color = card.color ?? '';
+  if (color.length <= 1) {
+    return 0;
+  }
+
+  const order = MULTICOLOR_ORDER.indexOf(color);
+  return order === -1 ? MULTICOLOR_ORDER.length : order;
 }
