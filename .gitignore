@@ -1,6 +1,9 @@
 # Raw card data
 /raw-card-data/
 
+# Local UI screenshots
+/screenshots/
+
 # Python
 __pycache__/
 *.py[cod]
