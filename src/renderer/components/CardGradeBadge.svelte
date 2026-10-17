@@ -16,8 +16,8 @@
 <style>
   .grade {
     display: grid;
-    width: 2.25rem;
-    height: 2.25rem;
+    width: clamp(1.25rem, calc(2.25rem * var(--arena-scale, 1)), 4.5rem);
+    height: clamp(1.25rem, calc(2.25rem * var(--arena-scale, 1)), 4.5rem);
     place-items: center;
     border: 2px solid rgb(15 18 22 / 85%);
     border-radius: 0.45rem;
@@ -25,7 +25,7 @@
       0 0 0 1px rgb(255 255 255 / 65%),
       0 0.2rem 0.55rem rgb(0 0 0 / 70%);
     color: #101318;
-    font-size: 0.95rem;
+    font-size: clamp(0.6rem, calc(0.95rem * var(--arena-scale, 1)), 1.9rem);
     font-weight: 900;
     line-height: 1;
   }

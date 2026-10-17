@@ -22,10 +22,32 @@ const MULTICOLOR_ORDER = [
   'UG',
 ];
 
+export const ARENA_REFERENCE_VIEWPORT = {
+  width: 1728,
+  height: 1117,
+} as const;
+
+const ARENA_CARD_GEOMETRY = {
+  firstCardLeft: 174.528,
+  firstCardTop: 212.7885,
+  cardWidth: 184.896,
+  cardHeight: 261.378,
+  firstBadgeLeft: 315.36,
+  firstBadgeTop: 234.0115,
+  columnStep: 196.992,
+  rowStep: 268.9736,
+} as const;
+
 export type PositionedCard = {
   card: RatedCard;
   column: number;
   row: number;
+};
+
+export type ArenaViewportLayout = {
+  scale: number;
+  left: number;
+  top: number;
 };
 
 export function positionCards(cards: RatedCard[]): PositionedCard[] {
@@ -34,6 +56,67 @@ export function positionCards(cards: RatedCard[]): PositionedCard[] {
     column: index % CARDS_PER_ROW,
     row: Math.floor(index / CARDS_PER_ROW),
   }));
+}
+
+export function fitArenaViewport(
+  viewportWidth: number,
+  viewportHeight: number,
+): ArenaViewportLayout {
+  const scale = Math.min(
+    viewportWidth / ARENA_REFERENCE_VIEWPORT.width,
+    viewportHeight / ARENA_REFERENCE_VIEWPORT.height,
+  );
+
+  return {
+    scale,
+    left: (viewportWidth - ARENA_REFERENCE_VIEWPORT.width * scale) / 2,
+    top: (viewportHeight - ARENA_REFERENCE_VIEWPORT.height * scale) / 2,
+  };
+}
+
+export function getBadgePosition(
+  positionedCard: PositionedCard,
+  viewport: ArenaViewportLayout,
+): { left: number; top: number } {
+  return {
+    left:
+      viewport.left +
+      (ARENA_CARD_GEOMETRY.firstBadgeLeft +
+        positionedCard.column * ARENA_CARD_GEOMETRY.columnStep) *
+        viewport.scale,
+    top:
+      viewport.top +
+      (ARENA_CARD_GEOMETRY.firstBadgeTop +
+        positionedCard.row * ARENA_CARD_GEOMETRY.rowStep) *
+        viewport.scale,
+  };
+}
+
+export function isPointOverCard(
+  positionedCard: PositionedCard,
+  horizontalPosition: number,
+  verticalPosition: number,
+  viewport: ArenaViewportLayout,
+): boolean {
+  const cardLeft =
+    viewport.left +
+    (ARENA_CARD_GEOMETRY.firstCardLeft +
+      positionedCard.column * ARENA_CARD_GEOMETRY.columnStep) *
+      viewport.scale;
+  const cardTop =
+    viewport.top +
+    (ARENA_CARD_GEOMETRY.firstCardTop +
+      positionedCard.row * ARENA_CARD_GEOMETRY.rowStep) *
+      viewport.scale;
+
+  return (
+    horizontalPosition >= cardLeft &&
+    horizontalPosition <=
+      cardLeft + ARENA_CARD_GEOMETRY.cardWidth * viewport.scale &&
+    verticalPosition >= cardTop &&
+    verticalPosition <=
+      cardTop + ARENA_CARD_GEOMETRY.cardHeight * viewport.scale
+  );
 }
 
 function compareArenaCardOrder(first: RatedCard, second: RatedCard): number {

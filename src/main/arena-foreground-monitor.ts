@@ -5,18 +5,28 @@ const ARENA_BUNDLE_ID = 'com.wizards.mtga';
 const CHECK_INTERVAL_MS = 100;
 
 type ActiveWindowReader = () => Promise<Result | undefined>;
-type ForegroundChangeHandler = (arenaIsForeground: boolean) => void;
+type ArenaWindowChangeHandler = (arenaWindow: ArenaWindow | null) => void;
 type ErrorHandler = (error: Error) => void;
+
+export type ArenaWindow = {
+  platform: 'macos' | 'windows';
+  bounds: {
+    x: number;
+    y: number;
+    width: number;
+    height: number;
+  };
+};
 
 export class ArenaForegroundMonitor {
   private interval: ReturnType<typeof setInterval> | null = null;
   private checkInProgress = false;
-  private lastResult: boolean | null = null;
+  private lastResult: ArenaWindow | null | undefined;
   private running = false;
   private errorReported = false;
 
   constructor(
-    private readonly onForegroundChange: ForegroundChangeHandler,
+    private readonly onWindowChange: ArenaWindowChangeHandler,
     private readonly onError: ErrorHandler,
     private readonly readActiveWindow: ActiveWindowReader = getActiveWindow,
   ) {}
@@ -57,11 +67,11 @@ export class ArenaForegroundMonitor {
       }
 
       this.errorReported = false;
-      const arenaIsForeground = isArenaWindow(activeWindow);
+      const arenaWindow = getArenaWindow(activeWindow);
 
-      if (arenaIsForeground !== this.lastResult) {
-        this.lastResult = arenaIsForeground;
-        this.onForegroundChange(arenaIsForeground);
+      if (!sameArenaWindow(arenaWindow, this.lastResult)) {
+        this.lastResult = arenaWindow;
+        this.onWindowChange(arenaWindow);
       }
     } catch (error: unknown) {
       if (!this.errorReported) {
@@ -83,10 +93,58 @@ export function isArenaWindow(activeWindow: Result | undefined): boolean {
     return activeWindow.owner.bundleId.toLowerCase() === ARENA_BUNDLE_ID;
   }
 
+  if (activeWindow.platform !== 'windows') {
+    return false;
+  }
+
   const ownerName = activeWindow.owner.name.toLowerCase();
   const executableName = path.basename(activeWindow.owner.path).toLowerCase();
 
   return ownerName === 'mtga' || executableName === 'mtga.exe';
+}
+
+export function getArenaWindow(
+  activeWindow: Result | undefined,
+): ArenaWindow | null {
+  if (
+    !activeWindow ||
+    (activeWindow.platform !== 'macos' &&
+      activeWindow.platform !== 'windows') ||
+    !isArenaWindow(activeWindow)
+  ) {
+    return null;
+  }
+
+  const bounds =
+    activeWindow.platform === 'windows'
+      ? activeWindow.contentBounds
+      : activeWindow.bounds;
+
+  if (bounds.width <= 0 || bounds.height <= 0) {
+    return null;
+  }
+
+  return {
+    platform: activeWindow.platform,
+    bounds: { ...bounds },
+  };
+}
+
+function sameArenaWindow(
+  first: ArenaWindow | null,
+  second: ArenaWindow | null | undefined,
+): boolean {
+  if (first === null || second === null || second === undefined) {
+    return first === second;
+  }
+
+  return (
+    first.platform === second.platform &&
+    first.bounds.x === second.bounds.x &&
+    first.bounds.y === second.bounds.y &&
+    first.bounds.width === second.bounds.width &&
+    first.bounds.height === second.bounds.height
+  );
 }
 
 async function getActiveWindow(): Promise<Result | undefined> {

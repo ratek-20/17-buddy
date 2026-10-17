@@ -1,41 +1,32 @@
 <script lang="ts">
   import { onDestroy } from 'svelte';
   import type { RatedPack } from '../../model/draft';
-  import { positionCards } from '../arena-card-layout';
+  import {
+    ARENA_REFERENCE_VIEWPORT,
+    fitArenaViewport,
+    getBadgePosition,
+    isPointOverCard,
+    positionCards,
+  } from '../arena-card-layout';
   import CardGradeBadge from './CardGradeBadge.svelte';
 
   export let pack: RatedPack | null;
 
-  const FIRST_CARD_LEFT_VW = 10.1;
-  const FIRST_CARD_TOP_VH = 19.05;
-  const CARD_WIDTH_VW = 10.7;
-  const CARD_HEIGHT_VH = 23.4;
-  const FIRST_BADGE_LEFT_VW = 18.25;
-  const FIRST_BADGE_TOP_VH = 20.95;
-  const COLUMN_STEP_VW = 11.4;
-  const ROW_STEP_VH = 24.08;
   const BADGE_REVEAL_DELAY_MS = 100;
 
   let pointerIsOverCard = false;
   let badgesAreHidden = false;
   let badgeRevealTimer: ReturnType<typeof setTimeout> | null = null;
+  let viewportWidth = ARENA_REFERENCE_VIEWPORT.width;
+  let viewportHeight = ARENA_REFERENCE_VIEWPORT.height;
 
   $: positionedCards = pack ? positionCards(pack.cards) : [];
+  $: viewport = fitArenaViewport(viewportWidth, viewportHeight);
 
   function handleMouseMove(event: MouseEvent): void {
-    const pointerX = (event.clientX / window.innerWidth) * 100;
-    const pointerY = (event.clientY / window.innerHeight) * 100;
-    const isOverCard = positionedCards.some(({ column, row }) => {
-      const cardLeft = FIRST_CARD_LEFT_VW + column * COLUMN_STEP_VW;
-      const cardTop = FIRST_CARD_TOP_VH + row * ROW_STEP_VH;
-
-      return (
-        pointerX >= cardLeft &&
-        pointerX <= cardLeft + CARD_WIDTH_VW &&
-        pointerY >= cardTop &&
-        pointerY <= cardTop + CARD_HEIGHT_VH
-      );
-    });
+    const isOverCard = positionedCards.some((positionedCard) =>
+      isPointOverCard(positionedCard, event.clientX, event.clientY, viewport),
+    );
 
     updateCardHover(isOverCard);
   }
@@ -70,6 +61,8 @@
 </script>
 
 <svelte:window
+  bind:innerHeight={viewportHeight}
+  bind:innerWidth={viewportWidth}
   onmousemove={handleMouseMove}
   onmouseleave={() => updateCardHover(false)}
 />
@@ -80,12 +73,13 @@
     class="overlay"
     aria-label={`${pack.setCode} pack ${pack.packNumber}, pick ${pack.pickNumber} ratings`}
     aria-live="polite"
+    style:--arena-scale={viewport.scale}
   >
     {#each positionedCards as positionedCard (positionedCard.card.id)}
       <div
         class="badge-position"
-        style:left={`${FIRST_BADGE_LEFT_VW + positionedCard.column * COLUMN_STEP_VW}vw`}
-        style:top={`${FIRST_BADGE_TOP_VH + positionedCard.row * ROW_STEP_VH}vh`}
+        style:left={`${getBadgePosition(positionedCard, viewport).left}px`}
+        style:top={`${getBadgePosition(positionedCard, viewport).top}px`}
       >
         <CardGradeBadge card={positionedCard.card} />
       </div>

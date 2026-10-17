@@ -1,6 +1,10 @@
 import { describe, expect, it } from 'vitest';
 import type { RatedCard } from '../src/model/draft';
-import { positionCards } from '../src/renderer/arena-card-layout';
+import {
+  ARENA_REFERENCE_VIEWPORT,
+  fitArenaViewport,
+  positionCards,
+} from '../src/renderer/arena-card-layout';
 
 describe('positionCards', () => {
   it('orders multicolor cards in Arena color-pair order', () => {
@@ -15,6 +19,16 @@ describe('positionCards', () => {
       'Theorix Metamage',
       'Konstrari Improviser',
     ]);
+  });
+});
+
+describe('fitArenaViewport', () => {
+  it('centers the Arena layout when the window is wider than the reference', () => {
+    const viewport = fitArenaViewport(1920, 1080);
+
+    expect(viewport.scale).toBeCloseTo(1080 / ARENA_REFERENCE_VIEWPORT.height);
+    expect(viewport.left).toBeGreaterThan(0);
+    expect(viewport.top).toBe(0);
   });
 });
 

@@ -1,19 +1,23 @@
-import { app, BrowserWindow, screen } from 'electron';
+import { app, BrowserWindow, screen, type Rectangle } from 'electron';
 import os from 'node:os';
 import path from 'node:path';
 import started from 'electron-squirrel-startup';
 import { RATED_PACK_CHANNEL } from '../ipc/draft-overlay';
 import type { ArenaLogEvent, RatedPack } from '../model/draft';
-import { ArenaForegroundMonitor } from './arena-foreground-monitor';
+import {
+  ArenaForegroundMonitor,
+  type ArenaWindow,
+} from './arena-foreground-monitor';
 import { parseArenaLogLine } from './arena-log-parser';
 import { ArenaLogWatcher } from './arena-log-watcher';
+import { resolveMacOverlayBounds } from './arena-window-bounds';
 import { RatingsRepository } from './ratings-repository';
 
 const ratingsRepository = new RatingsRepository();
 
 let arenaLogWatcher: ArenaLogWatcher | null = null;
 let arenaForegroundMonitor: ArenaForegroundMonitor | null = null;
-let arenaIsForeground = false;
+let foregroundArenaWindow: ArenaWindow | null = null;
 let overlayWindow: BrowserWindow | null = null;
 let latestRatedPack: RatedPack | null = null;
 
@@ -35,7 +39,10 @@ if (started) {
 const createOverlayWindow = (): BrowserWindow => {
   const { bounds } = screen.getPrimaryDisplay();
   const window = new BrowserWindow({
-    ...bounds,
+    x: bounds.x,
+    y: bounds.y,
+    width: 1,
+    height: 1,
     ...(process.platform === 'darwin' ? { type: 'panel' } : {}),
     transparent: true,
     frame: false,
@@ -91,11 +98,17 @@ const updateOverlayVisibility = (): void => {
     return;
   }
 
-  if (arenaIsForeground) {
-    overlayWindow.showInactive();
-  } else {
+  if (!foregroundArenaWindow) {
     overlayWindow.hide();
+    return;
   }
+
+  const arenaBounds = toElectronBounds(foregroundArenaWindow);
+  if (!sameBounds(overlayWindow.getBounds(), arenaBounds)) {
+    overlayWindow.setBounds(arenaBounds, false);
+  }
+
+  overlayWindow.showInactive();
 };
 
 const startArenaForegroundMonitor = (): void => {
@@ -104,8 +117,8 @@ const startArenaForegroundMonitor = (): void => {
   }
 
   arenaForegroundMonitor = new ArenaForegroundMonitor(
-    (isForeground) => {
-      arenaIsForeground = isForeground;
+    (arenaWindow) => {
+      foregroundArenaWindow = arenaWindow;
       updateOverlayVisibility();
     },
     (error) => {
@@ -117,6 +130,21 @@ const startArenaForegroundMonitor = (): void => {
   );
   arenaForegroundMonitor.start();
 };
+
+const toElectronBounds = (arenaWindow: ArenaWindow): Rectangle => {
+  if (arenaWindow.platform === 'windows') {
+    return screen.screenToDipRect(null, arenaWindow.bounds);
+  }
+
+  const display = screen.getDisplayMatching(arenaWindow.bounds);
+  return resolveMacOverlayBounds(arenaWindow.bounds, display.bounds);
+};
+
+const sameBounds = (first: Rectangle, second: Rectangle): boolean =>
+  first.x === second.x &&
+  first.y === second.y &&
+  first.width === second.width &&
+  first.height === second.height;
 
 const resolveArenaLogPath = (): string | null => {
   if (process.env.MTGA_LOG_PATH) {

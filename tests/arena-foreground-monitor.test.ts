@@ -1,7 +1,8 @@
-import type { Result } from 'get-windows';
+import type { Result, WindowsResult } from 'get-windows';
 import { afterEach, describe, expect, it, vi } from 'vitest';
 import {
   ArenaForegroundMonitor,
+  getArenaWindow,
   isArenaWindow,
 } from '../src/main/arena-foreground-monitor';
 
@@ -26,35 +27,60 @@ describe('ArenaForegroundMonitor', () => {
     vi.useRealTimers();
   });
 
-  it('reports foreground changes without repeating the same state', async () => {
+  it('reports foreground and bounds changes without repeating the same state', async () => {
     vi.useFakeTimers();
+    const movedArenaWindow = createWindow('macos', 'MTGA', 'com.wizards.mtga');
+    movedArenaWindow.bounds = { x: 20, y: 30, width: 120, height: 90 };
     const readActiveWindow = vi
       .fn<() => Promise<Result | undefined>>()
       .mockResolvedValueOnce(
         createWindow('macos', 'Terminal', 'com.apple.Terminal'),
       )
       .mockResolvedValueOnce(createWindow('macos', 'MTGA', 'com.wizards.mtga'))
-      .mockResolvedValueOnce(createWindow('macos', 'MTGA', 'com.wizards.mtga'));
-    const onForegroundChange = vi.fn();
+      .mockResolvedValueOnce(movedArenaWindow)
+      .mockResolvedValueOnce(movedArenaWindow);
+    const onWindowChange = vi.fn();
     const monitor = new ArenaForegroundMonitor(
-      onForegroundChange,
+      onWindowChange,
       vi.fn(),
       readActiveWindow,
     );
 
     monitor.start();
     await vi.advanceTimersByTimeAsync(0);
-    expect(onForegroundChange).toHaveBeenLastCalledWith(false);
+    expect(onWindowChange).toHaveBeenLastCalledWith(null);
 
     await vi.advanceTimersByTimeAsync(100);
-    expect(onForegroundChange).toHaveBeenLastCalledWith(true);
+    expect(onWindowChange).toHaveBeenLastCalledWith({
+      platform: 'macos',
+      bounds: { x: 0, y: 0, width: 100, height: 100 },
+    });
 
     await vi.advanceTimersByTimeAsync(100);
-    expect(onForegroundChange).toHaveBeenCalledTimes(2);
+    expect(onWindowChange).toHaveBeenLastCalledWith({
+      platform: 'macos',
+      bounds: { x: 20, y: 30, width: 120, height: 90 },
+    });
+
+    await vi.advanceTimersByTimeAsync(100);
+    expect(onWindowChange).toHaveBeenCalledTimes(3);
 
     monitor.stop();
     await vi.advanceTimersByTimeAsync(100);
-    expect(readActiveWindow).toHaveBeenCalledTimes(3);
+    expect(readActiveWindow).toHaveBeenCalledTimes(4);
+  });
+});
+
+describe('getArenaWindow', () => {
+  it('uses the Windows content area for the overlay bounds', () => {
+    const window = createWindow('windows', 'MTGA', '') as WindowsResult;
+    window.bounds = { x: 5, y: 10, width: 120, height: 130 };
+    window.contentBounds = { x: 8, y: 40, width: 114, height: 97 };
+
+    expect(getArenaWindow(window)).toEqual({
+      platform: 'windows',
+      bounds: window.contentBounds,
+    });
   });
 });
 
