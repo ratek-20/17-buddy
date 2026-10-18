@@ -4,6 +4,12 @@
 # Local UI screenshots
 /screenshots/
 
+# Local planning notes
+/TODO.txt
+
+# macOS metadata
+.DS_Store
+
 # Python
 __pycache__/
 *.py[cod]
