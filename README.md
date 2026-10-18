@@ -1,7 +1,7 @@
 # 🃏 17-buddy
 
-> An open-source MTG Arena Quick Draft overlay that displays 17Lands card
-> win-rate grades directly on the draft screen.
+> An experimental, non-commercial MTG Arena Quick Draft overlay that displays
+> 17Lands card win-rate grades directly on the draft screen.
 
 ![17-buddy grade badges over an MTG Arena draft pack](docs/assets/overlay-preview.png)
 
@@ -12,8 +12,15 @@ the card IDs with embedded 17Lands ratings, and renders a transparent Electron
 overlay over Arena. The overlay follows the Arena window, scales with it, and
 hides its badges while a card is enlarged on hover.
 
-The project is in active development and runs on macOS and Windows. Installers
-are planned, so the current setup is intended for developers.
+The project is in active development and runs on macOS and Windows. This
+repository currently provides the source code as a developer and portfolio
+project; signed installers are planned for a future release.
+
+17-buddy is a passive, local companion. It reads only newly appended draft
+events from Arena's local `Player.log` and observes the foreground Arena window
+to position the overlay. It does not modify or inject code into the Arena
+client, automate input, connect to Wizards services, or transmit logs,
+gameplay data, or telemetry.
 
 ## Features
 
@@ -102,9 +109,19 @@ excluded from Git. Embedded ratings currently cover ECL and FRA.
 
 The ECL ratings and shared card-list metadata are adapted from
 [17Lands Public Data](https://www.17lands.com/public_datasets), licensed under
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 17-buddy aggregates
-game records into GIH win rates, calculates grades, selects runtime fields, and
-maps cards to Arena IDs.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). For ECL, 17-buddy
+aggregates game records into GIH win rates, calculates grades, selects runtime
+fields, and maps cards to Arena IDs.
+
+The FRA ratings are derived from a CSV manually exported in October 2026 from
+the publicly accessible
+[17Lands FRA Card Data table](https://www.17lands.com/card_data?expansion=FRA&format=PremierDraft&time_period=ALL_TIME).
+17-buddy filters ratings by sample size, rounds the displayed statistics,
+calculates letter grades, selects the fields required at runtime, and maps cards
+to Arena IDs. FRA is not represented here as part of the CC BY 4.0 public
+dataset collection. The raw exported CSV is not included in this repository.
+
+17Lands does not endorse this project.
 
 Grades use the 17Lands model: a normal distribution centered on `C`, with each
 gradation representing 0.33 standard deviations.
@@ -123,6 +140,7 @@ python3 -m unittest discover -s tests -p 'test_*.py'
 The original application source code is available under the
 [MIT License](LICENSE). The license does not grant rights to MTG Arena imagery,
 Magic card content, trademarks, 17Lands data, or other third-party materials.
+Those materials remain subject to their respective owners' terms and policies.
 
 ## Acknowledgments
 
@@ -135,5 +153,6 @@ Magic card content, trademarks, 17Lands data, or other third-party materials.
 
 17-buddy is unofficial Fan Content permitted under Wizards'
 [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy) and
-is not approved or endorsed by Wizards. Wizards of the Coast LLC owns the game
-materials shown here. © Wizards of the Coast LLC.
+is not approved or endorsed by Wizards. Portions of the materials used are
+property of Wizards of the Coast LLC. © Wizards of the Coast LLC. Use of MTG
+Arena remains subject to Wizards' applicable terms and policies.
