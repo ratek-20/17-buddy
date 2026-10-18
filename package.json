@@ -3,7 +3,7 @@
   "productName": "17-buddy",
   "version": "1.0.0",
   "private": true,
-  "description": "My Electron application description",
+  "description": "MTG Arena draft overlay displaying 17Lands card winrate grades.",
   "keywords": [],
   "license": "MIT",
   "author": "ratek-20",
