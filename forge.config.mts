@@ -18,6 +18,10 @@ const config: ForgeConfig = {
         return false;
       }
 
+      if (filePath.startsWith('/node_modules/.')) {
+        return true;
+      }
+
       return !(
         filePath.startsWith('/.vite') || filePath.startsWith('/node_modules')
       );

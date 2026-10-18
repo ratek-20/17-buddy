@@ -58,11 +58,14 @@ const createOverlayWindow = (): BrowserWindow => {
       preload: path.join(__dirname, 'preload.cjs'),
       contextIsolation: true,
       nodeIntegration: false,
+      sandbox: true,
     },
   });
 
   window.setIgnoreMouseEvents(true, { forward: true });
   window.setAlwaysOnTop(true, 'screen-saver');
+  window.webContents.setWindowOpenHandler(() => ({ action: 'deny' }));
+  window.webContents.on('will-navigate', (event) => event.preventDefault());
 
   if (process.platform === 'darwin') {
     window.setVisibleOnAllWorkspaces(true, { visibleOnFullScreen: true });
