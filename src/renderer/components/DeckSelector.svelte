@@ -2,20 +2,37 @@
   import { onDestroy } from 'svelte';
 
   const ALL_DECKS = 'ALL';
+  const INTERACTION_PADDING = 32;
 
   export let options: string[];
   export let selected: string;
   export let onSelect: (deck: string) => void;
 
   let isOpen = false;
+  let interactionIsEnabled = false;
+  let selectorElement: HTMLDivElement | undefined;
 
-  function beginInteraction(): void {
-    window.draftOverlay.setInteractive(true);
-  }
+  function handleMouseMove(event: MouseEvent): void {
+    if (!selectorElement) {
+      return;
+    }
 
-  function endInteraction(): void {
-    isOpen = false;
-    window.draftOverlay.setInteractive(false);
+    const bounds = selectorElement.getBoundingClientRect();
+    const shouldEnableInteraction =
+      event.clientX >= bounds.left - INTERACTION_PADDING &&
+      event.clientX <= bounds.right + INTERACTION_PADDING &&
+      event.clientY >= bounds.top - INTERACTION_PADDING &&
+      event.clientY <= bounds.bottom + INTERACTION_PADDING;
+
+    if (shouldEnableInteraction === interactionIsEnabled) {
+      return;
+    }
+
+    interactionIsEnabled = shouldEnableInteraction;
+    window.draftOverlay.setInteractive(shouldEnableInteraction);
+    if (!shouldEnableInteraction) {
+      isOpen = false;
+    }
   }
 
   function select(deck: string): void {
@@ -23,14 +40,16 @@
     isOpen = false;
   }
 
-  onDestroy(() => window.draftOverlay.setInteractive(false));
+  onDestroy(() => {
+    if (interactionIsEnabled) {
+      window.draftOverlay.setInteractive(false);
+    }
+  });
 </script>
 
-<div
-  class="deck-selector"
-  onmouseenter={beginInteraction}
-  onmouseleave={endInteraction}
->
+<svelte:window onmousemove={handleMouseMove} />
+
+<div bind:this={selectorElement} class="deck-selector">
   <button
     type="button"
     class="selector-button"
@@ -64,7 +83,7 @@
 <style>
   .deck-selector {
     position: fixed;
-    top: 1rem;
+    top: 12%;
     left: 1rem;
     z-index: 10;
     display: flex;
@@ -110,11 +129,13 @@
   }
 
   .options {
-    display: grid;
-    grid-template-columns: repeat(5, minmax(2.4rem, 1fr));
+    display: flex;
+    width: 7.5rem;
+    max-height: 70vh;
+    flex-direction: column;
     gap: 0.25rem;
-    width: 14rem;
     padding: 0.4rem;
+    overflow-y: auto;
     border: 1px solid rgb(255 255 255 / 35%);
     border-radius: 0.5rem;
     background: rgb(15 18 22 / 94%);
@@ -122,15 +143,13 @@
   }
 
   .options button {
+    flex: 0 0 auto;
+    width: 100%;
     min-height: 2rem;
     padding: 0.25rem;
     border-radius: 0.35rem;
     background: rgb(255 255 255 / 8%);
     font-size: 0.75rem;
-  }
-
-  .options button:first-child {
-    grid-column: span 2;
   }
 
   .options button:hover,

@@ -69,6 +69,15 @@ export class ArenaForegroundMonitor {
       this.errorReported = false;
       const arenaWindow = getArenaWindow(activeWindow);
 
+      if (
+        arenaWindow === null &&
+        activeWindow?.owner.processId === process.pid &&
+        this.lastResult !== null &&
+        this.lastResult !== undefined
+      ) {
+        return;
+      }
+
       if (!sameArenaWindow(arenaWindow, this.lastResult)) {
         this.lastResult = arenaWindow;
         this.onWindowChange(arenaWindow);
