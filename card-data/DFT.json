@@ -5,7 +5,25 @@
     "grade": "D-",
     "rarity": "uncommon",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.505,
+        "grade": "D-"
+      },
+      "WB": {
+        "gihwr": 0.538,
+        "grade": "D+"
+      },
+      "WR": {
+        "gihwr": 0.501,
+        "grade": "C-"
+      },
+      "WG": {
+        "gihwr": 0.518,
+        "grade": "D"
+      }
+    }
   },
   "94804": {
     "name": "Alacrian Armory",
@@ -13,7 +31,25 @@
     "grade": "F",
     "rarity": "uncommon",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.499,
+        "grade": "F"
+      },
+      "WB": {
+        "gihwr": 0.487,
+        "grade": "F"
+      },
+      "WR": {
+        "gihwr": 0.438,
+        "grade": "F"
+      },
+      "WG": {
+        "gihwr": 0.461,
+        "grade": "F"
+      }
+    }
   },
   "94805": {
     "name": "Basri, Tomorrow's Champion",
@@ -21,7 +57,25 @@
     "grade": "B-",
     "rarity": "rare",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.573,
+        "grade": "B-"
+      },
+      "WB": {
+        "gihwr": 0.59,
+        "grade": "B"
+      },
+      "WR": {
+        "gihwr": 0.557,
+        "grade": "B+"
+      },
+      "WG": {
+        "gihwr": 0.601,
+        "grade": "B+"
+      }
+    }
   },
   "94806": {
     "name": "Brightfield Glider",
@@ -29,7 +83,29 @@
     "grade": "D+",
     "rarity": "common",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.48,
+        "grade": "F"
+      },
+      "WB": {
+        "gihwr": 0.523,
+        "grade": "D"
+      },
+      "WR": {
+        "gihwr": 0.523,
+        "grade": "C+"
+      },
+      "WG": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      },
+      "WRG": {
+        "gihwr": 0.468,
+        "grade": "F"
+      }
+    }
   },
   "94807": {
     "name": "Brightfield Mustang",
@@ -37,7 +113,29 @@
     "grade": "D-",
     "rarity": "common",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.498,
+        "grade": "F"
+      },
+      "WB": {
+        "gihwr": 0.513,
+        "grade": "D-"
+      },
+      "WR": {
+        "gihwr": 0.487,
+        "grade": "D+"
+      },
+      "WG": {
+        "gihwr": 0.513,
+        "grade": "D"
+      },
+      "WRG": {
+        "gihwr": 0.501,
+        "grade": "C-"
+      }
+    }
   },
   "94808": {
     "name": "Broadcast Rambler",
@@ -45,7 +143,53 @@
     "grade": "C+",
     "rarity": "common",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.572,
+        "grade": "B-"
+      },
+      "WB": {
+        "gihwr": 0.579,
+        "grade": "B-"
+      },
+      "WR": {
+        "gihwr": 0.529,
+        "grade": "B-"
+      },
+      "WG": {
+        "gihwr": 0.553,
+        "grade": "C"
+      },
+      "UB": {
+        "gihwr": 0.546,
+        "grade": "C-"
+      },
+      "WUB": {
+        "gihwr": 0.568,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.538,
+        "grade": "B-"
+      },
+      "WUG": {
+        "gihwr": 0.552,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.519,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.573,
+        "grade": "B-"
+      },
+      "WRG": {
+        "gihwr": 0.515,
+        "grade": "C+"
+      }
+    }
   },
   "94809": {
     "name": "Bulwark Ox",
@@ -53,7 +197,25 @@
     "grade": "C",
     "rarity": "rare",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.553,
+        "grade": "C"
+      },
+      "WB": {
+        "gihwr": 0.571,
+        "grade": "C+"
+      },
+      "WR": {
+        "gihwr": 0.524,
+        "grade": "C+"
+      },
+      "WG": {
+        "gihwr": 0.576,
+        "grade": "B-"
+      }
+    }
   },
   "94810": {
     "name": "Canyon Vaulter",
@@ -61,7 +223,33 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.543,
+        "grade": "C-"
+      },
+      "WB": {
+        "gihwr": 0.548,
+        "grade": "C-"
+      },
+      "WR": {
+        "gihwr": 0.528,
+        "grade": "C+"
+      },
+      "WG": {
+        "gihwr": 0.572,
+        "grade": "C+"
+      },
+      "WUB": {
+        "gihwr": 0.525,
+        "grade": "D"
+      },
+      "WRG": {
+        "gihwr": 0.493,
+        "grade": "D+"
+      }
+    }
   },
   "94811": {
     "name": "Cloudspire Captain",
@@ -69,7 +257,29 @@
     "grade": "D",
     "rarity": "uncommon",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.512,
+        "grade": "D"
+      },
+      "WB": {
+        "gihwr": 0.495,
+        "grade": "F"
+      },
+      "WR": {
+        "gihwr": 0.514,
+        "grade": "C"
+      },
+      "WG": {
+        "gihwr": 0.535,
+        "grade": "C-"
+      },
+      "WRG": {
+        "gihwr": 0.528,
+        "grade": "B-"
+      }
+    }
   },
   "94812": {
     "name": "Collision Course",
@@ -77,7 +287,49 @@
     "grade": "C-",
     "rarity": "common",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.547,
+        "grade": "C"
+      },
+      "WB": {
+        "gihwr": 0.548,
+        "grade": "C-"
+      },
+      "WR": {
+        "gihwr": 0.5,
+        "grade": "C-"
+      },
+      "WG": {
+        "gihwr": 0.553,
+        "grade": "C"
+      },
+      "WUB": {
+        "gihwr": 0.538,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.507,
+        "grade": "C-"
+      },
+      "WUG": {
+        "gihwr": 0.546,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.504,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.525,
+        "grade": "D"
+      },
+      "WRG": {
+        "gihwr": 0.513,
+        "grade": "C"
+      }
+    }
   },
   "94813": {
     "name": "Daring Mechanic",
@@ -85,7 +337,29 @@
     "grade": "D-",
     "rarity": "common",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.501,
+        "grade": "D-"
+      },
+      "WB": {
+        "gihwr": 0.519,
+        "grade": "D-"
+      },
+      "WR": {
+        "gihwr": 0.495,
+        "grade": "C-"
+      },
+      "WG": {
+        "gihwr": 0.53,
+        "grade": "D+"
+      },
+      "WRG": {
+        "gihwr": 0.473,
+        "grade": "D-"
+      }
+    }
   },
   "94814": {
     "name": "Detention Chariot",
@@ -93,7 +367,41 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.566,
+        "grade": "C+"
+      },
+      "WB": {
+        "gihwr": 0.58,
+        "grade": "B-"
+      },
+      "WR": {
+        "gihwr": 0.535,
+        "grade": "B-"
+      },
+      "WG": {
+        "gihwr": 0.569,
+        "grade": "C+"
+      },
+      "WUB": {
+        "gihwr": 0.548,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.546,
+        "grade": "B"
+      },
+      "WBG": {
+        "gihwr": 0.54,
+        "grade": "D+"
+      },
+      "WRG": {
+        "gihwr": 0.526,
+        "grade": "B-"
+      }
+    }
   },
   "94815": {
     "name": "Gallant Strike",
@@ -101,7 +409,45 @@
     "grade": "B-",
     "rarity": "uncommon",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.577,
+        "grade": "B-"
+      },
+      "WB": {
+        "gihwr": 0.59,
+        "grade": "B"
+      },
+      "WR": {
+        "gihwr": 0.545,
+        "grade": "B"
+      },
+      "WG": {
+        "gihwr": 0.578,
+        "grade": "B-"
+      },
+      "WUB": {
+        "gihwr": 0.573,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.534,
+        "grade": "B-"
+      },
+      "WUG": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.563,
+        "grade": "C+"
+      },
+      "WRG": {
+        "gihwr": 0.539,
+        "grade": "B"
+      }
+    }
   },
   "94816": {
     "name": "Gloryheath Lynx",
@@ -109,7 +455,45 @@
     "grade": "B+",
     "rarity": "uncommon",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.597,
+        "grade": "B+"
+      },
+      "WB": {
+        "gihwr": 0.607,
+        "grade": "A-"
+      },
+      "WR": {
+        "gihwr": 0.579,
+        "grade": "A"
+      },
+      "WG": {
+        "gihwr": 0.612,
+        "grade": "A-"
+      },
+      "WUB": {
+        "gihwr": 0.593,
+        "grade": "B+"
+      },
+      "WUR": {
+        "gihwr": 0.518,
+        "grade": "C"
+      },
+      "WUG": {
+        "gihwr": 0.581,
+        "grade": "B"
+      },
+      "WBG": {
+        "gihwr": 0.574,
+        "grade": "B"
+      },
+      "WRG": {
+        "gihwr": 0.556,
+        "grade": "A-"
+      }
+    }
   },
   "94817": {
     "name": "Guardian Sunmare",
@@ -117,7 +501,29 @@
     "grade": "B",
     "rarity": "rare",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.563,
+        "grade": "C+"
+      },
+      "WB": {
+        "gihwr": 0.602,
+        "grade": "B+"
+      },
+      "WR": {
+        "gihwr": 0.574,
+        "grade": "A-"
+      },
+      "WG": {
+        "gihwr": 0.61,
+        "grade": "B+"
+      },
+      "WUB": {
+        "gihwr": 0.556,
+        "grade": "C"
+      }
+    }
   },
   "94818": {
     "name": "Guidelight Synergist",
@@ -125,7 +531,33 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.57,
+        "grade": "B-"
+      },
+      "WB": {
+        "gihwr": 0.569,
+        "grade": "C+"
+      },
+      "WR": {
+        "gihwr": 0.472,
+        "grade": "D"
+      },
+      "WG": {
+        "gihwr": 0.505,
+        "grade": "D-"
+      },
+      "WUB": {
+        "gihwr": 0.554,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.465,
+        "grade": "F"
+      }
+    }
   },
   "94819": {
     "name": "Interface Ace",
@@ -133,7 +565,37 @@
     "grade": "F",
     "rarity": "common",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.515,
+        "grade": "D"
+      },
+      "WB": {
+        "gihwr": 0.472,
+        "grade": "F"
+      },
+      "WR": {
+        "gihwr": 0.462,
+        "grade": "D-"
+      },
+      "WG": {
+        "gihwr": 0.482,
+        "grade": "F"
+      },
+      "WUB": {
+        "gihwr": 0.495,
+        "grade": "F"
+      },
+      "WUR": {
+        "gihwr": 0.478,
+        "grade": "D-"
+      },
+      "WRG": {
+        "gihwr": 0.496,
+        "grade": "D+"
+      }
+    }
   },
   "94820": {
     "name": "Leonin Surveyor",
@@ -141,7 +603,41 @@
     "grade": "D+",
     "rarity": "common",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.522,
+        "grade": "D"
+      },
+      "WB": {
+        "gihwr": 0.552,
+        "grade": "C-"
+      },
+      "WR": {
+        "gihwr": 0.495,
+        "grade": "C-"
+      },
+      "WG": {
+        "gihwr": 0.528,
+        "grade": "D+"
+      },
+      "WUB": {
+        "gihwr": 0.516,
+        "grade": "D-"
+      },
+      "WBR": {
+        "gihwr": 0.506,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.489,
+        "grade": "F"
+      },
+      "WRG": {
+        "gihwr": 0.487,
+        "grade": "D"
+      }
+    }
   },
   "94821": {
     "name": "Lightshield Parry",
@@ -149,7 +645,25 @@
     "grade": "D",
     "rarity": "common",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.508,
+        "grade": "D-"
+      },
+      "WB": {
+        "gihwr": 0.518,
+        "grade": "D-"
+      },
+      "WR": {
+        "gihwr": 0.492,
+        "grade": "C-"
+      },
+      "WG": {
+        "gihwr": 0.53,
+        "grade": "D+"
+      }
+    }
   },
   "94822": {
     "name": "Lightwheel Enhancements",
@@ -157,7 +671,25 @@
     "grade": "F",
     "rarity": "common",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.471,
+        "grade": "F"
+      },
+      "WB": {
+        "gihwr": 0.53,
+        "grade": "D"
+      },
+      "WR": {
+        "gihwr": 0.451,
+        "grade": "F"
+      },
+      "WG": {
+        "gihwr": 0.5,
+        "grade": "D-"
+      }
+    }
   },
   "94823": {
     "name": "Lotusguard Disciple",
@@ -165,7 +697,33 @@
     "grade": "D+",
     "rarity": "common",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.519,
+        "grade": "D"
+      },
+      "WB": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      },
+      "WR": {
+        "gihwr": 0.515,
+        "grade": "C"
+      },
+      "WG": {
+        "gihwr": 0.547,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.528,
+        "grade": "D"
+      },
+      "WRG": {
+        "gihwr": 0.478,
+        "grade": "D-"
+      }
+    }
   },
   "94824": {
     "name": "Nesting Bot",
@@ -173,7 +731,29 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.564,
+        "grade": "C+"
+      },
+      "WB": {
+        "gihwr": 0.595,
+        "grade": "B+"
+      },
+      "WR": {
+        "gihwr": 0.526,
+        "grade": "C+"
+      },
+      "WG": {
+        "gihwr": 0.529,
+        "grade": "D+"
+      },
+      "WUB": {
+        "gihwr": 0.577,
+        "grade": "B-"
+      }
+    }
   },
   "94825": {
     "name": "Perilous Snare",
@@ -181,7 +761,45 @@
     "grade": "A",
     "rarity": "rare",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.63,
+        "grade": "A+"
+      },
+      "WB": {
+        "gihwr": 0.674,
+        "grade": "A+"
+      },
+      "WR": {
+        "gihwr": 0.602,
+        "grade": "A+"
+      },
+      "WG": {
+        "gihwr": 0.619,
+        "grade": "A-"
+      },
+      "UB": {
+        "gihwr": 0.614,
+        "grade": "A-"
+      },
+      "UG": {
+        "gihwr": 0.582,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.593,
+        "grade": "B"
+      },
+      "WUB": {
+        "gihwr": 0.63,
+        "grade": "A+"
+      },
+      "WBG": {
+        "gihwr": 0.557,
+        "grade": "C+"
+      }
+    }
   },
   "94826": {
     "name": "Pride of the Road",
@@ -189,7 +807,29 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.515,
+        "grade": "D"
+      },
+      "WB": {
+        "gihwr": 0.558,
+        "grade": "C"
+      },
+      "WR": {
+        "gihwr": 0.501,
+        "grade": "C-"
+      },
+      "WG": {
+        "gihwr": 0.527,
+        "grade": "D+"
+      },
+      "WRG": {
+        "gihwr": 0.487,
+        "grade": "D"
+      }
+    }
   },
   "94827": {
     "name": "Ride's End",
@@ -197,7 +837,69 @@
     "grade": "B-",
     "rarity": "common",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.583,
+        "grade": "B"
+      },
+      "WB": {
+        "gihwr": 0.591,
+        "grade": "B"
+      },
+      "WR": {
+        "gihwr": 0.533,
+        "grade": "B-"
+      },
+      "WG": {
+        "gihwr": 0.586,
+        "grade": "B"
+      },
+      "UB": {
+        "gihwr": 0.585,
+        "grade": "B"
+      },
+      "UR": {
+        "gihwr": 0.519,
+        "grade": "D+"
+      },
+      "UG": {
+        "gihwr": 0.594,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.523,
+        "grade": "C-"
+      },
+      "WUB": {
+        "gihwr": 0.565,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.537,
+        "grade": "B-"
+      },
+      "WUG": {
+        "gihwr": 0.588,
+        "grade": "B+"
+      },
+      "WBR": {
+        "gihwr": 0.549,
+        "grade": "B"
+      },
+      "WBG": {
+        "gihwr": 0.576,
+        "grade": "B"
+      },
+      "WRG": {
+        "gihwr": 0.518,
+        "grade": "C+"
+      }
+    }
   },
   "94828": {
     "name": "Roadside Assistance",
@@ -205,7 +907,25 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.532,
+        "grade": "D+"
+      },
+      "WB": {
+        "gihwr": 0.537,
+        "grade": "D+"
+      },
+      "WR": {
+        "gihwr": 0.514,
+        "grade": "C"
+      },
+      "WG": {
+        "gihwr": 0.55,
+        "grade": "C"
+      }
+    }
   },
   "94829": {
     "name": "Salvation Engine",
@@ -213,7 +933,29 @@
     "grade": "C",
     "rarity": "mythic",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.579,
+        "grade": "B-"
+      },
+      "WB": {
+        "gihwr": 0.569,
+        "grade": "C+"
+      },
+      "WR": {
+        "gihwr": 0.499,
+        "grade": "C-"
+      },
+      "WG": {
+        "gihwr": 0.547,
+        "grade": "C"
+      },
+      "WUB": {
+        "gihwr": 0.566,
+        "grade": "C+"
+      }
+    }
   },
   "94830": {
     "name": "Skyseer's Chariot",
@@ -221,7 +963,25 @@
     "grade": "C-",
     "rarity": "rare",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "WB": {
+        "gihwr": 0.581,
+        "grade": "B-"
+      },
+      "WR": {
+        "gihwr": 0.519,
+        "grade": "C+"
+      },
+      "WG": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      }
+    }
   },
   "94831": {
     "name": "Spectacular Pileup",
@@ -229,7 +989,29 @@
     "grade": "C+",
     "rarity": "rare",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.587,
+        "grade": "B"
+      },
+      "WB": {
+        "gihwr": 0.577,
+        "grade": "B-"
+      },
+      "WR": {
+        "gihwr": 0.486,
+        "grade": "D+"
+      },
+      "WG": {
+        "gihwr": 0.55,
+        "grade": "C"
+      },
+      "WUB": {
+        "gihwr": 0.581,
+        "grade": "B"
+      }
+    }
   },
   "94832": {
     "name": "Spotcycle Scouter",
@@ -237,7 +1019,25 @@
     "grade": "D",
     "rarity": "common",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.524,
+        "grade": "D+"
+      },
+      "WB": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      },
+      "WR": {
+        "gihwr": 0.487,
+        "grade": "D+"
+      },
+      "WG": {
+        "gihwr": 0.51,
+        "grade": "D"
+      }
+    }
   },
   "94833": {
     "name": "Sundial, Dawn Tyrant",
@@ -245,7 +1045,33 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.56,
+        "grade": "C+"
+      },
+      "WB": {
+        "gihwr": 0.569,
+        "grade": "C+"
+      },
+      "WR": {
+        "gihwr": 0.532,
+        "grade": "B-"
+      },
+      "WG": {
+        "gihwr": 0.553,
+        "grade": "C"
+      },
+      "WUB": {
+        "gihwr": 0.562,
+        "grade": "C+"
+      },
+      "WRG": {
+        "gihwr": 0.517,
+        "grade": "C+"
+      }
+    }
   },
   "94834": {
     "name": "Swiftwing Assailant",
@@ -253,7 +1079,29 @@
     "grade": "D+",
     "rarity": "common",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.5,
+        "grade": "D-"
+      },
+      "WB": {
+        "gihwr": 0.557,
+        "grade": "C"
+      },
+      "WR": {
+        "gihwr": 0.51,
+        "grade": "C"
+      },
+      "WG": {
+        "gihwr": 0.541,
+        "grade": "C-"
+      },
+      "WRG": {
+        "gihwr": 0.489,
+        "grade": "D"
+      }
+    }
   },
   "94835": {
     "name": "Tune Up",
@@ -261,7 +1109,33 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.535,
+        "grade": "C-"
+      },
+      "WB": {
+        "gihwr": 0.546,
+        "grade": "C-"
+      },
+      "WR": {
+        "gihwr": 0.48,
+        "grade": "D+"
+      },
+      "WG": {
+        "gihwr": 0.515,
+        "grade": "D"
+      },
+      "WUB": {
+        "gihwr": 0.515,
+        "grade": "D-"
+      },
+      "WBG": {
+        "gihwr": 0.563,
+        "grade": "C+"
+      }
+    }
   },
   "94836": {
     "name": "Unswerving Sloth",
@@ -269,7 +1143,29 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.514,
+        "grade": "D"
+      },
+      "WB": {
+        "gihwr": 0.546,
+        "grade": "C-"
+      },
+      "WR": {
+        "gihwr": 0.513,
+        "grade": "C"
+      },
+      "WG": {
+        "gihwr": 0.544,
+        "grade": "C-"
+      },
+      "WRG": {
+        "gihwr": 0.489,
+        "grade": "D"
+      }
+    }
   },
   "94837": {
     "name": "Valor's Flagship",
@@ -277,7 +1173,25 @@
     "grade": "C+",
     "rarity": "mythic",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.582,
+        "grade": "B"
+      },
+      "WB": {
+        "gihwr": 0.583,
+        "grade": "B-"
+      },
+      "WR": {
+        "gihwr": 0.538,
+        "grade": "B-"
+      },
+      "WG": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      }
+    }
   },
   "94838": {
     "name": "Voyager Glidecar",
@@ -285,7 +1199,25 @@
     "grade": "C+",
     "rarity": "rare",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.567,
+        "grade": "C+"
+      },
+      "WB": {
+        "gihwr": 0.585,
+        "grade": "B"
+      },
+      "WR": {
+        "gihwr": 0.539,
+        "grade": "B-"
+      },
+      "WG": {
+        "gihwr": 0.583,
+        "grade": "B-"
+      }
+    }
   },
   "94839": {
     "name": "Voyager Quickwelder",
@@ -293,7 +1225,37 @@
     "grade": "C",
     "rarity": "common",
     "color": "W",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.569,
+        "grade": "B-"
+      },
+      "WB": {
+        "gihwr": 0.533,
+        "grade": "D+"
+      },
+      "WR": {
+        "gihwr": 0.488,
+        "grade": "D+"
+      },
+      "WG": {
+        "gihwr": 0.506,
+        "grade": "D-"
+      },
+      "WUB": {
+        "gihwr": 0.565,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.534,
+        "grade": "B-"
+      },
+      "WUG": {
+        "gihwr": 0.523,
+        "grade": "D-"
+      }
+    }
   },
   "94840": {
     "name": "Aether Syphon",
@@ -301,7 +1263,41 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "U": {
+        "gihwr": 0.562,
+        "grade": "C"
+      },
+      "WU": {
+        "gihwr": 0.568,
+        "grade": "C+"
+      },
+      "UB": {
+        "gihwr": 0.576,
+        "grade": "B-"
+      },
+      "UR": {
+        "gihwr": 0.532,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      },
+      "WUB": {
+        "gihwr": 0.58,
+        "grade": "B"
+      },
+      "UBG": {
+        "gihwr": 0.549,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.524,
+        "grade": "D"
+      }
+    }
   },
   "94841": {
     "name": "Bounce Off",
@@ -309,7 +1305,53 @@
     "grade": "C+",
     "rarity": "common",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "U": {
+        "gihwr": 0.556,
+        "grade": "C-"
+      },
+      "WU": {
+        "gihwr": 0.55,
+        "grade": "C"
+      },
+      "UB": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.551,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.573,
+        "grade": "C+"
+      },
+      "WUB": {
+        "gihwr": 0.558,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.515,
+        "grade": "C"
+      },
+      "WUG": {
+        "gihwr": 0.566,
+        "grade": "C+"
+      },
+      "UBR": {
+        "gihwr": 0.532,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.515,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.563,
+        "grade": "C+"
+      }
+    }
   },
   "94842": {
     "name": "Caelorna, Coral Tyrant",
@@ -317,7 +1359,25 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.499,
+        "grade": "F"
+      },
+      "UB": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      },
+      "UR": {
+        "gihwr": 0.53,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.548,
+        "grade": "C-"
+      }
+    }
   },
   "94843": {
     "name": "Diversion Unit",
@@ -325,7 +1385,45 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "U": {
+        "gihwr": 0.584,
+        "grade": "B"
+      },
+      "WU": {
+        "gihwr": 0.569,
+        "grade": "B-"
+      },
+      "UB": {
+        "gihwr": 0.563,
+        "grade": "C+"
+      },
+      "UR": {
+        "gihwr": 0.555,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.556,
+        "grade": "C-"
+      },
+      "WUB": {
+        "gihwr": 0.58,
+        "grade": "B"
+      },
+      "WUR": {
+        "gihwr": 0.476,
+        "grade": "F"
+      },
+      "UBG": {
+        "gihwr": 0.522,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.541,
+        "grade": "C-"
+      }
+    }
   },
   "94844": {
     "name": "Flood the Engine",
@@ -333,7 +1431,57 @@
     "grade": "C+",
     "rarity": "common",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "U": {
+        "gihwr": 0.567,
+        "grade": "C+"
+      },
+      "WU": {
+        "gihwr": 0.564,
+        "grade": "C+"
+      },
+      "UB": {
+        "gihwr": 0.562,
+        "grade": "C+"
+      },
+      "UR": {
+        "gihwr": 0.552,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.579,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.543,
+        "grade": "D+"
+      },
+      "WUB": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.549,
+        "grade": "B"
+      },
+      "WUG": {
+        "gihwr": 0.552,
+        "grade": "C"
+      },
+      "UBR": {
+        "gihwr": 0.52,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.533,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.566,
+        "grade": "C+"
+      }
+    }
   },
   "94845": {
     "name": "Gearseeker Serpent",
@@ -341,7 +1489,37 @@
     "grade": "D+",
     "rarity": "common",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "U": {
+        "gihwr": 0.502,
+        "grade": "F"
+      },
+      "WU": {
+        "gihwr": 0.531,
+        "grade": "D+"
+      },
+      "UB": {
+        "gihwr": 0.536,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.478,
+        "grade": "F"
+      },
+      "UG": {
+        "gihwr": 0.526,
+        "grade": "D"
+      },
+      "WUB": {
+        "gihwr": 0.508,
+        "grade": "F"
+      },
+      "UBG": {
+        "gihwr": 0.484,
+        "grade": "F"
+      }
+    }
   },
   "94846": {
     "name": "Glitch Ghost Surveyor",
@@ -349,7 +1527,37 @@
     "grade": "D",
     "rarity": "common",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.525,
+        "grade": "D+"
+      },
+      "UB": {
+        "gihwr": 0.516,
+        "grade": "D-"
+      },
+      "UR": {
+        "gihwr": 0.506,
+        "grade": "D-"
+      },
+      "UG": {
+        "gihwr": 0.522,
+        "grade": "D"
+      },
+      "WUB": {
+        "gihwr": 0.504,
+        "grade": "F"
+      },
+      "UBG": {
+        "gihwr": 0.425,
+        "grade": "F"
+      },
+      "URG": {
+        "gihwr": 0.469,
+        "grade": "F"
+      }
+    }
   },
   "94847": {
     "name": "Guidelight Optimizer",
@@ -357,7 +1565,53 @@
     "grade": "C-",
     "rarity": "common",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "U": {
+        "gihwr": 0.55,
+        "grade": "D+"
+      },
+      "WU": {
+        "gihwr": 0.543,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.559,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.517,
+        "grade": "D+"
+      },
+      "UG": {
+        "gihwr": 0.535,
+        "grade": "D"
+      },
+      "WUB": {
+        "gihwr": 0.558,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.524,
+        "grade": "C+"
+      },
+      "WUG": {
+        "gihwr": 0.537,
+        "grade": "D+"
+      },
+      "UBR": {
+        "gihwr": 0.511,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.487,
+        "grade": "D-"
+      },
+      "URG": {
+        "gihwr": 0.502,
+        "grade": "D-"
+      }
+    }
   },
   "94848": {
     "name": "Howler's Heavy",
@@ -365,7 +1619,53 @@
     "grade": "C",
     "rarity": "common",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "U": {
+        "gihwr": 0.589,
+        "grade": "B+"
+      },
+      "WU": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.532,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.554,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.561,
+        "grade": "C"
+      },
+      "WUB": {
+        "gihwr": 0.536,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.492,
+        "grade": "D"
+      },
+      "WUG": {
+        "gihwr": 0.524,
+        "grade": "D-"
+      },
+      "UBR": {
+        "gihwr": 0.491,
+        "grade": "D"
+      },
+      "UBG": {
+        "gihwr": 0.529,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.558,
+        "grade": "C+"
+      }
+    }
   },
   "94849": {
     "name": "Hulldrifter",
@@ -373,7 +1673,53 @@
     "grade": "C",
     "rarity": "common",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "U": {
+        "gihwr": 0.537,
+        "grade": "D-"
+      },
+      "WU": {
+        "gihwr": 0.561,
+        "grade": "C+"
+      },
+      "UB": {
+        "gihwr": 0.561,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.539,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.554,
+        "grade": "C-"
+      },
+      "WUB": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.524,
+        "grade": "C+"
+      },
+      "WUG": {
+        "gihwr": 0.504,
+        "grade": "F"
+      },
+      "UBR": {
+        "gihwr": 0.52,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.52,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.538,
+        "grade": "C-"
+      }
+    }
   },
   "94850": {
     "name": "Keen Buccaneer",
@@ -381,7 +1727,53 @@
     "grade": "C",
     "rarity": "common",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "U": {
+        "gihwr": 0.549,
+        "grade": "D+"
+      },
+      "WU": {
+        "gihwr": 0.546,
+        "grade": "C"
+      },
+      "UB": {
+        "gihwr": 0.546,
+        "grade": "C-"
+      },
+      "UR": {
+        "gihwr": 0.547,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.566,
+        "grade": "C"
+      },
+      "WUB": {
+        "gihwr": 0.564,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.509,
+        "grade": "C-"
+      },
+      "WUG": {
+        "gihwr": 0.54,
+        "grade": "D+"
+      },
+      "UBR": {
+        "gihwr": 0.5,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.512,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.535,
+        "grade": "D+"
+      }
+    }
   },
   "94851": {
     "name": "Memory Guardian",
@@ -389,7 +1781,37 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "U": {
+        "gihwr": 0.572,
+        "grade": "C+"
+      },
+      "WU": {
+        "gihwr": 0.58,
+        "grade": "B"
+      },
+      "UB": {
+        "gihwr": 0.577,
+        "grade": "B-"
+      },
+      "UR": {
+        "gihwr": 0.528,
+        "grade": "D+"
+      },
+      "UG": {
+        "gihwr": 0.521,
+        "grade": "D-"
+      },
+      "WUB": {
+        "gihwr": 0.552,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.5,
+        "grade": "D"
+      }
+    }
   },
   "94852": {
     "name": "Midnight Mangler",
@@ -397,7 +1819,53 @@
     "grade": "C-",
     "rarity": "common",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "U": {
+        "gihwr": 0.566,
+        "grade": "C"
+      },
+      "WU": {
+        "gihwr": 0.543,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      },
+      "UR": {
+        "gihwr": 0.544,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.534,
+        "grade": "D"
+      },
+      "WUB": {
+        "gihwr": 0.535,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.489,
+        "grade": "D"
+      },
+      "WUG": {
+        "gihwr": 0.52,
+        "grade": "D-"
+      },
+      "UBR": {
+        "gihwr": 0.479,
+        "grade": "F"
+      },
+      "UBG": {
+        "gihwr": 0.501,
+        "grade": "D"
+      },
+      "URG": {
+        "gihwr": 0.549,
+        "grade": "C"
+      }
+    }
   },
   "94853": {
     "name": "Mindspring Merfolk",
@@ -405,7 +1873,37 @@
     "grade": "B+",
     "rarity": "rare",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.591,
+        "grade": "B"
+      },
+      "UB": {
+        "gihwr": 0.602,
+        "grade": "B+"
+      },
+      "UR": {
+        "gihwr": 0.587,
+        "grade": "B+"
+      },
+      "UG": {
+        "gihwr": 0.616,
+        "grade": "B+"
+      },
+      "WUB": {
+        "gihwr": 0.58,
+        "grade": "B"
+      },
+      "UBG": {
+        "gihwr": 0.55,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.586,
+        "grade": "B"
+      }
+    }
   },
   "94854": {
     "name": "Mu Yanling, Wind Rider",
@@ -413,7 +1911,25 @@
     "grade": "A+",
     "rarity": "mythic",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.651,
+        "grade": "A+"
+      },
+      "UB": {
+        "gihwr": 0.666,
+        "grade": "A+"
+      },
+      "UR": {
+        "gihwr": 0.649,
+        "grade": "A+"
+      },
+      "UG": {
+        "gihwr": 0.667,
+        "grade": "A+"
+      }
+    }
   },
   "94855": {
     "name": "Nimble Thopterist",
@@ -421,7 +1937,53 @@
     "grade": "C",
     "rarity": "common",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "U": {
+        "gihwr": 0.551,
+        "grade": "D+"
+      },
+      "WU": {
+        "gihwr": 0.547,
+        "grade": "C"
+      },
+      "UB": {
+        "gihwr": 0.561,
+        "grade": "C+"
+      },
+      "UR": {
+        "gihwr": 0.555,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.558,
+        "grade": "C-"
+      },
+      "WUB": {
+        "gihwr": 0.562,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.506,
+        "grade": "C-"
+      },
+      "WUG": {
+        "gihwr": 0.523,
+        "grade": "D-"
+      },
+      "UBR": {
+        "gihwr": 0.515,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.516,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.543,
+        "grade": "C-"
+      }
+    }
   },
   "94856": {
     "name": "Possession Engine",
@@ -429,7 +1991,37 @@
     "grade": "B+",
     "rarity": "rare",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.61,
+        "grade": "A-"
+      },
+      "UB": {
+        "gihwr": 0.611,
+        "grade": "A-"
+      },
+      "UR": {
+        "gihwr": 0.595,
+        "grade": "A-"
+      },
+      "UG": {
+        "gihwr": 0.614,
+        "grade": "B+"
+      },
+      "WUB": {
+        "gihwr": 0.61,
+        "grade": "A"
+      },
+      "UBG": {
+        "gihwr": 0.582,
+        "grade": "B+"
+      },
+      "URG": {
+        "gihwr": 0.58,
+        "grade": "B"
+      }
+    }
   },
   "94857": {
     "name": "Rangers' Refueler",
@@ -437,7 +2029,53 @@
     "grade": "B+",
     "rarity": "uncommon",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "U": {
+        "gihwr": 0.573,
+        "grade": "C+"
+      },
+      "WU": {
+        "gihwr": 0.582,
+        "grade": "B"
+      },
+      "UB": {
+        "gihwr": 0.591,
+        "grade": "B"
+      },
+      "UR": {
+        "gihwr": 0.578,
+        "grade": "B"
+      },
+      "UG": {
+        "gihwr": 0.618,
+        "grade": "B+"
+      },
+      "RG": {
+        "gihwr": 0.564,
+        "grade": "B-"
+      },
+      "WUB": {
+        "gihwr": 0.596,
+        "grade": "B+"
+      },
+      "WUG": {
+        "gihwr": 0.559,
+        "grade": "C"
+      },
+      "UBR": {
+        "gihwr": 0.574,
+        "grade": "A-"
+      },
+      "UBG": {
+        "gihwr": 0.572,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.579,
+        "grade": "B-"
+      }
+    }
   },
   "94858": {
     "name": "Repurposing Bay",
@@ -453,7 +2091,37 @@
     "grade": "B+",
     "rarity": "rare",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.603,
+        "grade": "A-"
+      },
+      "UB": {
+        "gihwr": 0.605,
+        "grade": "A-"
+      },
+      "UR": {
+        "gihwr": 0.59,
+        "grade": "B+"
+      },
+      "UG": {
+        "gihwr": 0.617,
+        "grade": "B+"
+      },
+      "WUB": {
+        "gihwr": 0.571,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.569,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.599,
+        "grade": "B+"
+      }
+    }
   },
   "94860": {
     "name": "Roadside Blowout",
@@ -461,7 +2129,49 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "U": {
+        "gihwr": 0.547,
+        "grade": "D+"
+      },
+      "WU": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "UB": {
+        "gihwr": 0.566,
+        "grade": "C+"
+      },
+      "UR": {
+        "gihwr": 0.56,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.576,
+        "grade": "C+"
+      },
+      "WUB": {
+        "gihwr": 0.555,
+        "grade": "C"
+      },
+      "WUG": {
+        "gihwr": 0.543,
+        "grade": "C-"
+      },
+      "UBR": {
+        "gihwr": 0.511,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.537,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.562,
+        "grade": "C+"
+      }
+    }
   },
   "94861": {
     "name": "Sabotage Strategist",
@@ -469,7 +2179,37 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.544,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      },
+      "UR": {
+        "gihwr": 0.538,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.571,
+        "grade": "C"
+      },
+      "WUB": {
+        "gihwr": 0.521,
+        "grade": "D-"
+      },
+      "UBG": {
+        "gihwr": 0.515,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.516,
+        "grade": "D"
+      }
+    }
   },
   "94862": {
     "name": "Scrounging Skyray",
@@ -477,7 +2217,37 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.539,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.526,
+        "grade": "D"
+      },
+      "UR": {
+        "gihwr": 0.584,
+        "grade": "B+"
+      },
+      "UG": {
+        "gihwr": 0.538,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.519,
+        "grade": "C"
+      },
+      "UBR": {
+        "gihwr": 0.523,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.53,
+        "grade": "D+"
+      }
+    }
   },
   "94863": {
     "name": "Skystreak Engineer",
@@ -485,7 +2255,53 @@
     "grade": "C+",
     "rarity": "common",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "U": {
+        "gihwr": 0.576,
+        "grade": "B-"
+      },
+      "WU": {
+        "gihwr": 0.542,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.555,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.546,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.575,
+        "grade": "C+"
+      },
+      "WUB": {
+        "gihwr": 0.546,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.48,
+        "grade": "D-"
+      },
+      "WUG": {
+        "gihwr": 0.568,
+        "grade": "C+"
+      },
+      "UBR": {
+        "gihwr": 0.501,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.518,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.555,
+        "grade": "C"
+      }
+    }
   },
   "94864": {
     "name": "Slick Imitator",
@@ -493,7 +2309,33 @@
     "grade": "D",
     "rarity": "uncommon",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.523,
+        "grade": "D+"
+      },
+      "UB": {
+        "gihwr": 0.54,
+        "grade": "C-"
+      },
+      "UR": {
+        "gihwr": 0.515,
+        "grade": "D"
+      },
+      "UG": {
+        "gihwr": 0.514,
+        "grade": "D-"
+      },
+      "WUB": {
+        "gihwr": 0.532,
+        "grade": "D"
+      },
+      "URG": {
+        "gihwr": 0.52,
+        "grade": "D"
+      }
+    }
   },
   "94865": {
     "name": "Spectral Interference",
@@ -501,7 +2343,53 @@
     "grade": "C+",
     "rarity": "common",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "U": {
+        "gihwr": 0.56,
+        "grade": "C"
+      },
+      "WU": {
+        "gihwr": 0.55,
+        "grade": "C"
+      },
+      "UB": {
+        "gihwr": 0.554,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.559,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.578,
+        "grade": "C+"
+      },
+      "WUB": {
+        "gihwr": 0.542,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.523,
+        "grade": "C"
+      },
+      "WUG": {
+        "gihwr": 0.537,
+        "grade": "D+"
+      },
+      "UBR": {
+        "gihwr": 0.508,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.517,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.544,
+        "grade": "C-"
+      }
+    }
   },
   "94866": {
     "name": "Spell Pierce",
@@ -509,7 +2397,21 @@
     "grade": "F",
     "rarity": "uncommon",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "UB": {
+        "gihwr": 0.474,
+        "grade": "F"
+      },
+      "UR": {
+        "gihwr": 0.518,
+        "grade": "D+"
+      },
+      "UG": {
+        "gihwr": 0.539,
+        "grade": "D+"
+      }
+    }
   },
   "94867": {
     "name": "Spikeshell Harrier",
@@ -517,7 +2419,57 @@
     "grade": "B+",
     "rarity": "uncommon",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "U": {
+        "gihwr": 0.603,
+        "grade": "A"
+      },
+      "WU": {
+        "gihwr": 0.588,
+        "grade": "B"
+      },
+      "UB": {
+        "gihwr": 0.596,
+        "grade": "B+"
+      },
+      "UR": {
+        "gihwr": 0.577,
+        "grade": "B"
+      },
+      "UG": {
+        "gihwr": 0.614,
+        "grade": "B+"
+      },
+      "BG": {
+        "gihwr": 0.572,
+        "grade": "C+"
+      },
+      "WUB": {
+        "gihwr": 0.591,
+        "grade": "B+"
+      },
+      "WUR": {
+        "gihwr": 0.515,
+        "grade": "C"
+      },
+      "WUG": {
+        "gihwr": 0.592,
+        "grade": "B+"
+      },
+      "UBR": {
+        "gihwr": 0.557,
+        "grade": "B+"
+      },
+      "UBG": {
+        "gihwr": 0.584,
+        "grade": "A-"
+      },
+      "URG": {
+        "gihwr": 0.59,
+        "grade": "B"
+      }
+    }
   },
   "94868": {
     "name": "Stall Out",
@@ -525,7 +2477,29 @@
     "grade": "F",
     "rarity": "common",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.484,
+        "grade": "F"
+      },
+      "UB": {
+        "gihwr": 0.467,
+        "grade": "F"
+      },
+      "UR": {
+        "gihwr": 0.502,
+        "grade": "D-"
+      },
+      "UG": {
+        "gihwr": 0.506,
+        "grade": "F"
+      },
+      "URG": {
+        "gihwr": 0.495,
+        "grade": "F"
+      }
+    }
   },
   "94869": {
     "name": "Stock Up",
@@ -533,7 +2507,57 @@
     "grade": "B+",
     "rarity": "uncommon",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "U": {
+        "gihwr": 0.581,
+        "grade": "B"
+      },
+      "WU": {
+        "gihwr": 0.594,
+        "grade": "B+"
+      },
+      "UB": {
+        "gihwr": 0.597,
+        "grade": "B+"
+      },
+      "UR": {
+        "gihwr": 0.578,
+        "grade": "B"
+      },
+      "UG": {
+        "gihwr": 0.607,
+        "grade": "B"
+      },
+      "BG": {
+        "gihwr": 0.579,
+        "grade": "C+"
+      },
+      "WUB": {
+        "gihwr": 0.614,
+        "grade": "A"
+      },
+      "WUR": {
+        "gihwr": 0.58,
+        "grade": "A+"
+      },
+      "WUG": {
+        "gihwr": 0.602,
+        "grade": "A"
+      },
+      "UBR": {
+        "gihwr": 0.56,
+        "grade": "B+"
+      },
+      "UBG": {
+        "gihwr": 0.593,
+        "grade": "A-"
+      },
+      "URG": {
+        "gihwr": 0.596,
+        "grade": "B+"
+      }
+    }
   },
   "94870": {
     "name": "Thopter Fabricator",
@@ -541,7 +2565,37 @@
     "grade": "B+",
     "rarity": "rare",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.603,
+        "grade": "A-"
+      },
+      "UB": {
+        "gihwr": 0.612,
+        "grade": "A-"
+      },
+      "UR": {
+        "gihwr": 0.618,
+        "grade": "A+"
+      },
+      "UG": {
+        "gihwr": 0.581,
+        "grade": "C+"
+      },
+      "WUB": {
+        "gihwr": 0.568,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.556,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.574,
+        "grade": "B-"
+      }
+    }
   },
   "94871": {
     "name": "Trade the Helm",
@@ -549,7 +2603,29 @@
     "grade": "D",
     "rarity": "uncommon",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.51,
+        "grade": "D-"
+      },
+      "UB": {
+        "gihwr": 0.53,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.509,
+        "grade": "D"
+      },
+      "UG": {
+        "gihwr": 0.517,
+        "grade": "D-"
+      },
+      "WUB": {
+        "gihwr": 0.557,
+        "grade": "C"
+      }
+    }
   },
   "94872": {
     "name": "Transit Mage",
@@ -557,7 +2633,53 @@
     "grade": "B",
     "rarity": "uncommon",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "U": {
+        "gihwr": 0.582,
+        "grade": "B"
+      },
+      "WU": {
+        "gihwr": 0.592,
+        "grade": "B+"
+      },
+      "UB": {
+        "gihwr": 0.604,
+        "grade": "B+"
+      },
+      "UR": {
+        "gihwr": 0.579,
+        "grade": "B"
+      },
+      "UG": {
+        "gihwr": 0.586,
+        "grade": "B-"
+      },
+      "WUB": {
+        "gihwr": 0.593,
+        "grade": "B+"
+      },
+      "WUR": {
+        "gihwr": 0.582,
+        "grade": "A+"
+      },
+      "WUG": {
+        "gihwr": 0.573,
+        "grade": "B-"
+      },
+      "UBR": {
+        "gihwr": 0.532,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.571,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.567,
+        "grade": "C+"
+      }
+    }
   },
   "94873": {
     "name": "Trip Up",
@@ -565,7 +2687,53 @@
     "grade": "C-",
     "rarity": "common",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "U": {
+        "gihwr": 0.552,
+        "grade": "D+"
+      },
+      "WU": {
+        "gihwr": 0.538,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.532,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.535,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.567,
+        "grade": "C"
+      },
+      "WUB": {
+        "gihwr": 0.499,
+        "grade": "F"
+      },
+      "WUR": {
+        "gihwr": 0.504,
+        "grade": "D+"
+      },
+      "WUG": {
+        "gihwr": 0.536,
+        "grade": "D+"
+      },
+      "UBR": {
+        "gihwr": 0.507,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.489,
+        "grade": "D-"
+      },
+      "URG": {
+        "gihwr": 0.548,
+        "grade": "C"
+      }
+    }
   },
   "94874": {
     "name": "Unstoppable Plan",
@@ -581,7 +2749,29 @@
     "grade": "C-",
     "rarity": "rare",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.531,
+        "grade": "D+"
+      },
+      "UB": {
+        "gihwr": 0.553,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.536,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.525,
+        "grade": "D"
+      },
+      "WUB": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      }
+    }
   },
   "94876": {
     "name": "Waxen Shapethief",
@@ -589,7 +2779,29 @@
     "grade": "D+",
     "rarity": "rare",
     "color": "U",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.535,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.525,
+        "grade": "D"
+      },
+      "UR": {
+        "gihwr": 0.493,
+        "grade": "F"
+      },
+      "UG": {
+        "gihwr": 0.545,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.543,
+        "grade": "C-"
+      }
+    }
   },
   "94877": {
     "name": "Ancient Vendetta",
@@ -605,7 +2817,45 @@
     "grade": "B-",
     "rarity": "uncommon",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.56,
+        "grade": "C"
+      },
+      "UB": {
+        "gihwr": 0.549,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.56,
+        "grade": "C"
+      },
+      "BR": {
+        "gihwr": 0.544,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.604,
+        "grade": "B"
+      },
+      "WUB": {
+        "gihwr": 0.56,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.593,
+        "grade": "A-"
+      },
+      "UBG": {
+        "gihwr": 0.553,
+        "grade": "B-"
+      },
+      "BRG": {
+        "gihwr": 0.554,
+        "grade": "B+"
+      }
+    }
   },
   "94879": {
     "name": "Bloodghast",
@@ -613,7 +2863,25 @@
     "grade": "F",
     "rarity": "rare",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.471,
+        "grade": "F"
+      },
+      "UB": {
+        "gihwr": 0.47,
+        "grade": "F"
+      },
+      "BR": {
+        "gihwr": 0.509,
+        "grade": "D"
+      },
+      "BG": {
+        "gihwr": 0.494,
+        "grade": "F"
+      }
+    }
   },
   "94880": {
     "name": "Carrion Cruiser",
@@ -621,7 +2889,41 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.583,
+        "grade": "B-"
+      },
+      "UB": {
+        "gihwr": 0.57,
+        "grade": "C+"
+      },
+      "BR": {
+        "gihwr": 0.558,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.576,
+        "grade": "C+"
+      },
+      "WUB": {
+        "gihwr": 0.559,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.572,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.536,
+        "grade": "C"
+      },
+      "BRG": {
+        "gihwr": 0.494,
+        "grade": "D+"
+      }
+    }
   },
   "94881": {
     "name": "Chitin Gravestalker",
@@ -629,7 +2931,37 @@
     "grade": "C-",
     "rarity": "common",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.514,
+        "grade": "D-"
+      },
+      "UB": {
+        "gihwr": 0.502,
+        "grade": "F"
+      },
+      "BR": {
+        "gihwr": 0.516,
+        "grade": "D"
+      },
+      "BG": {
+        "gihwr": 0.557,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.533,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.51,
+        "grade": "D+"
+      },
+      "BRG": {
+        "gihwr": 0.477,
+        "grade": "D-"
+      }
+    }
   },
   "94882": {
     "name": "Cryptcaller Chariot",
@@ -637,7 +2969,33 @@
     "grade": "D",
     "rarity": "rare",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.521,
+        "grade": "D"
+      },
+      "UB": {
+        "gihwr": 0.511,
+        "grade": "D-"
+      },
+      "UR": {
+        "gihwr": 0.513,
+        "grade": "D"
+      },
+      "BR": {
+        "gihwr": 0.528,
+        "grade": "D+"
+      },
+      "BG": {
+        "gihwr": 0.531,
+        "grade": "D"
+      },
+      "UBR": {
+        "gihwr": 0.521,
+        "grade": "C"
+      }
+    }
   },
   "94883": {
     "name": "Cursecloth Wrappings",
@@ -645,7 +3003,33 @@
     "grade": "B",
     "rarity": "rare",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.587,
+        "grade": "B"
+      },
+      "UB": {
+        "gihwr": 0.579,
+        "grade": "B-"
+      },
+      "BR": {
+        "gihwr": 0.583,
+        "grade": "B"
+      },
+      "BG": {
+        "gihwr": 0.609,
+        "grade": "B+"
+      },
+      "WUB": {
+        "gihwr": 0.586,
+        "grade": "B"
+      },
+      "UBG": {
+        "gihwr": 0.557,
+        "grade": "B-"
+      }
+    }
   },
   "94884": {
     "name": "Deathless Pilot",
@@ -653,7 +3037,49 @@
     "grade": "C-",
     "rarity": "common",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.541,
+        "grade": "D+"
+      },
+      "UB": {
+        "gihwr": 0.533,
+        "grade": "D+"
+      },
+      "BR": {
+        "gihwr": 0.531,
+        "grade": "C-"
+      },
+      "BG": {
+        "gihwr": 0.544,
+        "grade": "D+"
+      },
+      "WUB": {
+        "gihwr": 0.531,
+        "grade": "D"
+      },
+      "WBR": {
+        "gihwr": 0.492,
+        "grade": "D-"
+      },
+      "WBG": {
+        "gihwr": 0.499,
+        "grade": "F"
+      },
+      "UBR": {
+        "gihwr": 0.489,
+        "grade": "D-"
+      },
+      "UBG": {
+        "gihwr": 0.533,
+        "grade": "C"
+      },
+      "BRG": {
+        "gihwr": 0.502,
+        "grade": "D+"
+      }
+    }
   },
   "94885": {
     "name": "Demonic Junker",
@@ -661,7 +3087,37 @@
     "grade": "B-",
     "rarity": "rare",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.559,
+        "grade": "C+"
+      },
+      "WB": {
+        "gihwr": 0.592,
+        "grade": "B"
+      },
+      "UB": {
+        "gihwr": 0.584,
+        "grade": "B"
+      },
+      "BR": {
+        "gihwr": 0.54,
+        "grade": "C-"
+      },
+      "BG": {
+        "gihwr": 0.572,
+        "grade": "C+"
+      },
+      "WUB": {
+        "gihwr": 0.589,
+        "grade": "B+"
+      },
+      "UBG": {
+        "gihwr": 0.52,
+        "grade": "C-"
+      }
+    }
   },
   "94886": {
     "name": "Engine Rat",
@@ -669,7 +3125,53 @@
     "grade": "B-",
     "rarity": "common",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "B": {
+        "gihwr": 0.597,
+        "grade": "C+"
+      },
+      "WB": {
+        "gihwr": 0.591,
+        "grade": "B"
+      },
+      "UB": {
+        "gihwr": 0.579,
+        "grade": "B-"
+      },
+      "BR": {
+        "gihwr": 0.578,
+        "grade": "B"
+      },
+      "BG": {
+        "gihwr": 0.581,
+        "grade": "B-"
+      },
+      "WUB": {
+        "gihwr": 0.563,
+        "grade": "C+"
+      },
+      "WBR": {
+        "gihwr": 0.534,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.566,
+        "grade": "B-"
+      },
+      "UBR": {
+        "gihwr": 0.546,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.561,
+        "grade": "B-"
+      },
+      "BRG": {
+        "gihwr": 0.536,
+        "grade": "B-"
+      }
+    }
   },
   "94887": {
     "name": "Gas Guzzler",
@@ -677,7 +3179,25 @@
     "grade": "C+",
     "rarity": "rare",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.574,
+        "grade": "B-"
+      },
+      "UB": {
+        "gihwr": 0.565,
+        "grade": "C+"
+      },
+      "BR": {
+        "gihwr": 0.573,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.557,
+        "grade": "C-"
+      }
+    }
   },
   "94888": {
     "name": "Gastal Raider",
@@ -685,7 +3205,33 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.568,
+        "grade": "C+"
+      },
+      "UB": {
+        "gihwr": 0.553,
+        "grade": "C"
+      },
+      "BR": {
+        "gihwr": 0.558,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.554,
+        "grade": "C-"
+      },
+      "WUB": {
+        "gihwr": 0.541,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.499,
+        "grade": "D"
+      }
+    }
   },
   "94889": {
     "name": "Gonti, Night Minister",
@@ -693,7 +3239,33 @@
     "grade": "B-",
     "rarity": "rare",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.594,
+        "grade": "B"
+      },
+      "UB": {
+        "gihwr": 0.579,
+        "grade": "B-"
+      },
+      "BR": {
+        "gihwr": 0.586,
+        "grade": "B+"
+      },
+      "BG": {
+        "gihwr": 0.595,
+        "grade": "B"
+      },
+      "WUB": {
+        "gihwr": 0.529,
+        "grade": "D"
+      },
+      "UBG": {
+        "gihwr": 0.537,
+        "grade": "C"
+      }
+    }
   },
   "94890": {
     "name": "Grim Bauble",
@@ -701,7 +3273,53 @@
     "grade": "B-",
     "rarity": "common",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "B": {
+        "gihwr": 0.584,
+        "grade": "C-"
+      },
+      "WB": {
+        "gihwr": 0.576,
+        "grade": "B-"
+      },
+      "UB": {
+        "gihwr": 0.58,
+        "grade": "B-"
+      },
+      "BR": {
+        "gihwr": 0.566,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.582,
+        "grade": "B-"
+      },
+      "WUB": {
+        "gihwr": 0.58,
+        "grade": "B"
+      },
+      "WBR": {
+        "gihwr": 0.507,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.572,
+        "grade": "B-"
+      },
+      "UBR": {
+        "gihwr": 0.551,
+        "grade": "B"
+      },
+      "UBG": {
+        "gihwr": 0.558,
+        "grade": "B-"
+      },
+      "BRG": {
+        "gihwr": 0.504,
+        "grade": "C-"
+      }
+    }
   },
   "94891": {
     "name": "Grim Javelineer",
@@ -709,7 +3327,37 @@
     "grade": "C-",
     "rarity": "common",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.56,
+        "grade": "C"
+      },
+      "UB": {
+        "gihwr": 0.525,
+        "grade": "D"
+      },
+      "BR": {
+        "gihwr": 0.555,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.545,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.516,
+        "grade": "D-"
+      },
+      "UBG": {
+        "gihwr": 0.472,
+        "grade": "F"
+      },
+      "BRG": {
+        "gihwr": 0.492,
+        "grade": "D"
+      }
+    }
   },
   "94892": {
     "name": "Hellish Sideswipe",
@@ -717,7 +3365,33 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "BR": {
+        "gihwr": 0.54,
+        "grade": "C-"
+      },
+      "BG": {
+        "gihwr": 0.555,
+        "grade": "C-"
+      },
+      "WUB": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.504,
+        "grade": "D"
+      }
+    }
   },
   "94893": {
     "name": "Hour of Victory",
@@ -725,7 +3399,33 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "UB": {
+        "gihwr": 0.549,
+        "grade": "C-"
+      },
+      "BR": {
+        "gihwr": 0.567,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.538,
+        "grade": "D+"
+      },
+      "WUB": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.448,
+        "grade": "F"
+      }
+    }
   },
   "94894": {
     "name": "Intimidation Tactics",
@@ -733,7 +3433,33 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.548,
+        "grade": "C-"
+      },
+      "BR": {
+        "gihwr": 0.545,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.567,
+        "grade": "C"
+      },
+      "WUB": {
+        "gihwr": 0.522,
+        "grade": "D-"
+      },
+      "UBG": {
+        "gihwr": 0.519,
+        "grade": "C-"
+      }
+    }
   },
   "94895": {
     "name": "Kalakscion, Hunger Tyrant",
@@ -741,7 +3467,25 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.51,
+        "grade": "F"
+      },
+      "UB": {
+        "gihwr": 0.519,
+        "grade": "D"
+      },
+      "BR": {
+        "gihwr": 0.522,
+        "grade": "D+"
+      },
+      "BG": {
+        "gihwr": 0.533,
+        "grade": "D"
+      }
+    }
   },
   "94896": {
     "name": "The Last Ride",
@@ -749,7 +3493,25 @@
     "grade": "D+",
     "rarity": "mythic",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.527,
+        "grade": "D"
+      },
+      "UB": {
+        "gihwr": 0.536,
+        "grade": "D+"
+      },
+      "BR": {
+        "gihwr": 0.565,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.509,
+        "grade": "F"
+      }
+    }
   },
   "94897": {
     "name": "Locust Spray",
@@ -757,7 +3519,25 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.534,
+        "grade": "D+"
+      },
+      "UB": {
+        "gihwr": 0.533,
+        "grade": "D+"
+      },
+      "BR": {
+        "gihwr": 0.536,
+        "grade": "C-"
+      },
+      "BG": {
+        "gihwr": 0.548,
+        "grade": "C-"
+      }
+    }
   },
   "94898": {
     "name": "Maximum Overdrive",
@@ -765,7 +3545,49 @@
     "grade": "C+",
     "rarity": "common",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.571,
+        "grade": "C+"
+      },
+      "UB": {
+        "gihwr": 0.549,
+        "grade": "C-"
+      },
+      "BR": {
+        "gihwr": 0.566,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.57,
+        "grade": "C+"
+      },
+      "WUB": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.518,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.571,
+        "grade": "B-"
+      },
+      "UBR": {
+        "gihwr": 0.494,
+        "grade": "D"
+      },
+      "UBG": {
+        "gihwr": 0.544,
+        "grade": "C+"
+      },
+      "BRG": {
+        "gihwr": 0.511,
+        "grade": "C-"
+      }
+    }
   },
   "94899": {
     "name": "Momentum Breaker",
@@ -773,7 +3595,37 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.566,
+        "grade": "C+"
+      },
+      "UB": {
+        "gihwr": 0.562,
+        "grade": "C+"
+      },
+      "BR": {
+        "gihwr": 0.573,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.576,
+        "grade": "C+"
+      },
+      "WUB": {
+        "gihwr": 0.558,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.564,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.548,
+        "grade": "C+"
+      }
+    }
   },
   "94900": {
     "name": "Mutant Surveyor",
@@ -781,7 +3633,53 @@
     "grade": "C",
     "rarity": "common",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "B": {
+        "gihwr": 0.539,
+        "grade": "F"
+      },
+      "WB": {
+        "gihwr": 0.562,
+        "grade": "C"
+      },
+      "UB": {
+        "gihwr": 0.535,
+        "grade": "D+"
+      },
+      "BR": {
+        "gihwr": 0.556,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.544,
+        "grade": "D+"
+      },
+      "WUB": {
+        "gihwr": 0.535,
+        "grade": "D+"
+      },
+      "WBR": {
+        "gihwr": 0.506,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.534,
+        "grade": "D+"
+      },
+      "UBR": {
+        "gihwr": 0.507,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.507,
+        "grade": "D+"
+      },
+      "BRG": {
+        "gihwr": 0.496,
+        "grade": "D+"
+      }
+    }
   },
   "94901": {
     "name": "Pactdoll Terror",
@@ -789,7 +3687,57 @@
     "grade": "B-",
     "rarity": "common",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "B": {
+        "gihwr": 0.611,
+        "grade": "B-"
+      },
+      "WU": {
+        "gihwr": 0.571,
+        "grade": "B-"
+      },
+      "WB": {
+        "gihwr": 0.589,
+        "grade": "B"
+      },
+      "UB": {
+        "gihwr": 0.591,
+        "grade": "B"
+      },
+      "BR": {
+        "gihwr": 0.562,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      },
+      "WUB": {
+        "gihwr": 0.592,
+        "grade": "B+"
+      },
+      "WBR": {
+        "gihwr": 0.572,
+        "grade": "A-"
+      },
+      "WBG": {
+        "gihwr": 0.523,
+        "grade": "D-"
+      },
+      "UBR": {
+        "gihwr": 0.563,
+        "grade": "B+"
+      },
+      "UBG": {
+        "gihwr": 0.553,
+        "grade": "B-"
+      },
+      "BRG": {
+        "gihwr": 0.481,
+        "grade": "D-"
+      }
+    }
   },
   "94902": {
     "name": "Quag Feast",
@@ -797,7 +3745,37 @@
     "grade": "B",
     "rarity": "rare",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.579,
+        "grade": "B-"
+      },
+      "UB": {
+        "gihwr": 0.571,
+        "grade": "C+"
+      },
+      "BR": {
+        "gihwr": 0.577,
+        "grade": "B"
+      },
+      "BG": {
+        "gihwr": 0.6,
+        "grade": "B"
+      },
+      "WUB": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.607,
+        "grade": "A"
+      },
+      "UBG": {
+        "gihwr": 0.572,
+        "grade": "B"
+      }
+    }
   },
   "94903": {
     "name": "Ripclaw Wrangler",
@@ -805,7 +3783,25 @@
     "grade": "D",
     "rarity": "common",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.521,
+        "grade": "D-"
+      },
+      "UB": {
+        "gihwr": 0.524,
+        "grade": "D"
+      },
+      "BR": {
+        "gihwr": 0.511,
+        "grade": "D"
+      },
+      "BG": {
+        "gihwr": 0.519,
+        "grade": "D-"
+      }
+    }
   },
   "94904": {
     "name": "Risen Necroregent",
@@ -813,7 +3809,37 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.552,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.54,
+        "grade": "C-"
+      },
+      "BR": {
+        "gihwr": 0.559,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.531,
+        "grade": "D"
+      },
+      "WUB": {
+        "gihwr": 0.487,
+        "grade": "F"
+      },
+      "WBG": {
+        "gihwr": 0.538,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.502,
+        "grade": "D"
+      }
+    }
   },
   "94905": {
     "name": "Risky Shortcut",
@@ -821,7 +3847,33 @@
     "grade": "C-",
     "rarity": "common",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.566,
+        "grade": "C+"
+      },
+      "UB": {
+        "gihwr": 0.531,
+        "grade": "D+"
+      },
+      "BR": {
+        "gihwr": 0.553,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.541,
+        "grade": "D+"
+      },
+      "WUB": {
+        "gihwr": 0.528,
+        "grade": "D"
+      },
+      "UBG": {
+        "gihwr": 0.499,
+        "grade": "D"
+      }
+    }
   },
   "94906": {
     "name": "Shefet Archfiend",
@@ -829,7 +3881,29 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.514,
+        "grade": "D-"
+      },
+      "UB": {
+        "gihwr": 0.53,
+        "grade": "D+"
+      },
+      "BR": {
+        "gihwr": 0.52,
+        "grade": "D+"
+      },
+      "BG": {
+        "gihwr": 0.578,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.558,
+        "grade": "B-"
+      }
+    }
   },
   "94907": {
     "name": "The Speed Demon",
@@ -837,7 +3911,25 @@
     "grade": "A-",
     "rarity": "mythic",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.624,
+        "grade": "A"
+      },
+      "UB": {
+        "gihwr": 0.612,
+        "grade": "A-"
+      },
+      "BR": {
+        "gihwr": 0.604,
+        "grade": "A-"
+      },
+      "BG": {
+        "gihwr": 0.621,
+        "grade": "A-"
+      }
+    }
   },
   "94908": {
     "name": "Spin Out",
@@ -845,7 +3937,53 @@
     "grade": "B-",
     "rarity": "common",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "B": {
+        "gihwr": 0.612,
+        "grade": "B-"
+      },
+      "WB": {
+        "gihwr": 0.58,
+        "grade": "B-"
+      },
+      "UB": {
+        "gihwr": 0.569,
+        "grade": "C+"
+      },
+      "BR": {
+        "gihwr": 0.561,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.587,
+        "grade": "B-"
+      },
+      "WUB": {
+        "gihwr": 0.532,
+        "grade": "D"
+      },
+      "WBR": {
+        "gihwr": 0.53,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.574,
+        "grade": "B"
+      },
+      "UBR": {
+        "gihwr": 0.545,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.556,
+        "grade": "B-"
+      },
+      "BRG": {
+        "gihwr": 0.521,
+        "grade": "C"
+      }
+    }
   },
   "94909": {
     "name": "Streaking Oilgorger",
@@ -853,7 +3991,33 @@
     "grade": "C-",
     "rarity": "common",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.567,
+        "grade": "C+"
+      },
+      "UB": {
+        "gihwr": 0.524,
+        "grade": "D"
+      },
+      "BR": {
+        "gihwr": 0.559,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.522,
+        "grade": "D"
+      },
+      "WBG": {
+        "gihwr": 0.54,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.503,
+        "grade": "D"
+      }
+    }
   },
   "94910": {
     "name": "Syphon Fuel",
@@ -861,7 +4025,49 @@
     "grade": "C-",
     "rarity": "common",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.543,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.537,
+        "grade": "D+"
+      },
+      "UG": {
+        "gihwr": 0.552,
+        "grade": "C-"
+      },
+      "BR": {
+        "gihwr": 0.524,
+        "grade": "D+"
+      },
+      "BG": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "WUB": {
+        "gihwr": 0.522,
+        "grade": "D-"
+      },
+      "WBG": {
+        "gihwr": 0.553,
+        "grade": "C"
+      },
+      "UBR": {
+        "gihwr": 0.489,
+        "grade": "D-"
+      },
+      "UBG": {
+        "gihwr": 0.542,
+        "grade": "C+"
+      },
+      "BRG": {
+        "gihwr": 0.492,
+        "grade": "D"
+      }
+    }
   },
   "94911": {
     "name": "Wickerfolk Indomitable",
@@ -869,7 +4075,25 @@
     "grade": "D-",
     "rarity": "uncommon",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.529,
+        "grade": "D"
+      },
+      "UB": {
+        "gihwr": 0.5,
+        "grade": "F"
+      },
+      "BR": {
+        "gihwr": 0.494,
+        "grade": "F"
+      },
+      "BG": {
+        "gihwr": 0.518,
+        "grade": "D-"
+      }
+    }
   },
   "94912": {
     "name": "Wreckage Wickerfolk",
@@ -877,7 +4101,53 @@
     "grade": "B-",
     "rarity": "common",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "B": {
+        "gihwr": 0.608,
+        "grade": "B-"
+      },
+      "WB": {
+        "gihwr": 0.599,
+        "grade": "B+"
+      },
+      "UB": {
+        "gihwr": 0.58,
+        "grade": "B-"
+      },
+      "BR": {
+        "gihwr": 0.569,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.575,
+        "grade": "C+"
+      },
+      "WUB": {
+        "gihwr": 0.581,
+        "grade": "B"
+      },
+      "WBR": {
+        "gihwr": 0.557,
+        "grade": "B+"
+      },
+      "WBG": {
+        "gihwr": 0.575,
+        "grade": "B"
+      },
+      "UBR": {
+        "gihwr": 0.558,
+        "grade": "B+"
+      },
+      "UBG": {
+        "gihwr": 0.551,
+        "grade": "C+"
+      },
+      "BRG": {
+        "gihwr": 0.507,
+        "grade": "C-"
+      }
+    }
   },
   "94913": {
     "name": "Wretched Doll",
@@ -885,7 +4155,37 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "B",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.554,
+        "grade": "C"
+      },
+      "BR": {
+        "gihwr": 0.548,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "WUB": {
+        "gihwr": 0.56,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.551,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.53,
+        "grade": "C"
+      }
+    }
   },
   "94914": {
     "name": "Adrenaline Jockey",
@@ -893,7 +4193,29 @@
     "grade": "D",
     "rarity": "uncommon",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.491,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.521,
+        "grade": "D+"
+      },
+      "BR": {
+        "gihwr": 0.532,
+        "grade": "C-"
+      },
+      "RG": {
+        "gihwr": 0.521,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.53,
+        "grade": "D+"
+      }
+    }
   },
   "94915": {
     "name": "Boommobile",
@@ -901,7 +4223,33 @@
     "grade": "B",
     "rarity": "rare",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.594,
+        "grade": "A+"
+      },
+      "UR": {
+        "gihwr": 0.568,
+        "grade": "B-"
+      },
+      "BR": {
+        "gihwr": 0.585,
+        "grade": "B+"
+      },
+      "RG": {
+        "gihwr": 0.611,
+        "grade": "A"
+      },
+      "WRG": {
+        "gihwr": 0.542,
+        "grade": "B+"
+      },
+      "URG": {
+        "gihwr": 0.603,
+        "grade": "A-"
+      }
+    }
   },
   "94916": {
     "name": "Burner Rocket",
@@ -909,7 +4257,25 @@
     "grade": "D",
     "rarity": "common",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.507,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.508,
+        "grade": "D"
+      },
+      "BR": {
+        "gihwr": 0.531,
+        "grade": "C-"
+      },
+      "RG": {
+        "gihwr": 0.519,
+        "grade": "D+"
+      }
+    }
   },
   "94917": {
     "name": "Burnout Bashtronaut",
@@ -917,7 +4283,29 @@
     "grade": "B",
     "rarity": "rare",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.556,
+        "grade": "B+"
+      },
+      "UR": {
+        "gihwr": 0.584,
+        "grade": "B+"
+      },
+      "BR": {
+        "gihwr": 0.632,
+        "grade": "A+"
+      },
+      "RG": {
+        "gihwr": 0.595,
+        "grade": "B+"
+      },
+      "URG": {
+        "gihwr": 0.546,
+        "grade": "C"
+      }
+    }
   },
   "94918": {
     "name": "Chandra, Spark Hunter",
@@ -925,7 +4313,25 @@
     "grade": "B",
     "rarity": "mythic",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.588,
+        "grade": "A"
+      },
+      "UR": {
+        "gihwr": 0.61,
+        "grade": "A"
+      },
+      "BR": {
+        "gihwr": 0.579,
+        "grade": "B"
+      },
+      "RG": {
+        "gihwr": 0.61,
+        "grade": "A-"
+      }
+    }
   },
   "94919": {
     "name": "Clamorous Ironclad",
@@ -933,7 +4339,45 @@
     "grade": "D+",
     "rarity": "common",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "R": {
+        "gihwr": 0.523,
+        "grade": "C+"
+      },
+      "WR": {
+        "gihwr": 0.505,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.552,
+        "grade": "C+"
+      },
+      "BR": {
+        "gihwr": 0.524,
+        "grade": "D+"
+      },
+      "RG": {
+        "gihwr": 0.508,
+        "grade": "D"
+      },
+      "WUR": {
+        "gihwr": 0.505,
+        "grade": "C-"
+      },
+      "WRG": {
+        "gihwr": 0.494,
+        "grade": "D+"
+      },
+      "UBR": {
+        "gihwr": 0.477,
+        "grade": "F"
+      },
+      "URG": {
+        "gihwr": 0.517,
+        "grade": "D"
+      }
+    }
   },
   "94920": {
     "name": "Count on Luck",
@@ -941,7 +4385,25 @@
     "grade": "D-",
     "rarity": "rare",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.475,
+        "grade": "D"
+      },
+      "UR": {
+        "gihwr": 0.503,
+        "grade": "D-"
+      },
+      "BR": {
+        "gihwr": 0.533,
+        "grade": "C-"
+      },
+      "RG": {
+        "gihwr": 0.493,
+        "grade": "D-"
+      }
+    }
   },
   "94921": {
     "name": "Crash and Burn",
@@ -949,7 +4411,61 @@
     "grade": "C-",
     "rarity": "common",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "R": {
+        "gihwr": 0.529,
+        "grade": "C+"
+      },
+      "WR": {
+        "gihwr": 0.51,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.534,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.559,
+        "grade": "C-"
+      },
+      "BR": {
+        "gihwr": 0.55,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.511,
+        "grade": "D-"
+      },
+      "RG": {
+        "gihwr": 0.541,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.491,
+        "grade": "D"
+      },
+      "WBR": {
+        "gihwr": 0.49,
+        "grade": "D-"
+      },
+      "WRG": {
+        "gihwr": 0.518,
+        "grade": "C+"
+      },
+      "UBR": {
+        "gihwr": 0.482,
+        "grade": "D-"
+      },
+      "URG": {
+        "gihwr": 0.544,
+        "grade": "C-"
+      },
+      "BRG": {
+        "gihwr": 0.516,
+        "grade": "C"
+      }
+    }
   },
   "94922": {
     "name": "Daretti, Rocketeer Engineer",
@@ -957,7 +4473,25 @@
     "grade": "D",
     "rarity": "rare",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.506,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.519,
+        "grade": "D+"
+      },
+      "BR": {
+        "gihwr": 0.504,
+        "grade": "D-"
+      },
+      "RG": {
+        "gihwr": 0.482,
+        "grade": "F"
+      }
+    }
   },
   "94923": {
     "name": "Draconautics Engineer",
@@ -965,7 +4499,37 @@
     "grade": "A",
     "rarity": "rare",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.591,
+        "grade": "A+"
+      },
+      "UR": {
+        "gihwr": 0.622,
+        "grade": "A+"
+      },
+      "UG": {
+        "gihwr": 0.637,
+        "grade": "A"
+      },
+      "BR": {
+        "gihwr": 0.637,
+        "grade": "A+"
+      },
+      "BG": {
+        "gihwr": 0.584,
+        "grade": "B-"
+      },
+      "RG": {
+        "gihwr": 0.622,
+        "grade": "A"
+      },
+      "URG": {
+        "gihwr": 0.621,
+        "grade": "A"
+      }
+    }
   },
   "94924": {
     "name": "Dracosaur Auxiliary",
@@ -973,7 +4537,33 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.541,
+        "grade": "B"
+      },
+      "UR": {
+        "gihwr": 0.545,
+        "grade": "C"
+      },
+      "BR": {
+        "gihwr": 0.552,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.55,
+        "grade": "C+"
+      },
+      "WRG": {
+        "gihwr": 0.526,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.55,
+        "grade": "C"
+      }
+    }
   },
   "94925": {
     "name": "Dynamite Diver",
@@ -981,7 +4571,25 @@
     "grade": "D+",
     "rarity": "common",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.491,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.554,
+        "grade": "C+"
+      },
+      "BR": {
+        "gihwr": 0.547,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.503,
+        "grade": "D"
+      }
+    }
   },
   "94926": {
     "name": "Endrider Catalyzer",
@@ -989,7 +4597,49 @@
     "grade": "C-",
     "rarity": "common",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "R": {
+        "gihwr": 0.544,
+        "grade": "B"
+      },
+      "WR": {
+        "gihwr": 0.496,
+        "grade": "C-"
+      },
+      "UR": {
+        "gihwr": 0.545,
+        "grade": "C"
+      },
+      "BR": {
+        "gihwr": 0.558,
+        "grade": "C+"
+      },
+      "RG": {
+        "gihwr": 0.524,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.53,
+        "grade": "C+"
+      },
+      "WRG": {
+        "gihwr": 0.475,
+        "grade": "D-"
+      },
+      "UBR": {
+        "gihwr": 0.525,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.533,
+        "grade": "D+"
+      },
+      "BRG": {
+        "gihwr": 0.481,
+        "grade": "D-"
+      }
+    }
   },
   "94927": {
     "name": "Endrider Spikespitter",
@@ -997,7 +4647,37 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.51,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.523,
+        "grade": "D+"
+      },
+      "BR": {
+        "gihwr": 0.557,
+        "grade": "C+"
+      },
+      "RG": {
+        "gihwr": 0.516,
+        "grade": "D+"
+      },
+      "WRG": {
+        "gihwr": 0.485,
+        "grade": "D"
+      },
+      "URG": {
+        "gihwr": 0.5,
+        "grade": "F"
+      },
+      "BRG": {
+        "gihwr": 0.516,
+        "grade": "C"
+      }
+    }
   },
   "94928": {
     "name": "Fuel the Flames",
@@ -1005,7 +4685,29 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.433,
+        "grade": "F"
+      },
+      "UR": {
+        "gihwr": 0.543,
+        "grade": "C"
+      },
+      "BR": {
+        "gihwr": 0.517,
+        "grade": "D"
+      },
+      "RG": {
+        "gihwr": 0.53,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.56,
+        "grade": "C+"
+      }
+    }
   },
   "94929": {
     "name": "Full Throttle",
@@ -1013,7 +4715,13 @@
     "grade": "F",
     "rarity": "rare",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "RG": {
+        "gihwr": 0.462,
+        "grade": "F"
+      }
+    }
   },
   "94930": {
     "name": "Gastal Blockbuster",
@@ -1021,7 +4729,29 @@
     "grade": "D",
     "rarity": "common",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.492,
+        "grade": "C-"
+      },
+      "UR": {
+        "gihwr": 0.525,
+        "grade": "D+"
+      },
+      "BR": {
+        "gihwr": 0.525,
+        "grade": "D+"
+      },
+      "RG": {
+        "gihwr": 0.51,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.491,
+        "grade": "F"
+      }
+    }
   },
   "94931": {
     "name": "Gastal Thrillroller",
@@ -1029,7 +4759,25 @@
     "grade": "C",
     "rarity": "rare",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.553,
+        "grade": "B+"
+      },
+      "UR": {
+        "gihwr": 0.557,
+        "grade": "C+"
+      },
+      "BR": {
+        "gihwr": 0.576,
+        "grade": "B"
+      },
+      "RG": {
+        "gihwr": 0.546,
+        "grade": "C"
+      }
+    }
   },
   "94932": {
     "name": "Gilded Ghoda",
@@ -1037,7 +4785,53 @@
     "grade": "D+",
     "rarity": "common",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "R": {
+        "gihwr": 0.509,
+        "grade": "C-"
+      },
+      "WR": {
+        "gihwr": 0.511,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.54,
+        "grade": "C"
+      },
+      "BR": {
+        "gihwr": 0.54,
+        "grade": "C-"
+      },
+      "RG": {
+        "gihwr": 0.526,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.516,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.494,
+        "grade": "D"
+      },
+      "WRG": {
+        "gihwr": 0.482,
+        "grade": "D"
+      },
+      "UBR": {
+        "gihwr": 0.524,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.527,
+        "grade": "D+"
+      },
+      "BRG": {
+        "gihwr": 0.493,
+        "grade": "D+"
+      }
+    }
   },
   "94933": {
     "name": "Goblin Surveyor",
@@ -1045,7 +4839,41 @@
     "grade": "D",
     "rarity": "common",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "R": {
+        "gihwr": 0.478,
+        "grade": "D-"
+      },
+      "WR": {
+        "gihwr": 0.494,
+        "grade": "C-"
+      },
+      "UR": {
+        "gihwr": 0.513,
+        "grade": "D"
+      },
+      "BR": {
+        "gihwr": 0.536,
+        "grade": "C-"
+      },
+      "RG": {
+        "gihwr": 0.507,
+        "grade": "D"
+      },
+      "WRG": {
+        "gihwr": 0.494,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.528,
+        "grade": "D+"
+      },
+      "BRG": {
+        "gihwr": 0.474,
+        "grade": "F"
+      }
+    }
   },
   "94934": {
     "name": "Greasewrench Goblin",
@@ -1053,7 +4881,33 @@
     "grade": "B-",
     "rarity": "uncommon",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.537,
+        "grade": "B-"
+      },
+      "UR": {
+        "gihwr": 0.585,
+        "grade": "B+"
+      },
+      "BR": {
+        "gihwr": 0.596,
+        "grade": "A-"
+      },
+      "RG": {
+        "gihwr": 0.563,
+        "grade": "B-"
+      },
+      "WRG": {
+        "gihwr": 0.493,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.579,
+        "grade": "B-"
+      }
+    }
   },
   "94935": {
     "name": "Hazoret, Godseeker",
@@ -1061,7 +4915,25 @@
     "grade": "B",
     "rarity": "mythic",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.561,
+        "grade": "B+"
+      },
+      "UR": {
+        "gihwr": 0.583,
+        "grade": "B"
+      },
+      "BR": {
+        "gihwr": 0.628,
+        "grade": "A+"
+      },
+      "RG": {
+        "gihwr": 0.583,
+        "grade": "B"
+      }
+    }
   },
   "94936": {
     "name": "Howlsquad Heavy",
@@ -1069,7 +4941,29 @@
     "grade": "A",
     "rarity": "rare",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.619,
+        "grade": "A+"
+      },
+      "UR": {
+        "gihwr": 0.615,
+        "grade": "A"
+      },
+      "BR": {
+        "gihwr": 0.648,
+        "grade": "A+"
+      },
+      "RG": {
+        "gihwr": 0.609,
+        "grade": "A-"
+      },
+      "URG": {
+        "gihwr": 0.582,
+        "grade": "B"
+      }
+    }
   },
   "94937": {
     "name": "Kickoff Celebrations",
@@ -1077,7 +4971,33 @@
     "grade": "D",
     "rarity": "common",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.487,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.526,
+        "grade": "D+"
+      },
+      "BR": {
+        "gihwr": 0.516,
+        "grade": "D"
+      },
+      "RG": {
+        "gihwr": 0.498,
+        "grade": "D"
+      },
+      "UBR": {
+        "gihwr": 0.459,
+        "grade": "F"
+      },
+      "URG": {
+        "gihwr": 0.512,
+        "grade": "D-"
+      }
+    }
   },
   "94938": {
     "name": "Lightning Strike",
@@ -1085,7 +5005,57 @@
     "grade": "C",
     "rarity": "common",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "R": {
+        "gihwr": 0.534,
+        "grade": "B-"
+      },
+      "WR": {
+        "gihwr": 0.522,
+        "grade": "C+"
+      },
+      "UR": {
+        "gihwr": 0.553,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.571,
+        "grade": "C"
+      },
+      "BR": {
+        "gihwr": 0.562,
+        "grade": "C+"
+      },
+      "RG": {
+        "gihwr": 0.553,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.487,
+        "grade": "D"
+      },
+      "WBR": {
+        "gihwr": 0.539,
+        "grade": "B-"
+      },
+      "WRG": {
+        "gihwr": 0.489,
+        "grade": "D"
+      },
+      "UBR": {
+        "gihwr": 0.529,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.554,
+        "grade": "C"
+      },
+      "BRG": {
+        "gihwr": 0.537,
+        "grade": "B-"
+      }
+    }
   },
   "94939": {
     "name": "Magmakin Artillerist",
@@ -1093,7 +5063,37 @@
     "grade": "D-",
     "rarity": "common",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "R": {
+        "gihwr": 0.457,
+        "grade": "F"
+      },
+      "WR": {
+        "gihwr": 0.41,
+        "grade": "F"
+      },
+      "UR": {
+        "gihwr": 0.519,
+        "grade": "D+"
+      },
+      "BR": {
+        "gihwr": 0.49,
+        "grade": "F"
+      },
+      "RG": {
+        "gihwr": 0.45,
+        "grade": "F"
+      },
+      "UBR": {
+        "gihwr": 0.49,
+        "grade": "D"
+      },
+      "URG": {
+        "gihwr": 0.471,
+        "grade": "F"
+      }
+    }
   },
   "94940": {
     "name": "Marauding Mako",
@@ -1101,7 +5101,33 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.487,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.578,
+        "grade": "B"
+      },
+      "BR": {
+        "gihwr": 0.525,
+        "grade": "D+"
+      },
+      "RG": {
+        "gihwr": 0.503,
+        "grade": "D"
+      },
+      "UBR": {
+        "gihwr": 0.507,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.516,
+        "grade": "D"
+      }
+    }
   },
   "94941": {
     "name": "Outpace Oblivion",
@@ -1109,7 +5135,45 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.529,
+        "grade": "B-"
+      },
+      "UR": {
+        "gihwr": 0.552,
+        "grade": "C+"
+      },
+      "BR": {
+        "gihwr": 0.571,
+        "grade": "B-"
+      },
+      "RG": {
+        "gihwr": 0.555,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.542,
+        "grade": "B-"
+      },
+      "WRG": {
+        "gihwr": 0.523,
+        "grade": "C+"
+      },
+      "UBR": {
+        "gihwr": 0.497,
+        "grade": "D"
+      },
+      "URG": {
+        "gihwr": 0.547,
+        "grade": "C"
+      },
+      "BRG": {
+        "gihwr": 0.524,
+        "grade": "C+"
+      }
+    }
   },
   "94942": {
     "name": "Pacesetter Paragon",
@@ -1117,7 +5181,29 @@
     "grade": "D",
     "rarity": "uncommon",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.482,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.53,
+        "grade": "C-"
+      },
+      "BR": {
+        "gihwr": 0.526,
+        "grade": "D+"
+      },
+      "RG": {
+        "gihwr": 0.522,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.477,
+        "grade": "F"
+      }
+    }
   },
   "94943": {
     "name": "Pedal to the Metal",
@@ -1125,7 +5211,25 @@
     "grade": "D",
     "rarity": "common",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.492,
+        "grade": "C-"
+      },
+      "UR": {
+        "gihwr": 0.495,
+        "grade": "F"
+      },
+      "BR": {
+        "gihwr": 0.519,
+        "grade": "D"
+      },
+      "RG": {
+        "gihwr": 0.532,
+        "grade": "C-"
+      }
+    }
   },
   "94944": {
     "name": "Prowcatcher Specialist",
@@ -1133,7 +5237,45 @@
     "grade": "D+",
     "rarity": "common",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "R": {
+        "gihwr": 0.531,
+        "grade": "B-"
+      },
+      "WR": {
+        "gihwr": 0.491,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.523,
+        "grade": "D+"
+      },
+      "BR": {
+        "gihwr": 0.539,
+        "grade": "C-"
+      },
+      "RG": {
+        "gihwr": 0.525,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.504,
+        "grade": "D+"
+      },
+      "WRG": {
+        "gihwr": 0.458,
+        "grade": "F"
+      },
+      "URG": {
+        "gihwr": 0.524,
+        "grade": "D"
+      },
+      "BRG": {
+        "gihwr": 0.512,
+        "grade": "C"
+      }
+    }
   },
   "94945": {
     "name": "Push the Limit",
@@ -1141,7 +5283,29 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.524,
+        "grade": "C+"
+      },
+      "UR": {
+        "gihwr": 0.585,
+        "grade": "B+"
+      },
+      "BR": {
+        "gihwr": 0.525,
+        "grade": "D+"
+      },
+      "RG": {
+        "gihwr": 0.5,
+        "grade": "D"
+      },
+      "WUR": {
+        "gihwr": 0.525,
+        "grade": "C+"
+      }
+    }
   },
   "94946": {
     "name": "Reckless Velocitaur",
@@ -1149,7 +5313,25 @@
     "grade": "F",
     "rarity": "uncommon",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.507,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.49,
+        "grade": "F"
+      },
+      "BR": {
+        "gihwr": 0.499,
+        "grade": "D-"
+      },
+      "RG": {
+        "gihwr": 0.495,
+        "grade": "D-"
+      }
+    }
   },
   "94947": {
     "name": "Road Rage",
@@ -1157,7 +5339,45 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.544,
+        "grade": "B"
+      },
+      "UR": {
+        "gihwr": 0.559,
+        "grade": "C+"
+      },
+      "BR": {
+        "gihwr": 0.57,
+        "grade": "B-"
+      },
+      "RG": {
+        "gihwr": 0.566,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.52,
+        "grade": "C"
+      },
+      "WRG": {
+        "gihwr": 0.524,
+        "grade": "B-"
+      },
+      "UBR": {
+        "gihwr": 0.552,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.558,
+        "grade": "C+"
+      },
+      "BRG": {
+        "gihwr": 0.537,
+        "grade": "B-"
+      }
+    }
   },
   "94948": {
     "name": "Skycrash",
@@ -1165,7 +5385,33 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.487,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.562,
+        "grade": "B-"
+      },
+      "BR": {
+        "gihwr": 0.551,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.543,
+        "grade": "C"
+      },
+      "UBR": {
+        "gihwr": 0.51,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.539,
+        "grade": "C-"
+      }
+    }
   },
   "94949": {
     "name": "Spire Mechcycle",
@@ -1173,7 +5419,33 @@
     "grade": "F",
     "rarity": "uncommon",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.496,
+        "grade": "C-"
+      },
+      "UR": {
+        "gihwr": 0.513,
+        "grade": "D"
+      },
+      "BR": {
+        "gihwr": 0.491,
+        "grade": "F"
+      },
+      "RG": {
+        "gihwr": 0.506,
+        "grade": "D"
+      },
+      "WRG": {
+        "gihwr": 0.464,
+        "grade": "F"
+      },
+      "URG": {
+        "gihwr": 0.523,
+        "grade": "D"
+      }
+    }
   },
   "94950": {
     "name": "Thunderhead Gunner",
@@ -1181,7 +5453,65 @@
     "grade": "C+",
     "rarity": "common",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "R": {
+        "gihwr": 0.534,
+        "grade": "B-"
+      },
+      "WR": {
+        "gihwr": 0.531,
+        "grade": "B-"
+      },
+      "UB": {
+        "gihwr": 0.538,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.571,
+        "grade": "B-"
+      },
+      "UG": {
+        "gihwr": 0.561,
+        "grade": "C"
+      },
+      "BR": {
+        "gihwr": 0.562,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.576,
+        "grade": "C+"
+      },
+      "RG": {
+        "gihwr": 0.557,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.544,
+        "grade": "B"
+      },
+      "WBR": {
+        "gihwr": 0.561,
+        "grade": "B+"
+      },
+      "WRG": {
+        "gihwr": 0.524,
+        "grade": "B-"
+      },
+      "UBR": {
+        "gihwr": 0.525,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.562,
+        "grade": "C+"
+      },
+      "BRG": {
+        "gihwr": 0.513,
+        "grade": "C"
+      }
+    }
   },
   "94951": {
     "name": "Tyrox, Saurid Tyrant",
@@ -1189,7 +5519,29 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "R",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.496,
+        "grade": "C-"
+      },
+      "UR": {
+        "gihwr": 0.544,
+        "grade": "C"
+      },
+      "BR": {
+        "gihwr": 0.544,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.532,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.542,
+        "grade": "C-"
+      }
+    }
   },
   "94952": {
     "name": "Afterburner Expert",
@@ -1197,7 +5549,33 @@
     "grade": "B+",
     "rarity": "rare",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.561,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.615,
+        "grade": "B+"
+      },
+      "BG": {
+        "gihwr": 0.586,
+        "grade": "B-"
+      },
+      "RG": {
+        "gihwr": 0.608,
+        "grade": "A-"
+      },
+      "UBG": {
+        "gihwr": 0.527,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.587,
+        "grade": "B"
+      }
+    }
   },
   "94953": {
     "name": "Agonasaur Rex",
@@ -1205,7 +5583,33 @@
     "grade": "A+",
     "rarity": "rare",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.666,
+        "grade": "A+"
+      },
+      "UG": {
+        "gihwr": 0.642,
+        "grade": "A"
+      },
+      "BG": {
+        "gihwr": 0.654,
+        "grade": "A+"
+      },
+      "RG": {
+        "gihwr": 0.636,
+        "grade": "A+"
+      },
+      "UBG": {
+        "gihwr": 0.641,
+        "grade": "A+"
+      },
+      "URG": {
+        "gihwr": 0.634,
+        "grade": "A+"
+      }
+    }
   },
   "94954": {
     "name": "Alacrian Jaguar",
@@ -1213,7 +5617,33 @@
     "grade": "D-",
     "rarity": "common",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.526,
+        "grade": "D+"
+      },
+      "UG": {
+        "gihwr": 0.497,
+        "grade": "F"
+      },
+      "BG": {
+        "gihwr": 0.516,
+        "grade": "D-"
+      },
+      "RG": {
+        "gihwr": 0.498,
+        "grade": "D"
+      },
+      "WRG": {
+        "gihwr": 0.454,
+        "grade": "F"
+      },
+      "URG": {
+        "gihwr": 0.507,
+        "grade": "D-"
+      }
+    }
   },
   "94955": {
     "name": "Autarch Mammoth",
@@ -1221,7 +5651,53 @@
     "grade": "B",
     "rarity": "uncommon",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.644,
+        "grade": "A+"
+      },
+      "WG": {
+        "gihwr": 0.578,
+        "grade": "B-"
+      },
+      "UG": {
+        "gihwr": 0.59,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.596,
+        "grade": "B"
+      },
+      "RG": {
+        "gihwr": 0.568,
+        "grade": "B-"
+      },
+      "WUG": {
+        "gihwr": 0.612,
+        "grade": "A+"
+      },
+      "WBG": {
+        "gihwr": 0.569,
+        "grade": "B-"
+      },
+      "WRG": {
+        "gihwr": 0.53,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.568,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.558,
+        "grade": "C+"
+      },
+      "BRG": {
+        "gihwr": 0.562,
+        "grade": "A-"
+      }
+    }
   },
   "94956": {
     "name": "Beastrider Vanguard",
@@ -1229,7 +5705,53 @@
     "grade": "C+",
     "rarity": "common",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.588,
+        "grade": "C-"
+      },
+      "WG": {
+        "gihwr": 0.569,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.575,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.571,
+        "grade": "C+"
+      },
+      "RG": {
+        "gihwr": 0.541,
+        "grade": "C"
+      },
+      "WUG": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.559,
+        "grade": "C+"
+      },
+      "WRG": {
+        "gihwr": 0.527,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.537,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.547,
+        "grade": "C"
+      },
+      "BRG": {
+        "gihwr": 0.524,
+        "grade": "C+"
+      }
+    }
   },
   "94957": {
     "name": "Bestow Greatness",
@@ -1237,7 +5759,45 @@
     "grade": "C+",
     "rarity": "common",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.603,
+        "grade": "C+"
+      },
+      "WG": {
+        "gihwr": 0.576,
+        "grade": "B-"
+      },
+      "UG": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.549,
+        "grade": "C-"
+      },
+      "RG": {
+        "gihwr": 0.555,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "WRG": {
+        "gihwr": 0.542,
+        "grade": "B+"
+      },
+      "UBG": {
+        "gihwr": 0.497,
+        "grade": "D"
+      },
+      "URG": {
+        "gihwr": 0.54,
+        "grade": "C-"
+      }
+    }
   },
   "94958": {
     "name": "Broken Wings",
@@ -1245,7 +5805,53 @@
     "grade": "C",
     "rarity": "common",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.59,
+        "grade": "C-"
+      },
+      "WG": {
+        "gihwr": 0.539,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.558,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.53,
+        "grade": "C-"
+      },
+      "WUG": {
+        "gihwr": 0.561,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.529,
+        "grade": "D"
+      },
+      "WRG": {
+        "gihwr": 0.51,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.53,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.55,
+        "grade": "C"
+      },
+      "BRG": {
+        "gihwr": 0.488,
+        "grade": "D"
+      }
+    }
   },
   "94959": {
     "name": "Defend the Rider",
@@ -1253,7 +5859,41 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.61,
+        "grade": "B-"
+      },
+      "WG": {
+        "gihwr": 0.541,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.576,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.556,
+        "grade": "C-"
+      },
+      "RG": {
+        "gihwr": 0.553,
+        "grade": "C+"
+      },
+      "WRG": {
+        "gihwr": 0.514,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.524,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.559,
+        "grade": "C+"
+      }
+    }
   },
   "94960": {
     "name": "District Mascot",
@@ -1261,7 +5901,29 @@
     "grade": "B",
     "rarity": "rare",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.59,
+        "grade": "B"
+      },
+      "UG": {
+        "gihwr": 0.594,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.587,
+        "grade": "B-"
+      },
+      "RG": {
+        "gihwr": 0.567,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.584,
+        "grade": "B"
+      }
+    }
   },
   "94961": {
     "name": "Dredger's Insight",
@@ -1269,7 +5931,45 @@
     "grade": "B-",
     "rarity": "uncommon",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.617,
+        "grade": "B"
+      },
+      "WG": {
+        "gihwr": 0.558,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.564,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.584,
+        "grade": "B-"
+      },
+      "RG": {
+        "gihwr": 0.541,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.578,
+        "grade": "B"
+      },
+      "UBG": {
+        "gihwr": 0.536,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.557,
+        "grade": "C"
+      },
+      "BRG": {
+        "gihwr": 0.53,
+        "grade": "C+"
+      }
+    }
   },
   "94962": {
     "name": "Earthrumbler",
@@ -1277,7 +5977,49 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.588,
+        "grade": "C-"
+      },
+      "WG": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.567,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.569,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.551,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.532,
+        "grade": "D"
+      },
+      "WRG": {
+        "gihwr": 0.514,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.533,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.532,
+        "grade": "D+"
+      },
+      "BRG": {
+        "gihwr": 0.514,
+        "grade": "C"
+      }
+    }
   },
   "94963": {
     "name": "Elvish Refueler",
@@ -1285,7 +6027,45 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.587,
+        "grade": "C-"
+      },
+      "WG": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.573,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.545,
+        "grade": "D+"
+      },
+      "RG": {
+        "gihwr": 0.544,
+        "grade": "C"
+      },
+      "WUG": {
+        "gihwr": 0.504,
+        "grade": "F"
+      },
+      "WRG": {
+        "gihwr": 0.502,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.535,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      }
+    }
   },
   "94964": {
     "name": "Fang Guardian",
@@ -1293,7 +6073,41 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.586,
+        "grade": "C-"
+      },
+      "WG": {
+        "gihwr": 0.575,
+        "grade": "B-"
+      },
+      "UG": {
+        "gihwr": 0.579,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.572,
+        "grade": "C+"
+      },
+      "RG": {
+        "gihwr": 0.556,
+        "grade": "C+"
+      },
+      "WRG": {
+        "gihwr": 0.507,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.517,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.549,
+        "grade": "C"
+      }
+    }
   },
   "94965": {
     "name": "Fang-Druid Summoner",
@@ -1301,7 +6115,37 @@
     "grade": "B-",
     "rarity": "uncommon",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.603,
+        "grade": "C+"
+      },
+      "WG": {
+        "gihwr": 0.58,
+        "grade": "B-"
+      },
+      "UG": {
+        "gihwr": 0.586,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.586,
+        "grade": "B-"
+      },
+      "RG": {
+        "gihwr": 0.56,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.573,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.572,
+        "grade": "B-"
+      }
+    }
   },
   "94966": {
     "name": "Greenbelt Guardian",
@@ -1309,7 +6153,53 @@
     "grade": "B",
     "rarity": "uncommon",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.611,
+        "grade": "B"
+      },
+      "WG": {
+        "gihwr": 0.573,
+        "grade": "B-"
+      },
+      "UG": {
+        "gihwr": 0.592,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.59,
+        "grade": "B-"
+      },
+      "RG": {
+        "gihwr": 0.577,
+        "grade": "B"
+      },
+      "WUG": {
+        "gihwr": 0.573,
+        "grade": "B-"
+      },
+      "WBG": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      },
+      "WRG": {
+        "gihwr": 0.526,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.542,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.567,
+        "grade": "C+"
+      },
+      "BRG": {
+        "gihwr": 0.538,
+        "grade": "B-"
+      }
+    }
   },
   "94967": {
     "name": "Hazard of the Dunes",
@@ -1317,7 +6207,53 @@
     "grade": "C+",
     "rarity": "common",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.601,
+        "grade": "C+"
+      },
+      "WG": {
+        "gihwr": 0.562,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.573,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.581,
+        "grade": "B-"
+      },
+      "RG": {
+        "gihwr": 0.556,
+        "grade": "C+"
+      },
+      "WUG": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.574,
+        "grade": "B"
+      },
+      "WRG": {
+        "gihwr": 0.522,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.542,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.55,
+        "grade": "C"
+      },
+      "BRG": {
+        "gihwr": 0.541,
+        "grade": "B"
+      }
+    }
   },
   "94968": {
     "name": "Jibbirik Omnivore",
@@ -1325,7 +6261,53 @@
     "grade": "C",
     "rarity": "common",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.572,
+        "grade": "D-"
+      },
+      "WG": {
+        "gihwr": 0.541,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.56,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.562,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.548,
+        "grade": "C+"
+      },
+      "WUG": {
+        "gihwr": 0.552,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.512,
+        "grade": "F"
+      },
+      "WRG": {
+        "gihwr": 0.499,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.538,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.547,
+        "grade": "C"
+      },
+      "BRG": {
+        "gihwr": 0.511,
+        "grade": "C-"
+      }
+    }
   },
   "94969": {
     "name": "Loxodon Surveyor",
@@ -1333,7 +6315,49 @@
     "grade": "C-",
     "rarity": "common",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.579,
+        "grade": "D+"
+      },
+      "WG": {
+        "gihwr": 0.535,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      },
+      "BG": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      },
+      "RG": {
+        "gihwr": 0.523,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.52,
+        "grade": "D-"
+      },
+      "WRG": {
+        "gihwr": 0.504,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.506,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.517,
+        "grade": "D"
+      },
+      "BRG": {
+        "gihwr": 0.483,
+        "grade": "D-"
+      }
+    }
   },
   "94970": {
     "name": "Lumbering Worldwagon",
@@ -1341,7 +6365,33 @@
     "grade": "A+",
     "rarity": "rare",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.663,
+        "grade": "A+"
+      },
+      "UG": {
+        "gihwr": 0.676,
+        "grade": "A+"
+      },
+      "BG": {
+        "gihwr": 0.662,
+        "grade": "A+"
+      },
+      "RG": {
+        "gihwr": 0.656,
+        "grade": "A+"
+      },
+      "UBG": {
+        "gihwr": 0.602,
+        "grade": "A"
+      },
+      "URG": {
+        "gihwr": 0.632,
+        "grade": "A+"
+      }
+    }
   },
   "94971": {
     "name": "March of the World Ooze",
@@ -1349,7 +6399,25 @@
     "grade": "A+",
     "rarity": "mythic",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.636,
+        "grade": "A+"
+      },
+      "UG": {
+        "gihwr": 0.659,
+        "grade": "A+"
+      },
+      "BG": {
+        "gihwr": 0.611,
+        "grade": "B+"
+      },
+      "RG": {
+        "gihwr": 0.621,
+        "grade": "A"
+      }
+    }
   },
   "94972": {
     "name": "Migrating Ketradon",
@@ -1357,7 +6425,53 @@
     "grade": "B-",
     "rarity": "common",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.576,
+        "grade": "D"
+      },
+      "WG": {
+        "gihwr": 0.561,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.589,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.589,
+        "grade": "B-"
+      },
+      "RG": {
+        "gihwr": 0.548,
+        "grade": "C+"
+      },
+      "WUG": {
+        "gihwr": 0.575,
+        "grade": "B-"
+      },
+      "WBG": {
+        "gihwr": 0.563,
+        "grade": "C+"
+      },
+      "WRG": {
+        "gihwr": 0.546,
+        "grade": "B+"
+      },
+      "UBG": {
+        "gihwr": 0.551,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.569,
+        "grade": "B-"
+      },
+      "BRG": {
+        "gihwr": 0.525,
+        "grade": "C+"
+      }
+    }
   },
   "94973": {
     "name": "Molt Tender",
@@ -1365,7 +6479,53 @@
     "grade": "B-",
     "rarity": "uncommon",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.564,
+        "grade": "F"
+      },
+      "WG": {
+        "gihwr": 0.558,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.582,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.59,
+        "grade": "B-"
+      },
+      "RG": {
+        "gihwr": 0.544,
+        "grade": "C"
+      },
+      "WUG": {
+        "gihwr": 0.568,
+        "grade": "B-"
+      },
+      "WBG": {
+        "gihwr": 0.576,
+        "grade": "B"
+      },
+      "WRG": {
+        "gihwr": 0.523,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.563,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "BRG": {
+        "gihwr": 0.518,
+        "grade": "C"
+      }
+    }
   },
   "94974": {
     "name": "Ooze Patrol",
@@ -1373,7 +6533,33 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.504,
+        "grade": "D-"
+      },
+      "UG": {
+        "gihwr": 0.533,
+        "grade": "D"
+      },
+      "BG": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.511,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.529,
+        "grade": "D"
+      },
+      "UBG": {
+        "gihwr": 0.506,
+        "grade": "D"
+      }
+    }
   },
   "94975": {
     "name": "Oviya, Automech Artisan",
@@ -1381,7 +6567,25 @@
     "grade": "D+",
     "rarity": "rare",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.507,
+        "grade": "D-"
+      },
+      "UG": {
+        "gihwr": 0.538,
+        "grade": "D+"
+      },
+      "BG": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.523,
+        "grade": "C-"
+      }
+    }
   },
   "94976": {
     "name": "Plow Through",
@@ -1389,7 +6593,45 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.594,
+        "grade": "C"
+      },
+      "WG": {
+        "gihwr": 0.549,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.561,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.543,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.55,
+        "grade": "C"
+      },
+      "WRG": {
+        "gihwr": 0.489,
+        "grade": "D"
+      },
+      "UBG": {
+        "gihwr": 0.523,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.559,
+        "grade": "C+"
+      }
+    }
   },
   "94977": {
     "name": "Point the Way",
@@ -1397,7 +6639,21 @@
     "grade": "F",
     "rarity": "uncommon",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.467,
+        "grade": "F"
+      },
+      "BG": {
+        "gihwr": 0.417,
+        "grade": "F"
+      },
+      "RG": {
+        "gihwr": 0.433,
+        "grade": "F"
+      }
+    }
   },
   "94978": {
     "name": "Pothole Mole",
@@ -1405,7 +6661,53 @@
     "grade": "C+",
     "rarity": "common",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.561,
+        "grade": "F"
+      },
+      "WG": {
+        "gihwr": 0.548,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.568,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.587,
+        "grade": "B-"
+      },
+      "RG": {
+        "gihwr": 0.535,
+        "grade": "C-"
+      },
+      "WUG": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.558,
+        "grade": "C+"
+      },
+      "WRG": {
+        "gihwr": 0.52,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.56,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.554,
+        "grade": "C"
+      },
+      "BRG": {
+        "gihwr": 0.525,
+        "grade": "C+"
+      }
+    }
   },
   "94979": {
     "name": "Regal Imperiosaur",
@@ -1413,7 +6715,25 @@
     "grade": "B-",
     "rarity": "rare",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.573,
+        "grade": "B-"
+      },
+      "UG": {
+        "gihwr": 0.585,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.586,
+        "grade": "B-"
+      },
+      "RG": {
+        "gihwr": 0.567,
+        "grade": "B-"
+      }
+    }
   },
   "94980": {
     "name": "Rise from the Wreck",
@@ -1421,7 +6741,37 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.553,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.549,
+        "grade": "C-"
+      },
+      "BG": {
+        "gihwr": 0.542,
+        "grade": "D+"
+      },
+      "RG": {
+        "gihwr": 0.511,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.519,
+        "grade": "D-"
+      },
+      "UBG": {
+        "gihwr": 0.51,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.559,
+        "grade": "C+"
+      }
+    }
   },
   "94981": {
     "name": "Run Over",
@@ -1429,7 +6779,53 @@
     "grade": "B-",
     "rarity": "common",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.62,
+        "grade": "B+"
+      },
+      "WG": {
+        "gihwr": 0.565,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.586,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.583,
+        "grade": "B-"
+      },
+      "RG": {
+        "gihwr": 0.563,
+        "grade": "B-"
+      },
+      "WUG": {
+        "gihwr": 0.564,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      },
+      "WRG": {
+        "gihwr": 0.516,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.534,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.565,
+        "grade": "C+"
+      },
+      "BRG": {
+        "gihwr": 0.526,
+        "grade": "C+"
+      }
+    }
   },
   "94982": {
     "name": "Silken Strength",
@@ -1437,7 +6833,33 @@
     "grade": "C-",
     "rarity": "common",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.575,
+        "grade": "D"
+      },
+      "WG": {
+        "gihwr": 0.565,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.542,
+        "grade": "D+"
+      },
+      "BG": {
+        "gihwr": 0.544,
+        "grade": "D+"
+      },
+      "RG": {
+        "gihwr": 0.53,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.563,
+        "grade": "C+"
+      }
+    }
   },
   "94983": {
     "name": "Stampeding Scurryfoot",
@@ -1445,7 +6867,53 @@
     "grade": "B",
     "rarity": "common",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.612,
+        "grade": "B"
+      },
+      "WG": {
+        "gihwr": 0.576,
+        "grade": "B-"
+      },
+      "UG": {
+        "gihwr": 0.602,
+        "grade": "B"
+      },
+      "BG": {
+        "gihwr": 0.588,
+        "grade": "B-"
+      },
+      "RG": {
+        "gihwr": 0.574,
+        "grade": "B"
+      },
+      "WUG": {
+        "gihwr": 0.602,
+        "grade": "A"
+      },
+      "WBG": {
+        "gihwr": 0.574,
+        "grade": "B"
+      },
+      "WRG": {
+        "gihwr": 0.542,
+        "grade": "B+"
+      },
+      "UBG": {
+        "gihwr": 0.571,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.579,
+        "grade": "B-"
+      },
+      "BRG": {
+        "gihwr": 0.53,
+        "grade": "C+"
+      }
+    }
   },
   "94984": {
     "name": "Terrian, World Tyrant",
@@ -1453,7 +6921,37 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.611,
+        "grade": "B"
+      },
+      "WG": {
+        "gihwr": 0.566,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.57,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.579,
+        "grade": "C+"
+      },
+      "RG": {
+        "gihwr": 0.556,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.539,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.55,
+        "grade": "C"
+      }
+    }
   },
   "94985": {
     "name": "Thunderous Velocipede",
@@ -1461,7 +6959,25 @@
     "grade": "B-",
     "rarity": "mythic",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.591,
+        "grade": "B"
+      },
+      "UG": {
+        "gihwr": 0.582,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.59,
+        "grade": "B-"
+      },
+      "RG": {
+        "gihwr": 0.556,
+        "grade": "C+"
+      }
+    }
   },
   "94986": {
     "name": "Veloheart Bike",
@@ -1469,7 +6985,53 @@
     "grade": "C",
     "rarity": "common",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.576,
+        "grade": "D"
+      },
+      "WG": {
+        "gihwr": 0.538,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.566,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.568,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.532,
+        "grade": "C-"
+      },
+      "WUG": {
+        "gihwr": 0.56,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.555,
+        "grade": "C"
+      },
+      "WRG": {
+        "gihwr": 0.525,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.55,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.547,
+        "grade": "C"
+      },
+      "BRG": {
+        "gihwr": 0.512,
+        "grade": "C"
+      }
+    }
   },
   "94987": {
     "name": "Venomsac Lagac",
@@ -1477,7 +7039,53 @@
     "grade": "C+",
     "rarity": "common",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "G": {
+        "gihwr": 0.607,
+        "grade": "B-"
+      },
+      "WG": {
+        "gihwr": 0.558,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.568,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.568,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.55,
+        "grade": "C+"
+      },
+      "WUG": {
+        "gihwr": 0.538,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.549,
+        "grade": "C"
+      },
+      "WRG": {
+        "gihwr": 0.52,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.524,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.561,
+        "grade": "C+"
+      },
+      "BRG": {
+        "gihwr": 0.533,
+        "grade": "B-"
+      }
+    }
   },
   "94988": {
     "name": "Webstrike Elite",
@@ -1485,7 +7093,33 @@
     "grade": "B-",
     "rarity": "rare",
     "color": "G",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.56,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.593,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.59,
+        "grade": "B-"
+      },
+      "RG": {
+        "gihwr": 0.553,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.537,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.537,
+        "grade": "C-"
+      }
+    }
   },
   "94989": {
     "name": "Aatchik, Emerald Radian",
@@ -1493,7 +7127,33 @@
     "grade": "B",
     "rarity": "rare",
     "color": "BG",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "UB": {
+        "gihwr": 0.53,
+        "grade": "D+"
+      },
+      "BR": {
+        "gihwr": 0.524,
+        "grade": "D+"
+      },
+      "BG": {
+        "gihwr": 0.599,
+        "grade": "B"
+      },
+      "WBG": {
+        "gihwr": 0.543,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.556,
+        "grade": "B-"
+      },
+      "BRG": {
+        "gihwr": 0.545,
+        "grade": "B"
+      }
+    }
   },
   "94990": {
     "name": "Apocalypse Runner",
@@ -1501,7 +7161,25 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "BR",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "BR": {
+        "gihwr": 0.547,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.464,
+        "grade": "F"
+      },
+      "UBR": {
+        "gihwr": 0.512,
+        "grade": "C-"
+      },
+      "BRG": {
+        "gihwr": 0.45,
+        "grade": "F"
+      }
+    }
   },
   "94991": {
     "name": "Boom Scholar",
@@ -1509,7 +7187,29 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "GR",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.533,
+        "grade": "D"
+      },
+      "RG": {
+        "gihwr": 0.545,
+        "grade": "C"
+      },
+      "WRG": {
+        "gihwr": 0.482,
+        "grade": "D"
+      },
+      "URG": {
+        "gihwr": 0.544,
+        "grade": "C-"
+      },
+      "BRG": {
+        "gihwr": 0.451,
+        "grade": "F"
+      }
+    }
   },
   "94992": {
     "name": "Boosted Sloop",
@@ -1517,7 +7217,25 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "RU",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.55,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.478,
+        "grade": "D-"
+      },
+      "UBR": {
+        "gihwr": 0.488,
+        "grade": "D-"
+      },
+      "URG": {
+        "gihwr": 0.527,
+        "grade": "D+"
+      }
+    }
   },
   "94993": {
     "name": "Brightglass Gearhulk",
@@ -1525,7 +7243,13 @@
     "grade": "B+",
     "rarity": "mythic",
     "color": "GW",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.623,
+        "grade": "A-"
+      }
+    }
   },
   "94994": {
     "name": "Broadside Barrage",
@@ -1533,7 +7257,45 @@
     "grade": "B-",
     "rarity": "uncommon",
     "color": "RU",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.531,
+        "grade": "D+"
+      },
+      "UB": {
+        "gihwr": 0.577,
+        "grade": "B-"
+      },
+      "UR": {
+        "gihwr": 0.589,
+        "grade": "B+"
+      },
+      "UG": {
+        "gihwr": 0.585,
+        "grade": "C+"
+      },
+      "BR": {
+        "gihwr": 0.543,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.563,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.54,
+        "grade": "B-"
+      },
+      "UBR": {
+        "gihwr": 0.553,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.583,
+        "grade": "B"
+      }
+    }
   },
   "94995": {
     "name": "Broodheart Engine",
@@ -1541,7 +7303,29 @@
     "grade": "B-",
     "rarity": "uncommon",
     "color": "BG",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.556,
+        "grade": "C-"
+      },
+      "BG": {
+        "gihwr": 0.582,
+        "grade": "B-"
+      },
+      "WBG": {
+        "gihwr": 0.542,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.53,
+        "grade": "C"
+      },
+      "BRG": {
+        "gihwr": 0.515,
+        "grade": "C"
+      }
+    }
   },
   "94996": {
     "name": "Captain Howler, Sea Scourge",
@@ -1549,7 +7333,21 @@
     "grade": "B",
     "rarity": "rare",
     "color": "RU",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.603,
+        "grade": "A-"
+      },
+      "UBR": {
+        "gihwr": 0.528,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.571,
+        "grade": "B-"
+      }
+    }
   },
   "94997": {
     "name": "Caradora, Heart of Alacria",
@@ -1557,7 +7355,37 @@
     "grade": "B-",
     "rarity": "rare",
     "color": "GW",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.597,
+        "grade": "B"
+      },
+      "UG": {
+        "gihwr": 0.513,
+        "grade": "D-"
+      },
+      "BG": {
+        "gihwr": 0.598,
+        "grade": "B"
+      },
+      "RG": {
+        "gihwr": 0.554,
+        "grade": "C+"
+      },
+      "WUG": {
+        "gihwr": 0.577,
+        "grade": "B"
+      },
+      "WBG": {
+        "gihwr": 0.568,
+        "grade": "B-"
+      },
+      "WRG": {
+        "gihwr": 0.559,
+        "grade": "A"
+      }
+    }
   },
   "94998": {
     "name": "Cloudspire Coordinator",
@@ -1565,7 +7393,25 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "RW",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.552,
+        "grade": "B"
+      },
+      "WUR": {
+        "gihwr": 0.525,
+        "grade": "C+"
+      },
+      "WBR": {
+        "gihwr": 0.478,
+        "grade": "F"
+      },
+      "WRG": {
+        "gihwr": 0.505,
+        "grade": "C-"
+      }
+    }
   },
   "94999": {
     "name": "Cloudspire Skycycle",
@@ -1573,7 +7419,25 @@
     "grade": "D-",
     "rarity": "uncommon",
     "color": "RW",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.515,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.449,
+        "grade": "F"
+      },
+      "WBR": {
+        "gihwr": 0.52,
+        "grade": "C-"
+      },
+      "WRG": {
+        "gihwr": 0.473,
+        "grade": "D-"
+      }
+    }
   },
   "95000": {
     "name": "Coalstoke Gearhulk",
@@ -1581,7 +7445,13 @@
     "grade": "C",
     "rarity": "mythic",
     "color": "BR",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "BR": {
+        "gihwr": 0.579,
+        "grade": "B"
+      }
+    }
   },
   "95001": {
     "name": "Debris Beetle",
@@ -1589,7 +7459,41 @@
     "grade": "A-",
     "rarity": "rare",
     "color": "BG",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.59,
+        "grade": "B"
+      },
+      "UB": {
+        "gihwr": 0.587,
+        "grade": "B"
+      },
+      "UG": {
+        "gihwr": 0.58,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.637,
+        "grade": "A"
+      },
+      "RG": {
+        "gihwr": 0.566,
+        "grade": "B-"
+      },
+      "WBG": {
+        "gihwr": 0.62,
+        "grade": "A+"
+      },
+      "UBG": {
+        "gihwr": 0.589,
+        "grade": "A-"
+      },
+      "BRG": {
+        "gihwr": 0.591,
+        "grade": "A+"
+      }
+    }
   },
   "95002": {
     "name": "Dune Drifter",
@@ -1597,7 +7501,41 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "BW",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.518,
+        "grade": "D"
+      },
+      "WB": {
+        "gihwr": 0.546,
+        "grade": "C-"
+      },
+      "WG": {
+        "gihwr": 0.553,
+        "grade": "C"
+      },
+      "UB": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      },
+      "BG": {
+        "gihwr": 0.531,
+        "grade": "D"
+      },
+      "WUB": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.524,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.529,
+        "grade": "D"
+      }
+    }
   },
   "95003": {
     "name": "Embalmed Ascendant",
@@ -1605,7 +7543,37 @@
     "grade": "B",
     "rarity": "uncommon",
     "color": "BW",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.612,
+        "grade": "A-"
+      },
+      "UB": {
+        "gihwr": 0.58,
+        "grade": "B-"
+      },
+      "BR": {
+        "gihwr": 0.555,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.561,
+        "grade": "C"
+      },
+      "WUB": {
+        "gihwr": 0.587,
+        "grade": "B"
+      },
+      "WBR": {
+        "gihwr": 0.564,
+        "grade": "B+"
+      },
+      "WBG": {
+        "gihwr": 0.57,
+        "grade": "B-"
+      }
+    }
   },
   "95004": {
     "name": "Explosive Getaway",
@@ -1613,7 +7581,37 @@
     "grade": "C",
     "rarity": "rare",
     "color": "RW",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.555,
+        "grade": "C"
+      },
+      "WR": {
+        "gihwr": 0.543,
+        "grade": "B"
+      },
+      "WG": {
+        "gihwr": 0.552,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.553,
+        "grade": "C+"
+      },
+      "RG": {
+        "gihwr": 0.577,
+        "grade": "B"
+      },
+      "WUR": {
+        "gihwr": 0.58,
+        "grade": "A+"
+      },
+      "WRG": {
+        "gihwr": 0.529,
+        "grade": "B-"
+      }
+    }
   },
   "95005": {
     "name": "Far Fortune, End Boss",
@@ -1621,7 +7619,45 @@
     "grade": "B",
     "rarity": "rare",
     "color": "BR",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.609,
+        "grade": "A-"
+      },
+      "UB": {
+        "gihwr": 0.56,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.542,
+        "grade": "C"
+      },
+      "BR": {
+        "gihwr": 0.615,
+        "grade": "A"
+      },
+      "BG": {
+        "gihwr": 0.567,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.562,
+        "grade": "B-"
+      },
+      "WBR": {
+        "gihwr": 0.554,
+        "grade": "B"
+      },
+      "UBR": {
+        "gihwr": 0.581,
+        "grade": "A"
+      },
+      "BRG": {
+        "gihwr": 0.577,
+        "grade": "A+"
+      }
+    }
   },
   "95006": {
     "name": "Fearless Swashbuckler",
@@ -1629,7 +7665,17 @@
     "grade": "C",
     "rarity": "rare",
     "color": "RU",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.56,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.549,
+        "grade": "C"
+      }
+    }
   },
   "95007": {
     "name": "Gastal Thrillseeker",
@@ -1637,7 +7683,25 @@
     "grade": "B+",
     "rarity": "uncommon",
     "color": "BR",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "BR": {
+        "gihwr": 0.611,
+        "grade": "A"
+      },
+      "WBR": {
+        "gihwr": 0.561,
+        "grade": "B+"
+      },
+      "UBR": {
+        "gihwr": 0.552,
+        "grade": "B"
+      },
+      "BRG": {
+        "gihwr": 0.509,
+        "grade": "C-"
+      }
+    }
   },
   "95008": {
     "name": "Guidelight Pathmaker",
@@ -1645,7 +7709,41 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "UW",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.585,
+        "grade": "B"
+      },
+      "WB": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.554,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.502,
+        "grade": "D-"
+      },
+      "UG": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      },
+      "WUB": {
+        "gihwr": 0.564,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.513,
+        "grade": "C-"
+      },
+      "WUG": {
+        "gihwr": 0.565,
+        "grade": "C+"
+      }
+    }
   },
   "95009": {
     "name": "Haunt the Network",
@@ -1653,7 +7751,49 @@
     "grade": "B+",
     "rarity": "uncommon",
     "color": "BU",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.589,
+        "grade": "B"
+      },
+      "WB": {
+        "gihwr": 0.58,
+        "grade": "B-"
+      },
+      "UB": {
+        "gihwr": 0.613,
+        "grade": "A-"
+      },
+      "UR": {
+        "gihwr": 0.514,
+        "grade": "D"
+      },
+      "UG": {
+        "gihwr": 0.547,
+        "grade": "D+"
+      },
+      "BR": {
+        "gihwr": 0.564,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.562,
+        "grade": "C"
+      },
+      "WUB": {
+        "gihwr": 0.598,
+        "grade": "B+"
+      },
+      "UBR": {
+        "gihwr": 0.569,
+        "grade": "A-"
+      },
+      "UBG": {
+        "gihwr": 0.56,
+        "grade": "B-"
+      }
+    }
   },
   "95010": {
     "name": "Haunted Hellride",
@@ -1661,7 +7801,25 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "BU",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "UB": {
+        "gihwr": 0.54,
+        "grade": "D+"
+      },
+      "WUB": {
+        "gihwr": 0.523,
+        "grade": "D"
+      },
+      "UBR": {
+        "gihwr": 0.468,
+        "grade": "F"
+      },
+      "UBG": {
+        "gihwr": 0.453,
+        "grade": "F"
+      }
+    }
   },
   "95011": {
     "name": "Ketramose, the New Dawn",
@@ -1677,7 +7835,17 @@
     "grade": "D-",
     "rarity": "rare",
     "color": "RW",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.516,
+        "grade": "C+"
+      },
+      "WRG": {
+        "gihwr": 0.507,
+        "grade": "C"
+      }
+    }
   },
   "95013": {
     "name": "Lagorin, Soul of Alacria",
@@ -1685,7 +7853,25 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "GW",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.571,
+        "grade": "C+"
+      },
+      "WUG": {
+        "gihwr": 0.534,
+        "grade": "D"
+      },
+      "WBG": {
+        "gihwr": 0.506,
+        "grade": "F"
+      },
+      "WRG": {
+        "gihwr": 0.488,
+        "grade": "D"
+      }
+    }
   },
   "95014": {
     "name": "Loot, the Pathfinder",
@@ -1693,7 +7879,25 @@
     "grade": "A+",
     "rarity": "mythic",
     "color": "GRU",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.627,
+        "grade": "A+"
+      },
+      "UG": {
+        "gihwr": 0.647,
+        "grade": "A"
+      },
+      "RG": {
+        "gihwr": 0.631,
+        "grade": "A+"
+      },
+      "URG": {
+        "gihwr": 0.639,
+        "grade": "A+"
+      }
+    }
   },
   "95015": {
     "name": "Mendicant Core, Guidelight",
@@ -1701,7 +7905,21 @@
     "grade": "C+",
     "rarity": "rare",
     "color": "UW",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.57,
+        "grade": "B-"
+      },
+      "UB": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      },
+      "WUB": {
+        "gihwr": 0.589,
+        "grade": "B"
+      }
+    }
   },
   "95016": {
     "name": "Mimeoplasm, Revered One",
@@ -1709,7 +7927,21 @@
     "grade": "D-",
     "rarity": "mythic",
     "color": "BGU",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.533,
+        "grade": "D"
+      },
+      "BG": {
+        "gihwr": 0.536,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.483,
+        "grade": "F"
+      }
+    }
   },
   "95017": {
     "name": "Oildeep Gearhulk",
@@ -1717,7 +7949,17 @@
     "grade": "B",
     "rarity": "mythic",
     "color": "BU",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "UB": {
+        "gihwr": 0.609,
+        "grade": "A-"
+      },
+      "WUB": {
+        "gihwr": 0.553,
+        "grade": "C"
+      }
+    }
   },
   "95018": {
     "name": "Pyrewood Gearhulk",
@@ -1725,7 +7967,17 @@
     "grade": "A-",
     "rarity": "mythic",
     "color": "GR",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "RG": {
+        "gihwr": 0.62,
+        "grade": "A"
+      },
+      "URG": {
+        "gihwr": 0.578,
+        "grade": "B-"
+      }
+    }
   },
   "95019": {
     "name": "Rangers' Aetherhive",
@@ -1733,7 +7985,29 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "GU",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.486,
+        "grade": "D-"
+      },
+      "WUG": {
+        "gihwr": 0.505,
+        "grade": "F"
+      },
+      "UBG": {
+        "gihwr": 0.514,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.518,
+        "grade": "D"
+      }
+    }
   },
   "95020": {
     "name": "Redshift, Rocketeer Chief",
@@ -1741,7 +8015,21 @@
     "grade": "C-",
     "rarity": "rare",
     "color": "GR",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "RG": {
+        "gihwr": 0.548,
+        "grade": "C+"
+      },
+      "WRG": {
+        "gihwr": 0.502,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.546,
+        "grade": "C-"
+      }
+    }
   },
   "95021": {
     "name": "Riptide Gearhulk",
@@ -1749,7 +8037,17 @@
     "grade": "A+",
     "rarity": "mythic",
     "color": "UW",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.643,
+        "grade": "A+"
+      },
+      "WUB": {
+        "gihwr": 0.642,
+        "grade": "A+"
+      }
+    }
   },
   "95022": {
     "name": "Rocketeer Boostbuggy",
@@ -1757,7 +8055,29 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "GR",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.535,
+        "grade": "D"
+      },
+      "RG": {
+        "gihwr": 0.567,
+        "grade": "B-"
+      },
+      "WRG": {
+        "gihwr": 0.546,
+        "grade": "B+"
+      },
+      "URG": {
+        "gihwr": 0.58,
+        "grade": "B"
+      },
+      "BRG": {
+        "gihwr": 0.511,
+        "grade": "C-"
+      }
+    }
   },
   "95023": {
     "name": "Sab-Sunen, Luxa Embodied",
@@ -1765,7 +8085,45 @@
     "grade": "A+",
     "rarity": "mythic",
     "color": "GU",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.622,
+        "grade": "A"
+      },
+      "WG": {
+        "gihwr": 0.668,
+        "grade": "A+"
+      },
+      "UB": {
+        "gihwr": 0.616,
+        "grade": "A"
+      },
+      "UR": {
+        "gihwr": 0.625,
+        "grade": "A+"
+      },
+      "UG": {
+        "gihwr": 0.707,
+        "grade": "A+"
+      },
+      "BG": {
+        "gihwr": 0.693,
+        "grade": "A+"
+      },
+      "RG": {
+        "gihwr": 0.639,
+        "grade": "A+"
+      },
+      "UBG": {
+        "gihwr": 0.656,
+        "grade": "A+"
+      },
+      "URG": {
+        "gihwr": 0.704,
+        "grade": "A+"
+      }
+    }
   },
   "95024": {
     "name": "Samut, the Driving Force",
@@ -1773,7 +8131,25 @@
     "grade": "C+",
     "rarity": "rare",
     "color": "GRW",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.548,
+        "grade": "B"
+      },
+      "WG": {
+        "gihwr": 0.569,
+        "grade": "C+"
+      },
+      "RG": {
+        "gihwr": 0.559,
+        "grade": "C+"
+      },
+      "WRG": {
+        "gihwr": 0.543,
+        "grade": "B+"
+      }
+    }
   },
   "95025": {
     "name": "Sita Varma, Masked Racer",
@@ -1781,7 +8157,33 @@
     "grade": "B+",
     "rarity": "rare",
     "color": "GU",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.625,
+        "grade": "A-"
+      },
+      "BG": {
+        "gihwr": 0.572,
+        "grade": "C+"
+      },
+      "RG": {
+        "gihwr": 0.519,
+        "grade": "D+"
+      },
+      "WUG": {
+        "gihwr": 0.592,
+        "grade": "A-"
+      },
+      "UBG": {
+        "gihwr": 0.575,
+        "grade": "B+"
+      },
+      "URG": {
+        "gihwr": 0.582,
+        "grade": "B"
+      }
+    }
   },
   "95026": {
     "name": "Skyserpent Seeker",
@@ -1789,7 +8191,33 @@
     "grade": "B+",
     "rarity": "uncommon",
     "color": "GU",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.608,
+        "grade": "B"
+      },
+      "BG": {
+        "gihwr": 0.578,
+        "grade": "C+"
+      },
+      "RG": {
+        "gihwr": 0.55,
+        "grade": "C+"
+      },
+      "WUG": {
+        "gihwr": 0.568,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.565,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.569,
+        "grade": "B-"
+      }
+    }
   },
   "95027": {
     "name": "Thundering Broodwagon",
@@ -1797,7 +8225,37 @@
     "grade": "A-",
     "rarity": "uncommon",
     "color": "BG",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "UB": {
+        "gihwr": 0.598,
+        "grade": "B+"
+      },
+      "UG": {
+        "gihwr": 0.569,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.625,
+        "grade": "A-"
+      },
+      "RG": {
+        "gihwr": 0.569,
+        "grade": "B-"
+      },
+      "WBG": {
+        "gihwr": 0.589,
+        "grade": "B+"
+      },
+      "UBG": {
+        "gihwr": 0.563,
+        "grade": "B"
+      },
+      "BRG": {
+        "gihwr": 0.574,
+        "grade": "A"
+      }
+    }
   },
   "95028": {
     "name": "Veteran Beastrider",
@@ -1805,7 +8263,37 @@
     "grade": "B+",
     "rarity": "uncommon",
     "color": "GW",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.615,
+        "grade": "A-"
+      },
+      "UG": {
+        "gihwr": 0.583,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.575,
+        "grade": "C+"
+      },
+      "RG": {
+        "gihwr": 0.553,
+        "grade": "C+"
+      },
+      "WUG": {
+        "gihwr": 0.586,
+        "grade": "B+"
+      },
+      "WBG": {
+        "gihwr": 0.601,
+        "grade": "A"
+      },
+      "WRG": {
+        "gihwr": 0.555,
+        "grade": "A-"
+      }
+    }
   },
   "95029": {
     "name": "Voyage Home",
@@ -1813,7 +8301,33 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "UW",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.563,
+        "grade": "C+"
+      },
+      "WB": {
+        "gihwr": 0.593,
+        "grade": "B"
+      },
+      "UB": {
+        "gihwr": 0.559,
+        "grade": "C"
+      },
+      "WUB": {
+        "gihwr": 0.568,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.515,
+        "grade": "C"
+      },
+      "WUG": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      }
+    }
   },
   "95030": {
     "name": "Winter, Cursed Rider",
@@ -1821,7 +8335,21 @@
     "grade": "C",
     "rarity": "rare",
     "color": "BU",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "UB": {
+        "gihwr": 0.567,
+        "grade": "C+"
+      },
+      "WUB": {
+        "gihwr": 0.559,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.518,
+        "grade": "C-"
+      }
+    }
   },
   "95031": {
     "name": "Zahur, Glory's Past",
@@ -1829,7 +8357,33 @@
     "grade": "C+",
     "rarity": "rare",
     "color": "BW",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.588,
+        "grade": "B"
+      },
+      "BR": {
+        "gihwr": 0.54,
+        "grade": "C-"
+      },
+      "BG": {
+        "gihwr": 0.535,
+        "grade": "D+"
+      },
+      "WUB": {
+        "gihwr": 0.546,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.565,
+        "grade": "A-"
+      },
+      "WBG": {
+        "gihwr": 0.543,
+        "grade": "C-"
+      }
+    }
   },
   "95032": {
     "name": "Aetherjacket",
@@ -1837,7 +8391,53 @@
     "grade": "D-",
     "rarity": "common",
     "color": "",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.52,
+        "grade": "D"
+      },
+      "WB": {
+        "gihwr": 0.524,
+        "grade": "D"
+      },
+      "WR": {
+        "gihwr": 0.461,
+        "grade": "D-"
+      },
+      "WG": {
+        "gihwr": 0.498,
+        "grade": "D-"
+      },
+      "UB": {
+        "gihwr": 0.521,
+        "grade": "D"
+      },
+      "UR": {
+        "gihwr": 0.501,
+        "grade": "D-"
+      },
+      "UG": {
+        "gihwr": 0.519,
+        "grade": "D-"
+      },
+      "BR": {
+        "gihwr": 0.517,
+        "grade": "D"
+      },
+      "BG": {
+        "gihwr": 0.498,
+        "grade": "F"
+      },
+      "RG": {
+        "gihwr": 0.482,
+        "grade": "F"
+      },
+      "WUB": {
+        "gihwr": 0.514,
+        "grade": "D-"
+      }
+    }
   },
   "95033": {
     "name": "The Aetherspark",
@@ -1845,7 +8445,41 @@
     "grade": "A-",
     "rarity": "mythic",
     "color": "",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.624,
+        "grade": "A"
+      },
+      "WG": {
+        "gihwr": 0.623,
+        "grade": "A-"
+      },
+      "UB": {
+        "gihwr": 0.624,
+        "grade": "A"
+      },
+      "UR": {
+        "gihwr": 0.569,
+        "grade": "B-"
+      },
+      "UG": {
+        "gihwr": 0.614,
+        "grade": "B+"
+      },
+      "BR": {
+        "gihwr": 0.584,
+        "grade": "B"
+      },
+      "BG": {
+        "gihwr": 0.633,
+        "grade": "A"
+      },
+      "RG": {
+        "gihwr": 0.603,
+        "grade": "A-"
+      }
+    }
   },
   "95034": {
     "name": "Camera Launcher",
@@ -1853,7 +8487,61 @@
     "grade": "C-",
     "rarity": "common",
     "color": "",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.54,
+        "grade": "C-"
+      },
+      "WB": {
+        "gihwr": 0.542,
+        "grade": "D+"
+      },
+      "WR": {
+        "gihwr": 0.497,
+        "grade": "C-"
+      },
+      "WG": {
+        "gihwr": 0.538,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.553,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.52,
+        "grade": "D+"
+      },
+      "UG": {
+        "gihwr": 0.536,
+        "grade": "D+"
+      },
+      "BR": {
+        "gihwr": 0.514,
+        "grade": "D"
+      },
+      "BG": {
+        "gihwr": 0.536,
+        "grade": "D+"
+      },
+      "RG": {
+        "gihwr": 0.512,
+        "grade": "D+"
+      },
+      "WUB": {
+        "gihwr": 0.533,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.52,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.509,
+        "grade": "D-"
+      }
+    }
   },
   "95035": {
     "name": "Guidelight Matrix",
@@ -1861,7 +8549,45 @@
     "grade": "D+",
     "rarity": "common",
     "color": "",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "WB": {
+        "gihwr": 0.552,
+        "grade": "C-"
+      },
+      "WR": {
+        "gihwr": 0.448,
+        "grade": "F"
+      },
+      "WG": {
+        "gihwr": 0.488,
+        "grade": "F"
+      },
+      "UB": {
+        "gihwr": 0.554,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.504,
+        "grade": "D-"
+      },
+      "UG": {
+        "gihwr": 0.507,
+        "grade": "F"
+      },
+      "BG": {
+        "gihwr": 0.532,
+        "grade": "D"
+      },
+      "WUB": {
+        "gihwr": 0.554,
+        "grade": "C"
+      }
+    }
   },
   "95036": {
     "name": "Lifecraft Engine",
@@ -1869,7 +8595,49 @@
     "grade": "D",
     "rarity": "rare",
     "color": "",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.526,
+        "grade": "D+"
+      },
+      "WB": {
+        "gihwr": 0.562,
+        "grade": "C"
+      },
+      "WR": {
+        "gihwr": 0.542,
+        "grade": "B"
+      },
+      "WG": {
+        "gihwr": 0.511,
+        "grade": "D"
+      },
+      "UB": {
+        "gihwr": 0.518,
+        "grade": "D-"
+      },
+      "UR": {
+        "gihwr": 0.523,
+        "grade": "D+"
+      },
+      "UG": {
+        "gihwr": 0.489,
+        "grade": "F"
+      },
+      "BR": {
+        "gihwr": 0.497,
+        "grade": "F"
+      },
+      "BG": {
+        "gihwr": 0.468,
+        "grade": "F"
+      },
+      "RG": {
+        "gihwr": 0.508,
+        "grade": "D"
+      }
+    }
   },
   "95037": {
     "name": "Marketback Walker",
@@ -1877,7 +8645,49 @@
     "grade": "C+",
     "rarity": "rare",
     "color": "",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.58,
+        "grade": "B"
+      },
+      "WB": {
+        "gihwr": 0.581,
+        "grade": "B-"
+      },
+      "WR": {
+        "gihwr": 0.522,
+        "grade": "C+"
+      },
+      "WG": {
+        "gihwr": 0.571,
+        "grade": "C+"
+      },
+      "UB": {
+        "gihwr": 0.578,
+        "grade": "B-"
+      },
+      "UR": {
+        "gihwr": 0.53,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.561,
+        "grade": "C"
+      },
+      "BR": {
+        "gihwr": 0.576,
+        "grade": "B"
+      },
+      "BG": {
+        "gihwr": 0.577,
+        "grade": "C+"
+      },
+      "RG": {
+        "gihwr": 0.558,
+        "grade": "C+"
+      }
+    }
   },
   "95038": {
     "name": "Marshals' Pathcruiser",
@@ -1885,7 +8695,85 @@
     "grade": "B",
     "rarity": "uncommon",
     "color": "BGRUW",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.596,
+        "grade": "B+"
+      },
+      "WB": {
+        "gihwr": 0.582,
+        "grade": "B-"
+      },
+      "WR": {
+        "gihwr": 0.577,
+        "grade": "A"
+      },
+      "WG": {
+        "gihwr": 0.617,
+        "grade": "A-"
+      },
+      "UB": {
+        "gihwr": 0.593,
+        "grade": "B"
+      },
+      "UR": {
+        "gihwr": 0.584,
+        "grade": "B+"
+      },
+      "UG": {
+        "gihwr": 0.578,
+        "grade": "C+"
+      },
+      "BR": {
+        "gihwr": 0.572,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.588,
+        "grade": "B-"
+      },
+      "RG": {
+        "gihwr": 0.571,
+        "grade": "B-"
+      },
+      "WUB": {
+        "gihwr": 0.596,
+        "grade": "B+"
+      },
+      "WUR": {
+        "gihwr": 0.572,
+        "grade": "A"
+      },
+      "WUG": {
+        "gihwr": 0.585,
+        "grade": "B+"
+      },
+      "WBG": {
+        "gihwr": 0.583,
+        "grade": "B+"
+      },
+      "WRG": {
+        "gihwr": 0.581,
+        "grade": "A+"
+      },
+      "UBR": {
+        "gihwr": 0.559,
+        "grade": "B+"
+      },
+      "UBG": {
+        "gihwr": 0.567,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.604,
+        "grade": "A-"
+      },
+      "BRG": {
+        "gihwr": 0.567,
+        "grade": "A-"
+      }
+    }
   },
   "95039": {
     "name": "Monument to Endurance",
@@ -1893,7 +8781,17 @@
     "grade": "D",
     "rarity": "rare",
     "color": "",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.545,
+        "grade": "C"
+      },
+      "BR": {
+        "gihwr": 0.511,
+        "grade": "D"
+      }
+    }
   },
   "95040": {
     "name": "Pit Automaton",
@@ -1901,7 +8799,41 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.526,
+        "grade": "D+"
+      },
+      "UB": {
+        "gihwr": 0.538,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.543,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.566,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.524,
+        "grade": "D"
+      },
+      "RG": {
+        "gihwr": 0.499,
+        "grade": "D"
+      },
+      "UBG": {
+        "gihwr": 0.494,
+        "grade": "D-"
+      },
+      "URG": {
+        "gihwr": 0.558,
+        "grade": "C+"
+      }
+    }
   },
   "95041": {
     "name": "Racers' Scoreboard",
@@ -1909,7 +8841,13 @@
     "grade": "F",
     "rarity": "uncommon",
     "color": "",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.481,
+        "grade": "F"
+      }
+    }
   },
   "95042": {
     "name": "Radiant Lotus",
@@ -1925,7 +8863,49 @@
     "grade": "F",
     "rarity": "uncommon",
     "color": "",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.49,
+        "grade": "F"
+      },
+      "WB": {
+        "gihwr": 0.488,
+        "grade": "F"
+      },
+      "WR": {
+        "gihwr": 0.477,
+        "grade": "D"
+      },
+      "WG": {
+        "gihwr": 0.497,
+        "grade": "D-"
+      },
+      "UB": {
+        "gihwr": 0.503,
+        "grade": "F"
+      },
+      "UR": {
+        "gihwr": 0.495,
+        "grade": "D-"
+      },
+      "UG": {
+        "gihwr": 0.504,
+        "grade": "F"
+      },
+      "BR": {
+        "gihwr": 0.512,
+        "grade": "D"
+      },
+      "BG": {
+        "gihwr": 0.512,
+        "grade": "D-"
+      },
+      "RG": {
+        "gihwr": 0.507,
+        "grade": "D"
+      }
+    }
   },
   "95044": {
     "name": "Scrap Compactor",
@@ -1933,7 +8913,73 @@
     "grade": "C-",
     "rarity": "common",
     "color": "",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.54,
+        "grade": "C-"
+      },
+      "WB": {
+        "gihwr": 0.544,
+        "grade": "C-"
+      },
+      "WR": {
+        "gihwr": 0.444,
+        "grade": "F"
+      },
+      "WG": {
+        "gihwr": 0.527,
+        "grade": "D+"
+      },
+      "UB": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      },
+      "UR": {
+        "gihwr": 0.511,
+        "grade": "D"
+      },
+      "UG": {
+        "gihwr": 0.557,
+        "grade": "C-"
+      },
+      "BR": {
+        "gihwr": 0.517,
+        "grade": "D"
+      },
+      "BG": {
+        "gihwr": 0.548,
+        "grade": "C-"
+      },
+      "RG": {
+        "gihwr": 0.532,
+        "grade": "C-"
+      },
+      "WUB": {
+        "gihwr": 0.537,
+        "grade": "D+"
+      },
+      "WUG": {
+        "gihwr": 0.525,
+        "grade": "D-"
+      },
+      "WBG": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      },
+      "WRG": {
+        "gihwr": 0.496,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.515,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.534,
+        "grade": "D+"
+      }
+    }
   },
   "95045": {
     "name": "Skybox Ferry",
@@ -1941,7 +8987,45 @@
     "grade": "D-",
     "rarity": "common",
     "color": "",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.489,
+        "grade": "F"
+      },
+      "WR": {
+        "gihwr": 0.486,
+        "grade": "D+"
+      },
+      "WG": {
+        "gihwr": 0.519,
+        "grade": "D"
+      },
+      "UB": {
+        "gihwr": 0.471,
+        "grade": "F"
+      },
+      "UR": {
+        "gihwr": 0.521,
+        "grade": "D+"
+      },
+      "UG": {
+        "gihwr": 0.476,
+        "grade": "F"
+      },
+      "BR": {
+        "gihwr": 0.497,
+        "grade": "F"
+      },
+      "BG": {
+        "gihwr": 0.513,
+        "grade": "D-"
+      },
+      "RG": {
+        "gihwr": 0.52,
+        "grade": "D+"
+      }
+    }
   },
   "95046": {
     "name": "Starting Column",
@@ -1949,7 +9033,89 @@
     "grade": "C-",
     "rarity": "common",
     "color": "",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.566,
+        "grade": "C+"
+      },
+      "WB": {
+        "gihwr": 0.575,
+        "grade": "B-"
+      },
+      "WR": {
+        "gihwr": 0.486,
+        "grade": "D+"
+      },
+      "WG": {
+        "gihwr": 0.507,
+        "grade": "D-"
+      },
+      "UB": {
+        "gihwr": 0.558,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.52,
+        "grade": "D+"
+      },
+      "UG": {
+        "gihwr": 0.528,
+        "grade": "D"
+      },
+      "BR": {
+        "gihwr": 0.505,
+        "grade": "D-"
+      },
+      "BG": {
+        "gihwr": 0.537,
+        "grade": "D+"
+      },
+      "RG": {
+        "gihwr": 0.514,
+        "grade": "D+"
+      },
+      "WUB": {
+        "gihwr": 0.567,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.512,
+        "grade": "C-"
+      },
+      "WUG": {
+        "gihwr": 0.553,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.533,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.552,
+        "grade": "C"
+      },
+      "WRG": {
+        "gihwr": 0.513,
+        "grade": "C"
+      },
+      "UBR": {
+        "gihwr": 0.556,
+        "grade": "B+"
+      },
+      "UBG": {
+        "gihwr": 0.527,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.543,
+        "grade": "C-"
+      },
+      "BRG": {
+        "gihwr": 0.504,
+        "grade": "C-"
+      }
+    }
   },
   "95047": {
     "name": "Ticket Tortoise",
@@ -1957,7 +9123,69 @@
     "grade": "C-",
     "rarity": "common",
     "color": "",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.55,
+        "grade": "C"
+      },
+      "WB": {
+        "gihwr": 0.534,
+        "grade": "D+"
+      },
+      "WR": {
+        "gihwr": 0.489,
+        "grade": "D+"
+      },
+      "WG": {
+        "gihwr": 0.513,
+        "grade": "D"
+      },
+      "UB": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.52,
+        "grade": "D+"
+      },
+      "UG": {
+        "gihwr": 0.531,
+        "grade": "D"
+      },
+      "BR": {
+        "gihwr": 0.463,
+        "grade": "F"
+      },
+      "BG": {
+        "gihwr": 0.524,
+        "grade": "D"
+      },
+      "RG": {
+        "gihwr": 0.492,
+        "grade": "D-"
+      },
+      "WUB": {
+        "gihwr": 0.546,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.542,
+        "grade": "B-"
+      },
+      "UBR": {
+        "gihwr": 0.564,
+        "grade": "B+"
+      },
+      "UBG": {
+        "gihwr": 0.53,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.513,
+        "grade": "D-"
+      }
+    }
   },
   "95048": {
     "name": "Walking Sarcophagus",
@@ -1965,7 +9193,57 @@
     "grade": "D+",
     "rarity": "common",
     "color": "",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.522,
+        "grade": "D"
+      },
+      "WB": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      },
+      "WR": {
+        "gihwr": 0.492,
+        "grade": "C-"
+      },
+      "WG": {
+        "gihwr": 0.478,
+        "grade": "F"
+      },
+      "UB": {
+        "gihwr": 0.54,
+        "grade": "C-"
+      },
+      "UR": {
+        "gihwr": 0.509,
+        "grade": "D"
+      },
+      "UG": {
+        "gihwr": 0.517,
+        "grade": "D-"
+      },
+      "BR": {
+        "gihwr": 0.542,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.527,
+        "grade": "D"
+      },
+      "RG": {
+        "gihwr": 0.497,
+        "grade": "D-"
+      },
+      "WUB": {
+        "gihwr": 0.56,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.49,
+        "grade": "D-"
+      }
+    }
   },
   "95049": {
     "name": "Wreck Remover",
@@ -1973,7 +9251,57 @@
     "grade": "D+",
     "rarity": "common",
     "color": "",
-    "isLand": false
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.527,
+        "grade": "D+"
+      },
+      "WB": {
+        "gihwr": 0.534,
+        "grade": "D+"
+      },
+      "WG": {
+        "gihwr": 0.473,
+        "grade": "F"
+      },
+      "UB": {
+        "gihwr": 0.535,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.546,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.526,
+        "grade": "D"
+      },
+      "BR": {
+        "gihwr": 0.506,
+        "grade": "D-"
+      },
+      "BG": {
+        "gihwr": 0.526,
+        "grade": "D"
+      },
+      "RG": {
+        "gihwr": 0.5,
+        "grade": "D"
+      },
+      "WUB": {
+        "gihwr": 0.52,
+        "grade": "D-"
+      },
+      "UBG": {
+        "gihwr": 0.54,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.54,
+        "grade": "C-"
+      }
+    }
   },
   "95050": {
     "name": "Amonkhet Raceway",
@@ -1981,7 +9309,37 @@
     "grade": "D",
     "rarity": "uncommon",
     "color": "",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.567,
+        "grade": "C+"
+      },
+      "WR": {
+        "gihwr": 0.477,
+        "grade": "D"
+      },
+      "WG": {
+        "gihwr": 0.531,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.512,
+        "grade": "D"
+      },
+      "BR": {
+        "gihwr": 0.516,
+        "grade": "D"
+      },
+      "BG": {
+        "gihwr": 0.513,
+        "grade": "D-"
+      },
+      "RG": {
+        "gihwr": 0.519,
+        "grade": "D+"
+      }
+    }
   },
   "95051": {
     "name": "Avishkar Raceway",
@@ -1989,7 +9347,49 @@
     "grade": "D+",
     "rarity": "common",
     "color": "",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.534,
+        "grade": "D+"
+      },
+      "WB": {
+        "gihwr": 0.563,
+        "grade": "C+"
+      },
+      "WR": {
+        "gihwr": 0.478,
+        "grade": "D"
+      },
+      "WG": {
+        "gihwr": 0.525,
+        "grade": "D+"
+      },
+      "UB": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      },
+      "UR": {
+        "gihwr": 0.535,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.537,
+        "grade": "D+"
+      },
+      "BR": {
+        "gihwr": 0.533,
+        "grade": "C-"
+      },
+      "BG": {
+        "gihwr": 0.523,
+        "grade": "D"
+      },
+      "RG": {
+        "gihwr": 0.492,
+        "grade": "D-"
+      }
+    }
   },
   "95052": {
     "name": "Bleachbone Verge",
@@ -1997,7 +9397,33 @@
     "grade": "C",
     "rarity": "rare",
     "color": "BW",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.541,
+        "grade": "C-"
+      },
+      "WB": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.555,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.579,
+        "grade": "C+"
+      },
+      "WUB": {
+        "gihwr": 0.574,
+        "grade": "B-"
+      },
+      "WBG": {
+        "gihwr": 0.538,
+        "grade": "D+"
+      }
+    }
   },
   "95053": {
     "name": "Bloodfell Caves",
@@ -2005,7 +9431,49 @@
     "grade": "C-",
     "rarity": "common",
     "color": "BR",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.588,
+        "grade": "B"
+      },
+      "WR": {
+        "gihwr": 0.468,
+        "grade": "D-"
+      },
+      "UB": {
+        "gihwr": 0.57,
+        "grade": "C+"
+      },
+      "UR": {
+        "gihwr": 0.528,
+        "grade": "D+"
+      },
+      "BR": {
+        "gihwr": 0.545,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.553,
+        "grade": "C-"
+      },
+      "RG": {
+        "gihwr": 0.5,
+        "grade": "D"
+      },
+      "WBR": {
+        "gihwr": 0.524,
+        "grade": "C"
+      },
+      "UBR": {
+        "gihwr": 0.53,
+        "grade": "C+"
+      },
+      "BRG": {
+        "gihwr": 0.491,
+        "grade": "D"
+      }
+    }
   },
   "95054": {
     "name": "Blossoming Sands",
@@ -2013,7 +9481,49 @@
     "grade": "C",
     "rarity": "common",
     "color": "GW",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      },
+      "WB": {
+        "gihwr": 0.554,
+        "grade": "C"
+      },
+      "WR": {
+        "gihwr": 0.489,
+        "grade": "D+"
+      },
+      "WG": {
+        "gihwr": 0.55,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.567,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.539,
+        "grade": "C"
+      },
+      "WUG": {
+        "gihwr": 0.543,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.555,
+        "grade": "C"
+      },
+      "WRG": {
+        "gihwr": 0.516,
+        "grade": "C+"
+      }
+    }
   },
   "95055": {
     "name": "Country Roads",
@@ -2021,7 +9531,29 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "W",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "WB": {
+        "gihwr": 0.528,
+        "grade": "D"
+      },
+      "WR": {
+        "gihwr": 0.503,
+        "grade": "C-"
+      },
+      "WG": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      },
+      "WUB": {
+        "gihwr": 0.552,
+        "grade": "C"
+      }
+    }
   },
   "95056": {
     "name": "Dismal Backwater",
@@ -2029,7 +9561,49 @@
     "grade": "C",
     "rarity": "common",
     "color": "BU",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.547,
+        "grade": "C"
+      },
+      "WB": {
+        "gihwr": 0.549,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.559,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.536,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.553,
+        "grade": "C-"
+      },
+      "BR": {
+        "gihwr": 0.534,
+        "grade": "C-"
+      },
+      "BG": {
+        "gihwr": 0.567,
+        "grade": "C"
+      },
+      "WUB": {
+        "gihwr": 0.565,
+        "grade": "C+"
+      },
+      "UBR": {
+        "gihwr": 0.531,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.537,
+        "grade": "C"
+      }
+    }
   },
   "95057": {
     "name": "Foul Roads",
@@ -2037,7 +9611,33 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "B",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.554,
+        "grade": "C"
+      },
+      "BR": {
+        "gihwr": 0.545,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "WUB": {
+        "gihwr": 0.499,
+        "grade": "F"
+      },
+      "UBG": {
+        "gihwr": 0.541,
+        "grade": "C+"
+      }
+    }
   },
   "95058": {
     "name": "Jungle Hollow",
@@ -2045,7 +9645,49 @@
     "grade": "C",
     "rarity": "common",
     "color": "BG",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.559,
+        "grade": "C"
+      },
+      "WG": {
+        "gihwr": 0.549,
+        "grade": "C"
+      },
+      "UB": {
+        "gihwr": 0.563,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      },
+      "BR": {
+        "gihwr": 0.514,
+        "grade": "D"
+      },
+      "BG": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.529,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.548,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.539,
+        "grade": "C"
+      },
+      "BRG": {
+        "gihwr": 0.52,
+        "grade": "C"
+      }
+    }
   },
   "95059": {
     "name": "Muraganda Raceway",
@@ -2053,7 +9695,17 @@
     "grade": "D",
     "rarity": "rare",
     "color": "",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "BR": {
+        "gihwr": 0.544,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.531,
+        "grade": "D"
+      }
+    }
   },
   "95060": {
     "name": "Night Market",
@@ -2061,7 +9713,89 @@
     "grade": "C",
     "rarity": "common",
     "color": "",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.564,
+        "grade": "C+"
+      },
+      "WB": {
+        "gihwr": 0.564,
+        "grade": "C+"
+      },
+      "WR": {
+        "gihwr": 0.486,
+        "grade": "D+"
+      },
+      "WG": {
+        "gihwr": 0.56,
+        "grade": "C+"
+      },
+      "UB": {
+        "gihwr": 0.558,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.544,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.569,
+        "grade": "C"
+      },
+      "BR": {
+        "gihwr": 0.548,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.564,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.544,
+        "grade": "C"
+      },
+      "WUB": {
+        "gihwr": 0.558,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.52,
+        "grade": "C"
+      },
+      "WUG": {
+        "gihwr": 0.57,
+        "grade": "B-"
+      },
+      "WBR": {
+        "gihwr": 0.524,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "WRG": {
+        "gihwr": 0.523,
+        "grade": "C+"
+      },
+      "UBR": {
+        "gihwr": 0.533,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.526,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.571,
+        "grade": "B-"
+      },
+      "BRG": {
+        "gihwr": 0.519,
+        "grade": "C"
+      }
+    }
   },
   "95061": {
     "name": "Reef Roads",
@@ -2069,7 +9803,37 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "U",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.539,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.554,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.554,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.561,
+        "grade": "C"
+      },
+      "WUB": {
+        "gihwr": 0.533,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.54,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.542,
+        "grade": "C-"
+      }
+    }
   },
   "95062": {
     "name": "Riverpyre Verge",
@@ -2077,7 +9841,33 @@
     "grade": "C-",
     "rarity": "rare",
     "color": "RU",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "UB": {
+        "gihwr": 0.565,
+        "grade": "C+"
+      },
+      "UR": {
+        "gihwr": 0.545,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.569,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.546,
+        "grade": "C"
+      },
+      "UBR": {
+        "gihwr": 0.519,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.55,
+        "grade": "C"
+      }
+    }
   },
   "95063": {
     "name": "Rocky Roads",
@@ -2085,7 +9875,29 @@
     "grade": "D",
     "rarity": "uncommon",
     "color": "R",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.511,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.54,
+        "grade": "C"
+      },
+      "BR": {
+        "gihwr": 0.53,
+        "grade": "D+"
+      },
+      "RG": {
+        "gihwr": 0.514,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.532,
+        "grade": "D+"
+      }
+    }
   },
   "95064": {
     "name": "Rugged Highlands",
@@ -2093,7 +9905,49 @@
     "grade": "C-",
     "rarity": "common",
     "color": "GR",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.486,
+        "grade": "D+"
+      },
+      "WG": {
+        "gihwr": 0.548,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.557,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.571,
+        "grade": "C"
+      },
+      "BR": {
+        "gihwr": 0.565,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.544,
+        "grade": "D+"
+      },
+      "RG": {
+        "gihwr": 0.537,
+        "grade": "C"
+      },
+      "WRG": {
+        "gihwr": 0.506,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.552,
+        "grade": "C"
+      },
+      "BRG": {
+        "gihwr": 0.518,
+        "grade": "C"
+      }
+    }
   },
   "95065": {
     "name": "Scoured Barrens",
@@ -2101,7 +9955,49 @@
     "grade": "C",
     "rarity": "common",
     "color": "BW",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.555,
+        "grade": "C"
+      },
+      "WB": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      },
+      "WR": {
+        "gihwr": 0.484,
+        "grade": "D+"
+      },
+      "WG": {
+        "gihwr": 0.541,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.558,
+        "grade": "C"
+      },
+      "BR": {
+        "gihwr": 0.543,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.549,
+        "grade": "C-"
+      },
+      "WUB": {
+        "gihwr": 0.572,
+        "grade": "B-"
+      },
+      "WBR": {
+        "gihwr": 0.528,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.558,
+        "grade": "C+"
+      }
+    }
   },
   "95066": {
     "name": "Sunbillow Verge",
@@ -2109,7 +10005,25 @@
     "grade": "D+",
     "rarity": "rare",
     "color": "RW",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.52,
+        "grade": "C+"
+      },
+      "WG": {
+        "gihwr": 0.573,
+        "grade": "B-"
+      },
+      "RG": {
+        "gihwr": 0.532,
+        "grade": "C-"
+      },
+      "WRG": {
+        "gihwr": 0.566,
+        "grade": "A+"
+      }
+    }
   },
   "95067": {
     "name": "Swiftwater Cliffs",
@@ -2117,7 +10031,49 @@
     "grade": "C",
     "rarity": "common",
     "color": "RU",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.551,
+        "grade": "C"
+      },
+      "WR": {
+        "gihwr": 0.477,
+        "grade": "D"
+      },
+      "UB": {
+        "gihwr": 0.546,
+        "grade": "C-"
+      },
+      "UR": {
+        "gihwr": 0.552,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.562,
+        "grade": "C"
+      },
+      "BR": {
+        "gihwr": 0.525,
+        "grade": "D+"
+      },
+      "RG": {
+        "gihwr": 0.541,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.518,
+        "grade": "C"
+      },
+      "UBR": {
+        "gihwr": 0.521,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.554,
+        "grade": "C"
+      }
+    }
   },
   "95068": {
     "name": "Thornwood Falls",
@@ -2125,7 +10081,49 @@
     "grade": "C+",
     "rarity": "common",
     "color": "GU",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.535,
+        "grade": "C-"
+      },
+      "WG": {
+        "gihwr": 0.544,
+        "grade": "C-"
+      },
+      "UB": {
+        "gihwr": 0.577,
+        "grade": "B-"
+      },
+      "UR": {
+        "gihwr": 0.561,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.572,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.571,
+        "grade": "C+"
+      },
+      "RG": {
+        "gihwr": 0.532,
+        "grade": "C-"
+      },
+      "WUG": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.544,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.555,
+        "grade": "C"
+      }
+    }
   },
   "95069": {
     "name": "Tranquil Cove",
@@ -2133,7 +10131,49 @@
     "grade": "C",
     "rarity": "common",
     "color": "UW",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.551,
+        "grade": "C"
+      },
+      "WB": {
+        "gihwr": 0.543,
+        "grade": "C-"
+      },
+      "WR": {
+        "gihwr": 0.515,
+        "grade": "C"
+      },
+      "WG": {
+        "gihwr": 0.534,
+        "grade": "D+"
+      },
+      "UB": {
+        "gihwr": 0.565,
+        "grade": "C+"
+      },
+      "UR": {
+        "gihwr": 0.519,
+        "grade": "D+"
+      },
+      "UG": {
+        "gihwr": 0.567,
+        "grade": "C"
+      },
+      "WUB": {
+        "gihwr": 0.568,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.525,
+        "grade": "C+"
+      },
+      "WUG": {
+        "gihwr": 0.562,
+        "grade": "C+"
+      }
+    }
   },
   "95070": {
     "name": "Wastewood Verge",
@@ -2141,7 +10181,33 @@
     "grade": "C",
     "rarity": "rare",
     "color": "BG",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "UB": {
+        "gihwr": 0.551,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.566,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.569,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.53,
+        "grade": "D"
+      },
+      "UBG": {
+        "gihwr": 0.532,
+        "grade": "C"
+      },
+      "BRG": {
+        "gihwr": 0.524,
+        "grade": "C+"
+      }
+    }
   },
   "95071": {
     "name": "Wild Roads",
@@ -2149,7 +10215,33 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "G",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.562,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.539,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.513,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.539,
+        "grade": "C-"
+      }
+    }
   },
   "95072": {
     "name": "Willowrush Verge",
@@ -2157,7 +10249,37 @@
     "grade": "C",
     "rarity": "rare",
     "color": "GU",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "UB": {
+        "gihwr": 0.506,
+        "grade": "F"
+      },
+      "UG": {
+        "gihwr": 0.577,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.553,
+        "grade": "C-"
+      },
+      "RG": {
+        "gihwr": 0.563,
+        "grade": "B-"
+      },
+      "WUG": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.532,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.537,
+        "grade": "C-"
+      }
+    }
   },
   "95073": {
     "name": "Wind-Scarred Crag",
@@ -2165,7 +10287,49 @@
     "grade": "D+",
     "rarity": "common",
     "color": "RW",
-    "isLand": true
+    "isLand": true,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.554,
+        "grade": "C"
+      },
+      "WB": {
+        "gihwr": 0.555,
+        "grade": "C"
+      },
+      "WR": {
+        "gihwr": 0.509,
+        "grade": "C"
+      },
+      "WG": {
+        "gihwr": 0.538,
+        "grade": "C-"
+      },
+      "UR": {
+        "gihwr": 0.526,
+        "grade": "D+"
+      },
+      "BR": {
+        "gihwr": 0.556,
+        "grade": "C+"
+      },
+      "RG": {
+        "gihwr": 0.522,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.522,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.503,
+        "grade": "D+"
+      },
+      "WRG": {
+        "gihwr": 0.501,
+        "grade": "C-"
+      }
+    }
   },
   "95106": {
     "name": "Cavalier of Dawn",

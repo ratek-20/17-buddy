@@ -99,7 +99,7 @@ Runtime datasets live in `card-data/<SET>.json`. Raw inputs are intentionally
 excluded from Git. Embedded ratings currently cover DFT, ECL, and FRA.
 
 - `scripts/build_card_win_rates.py` processes official 17Lands public game-data
-  CSV files.
+  CSV files into all-decks and deck-color ratings.
 - `scripts/build_card_win_rates_from_ui.py` processes a CSV manually exported
   from the 17Lands Card Data table when a public game dataset is not yet
   available.
@@ -109,9 +109,10 @@ excluded from Git. Embedded ratings currently cover DFT, ECL, and FRA.
 
 The DFT and ECL ratings and shared card-list metadata are adapted from
 [17Lands Public Data](https://www.17lands.com/public_datasets), licensed under
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). For ECL, 17-buddy
-aggregates game records into GIH win rates, calculates grades, selects runtime
-fields, and maps cards to Arena IDs.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). For DFT and ECL,
+17-buddy aggregates game records into GIH win rates for all decks and each
+primary-color combination, calculates grades, selects runtime fields, and maps
+cards to Arena IDs.
 
 The FRA ratings are derived from a CSV manually exported in October 2026 from
 the publicly accessible

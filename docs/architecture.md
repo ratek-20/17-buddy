@@ -125,7 +125,7 @@ flowchart LR
     CardList[Official 17Lands cards.csv]
     PublicBuilder[build_card_win_rates.py]
     FallbackBuilder[build_card_win_rates_from_ui.py]
-    Normalize[Calculate GIH WR grades and attach Arena metadata]
+    Normalize[Calculate all-decks and deck-color GIH WR grades]
     Json[(card-data/SET.json)]
     Bundle[Vite main-process bundle]
     Repository[RatingsRepository]

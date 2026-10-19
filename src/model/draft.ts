@@ -13,13 +13,17 @@ export type PackReceived = {
 
 export type ArenaLogEvent = DraftStarted | PackReceived;
 
-export type CardRating = {
-  name: string;
+export type WinRateGrade = {
   gihwr: number | null;
   grade: string | null;
+};
+
+export type CardRating = WinRateGrade & {
+  name: string;
   rarity?: string;
   color?: string;
   isLand?: boolean;
+  deckRatings?: Record<string, WinRateGrade>;
 };
 
 export type RatedCard = CardRating & {

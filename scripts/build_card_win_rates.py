@@ -17,6 +17,7 @@ GRADE_BAND_WIDTH = 0.33
 GRADES = ("F", "D-", "D", "D+", "C-", "C", "C+", "B-", "B", "B+", "A-", "A", "A+")
 C_GRADE_INDEX = GRADES.index("C")
 DEFAULT_MIN_GIH_OBSERVATIONS = 500
+COLOR_ORDER = "WUBRG"
 PUBLIC_CARD_LIST_URL = (
     "https://17lands-public.s3.amazonaws.com/analysis_data/cards/cards.csv"
 )
@@ -46,6 +47,15 @@ class CardStats:
         if self.games_in_hand == 0:
             return None
         return self.wins_in_hand / self.games_in_hand
+
+
+@dataclass(frozen=True)
+class CollectedStats:
+    overall: dict[str, CardStats]
+    by_deck: dict[str, dict[str, CardStats]]
+    row_count: int
+    first_game_time: str
+    last_game_time: str
 
 
 def parse_args() -> argparse.Namespace:
@@ -220,7 +230,14 @@ def parse_count(value: str) -> int:
     return int(value)
 
 
-def collect_stats(csv_path: Path) -> tuple[dict[str, CardStats], int, str, str]:
+def normalize_deck_colors(value: str) -> str | None:
+    colors = set(value.strip().upper())
+    if not colors or not colors.issubset(COLOR_ORDER):
+        return None
+    return "".join(color for color in COLOR_ORDER if color in colors)
+
+
+def _collect_stats(csv_path: Path, include_deck_stats: bool) -> CollectedStats:
     with csv_path.open(newline="", encoding="utf-8") as csv_file:
         reader = csv.reader(csv_file)
         try:
@@ -237,6 +254,14 @@ def collect_stats(csv_path: Path) -> tuple[dict[str, CardStats], int, str, str]:
 
         card_columns = find_card_columns(header)
         stats = {card.name: CardStats() for card in card_columns}
+        main_colors_index = None
+        if include_deck_stats:
+            try:
+                main_colors_index = column_indexes["main_colors"]
+            except KeyError as error:
+                raise ValueError("Missing required column 'main_colors'") from error
+
+        stats_by_deck: dict[str, dict[str, CardStats]] = {}
         row_count = 0
         first_game_time = ""
         last_game_time = ""
@@ -249,6 +274,16 @@ def collect_stats(csv_path: Path) -> tuple[dict[str, CardStats], int, str, str]:
                 last_game_time = game_time
 
             won = row[won_index] == "True"
+            deck_stats = None
+            if main_colors_index is not None:
+                deck_colors = normalize_deck_colors(row[main_colors_index])
+                if deck_colors is not None:
+                    if deck_colors not in stats_by_deck:
+                        stats_by_deck[deck_colors] = {
+                            card.name: CardStats() for card in card_columns
+                        }
+                    deck_stats = stats_by_deck[deck_colors]
+
             for card in card_columns:
                 copies_in_hand = parse_count(row[card.opening_hand]) + parse_count(row[card.drawn])
                 if copies_in_hand == 0:
@@ -259,7 +294,33 @@ def collect_stats(csv_path: Path) -> tuple[dict[str, CardStats], int, str, str]:
                 if won:
                     card_stats.wins_in_hand += copies_in_hand
 
-    return stats, row_count, first_game_time, last_game_time
+                if deck_stats is not None:
+                    deck_card_stats = deck_stats[card.name]
+                    deck_card_stats.games_in_hand += copies_in_hand
+                    if won:
+                        deck_card_stats.wins_in_hand += copies_in_hand
+
+    return CollectedStats(
+        overall=stats,
+        by_deck=stats_by_deck,
+        row_count=row_count,
+        first_game_time=first_game_time,
+        last_game_time=last_game_time,
+    )
+
+
+def collect_stats(csv_path: Path) -> tuple[dict[str, CardStats], int, str, str]:
+    collected = _collect_stats(csv_path, include_deck_stats=False)
+    return (
+        collected.overall,
+        collected.row_count,
+        collected.first_game_time,
+        collected.last_game_time,
+    )
+
+
+def collect_stats_by_deck(csv_path: Path) -> CollectedStats:
+    return _collect_stats(csv_path, include_deck_stats=True)
 
 
 def grade_for(win_rate: float, mean: float, standard_deviation: float) -> str:
@@ -277,7 +338,8 @@ def build_output(
     stats: dict[str, CardStats],
     min_gih_observations: int,
     card_metadata: dict[str, CardDisplayMetadata] | None = None,
-) -> tuple[dict[str, dict[str, str | float | bool | None]], float, float]:
+    stats_by_deck: dict[str, dict[str, CardStats]] | None = None,
+) -> tuple[dict[str, dict[str, object]], float, float]:
     if min_gih_observations < 1:
         raise ValueError("Minimum GIH observations must be at least 1")
 
@@ -291,7 +353,7 @@ def build_output(
 
     mean = statistics.fmean(valid_win_rates)
     standard_deviation = statistics.pstdev(valid_win_rates)
-    output: dict[str, dict[str, str | float | None]] = {}
+    output: dict[str, dict[str, object]] = {}
 
     cards_by_id = sorted(
         (arena_id, name)
@@ -320,12 +382,61 @@ def build_output(
                 }
             )
 
+    if stats_by_deck is not None:
+        add_deck_ratings(
+            output,
+            cards_by_id,
+            stats_by_deck,
+            min_gih_observations,
+        )
+
     return output, mean, standard_deviation
+
+
+def add_deck_ratings(
+    output: dict[str, dict[str, object]],
+    cards_by_id: list[tuple[int, str]],
+    stats_by_deck: dict[str, dict[str, CardStats]],
+    min_gih_observations: int,
+) -> None:
+    card_names = {name for _, name in cards_by_id}
+    for deck_colors in sorted(
+        stats_by_deck,
+        key=lambda colors: (len(colors), tuple(COLOR_ORDER.index(color) for color in colors)),
+    ):
+        deck_stats = stats_by_deck[deck_colors]
+        valid_win_rates = [
+            card_stats.win_rate
+            for name, card_stats in deck_stats.items()
+            if name in card_names
+            and card_stats.games_in_hand >= min_gih_observations
+        ]
+        if not valid_win_rates:
+            continue
+
+        mean = statistics.fmean(valid_win_rates)
+        standard_deviation = statistics.pstdev(valid_win_rates)
+        for arena_id, name in cards_by_id:
+            card_stats = deck_stats.get(name)
+            if (
+                card_stats is None
+                or card_stats.games_in_hand < min_gih_observations
+                or card_stats.win_rate is None
+            ):
+                continue
+
+            win_rate = card_stats.win_rate
+            deck_ratings = output[str(arena_id)].setdefault("deckRatings", {})
+            assert isinstance(deck_ratings, dict)
+            deck_ratings[deck_colors] = {
+                "gihwr": round(win_rate, 3),
+                "grade": grade_for(win_rate, mean, standard_deviation),
+            }
 
 
 def main() -> None:
     args = parse_args()
-    stats, row_count, first_game_time, last_game_time = collect_stats(args.csv_path)
+    collected = collect_stats_by_deck(args.csv_path)
     available_card_ids = load_public_card_ids(
         args.card_list_path, args.card_expansions
     )
@@ -333,14 +444,18 @@ def main() -> None:
         args.card_list_path, args.card_expansions
     )
 
-    missing_ids = sorted(set(stats) - set(available_card_ids))
+    missing_ids = sorted(set(collected.overall) - set(available_card_ids))
     card_ids = {
         name: available_card_ids[name]
-        for name in stats
+        for name in collected.overall
         if name in available_card_ids
     }
     output, mean, standard_deviation = build_output(
-        card_ids, stats, args.min_gih_observations, card_metadata
+        card_ids,
+        collected.overall,
+        args.min_gih_observations,
+        card_metadata,
+        collected.by_deck,
     )
 
     args.output_path.parent.mkdir(parents=True, exist_ok=True)
@@ -349,13 +464,37 @@ def main() -> None:
         output_file.write("\n")
 
     rated_count = sum(card["gihwr"] is not None for card in output.values())
-    print(f"Processed {row_count:,} games from {first_game_time} through {last_game_time}")
+    print(
+        f"Processed {collected.row_count:,} games from "
+        f"{collected.first_game_time} through {collected.last_game_time}"
+    )
     print(
         f"Wrote {len(output)} cards ({rated_count} rated, "
         f"minimum {args.min_gih_observations:,} GIH observations) to {args.output_path}"
     )
     print(f"Mean GIHWR: {mean:.6f}")
     print(f"Population standard deviation: {standard_deviation:.6f}")
+    rated_cards_by_deck: dict[str, int] = {}
+    for card in output.values():
+        deck_ratings = card.get("deckRatings")
+        if not isinstance(deck_ratings, dict):
+            continue
+        for deck_colors in deck_ratings:
+            rated_cards_by_deck[deck_colors] = (
+                rated_cards_by_deck.get(deck_colors, 0) + 1
+            )
+    if rated_cards_by_deck:
+        summary = ", ".join(
+            f"{deck_colors} ({rated_cards_by_deck[deck_colors]})"
+            for deck_colors in sorted(
+                rated_cards_by_deck,
+                key=lambda colors: (
+                    len(colors),
+                    tuple(COLOR_ORDER.index(color) for color in colors),
+                ),
+            )
+        )
+        print(f"Deck ratings: {summary}")
     if missing_ids:
         print(f"CSV cards without Arena IDs: {', '.join(missing_ids)}")
 
