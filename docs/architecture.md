@@ -31,6 +31,7 @@ flowchart LR
 
     subgraph Renderer[Svelte renderer · src/renderer]
         App[App.svelte]
+        Selector[DeckSelector]
         Layout[Arena card layout]
         Badges[GradeOverlay and CardGradeBadge]
     end
@@ -44,6 +45,9 @@ flowchart LR
     Ratings --> Coordinator
     Coordinator -->|draft:pack-rated| Preload
     Preload --> App
+    App --> Selector
+    Selector -->|draft:overlay-interaction| Preload
+    Preload --> Coordinator
     App --> Layout
     Layout --> Badges
     OS --> Foreground
@@ -53,8 +57,9 @@ flowchart LR
 ```
 
 The main process is the coordinator. It keeps Arena-specific log and window
-behavior out of Svelte. The preload script exposes only `onPackRated`, so the
-renderer has no direct Node.js or Electron access.
+behavior out of Svelte. The preload script exposes `onPackRated` and a narrow
+mouse-interaction toggle, so the renderer has no direct Node.js or Electron
+access.
 
 ## Pack processing sequence
 
@@ -78,6 +83,7 @@ sequenceDiagram
     Ratings-->>Main: RatedPack
     Main->>Preload: IPC draft:pack-rated
     Preload->>UI: onPackRated(ratedPack)
+    UI->>UI: Apply the selected deck rating
     UI->>UI: Sort cards like Arena
     UI->>UI: Scale positions and render badges
 ```

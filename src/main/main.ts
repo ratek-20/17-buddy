@@ -1,8 +1,18 @@
-import { app, BrowserWindow, screen, type Rectangle } from 'electron';
+import {
+  app,
+  BrowserWindow,
+  ipcMain,
+  screen,
+  type IpcMainEvent,
+  type Rectangle,
+} from 'electron';
 import os from 'node:os';
 import path from 'node:path';
 import started from 'electron-squirrel-startup';
-import { RATED_PACK_CHANNEL } from '../ipc/draft-overlay';
+import {
+  OVERLAY_INTERACTION_CHANNEL,
+  RATED_PACK_CHANNEL,
+} from '../ipc/draft-overlay';
 import type { ArenaLogEvent, RatedPack } from '../model/draft';
 import {
   ArenaForegroundMonitor,
@@ -102,6 +112,7 @@ const updateOverlayVisibility = (): void => {
   }
 
   if (!foregroundArenaWindow) {
+    overlayWindow.setIgnoreMouseEvents(true, { forward: true });
     overlayWindow.hide();
     return;
   }
@@ -112,6 +123,23 @@ const updateOverlayVisibility = (): void => {
   }
 
   overlayWindow.showInactive();
+};
+
+const handleOverlayInteraction = (
+  event: IpcMainEvent,
+  interactive: unknown,
+): void => {
+  if (
+    typeof interactive !== 'boolean' ||
+    !foregroundArenaWindow ||
+    !overlayWindow ||
+    overlayWindow.isDestroyed() ||
+    event.sender !== overlayWindow.webContents
+  ) {
+    return;
+  }
+
+  overlayWindow.setIgnoreMouseEvents(!interactive, { forward: true });
 };
 
 const startArenaForegroundMonitor = (): void => {
@@ -251,6 +279,7 @@ const startArenaLogWatcher = (): void => {
 
 app.whenReady().then(() => {
   overlayWindow = createOverlayWindow();
+  ipcMain.on(OVERLAY_INTERACTION_CHANNEL, handleOverlayInteraction);
   startArenaForegroundMonitor();
   overlayWindow.webContents.once('did-finish-load', startArenaLogWatcher);
 
@@ -262,6 +291,7 @@ app.whenReady().then(() => {
 });
 
 app.on('before-quit', () => {
+  ipcMain.removeListener(OVERLAY_INTERACTION_CHANNEL, handleOverlayInteraction);
   arenaForegroundMonitor?.stop();
   arenaLogWatcher?.stop();
 });

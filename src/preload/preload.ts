@@ -1,5 +1,9 @@
 import { contextBridge, ipcRenderer, type IpcRendererEvent } from 'electron';
-import { type DraftOverlayApi, RATED_PACK_CHANNEL } from '../ipc/draft-overlay';
+import {
+  type DraftOverlayApi,
+  OVERLAY_INTERACTION_CHANNEL,
+  RATED_PACK_CHANNEL,
+} from '../ipc/draft-overlay';
 import type { RatedPack } from '../model/draft';
 
 const draftOverlayApi: DraftOverlayApi = {
@@ -13,6 +17,9 @@ const draftOverlayApi: DraftOverlayApi = {
     return () => {
       ipcRenderer.removeListener(RATED_PACK_CHANNEL, listener);
     };
+  },
+  setInteractive(interactive) {
+    ipcRenderer.send(OVERLAY_INTERACTION_CHANNEL, interactive);
   },
 };
 

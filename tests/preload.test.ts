@@ -46,6 +46,7 @@ describe('draft overlay preload API', () => {
       setCode: 'FRA',
       packNumber: 1,
       pickNumber: 2,
+      availableDecks: [],
       cards: [],
     };
 

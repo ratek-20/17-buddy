@@ -34,5 +34,6 @@ export type RatedPack = {
   setCode: string;
   packNumber: number;
   pickNumber: number;
+  availableDecks: string[];
   cards: RatedCard[];
 };

@@ -26,6 +26,8 @@ gameplay data, or telemetry.
 
 - Detects Quick Draft packs from newly appended Arena log entries.
 - Displays a color-coded grade on each card.
+- Switches badges between all-decks and deck-color ratings when the dataset
+  provides them.
 - Matches Arena's visual card ordering by rarity and color.
 - Tracks fullscreen, resized, moved, and secondary-display Arena windows.
 - Hides the overlay when Arena loses focus.
@@ -63,8 +65,8 @@ pack.
 
 Electron owns operating-system integration, Arena log processing, card-rating
 lookup, and the transparent overlay window. A constrained preload bridge sends
-rated packs to the Svelte renderer, which only handles presentation and card
-geometry.
+rated packs to the Svelte renderer and lets its deck selector request mouse
+interaction. Svelte handles presentation, deck selection, and card geometry.
 
 ### Component overview
 
@@ -87,6 +89,7 @@ sequenceDiagram
     Ratings-->>Main: Return rated pack
     Main->>Preload: Send rated pack through IPC
     Preload->>UI: Notify renderer
+    UI->>UI: Apply selected deck ratings
     UI->>UI: Position and render grade badges
 ```
 

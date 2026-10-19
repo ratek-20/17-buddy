@@ -4,7 +4,15 @@ import { RatingsRepository } from '../src/main/ratings-repository';
 describe('RatingsRepository', () => {
   const repository = new RatingsRepository({
     TST: {
-      '100': { name: 'First card', gihwr: 0.6, grade: 'B+' },
+      '100': {
+        name: 'First card',
+        gihwr: 0.6,
+        grade: 'B+',
+        deckRatings: {
+          WU: { gihwr: 0.62, grade: 'A-' },
+          WUG: { gihwr: 0.61, grade: 'B+' },
+        },
+      },
       '200': { name: 'Second card', gihwr: 0.5, grade: 'D' },
     },
   });
@@ -15,6 +23,10 @@ describe('RatingsRepository', () => {
       name: 'First card',
       gihwr: 0.6,
       grade: 'B+',
+      deckRatings: {
+        WU: { gihwr: 0.62, grade: 'A-' },
+        WUG: { gihwr: 0.61, grade: 'B+' },
+      },
     });
   });
 
@@ -31,6 +43,7 @@ describe('RatingsRepository', () => {
       setCode: 'TST',
       packNumber: 1,
       pickNumber: 1,
+      availableDecks: ['WU', 'WUG'],
       cards: [
         {
           id: 200,
@@ -43,6 +56,10 @@ describe('RatingsRepository', () => {
           name: 'First card',
           gihwr: 0.6,
           grade: 'B+',
+          deckRatings: {
+            WU: { gihwr: 0.62, grade: 'A-' },
+            WUG: { gihwr: 0.61, grade: 'B+' },
+          },
         },
       ],
     });

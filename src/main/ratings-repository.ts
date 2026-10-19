@@ -5,6 +5,8 @@ import type { CardRating, PackReceived, RatedPack } from '../model/draft';
 
 type CardRatingDataset = Record<string, CardRating>;
 
+const COLOR_ORDER = 'WUBRG';
+
 const RATINGS_BY_SET: Record<string, CardRatingDataset> = {
   DFT: dftCardRatings,
   ECL: eclCardRatings,
@@ -27,11 +29,26 @@ export class RatingsRepository {
     return this.ratingsBySet[setCode]?.[String(cardId)] ?? null;
   }
 
+  getAvailableDecks(setCode: string): string[] {
+    const decks = new Set<string>();
+    for (const rating of Object.values(this.ratingsBySet[setCode] ?? {})) {
+      for (const deck of Object.keys(rating.deckRatings ?? {})) {
+        decks.add(deck);
+      }
+    }
+
+    return [...decks].sort(
+      (first, second) =>
+        first.length - second.length || compareColors(first, second),
+    );
+  }
+
   ratePack(pack: PackReceived): RatedPack {
     return {
       setCode: pack.setCode,
       packNumber: pack.packNumber,
       pickNumber: pack.pickNumber,
+      availableDecks: this.getAvailableDecks(pack.setCode),
       cards: pack.cardIds.map((id) => {
         const rating = this.getRating(pack.setCode, id);
 
@@ -49,3 +66,18 @@ export class RatingsRepository {
     };
   }
 }
+
+const compareColors = (first: string, second: string): number => {
+  for (
+    let index = 0;
+    index < Math.min(first.length, second.length);
+    index += 1
+  ) {
+    const difference =
+      COLOR_ORDER.indexOf(first[index]) - COLOR_ORDER.indexOf(second[index]);
+    if (difference !== 0) {
+      return difference;
+    }
+  }
+  return first.localeCompare(second);
+};
