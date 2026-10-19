@@ -3,14 +3,21 @@
 > An experimental, non-commercial MTG Arena Quick Draft overlay that displays
 > 17Lands card win-rate grades directly on the draft screen.
 
-![17-buddy grade badges over an MTG Arena draft pack](docs/assets/overlay-preview.png)
+**All-decks ratings**
+
+![17-buddy showing all-decks grades over an MTG Arena draft pack](docs/assets/overlay-all-decks.png)
+
+**UG deck ratings**
+
+![17-buddy showing UG deck grades and the deck selector over an MTG Arena draft pack](docs/assets/overlay-ug-decks.png)
 
 ## Overview
 
 17-buddy watches the local MTG Arena log, detects each Quick Draft pack, joins
 the card IDs with embedded 17Lands ratings, and renders a transparent Electron
 overlay over Arena. The overlay follows the Arena window, scales with it, and
-hides its badges while a card is enlarged on hover.
+hides its badges while a card is enlarged on hover. A deck selector switches
+the badges from overall ratings to ratings for a specific color combination.
 
 The project is in active development and runs on macOS and Windows. This
 repository currently provides the source code as a developer and portfolio
@@ -26,8 +33,8 @@ gameplay data, or telemetry.
 
 - Detects Quick Draft packs from newly appended Arena log entries.
 - Displays a color-coded grade on each card.
-- Switches badges between all-decks and deck-color ratings when the dataset
-  provides them.
+- Provides an in-game selector for switching between all-decks and deck-color
+  ratings when the dataset supports them.
 - Matches Arena's visual card ordering by rarity and color.
 - Tracks fullscreen, resized, moved, and secondary-display Arena windows.
 - Hides the overlay when Arena loses focus.
@@ -61,12 +68,19 @@ it before opening the draft so it can process new log entries. No separate app
 window opens; grade badges appear when Arena is showing a supported Quick Draft
 pack.
 
+The deck selector defaults to **All**. Select a color combination such as
+**WU**, **UG**, or **WUG** to use ratings calculated from decks with those main
+colors. A `—` badge means that the selected deck has fewer than 500
+game-in-hand observations for that card, so 17-buddy does not display a grade.
+The available choices depend on the ratings embedded for the current set.
+
 ## Architecture
 
 Electron owns operating-system integration, Arena log processing, card-rating
 lookup, and the transparent overlay window. A constrained preload bridge sends
-rated packs to the Svelte renderer and lets its deck selector request mouse
-interaction. Svelte handles presentation, deck selection, and card geometry.
+rated packs and available deck choices to the Svelte renderer and lets its deck
+selector request mouse interaction. Svelte applies the selected ratings and
+handles presentation and card geometry.
 
 ### Component overview
 

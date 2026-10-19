@@ -2,7 +2,8 @@
 
 17-buddy separates desktop integration from presentation. Electron's main
 process observes Arena and prepares rated draft data; the Svelte renderer
-receives that data through a narrow preload API and draws the badges.
+receives that data through a narrow preload API, applies the selected deck
+ratings, and draws the badges.
 
 ## Component overview
 
@@ -80,7 +81,7 @@ sequenceDiagram
     Watcher->>Parser: parseArenaLogLine(line)
     Parser-->>Main: PackReceived
     Main->>Ratings: ratePack(pack)
-    Ratings-->>Main: RatedPack
+    Ratings-->>Main: RatedPack and available decks
     Main->>Preload: IPC draft:pack-rated
     Preload->>UI: onPackRated(ratedPack)
     UI->>UI: Apply the selected deck rating
@@ -91,6 +92,37 @@ sequenceDiagram
 The watcher starts at the end of the existing file, so historical draft events
 are ignored. It reads only content produced while 17-buddy is running and
 resets safely if Arena replaces or truncates the log.
+
+## Deck-specific ratings
+
+Each card keeps its overall `gihwr` and `grade` alongside an optional
+`deckRatings` map keyed by main-color combination. The ratings repository sends
+the cards and the combinations available for the current set in one rated-pack
+message. Changing the selection therefore needs no disk access or IPC
+round-trip: Svelte selects the matching values already held in memory and
+rerenders the badges. Missing entries appear as `—`; builders omit them when a
+card has fewer than 500 game-in-hand observations for that combination.
+
+```mermaid
+sequenceDiagram
+    actor Player
+    participant Selector as DeckSelector
+    participant App as App.svelte
+    participant Pack as RatedPack in memory
+    participant Badges as Card grade badges
+
+    Player->>Selector: Select UG
+    Selector->>App: Update selected deck
+    App->>Pack: Read each card's deckRatings.UG
+    Pack-->>App: Deck grade or missing rating
+    App->>Badges: Rerender grades and dashes
+```
+
+The overlay normally passes mouse input through to Arena. When the pointer
+enters the selector's interaction area, the preload bridge sends a validated
+`draft:overlay-interaction` request to Electron. The main process temporarily
+makes the overlay interactive and restores click-through behavior after the
+pointer leaves.
 
 ## Overlay tracking sequence
 
