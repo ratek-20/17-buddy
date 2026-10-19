@@ -96,7 +96,7 @@ tracking, and card-data generation diagrams.
 ## Card data
 
 Runtime datasets live in `card-data/<SET>.json`. Raw inputs are intentionally
-excluded from Git. Embedded ratings currently cover ECL and FRA.
+excluded from Git. Embedded ratings currently cover DFT, ECL, and FRA.
 
 - `scripts/build_card_win_rates.py` processes official 17Lands public game-data
   CSV files.
@@ -107,7 +107,7 @@ excluded from Git. Embedded ratings currently cover ECL and FRA.
   [official 17Lands public card list](https://17lands-public.s3.amazonaws.com/analysis_data/cards/cards.csv)
   to map cards to Arena IDs.
 
-The ECL ratings and shared card-list metadata are adapted from
+The DFT and ECL ratings and shared card-list metadata are adapted from
 [17Lands Public Data](https://www.17lands.com/public_datasets), licensed under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). For ECL, 17-buddy
 aggregates game records into GIH win rates, calculates grades, selects runtime

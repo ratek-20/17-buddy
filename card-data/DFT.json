@@ -1,0 +1,2250 @@
+{
+  "94803": {
+    "name": "Air Response Unit",
+    "gihwr": 0.51,
+    "grade": "D-",
+    "rarity": "uncommon",
+    "color": "W",
+    "isLand": false
+  },
+  "94804": {
+    "name": "Alacrian Armory",
+    "gihwr": 0.465,
+    "grade": "F",
+    "rarity": "uncommon",
+    "color": "W",
+    "isLand": false
+  },
+  "94805": {
+    "name": "Basri, Tomorrow's Champion",
+    "gihwr": 0.576,
+    "grade": "B-",
+    "rarity": "rare",
+    "color": "W",
+    "isLand": false
+  },
+  "94806": {
+    "name": "Brightfield Glider",
+    "gihwr": 0.526,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "W",
+    "isLand": false
+  },
+  "94807": {
+    "name": "Brightfield Mustang",
+    "gihwr": 0.502,
+    "grade": "D-",
+    "rarity": "common",
+    "color": "W",
+    "isLand": false
+  },
+  "94808": {
+    "name": "Broadcast Rambler",
+    "gihwr": 0.559,
+    "grade": "C+",
+    "rarity": "common",
+    "color": "W",
+    "isLand": false
+  },
+  "94809": {
+    "name": "Bulwark Ox",
+    "gihwr": 0.551,
+    "grade": "C",
+    "rarity": "rare",
+    "color": "W",
+    "isLand": false
+  },
+  "94810": {
+    "name": "Canyon Vaulter",
+    "gihwr": 0.546,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "W",
+    "isLand": false
+  },
+  "94811": {
+    "name": "Cloudspire Captain",
+    "gihwr": 0.515,
+    "grade": "D",
+    "rarity": "uncommon",
+    "color": "W",
+    "isLand": false
+  },
+  "94812": {
+    "name": "Collision Course",
+    "gihwr": 0.538,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "W",
+    "isLand": false
+  },
+  "94813": {
+    "name": "Daring Mechanic",
+    "gihwr": 0.51,
+    "grade": "D-",
+    "rarity": "common",
+    "color": "W",
+    "isLand": false
+  },
+  "94814": {
+    "name": "Detention Chariot",
+    "gihwr": 0.559,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "W",
+    "isLand": false
+  },
+  "94815": {
+    "name": "Gallant Strike",
+    "gihwr": 0.57,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "W",
+    "isLand": false
+  },
+  "94816": {
+    "name": "Gloryheath Lynx",
+    "gihwr": 0.595,
+    "grade": "B+",
+    "rarity": "uncommon",
+    "color": "W",
+    "isLand": false
+  },
+  "94817": {
+    "name": "Guardian Sunmare",
+    "gihwr": 0.584,
+    "grade": "B",
+    "rarity": "rare",
+    "color": "W",
+    "isLand": false
+  },
+  "94818": {
+    "name": "Guidelight Synergist",
+    "gihwr": 0.551,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "W",
+    "isLand": false
+  },
+  "94819": {
+    "name": "Interface Ace",
+    "gihwr": 0.491,
+    "grade": "F",
+    "rarity": "common",
+    "color": "W",
+    "isLand": false
+  },
+  "94820": {
+    "name": "Leonin Surveyor",
+    "gihwr": 0.523,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "W",
+    "isLand": false
+  },
+  "94821": {
+    "name": "Lightshield Parry",
+    "gihwr": 0.513,
+    "grade": "D",
+    "rarity": "common",
+    "color": "W",
+    "isLand": false
+  },
+  "94822": {
+    "name": "Lightwheel Enhancements",
+    "gihwr": 0.483,
+    "grade": "F",
+    "rarity": "common",
+    "color": "W",
+    "isLand": false
+  },
+  "94823": {
+    "name": "Lotusguard Disciple",
+    "gihwr": 0.53,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "W",
+    "isLand": false
+  },
+  "94824": {
+    "name": "Nesting Bot",
+    "gihwr": 0.559,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "W",
+    "isLand": false
+  },
+  "94825": {
+    "name": "Perilous Snare",
+    "gihwr": 0.619,
+    "grade": "A",
+    "rarity": "rare",
+    "color": "W",
+    "isLand": false
+  },
+  "94826": {
+    "name": "Pride of the Road",
+    "gihwr": 0.524,
+    "grade": "D+",
+    "rarity": "uncommon",
+    "color": "W",
+    "isLand": false
+  },
+  "94827": {
+    "name": "Ride's End",
+    "gihwr": 0.573,
+    "grade": "B-",
+    "rarity": "common",
+    "color": "W",
+    "isLand": false
+  },
+  "94828": {
+    "name": "Roadside Assistance",
+    "gihwr": 0.533,
+    "grade": "D+",
+    "rarity": "uncommon",
+    "color": "W",
+    "isLand": false
+  },
+  "94829": {
+    "name": "Salvation Engine",
+    "gihwr": 0.553,
+    "grade": "C",
+    "rarity": "mythic",
+    "color": "W",
+    "isLand": false
+  },
+  "94830": {
+    "name": "Skyseer's Chariot",
+    "gihwr": 0.545,
+    "grade": "C-",
+    "rarity": "rare",
+    "color": "W",
+    "isLand": false
+  },
+  "94831": {
+    "name": "Spectacular Pileup",
+    "gihwr": 0.559,
+    "grade": "C+",
+    "rarity": "rare",
+    "color": "W",
+    "isLand": false
+  },
+  "94832": {
+    "name": "Spotcycle Scouter",
+    "gihwr": 0.511,
+    "grade": "D",
+    "rarity": "common",
+    "color": "W",
+    "isLand": false
+  },
+  "94833": {
+    "name": "Sundial, Dawn Tyrant",
+    "gihwr": 0.553,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "W",
+    "isLand": false
+  },
+  "94834": {
+    "name": "Swiftwing Assailant",
+    "gihwr": 0.531,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "W",
+    "isLand": false
+  },
+  "94835": {
+    "name": "Tune Up",
+    "gihwr": 0.525,
+    "grade": "D+",
+    "rarity": "uncommon",
+    "color": "W",
+    "isLand": false
+  },
+  "94836": {
+    "name": "Unswerving Sloth",
+    "gihwr": 0.529,
+    "grade": "D+",
+    "rarity": "uncommon",
+    "color": "W",
+    "isLand": false
+  },
+  "94837": {
+    "name": "Valor's Flagship",
+    "gihwr": 0.562,
+    "grade": "C+",
+    "rarity": "mythic",
+    "color": "W",
+    "isLand": false
+  },
+  "94838": {
+    "name": "Voyager Glidecar",
+    "gihwr": 0.563,
+    "grade": "C+",
+    "rarity": "rare",
+    "color": "W",
+    "isLand": false
+  },
+  "94839": {
+    "name": "Voyager Quickwelder",
+    "gihwr": 0.55,
+    "grade": "C",
+    "rarity": "common",
+    "color": "W",
+    "isLand": false
+  },
+  "94840": {
+    "name": "Aether Syphon",
+    "gihwr": 0.558,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "U",
+    "isLand": false
+  },
+  "94841": {
+    "name": "Bounce Off",
+    "gihwr": 0.558,
+    "grade": "C+",
+    "rarity": "common",
+    "color": "U",
+    "isLand": false
+  },
+  "94842": {
+    "name": "Caelorna, Coral Tyrant",
+    "gihwr": 0.534,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "U",
+    "isLand": false
+  },
+  "94843": {
+    "name": "Diversion Unit",
+    "gihwr": 0.559,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "U",
+    "isLand": false
+  },
+  "94844": {
+    "name": "Flood the Engine",
+    "gihwr": 0.563,
+    "grade": "C+",
+    "rarity": "common",
+    "color": "U",
+    "isLand": false
+  },
+  "94845": {
+    "name": "Gearseeker Serpent",
+    "gihwr": 0.524,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "U",
+    "isLand": false
+  },
+  "94846": {
+    "name": "Glitch Ghost Surveyor",
+    "gihwr": 0.512,
+    "grade": "D",
+    "rarity": "common",
+    "color": "U",
+    "isLand": false
+  },
+  "94847": {
+    "name": "Guidelight Optimizer",
+    "gihwr": 0.543,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "U",
+    "isLand": false
+  },
+  "94848": {
+    "name": "Howler's Heavy",
+    "gihwr": 0.55,
+    "grade": "C",
+    "rarity": "common",
+    "color": "U",
+    "isLand": false
+  },
+  "94849": {
+    "name": "Hulldrifter",
+    "gihwr": 0.552,
+    "grade": "C",
+    "rarity": "common",
+    "color": "U",
+    "isLand": false
+  },
+  "94850": {
+    "name": "Keen Buccaneer",
+    "gihwr": 0.551,
+    "grade": "C",
+    "rarity": "common",
+    "color": "U",
+    "isLand": false
+  },
+  "94851": {
+    "name": "Memory Guardian",
+    "gihwr": 0.562,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "U",
+    "isLand": false
+  },
+  "94852": {
+    "name": "Midnight Mangler",
+    "gihwr": 0.541,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "U",
+    "isLand": false
+  },
+  "94853": {
+    "name": "Mindspring Merfolk",
+    "gihwr": 0.595,
+    "grade": "B+",
+    "rarity": "rare",
+    "color": "U",
+    "isLand": false
+  },
+  "94854": {
+    "name": "Mu Yanling, Wind Rider",
+    "gihwr": 0.654,
+    "grade": "A+",
+    "rarity": "mythic",
+    "color": "U",
+    "isLand": false
+  },
+  "94855": {
+    "name": "Nimble Thopterist",
+    "gihwr": 0.554,
+    "grade": "C",
+    "rarity": "common",
+    "color": "U",
+    "isLand": false
+  },
+  "94856": {
+    "name": "Possession Engine",
+    "gihwr": 0.603,
+    "grade": "B+",
+    "rarity": "rare",
+    "color": "U",
+    "isLand": false
+  },
+  "94857": {
+    "name": "Rangers' Refueler",
+    "gihwr": 0.594,
+    "grade": "B+",
+    "rarity": "uncommon",
+    "color": "U",
+    "isLand": false
+  },
+  "94858": {
+    "name": "Repurposing Bay",
+    "gihwr": 0.466,
+    "grade": "F",
+    "rarity": "rare",
+    "color": "U",
+    "isLand": false
+  },
+  "94859": {
+    "name": "Riverchurn Monument",
+    "gihwr": 0.598,
+    "grade": "B+",
+    "rarity": "rare",
+    "color": "U",
+    "isLand": false
+  },
+  "94860": {
+    "name": "Roadside Blowout",
+    "gihwr": 0.564,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "U",
+    "isLand": false
+  },
+  "94861": {
+    "name": "Sabotage Strategist",
+    "gihwr": 0.549,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "U",
+    "isLand": false
+  },
+  "94862": {
+    "name": "Scrounging Skyray",
+    "gihwr": 0.562,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "U",
+    "isLand": false
+  },
+  "94863": {
+    "name": "Skystreak Engineer",
+    "gihwr": 0.558,
+    "grade": "C+",
+    "rarity": "common",
+    "color": "U",
+    "isLand": false
+  },
+  "94864": {
+    "name": "Slick Imitator",
+    "gihwr": 0.522,
+    "grade": "D",
+    "rarity": "uncommon",
+    "color": "U",
+    "isLand": false
+  },
+  "94865": {
+    "name": "Spectral Interference",
+    "gihwr": 0.561,
+    "grade": "C+",
+    "rarity": "common",
+    "color": "U",
+    "isLand": false
+  },
+  "94866": {
+    "name": "Spell Pierce",
+    "gihwr": 0.497,
+    "grade": "F",
+    "rarity": "uncommon",
+    "color": "U",
+    "isLand": false
+  },
+  "94867": {
+    "name": "Spikeshell Harrier",
+    "gihwr": 0.593,
+    "grade": "B+",
+    "rarity": "uncommon",
+    "color": "U",
+    "isLand": false
+  },
+  "94868": {
+    "name": "Stall Out",
+    "gihwr": 0.489,
+    "grade": "F",
+    "rarity": "common",
+    "color": "U",
+    "isLand": false
+  },
+  "94869": {
+    "name": "Stock Up",
+    "gihwr": 0.595,
+    "grade": "B+",
+    "rarity": "uncommon",
+    "color": "U",
+    "isLand": false
+  },
+  "94870": {
+    "name": "Thopter Fabricator",
+    "gihwr": 0.599,
+    "grade": "B+",
+    "rarity": "rare",
+    "color": "U",
+    "isLand": false
+  },
+  "94871": {
+    "name": "Trade the Helm",
+    "gihwr": 0.515,
+    "grade": "D",
+    "rarity": "uncommon",
+    "color": "U",
+    "isLand": false
+  },
+  "94872": {
+    "name": "Transit Mage",
+    "gihwr": 0.59,
+    "grade": "B",
+    "rarity": "uncommon",
+    "color": "U",
+    "isLand": false
+  },
+  "94873": {
+    "name": "Trip Up",
+    "gihwr": 0.543,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "U",
+    "isLand": false
+  },
+  "94874": {
+    "name": "Unstoppable Plan",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "rare",
+    "color": "U",
+    "isLand": false
+  },
+  "94875": {
+    "name": "Vnwxt, Verbose Host",
+    "gihwr": 0.534,
+    "grade": "C-",
+    "rarity": "rare",
+    "color": "U",
+    "isLand": false
+  },
+  "94876": {
+    "name": "Waxen Shapethief",
+    "gihwr": 0.523,
+    "grade": "D+",
+    "rarity": "rare",
+    "color": "U",
+    "isLand": false
+  },
+  "94877": {
+    "name": "Ancient Vendetta",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "uncommon",
+    "color": "B",
+    "isLand": false
+  },
+  "94878": {
+    "name": "Back on Track",
+    "gihwr": 0.579,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "B",
+    "isLand": false
+  },
+  "94879": {
+    "name": "Bloodghast",
+    "gihwr": 0.491,
+    "grade": "F",
+    "rarity": "rare",
+    "color": "B",
+    "isLand": false
+  },
+  "94880": {
+    "name": "Carrion Cruiser",
+    "gihwr": 0.569,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "B",
+    "isLand": false
+  },
+  "94881": {
+    "name": "Chitin Gravestalker",
+    "gihwr": 0.537,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "B",
+    "isLand": false
+  },
+  "94882": {
+    "name": "Cryptcaller Chariot",
+    "gihwr": 0.52,
+    "grade": "D",
+    "rarity": "rare",
+    "color": "B",
+    "isLand": false
+  },
+  "94883": {
+    "name": "Cursecloth Wrappings",
+    "gihwr": 0.59,
+    "grade": "B",
+    "rarity": "rare",
+    "color": "B",
+    "isLand": false
+  },
+  "94884": {
+    "name": "Deathless Pilot",
+    "gihwr": 0.536,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "B",
+    "isLand": false
+  },
+  "94885": {
+    "name": "Demonic Junker",
+    "gihwr": 0.569,
+    "grade": "B-",
+    "rarity": "rare",
+    "color": "B",
+    "isLand": false
+  },
+  "94886": {
+    "name": "Engine Rat",
+    "gihwr": 0.579,
+    "grade": "B-",
+    "rarity": "common",
+    "color": "B",
+    "isLand": false
+  },
+  "94887": {
+    "name": "Gas Guzzler",
+    "gihwr": 0.565,
+    "grade": "C+",
+    "rarity": "rare",
+    "color": "B",
+    "isLand": false
+  },
+  "94888": {
+    "name": "Gastal Raider",
+    "gihwr": 0.554,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "B",
+    "isLand": false
+  },
+  "94889": {
+    "name": "Gonti, Night Minister",
+    "gihwr": 0.58,
+    "grade": "B-",
+    "rarity": "rare",
+    "color": "B",
+    "isLand": false
+  },
+  "94890": {
+    "name": "Grim Bauble",
+    "gihwr": 0.576,
+    "grade": "B-",
+    "rarity": "common",
+    "color": "B",
+    "isLand": false
+  },
+  "94891": {
+    "name": "Grim Javelineer",
+    "gihwr": 0.544,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "B",
+    "isLand": false
+  },
+  "94892": {
+    "name": "Hellish Sideswipe",
+    "gihwr": 0.546,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "B",
+    "isLand": false
+  },
+  "94893": {
+    "name": "Hour of Victory",
+    "gihwr": 0.55,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "B",
+    "isLand": false
+  },
+  "94894": {
+    "name": "Intimidation Tactics",
+    "gihwr": 0.55,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "B",
+    "isLand": false
+  },
+  "94895": {
+    "name": "Kalakscion, Hunger Tyrant",
+    "gihwr": 0.523,
+    "grade": "D+",
+    "rarity": "uncommon",
+    "color": "B",
+    "isLand": false
+  },
+  "94896": {
+    "name": "The Last Ride",
+    "gihwr": 0.529,
+    "grade": "D+",
+    "rarity": "mythic",
+    "color": "B",
+    "isLand": false
+  },
+  "94897": {
+    "name": "Locust Spray",
+    "gihwr": 0.536,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "B",
+    "isLand": false
+  },
+  "94898": {
+    "name": "Maximum Overdrive",
+    "gihwr": 0.562,
+    "grade": "C+",
+    "rarity": "common",
+    "color": "B",
+    "isLand": false
+  },
+  "94899": {
+    "name": "Momentum Breaker",
+    "gihwr": 0.568,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "B",
+    "isLand": false
+  },
+  "94900": {
+    "name": "Mutant Surveyor",
+    "gihwr": 0.546,
+    "grade": "C",
+    "rarity": "common",
+    "color": "B",
+    "isLand": false
+  },
+  "94901": {
+    "name": "Pactdoll Terror",
+    "gihwr": 0.575,
+    "grade": "B-",
+    "rarity": "common",
+    "color": "B",
+    "isLand": false
+  },
+  "94902": {
+    "name": "Quag Feast",
+    "gihwr": 0.583,
+    "grade": "B",
+    "rarity": "rare",
+    "color": "B",
+    "isLand": false
+  },
+  "94903": {
+    "name": "Ripclaw Wrangler",
+    "gihwr": 0.518,
+    "grade": "D",
+    "rarity": "common",
+    "color": "B",
+    "isLand": false
+  },
+  "94904": {
+    "name": "Risen Necroregent",
+    "gihwr": 0.541,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "B",
+    "isLand": false
+  },
+  "94905": {
+    "name": "Risky Shortcut",
+    "gihwr": 0.544,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "B",
+    "isLand": false
+  },
+  "94906": {
+    "name": "Shefet Archfiend",
+    "gihwr": 0.552,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "B",
+    "isLand": false
+  },
+  "94907": {
+    "name": "The Speed Demon",
+    "gihwr": 0.607,
+    "grade": "A-",
+    "rarity": "mythic",
+    "color": "B",
+    "isLand": false
+  },
+  "94908": {
+    "name": "Spin Out",
+    "gihwr": 0.572,
+    "grade": "B-",
+    "rarity": "common",
+    "color": "B",
+    "isLand": false
+  },
+  "94909": {
+    "name": "Streaking Oilgorger",
+    "gihwr": 0.542,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "B",
+    "isLand": false
+  },
+  "94910": {
+    "name": "Syphon Fuel",
+    "gihwr": 0.546,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "B",
+    "isLand": false
+  },
+  "94911": {
+    "name": "Wickerfolk Indomitable",
+    "gihwr": 0.506,
+    "grade": "D-",
+    "rarity": "uncommon",
+    "color": "B",
+    "isLand": false
+  },
+  "94912": {
+    "name": "Wreckage Wickerfolk",
+    "gihwr": 0.577,
+    "grade": "B-",
+    "rarity": "common",
+    "color": "B",
+    "isLand": false
+  },
+  "94913": {
+    "name": "Wretched Doll",
+    "gihwr": 0.554,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "B",
+    "isLand": false
+  },
+  "94914": {
+    "name": "Adrenaline Jockey",
+    "gihwr": 0.514,
+    "grade": "D",
+    "rarity": "uncommon",
+    "color": "R",
+    "isLand": false
+  },
+  "94915": {
+    "name": "Boommobile",
+    "gihwr": 0.584,
+    "grade": "B",
+    "rarity": "rare",
+    "color": "R",
+    "isLand": false
+  },
+  "94916": {
+    "name": "Burner Rocket",
+    "gihwr": 0.516,
+    "grade": "D",
+    "rarity": "common",
+    "color": "R",
+    "isLand": false
+  },
+  "94917": {
+    "name": "Burnout Bashtronaut",
+    "gihwr": 0.591,
+    "grade": "B",
+    "rarity": "rare",
+    "color": "R",
+    "isLand": false
+  },
+  "94918": {
+    "name": "Chandra, Spark Hunter",
+    "gihwr": 0.587,
+    "grade": "B",
+    "rarity": "mythic",
+    "color": "R",
+    "isLand": false
+  },
+  "94919": {
+    "name": "Clamorous Ironclad",
+    "gihwr": 0.532,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "R",
+    "isLand": false
+  },
+  "94920": {
+    "name": "Count on Luck",
+    "gihwr": 0.502,
+    "grade": "D-",
+    "rarity": "rare",
+    "color": "R",
+    "isLand": false
+  },
+  "94921": {
+    "name": "Crash and Burn",
+    "gihwr": 0.535,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "R",
+    "isLand": false
+  },
+  "94922": {
+    "name": "Daretti, Rocketeer Engineer",
+    "gihwr": 0.514,
+    "grade": "D",
+    "rarity": "rare",
+    "color": "R",
+    "isLand": false
+  },
+  "94923": {
+    "name": "Draconautics Engineer",
+    "gihwr": 0.616,
+    "grade": "A",
+    "rarity": "rare",
+    "color": "R",
+    "isLand": false
+  },
+  "94924": {
+    "name": "Dracosaur Auxiliary",
+    "gihwr": 0.547,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "R",
+    "isLand": false
+  },
+  "94925": {
+    "name": "Dynamite Diver",
+    "gihwr": 0.526,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "R",
+    "isLand": false
+  },
+  "94926": {
+    "name": "Endrider Catalyzer",
+    "gihwr": 0.536,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "R",
+    "isLand": false
+  },
+  "94927": {
+    "name": "Endrider Spikespitter",
+    "gihwr": 0.528,
+    "grade": "D+",
+    "rarity": "uncommon",
+    "color": "R",
+    "isLand": false
+  },
+  "94928": {
+    "name": "Fuel the Flames",
+    "gihwr": 0.531,
+    "grade": "D+",
+    "rarity": "uncommon",
+    "color": "R",
+    "isLand": false
+  },
+  "94929": {
+    "name": "Full Throttle",
+    "gihwr": 0.456,
+    "grade": "F",
+    "rarity": "rare",
+    "color": "R",
+    "isLand": false
+  },
+  "94930": {
+    "name": "Gastal Blockbuster",
+    "gihwr": 0.511,
+    "grade": "D",
+    "rarity": "common",
+    "color": "R",
+    "isLand": false
+  },
+  "94931": {
+    "name": "Gastal Thrillroller",
+    "gihwr": 0.556,
+    "grade": "C",
+    "rarity": "rare",
+    "color": "R",
+    "isLand": false
+  },
+  "94932": {
+    "name": "Gilded Ghoda",
+    "gihwr": 0.527,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "R",
+    "isLand": false
+  },
+  "94933": {
+    "name": "Goblin Surveyor",
+    "gihwr": 0.514,
+    "grade": "D",
+    "rarity": "common",
+    "color": "R",
+    "isLand": false
+  },
+  "94934": {
+    "name": "Greasewrench Goblin",
+    "gihwr": 0.575,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "R",
+    "isLand": false
+  },
+  "94935": {
+    "name": "Hazoret, Godseeker",
+    "gihwr": 0.582,
+    "grade": "B",
+    "rarity": "mythic",
+    "color": "R",
+    "isLand": false
+  },
+  "94936": {
+    "name": "Howlsquad Heavy",
+    "gihwr": 0.617,
+    "grade": "A",
+    "rarity": "rare",
+    "color": "R",
+    "isLand": false
+  },
+  "94937": {
+    "name": "Kickoff Celebrations",
+    "gihwr": 0.513,
+    "grade": "D",
+    "rarity": "common",
+    "color": "R",
+    "isLand": false
+  },
+  "94938": {
+    "name": "Lightning Strike",
+    "gihwr": 0.548,
+    "grade": "C",
+    "rarity": "common",
+    "color": "R",
+    "isLand": false
+  },
+  "94939": {
+    "name": "Magmakin Artillerist",
+    "gihwr": 0.504,
+    "grade": "D-",
+    "rarity": "common",
+    "color": "R",
+    "isLand": false
+  },
+  "94940": {
+    "name": "Marauding Mako",
+    "gihwr": 0.558,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "R",
+    "isLand": false
+  },
+  "94941": {
+    "name": "Outpace Oblivion",
+    "gihwr": 0.551,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "R",
+    "isLand": false
+  },
+  "94942": {
+    "name": "Pacesetter Paragon",
+    "gihwr": 0.514,
+    "grade": "D",
+    "rarity": "uncommon",
+    "color": "R",
+    "isLand": false
+  },
+  "94943": {
+    "name": "Pedal to the Metal",
+    "gihwr": 0.516,
+    "grade": "D",
+    "rarity": "common",
+    "color": "R",
+    "isLand": false
+  },
+  "94944": {
+    "name": "Prowcatcher Specialist",
+    "gihwr": 0.523,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "R",
+    "isLand": false
+  },
+  "94945": {
+    "name": "Push the Limit",
+    "gihwr": 0.545,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "R",
+    "isLand": false
+  },
+  "94946": {
+    "name": "Reckless Velocitaur",
+    "gihwr": 0.492,
+    "grade": "F",
+    "rarity": "uncommon",
+    "color": "R",
+    "isLand": false
+  },
+  "94947": {
+    "name": "Road Rage",
+    "gihwr": 0.558,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "R",
+    "isLand": false
+  },
+  "94948": {
+    "name": "Skycrash",
+    "gihwr": 0.543,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "R",
+    "isLand": false
+  },
+  "94949": {
+    "name": "Spire Mechcycle",
+    "gihwr": 0.498,
+    "grade": "F",
+    "rarity": "uncommon",
+    "color": "R",
+    "isLand": false
+  },
+  "94950": {
+    "name": "Thunderhead Gunner",
+    "gihwr": 0.559,
+    "grade": "C+",
+    "rarity": "common",
+    "color": "R",
+    "isLand": false
+  },
+  "94951": {
+    "name": "Tyrox, Saurid Tyrant",
+    "gihwr": 0.531,
+    "grade": "D+",
+    "rarity": "uncommon",
+    "color": "R",
+    "isLand": false
+  },
+  "94952": {
+    "name": "Afterburner Expert",
+    "gihwr": 0.593,
+    "grade": "B+",
+    "rarity": "rare",
+    "color": "G",
+    "isLand": false
+  },
+  "94953": {
+    "name": "Agonasaur Rex",
+    "gihwr": 0.645,
+    "grade": "A+",
+    "rarity": "rare",
+    "color": "G",
+    "isLand": false
+  },
+  "94954": {
+    "name": "Alacrian Jaguar",
+    "gihwr": 0.508,
+    "grade": "D-",
+    "rarity": "common",
+    "color": "G",
+    "isLand": false
+  },
+  "94955": {
+    "name": "Autarch Mammoth",
+    "gihwr": 0.585,
+    "grade": "B",
+    "rarity": "uncommon",
+    "color": "G",
+    "isLand": false
+  },
+  "94956": {
+    "name": "Beastrider Vanguard",
+    "gihwr": 0.564,
+    "grade": "C+",
+    "rarity": "common",
+    "color": "G",
+    "isLand": false
+  },
+  "94957": {
+    "name": "Bestow Greatness",
+    "gihwr": 0.559,
+    "grade": "C+",
+    "rarity": "common",
+    "color": "G",
+    "isLand": false
+  },
+  "94958": {
+    "name": "Broken Wings",
+    "gihwr": 0.551,
+    "grade": "C",
+    "rarity": "common",
+    "color": "G",
+    "isLand": false
+  },
+  "94959": {
+    "name": "Defend the Rider",
+    "gihwr": 0.556,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "G",
+    "isLand": false
+  },
+  "94960": {
+    "name": "District Mascot",
+    "gihwr": 0.582,
+    "grade": "B",
+    "rarity": "rare",
+    "color": "G",
+    "isLand": false
+  },
+  "94961": {
+    "name": "Dredger's Insight",
+    "gihwr": 0.573,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "G",
+    "isLand": false
+  },
+  "94962": {
+    "name": "Earthrumbler",
+    "gihwr": 0.557,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "G",
+    "isLand": false
+  },
+  "94963": {
+    "name": "Elvish Refueler",
+    "gihwr": 0.554,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "G",
+    "isLand": false
+  },
+  "94964": {
+    "name": "Fang Guardian",
+    "gihwr": 0.567,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "G",
+    "isLand": false
+  },
+  "94965": {
+    "name": "Fang-Druid Summoner",
+    "gihwr": 0.579,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "G",
+    "isLand": false
+  },
+  "94966": {
+    "name": "Greenbelt Guardian",
+    "gihwr": 0.582,
+    "grade": "B",
+    "rarity": "uncommon",
+    "color": "G",
+    "isLand": false
+  },
+  "94967": {
+    "name": "Hazard of the Dunes",
+    "gihwr": 0.569,
+    "grade": "C+",
+    "rarity": "common",
+    "color": "G",
+    "isLand": false
+  },
+  "94968": {
+    "name": "Jibbirik Omnivore",
+    "gihwr": 0.553,
+    "grade": "C",
+    "rarity": "common",
+    "color": "G",
+    "isLand": false
+  },
+  "94969": {
+    "name": "Loxodon Surveyor",
+    "gihwr": 0.539,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "G",
+    "isLand": false
+  },
+  "94970": {
+    "name": "Lumbering Worldwagon",
+    "gihwr": 0.654,
+    "grade": "A+",
+    "rarity": "rare",
+    "color": "G",
+    "isLand": false
+  },
+  "94971": {
+    "name": "March of the World Ooze",
+    "gihwr": 0.628,
+    "grade": "A+",
+    "rarity": "mythic",
+    "color": "G",
+    "isLand": false
+  },
+  "94972": {
+    "name": "Migrating Ketradon",
+    "gihwr": 0.576,
+    "grade": "B-",
+    "rarity": "common",
+    "color": "G",
+    "isLand": false
+  },
+  "94973": {
+    "name": "Molt Tender",
+    "gihwr": 0.574,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "G",
+    "isLand": false
+  },
+  "94974": {
+    "name": "Ooze Patrol",
+    "gihwr": 0.545,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "G",
+    "isLand": false
+  },
+  "94975": {
+    "name": "Oviya, Automech Artisan",
+    "gihwr": 0.53,
+    "grade": "D+",
+    "rarity": "rare",
+    "color": "G",
+    "isLand": false
+  },
+  "94976": {
+    "name": "Plow Through",
+    "gihwr": 0.554,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "G",
+    "isLand": false
+  },
+  "94977": {
+    "name": "Point the Way",
+    "gihwr": 0.441,
+    "grade": "F",
+    "rarity": "uncommon",
+    "color": "G",
+    "isLand": false
+  },
+  "94978": {
+    "name": "Pothole Mole",
+    "gihwr": 0.568,
+    "grade": "C+",
+    "rarity": "common",
+    "color": "G",
+    "isLand": false
+  },
+  "94979": {
+    "name": "Regal Imperiosaur",
+    "gihwr": 0.577,
+    "grade": "B-",
+    "rarity": "rare",
+    "color": "G",
+    "isLand": false
+  },
+  "94980": {
+    "name": "Rise from the Wreck",
+    "gihwr": 0.538,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "G",
+    "isLand": false
+  },
+  "94981": {
+    "name": "Run Over",
+    "gihwr": 0.575,
+    "grade": "B-",
+    "rarity": "common",
+    "color": "G",
+    "isLand": false
+  },
+  "94982": {
+    "name": "Silken Strength",
+    "gihwr": 0.545,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "G",
+    "isLand": false
+  },
+  "94983": {
+    "name": "Stampeding Scurryfoot",
+    "gihwr": 0.587,
+    "grade": "B",
+    "rarity": "common",
+    "color": "G",
+    "isLand": false
+  },
+  "94984": {
+    "name": "Terrian, World Tyrant",
+    "gihwr": 0.569,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "G",
+    "isLand": false
+  },
+  "94985": {
+    "name": "Thunderous Velocipede",
+    "gihwr": 0.575,
+    "grade": "B-",
+    "rarity": "mythic",
+    "color": "G",
+    "isLand": false
+  },
+  "94986": {
+    "name": "Veloheart Bike",
+    "gihwr": 0.554,
+    "grade": "C",
+    "rarity": "common",
+    "color": "G",
+    "isLand": false
+  },
+  "94987": {
+    "name": "Venomsac Lagac",
+    "gihwr": 0.561,
+    "grade": "C+",
+    "rarity": "common",
+    "color": "G",
+    "isLand": false
+  },
+  "94988": {
+    "name": "Webstrike Elite",
+    "gihwr": 0.577,
+    "grade": "B-",
+    "rarity": "rare",
+    "color": "G",
+    "isLand": false
+  },
+  "94989": {
+    "name": "Aatchik, Emerald Radian",
+    "gihwr": 0.583,
+    "grade": "B",
+    "rarity": "rare",
+    "color": "BG",
+    "isLand": false
+  },
+  "94990": {
+    "name": "Apocalypse Runner",
+    "gihwr": 0.536,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "BR",
+    "isLand": false
+  },
+  "94991": {
+    "name": "Boom Scholar",
+    "gihwr": 0.536,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "GR",
+    "isLand": false
+  },
+  "94992": {
+    "name": "Boosted Sloop",
+    "gihwr": 0.54,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "RU",
+    "isLand": false
+  },
+  "94993": {
+    "name": "Brightglass Gearhulk",
+    "gihwr": 0.601,
+    "grade": "B+",
+    "rarity": "mythic",
+    "color": "GW",
+    "isLand": false
+  },
+  "94994": {
+    "name": "Broadside Barrage",
+    "gihwr": 0.581,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "RU",
+    "isLand": false
+  },
+  "94995": {
+    "name": "Broodheart Engine",
+    "gihwr": 0.571,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "BG",
+    "isLand": false
+  },
+  "94996": {
+    "name": "Captain Howler, Sea Scourge",
+    "gihwr": 0.586,
+    "grade": "B",
+    "rarity": "rare",
+    "color": "RU",
+    "isLand": false
+  },
+  "94997": {
+    "name": "Caradora, Heart of Alacria",
+    "gihwr": 0.578,
+    "grade": "B-",
+    "rarity": "rare",
+    "color": "GW",
+    "isLand": false
+  },
+  "94998": {
+    "name": "Cloudspire Coordinator",
+    "gihwr": 0.54,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "RW",
+    "isLand": false
+  },
+  "94999": {
+    "name": "Cloudspire Skycycle",
+    "gihwr": 0.503,
+    "grade": "D-",
+    "rarity": "uncommon",
+    "color": "RW",
+    "isLand": false
+  },
+  "95000": {
+    "name": "Coalstoke Gearhulk",
+    "gihwr": 0.556,
+    "grade": "C",
+    "rarity": "mythic",
+    "color": "BR",
+    "isLand": false
+  },
+  "95001": {
+    "name": "Debris Beetle",
+    "gihwr": 0.614,
+    "grade": "A-",
+    "rarity": "rare",
+    "color": "BG",
+    "isLand": false
+  },
+  "95002": {
+    "name": "Dune Drifter",
+    "gihwr": 0.541,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "BW",
+    "isLand": false
+  },
+  "95003": {
+    "name": "Embalmed Ascendant",
+    "gihwr": 0.591,
+    "grade": "B",
+    "rarity": "uncommon",
+    "color": "BW",
+    "isLand": false
+  },
+  "95004": {
+    "name": "Explosive Getaway",
+    "gihwr": 0.555,
+    "grade": "C",
+    "rarity": "rare",
+    "color": "RW",
+    "isLand": false
+  },
+  "95005": {
+    "name": "Far Fortune, End Boss",
+    "gihwr": 0.592,
+    "grade": "B",
+    "rarity": "rare",
+    "color": "BR",
+    "isLand": false
+  },
+  "95006": {
+    "name": "Fearless Swashbuckler",
+    "gihwr": 0.554,
+    "grade": "C",
+    "rarity": "rare",
+    "color": "RU",
+    "isLand": false
+  },
+  "95007": {
+    "name": "Gastal Thrillseeker",
+    "gihwr": 0.599,
+    "grade": "B+",
+    "rarity": "uncommon",
+    "color": "BR",
+    "isLand": false
+  },
+  "95008": {
+    "name": "Guidelight Pathmaker",
+    "gihwr": 0.568,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "UW",
+    "isLand": false
+  },
+  "95009": {
+    "name": "Haunt the Network",
+    "gihwr": 0.596,
+    "grade": "B+",
+    "rarity": "uncommon",
+    "color": "BU",
+    "isLand": false
+  },
+  "95010": {
+    "name": "Haunted Hellride",
+    "gihwr": 0.528,
+    "grade": "D+",
+    "rarity": "uncommon",
+    "color": "BU",
+    "isLand": false
+  },
+  "95011": {
+    "name": "Ketramose, the New Dawn",
+    "gihwr": 0.477,
+    "grade": "F",
+    "rarity": "mythic",
+    "color": "BW",
+    "isLand": false
+  },
+  "95012": {
+    "name": "Kolodin, Triumph Caster",
+    "gihwr": 0.509,
+    "grade": "D-",
+    "rarity": "rare",
+    "color": "RW",
+    "isLand": false
+  },
+  "95013": {
+    "name": "Lagorin, Soul of Alacria",
+    "gihwr": 0.552,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "GW",
+    "isLand": false
+  },
+  "95014": {
+    "name": "Loot, the Pathfinder",
+    "gihwr": 0.636,
+    "grade": "A+",
+    "rarity": "mythic",
+    "color": "GRU",
+    "isLand": false
+  },
+  "95015": {
+    "name": "Mendicant Core, Guidelight",
+    "gihwr": 0.561,
+    "grade": "C+",
+    "rarity": "rare",
+    "color": "UW",
+    "isLand": false
+  },
+  "95016": {
+    "name": "Mimeoplasm, Revered One",
+    "gihwr": 0.509,
+    "grade": "D-",
+    "rarity": "mythic",
+    "color": "BGU",
+    "isLand": false
+  },
+  "95017": {
+    "name": "Oildeep Gearhulk",
+    "gihwr": 0.589,
+    "grade": "B",
+    "rarity": "mythic",
+    "color": "BU",
+    "isLand": false
+  },
+  "95018": {
+    "name": "Pyrewood Gearhulk",
+    "gihwr": 0.609,
+    "grade": "A-",
+    "rarity": "mythic",
+    "color": "GR",
+    "isLand": false
+  },
+  "95019": {
+    "name": "Rangers' Aetherhive",
+    "gihwr": 0.55,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "GU",
+    "isLand": false
+  },
+  "95020": {
+    "name": "Redshift, Rocketeer Chief",
+    "gihwr": 0.541,
+    "grade": "C-",
+    "rarity": "rare",
+    "color": "GR",
+    "isLand": false
+  },
+  "95021": {
+    "name": "Riptide Gearhulk",
+    "gihwr": 0.629,
+    "grade": "A+",
+    "rarity": "mythic",
+    "color": "UW",
+    "isLand": false
+  },
+  "95022": {
+    "name": "Rocketeer Boostbuggy",
+    "gihwr": 0.562,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "GR",
+    "isLand": false
+  },
+  "95023": {
+    "name": "Sab-Sunen, Luxa Embodied",
+    "gihwr": 0.679,
+    "grade": "A+",
+    "rarity": "mythic",
+    "color": "GU",
+    "isLand": false
+  },
+  "95024": {
+    "name": "Samut, the Driving Force",
+    "gihwr": 0.559,
+    "grade": "C+",
+    "rarity": "rare",
+    "color": "GRW",
+    "isLand": false
+  },
+  "95025": {
+    "name": "Sita Varma, Masked Racer",
+    "gihwr": 0.604,
+    "grade": "B+",
+    "rarity": "rare",
+    "color": "GU",
+    "isLand": false
+  },
+  "95026": {
+    "name": "Skyserpent Seeker",
+    "gihwr": 0.593,
+    "grade": "B+",
+    "rarity": "uncommon",
+    "color": "GU",
+    "isLand": false
+  },
+  "95027": {
+    "name": "Thundering Broodwagon",
+    "gihwr": 0.612,
+    "grade": "A-",
+    "rarity": "uncommon",
+    "color": "BG",
+    "isLand": false
+  },
+  "95028": {
+    "name": "Veteran Beastrider",
+    "gihwr": 0.598,
+    "grade": "B+",
+    "rarity": "uncommon",
+    "color": "GW",
+    "isLand": false
+  },
+  "95029": {
+    "name": "Voyage Home",
+    "gihwr": 0.56,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "UW",
+    "isLand": false
+  },
+  "95030": {
+    "name": "Winter, Cursed Rider",
+    "gihwr": 0.555,
+    "grade": "C",
+    "rarity": "rare",
+    "color": "BU",
+    "isLand": false
+  },
+  "95031": {
+    "name": "Zahur, Glory's Past",
+    "gihwr": 0.566,
+    "grade": "C+",
+    "rarity": "rare",
+    "color": "BW",
+    "isLand": false
+  },
+  "95032": {
+    "name": "Aetherjacket",
+    "gihwr": 0.508,
+    "grade": "D-",
+    "rarity": "common",
+    "color": "",
+    "isLand": false
+  },
+  "95033": {
+    "name": "The Aetherspark",
+    "gihwr": 0.609,
+    "grade": "A-",
+    "rarity": "mythic",
+    "color": "",
+    "isLand": false
+  },
+  "95034": {
+    "name": "Camera Launcher",
+    "gihwr": 0.535,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "",
+    "isLand": false
+  },
+  "95035": {
+    "name": "Guidelight Matrix",
+    "gihwr": 0.527,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "",
+    "isLand": false
+  },
+  "95036": {
+    "name": "Lifecraft Engine",
+    "gihwr": 0.515,
+    "grade": "D",
+    "rarity": "rare",
+    "color": "",
+    "isLand": false
+  },
+  "95037": {
+    "name": "Marketback Walker",
+    "gihwr": 0.566,
+    "grade": "C+",
+    "rarity": "rare",
+    "color": "",
+    "isLand": false
+  },
+  "95038": {
+    "name": "Marshals' Pathcruiser",
+    "gihwr": 0.585,
+    "grade": "B",
+    "rarity": "uncommon",
+    "color": "BGRUW",
+    "isLand": false
+  },
+  "95039": {
+    "name": "Monument to Endurance",
+    "gihwr": 0.514,
+    "grade": "D",
+    "rarity": "rare",
+    "color": "",
+    "isLand": false
+  },
+  "95040": {
+    "name": "Pit Automaton",
+    "gihwr": 0.541,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "",
+    "isLand": false
+  },
+  "95041": {
+    "name": "Racers' Scoreboard",
+    "gihwr": 0.478,
+    "grade": "F",
+    "rarity": "uncommon",
+    "color": "",
+    "isLand": false
+  },
+  "95042": {
+    "name": "Radiant Lotus",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "mythic",
+    "color": "",
+    "isLand": false
+  },
+  "95043": {
+    "name": "Rover Blades",
+    "gihwr": 0.497,
+    "grade": "F",
+    "rarity": "uncommon",
+    "color": "",
+    "isLand": false
+  },
+  "95044": {
+    "name": "Scrap Compactor",
+    "gihwr": 0.538,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "",
+    "isLand": false
+  },
+  "95045": {
+    "name": "Skybox Ferry",
+    "gihwr": 0.501,
+    "grade": "D-",
+    "rarity": "common",
+    "color": "",
+    "isLand": false
+  },
+  "95046": {
+    "name": "Starting Column",
+    "gihwr": 0.54,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "",
+    "isLand": false
+  },
+  "95047": {
+    "name": "Ticket Tortoise",
+    "gihwr": 0.534,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "",
+    "isLand": false
+  },
+  "95048": {
+    "name": "Walking Sarcophagus",
+    "gihwr": 0.528,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "",
+    "isLand": false
+  },
+  "95049": {
+    "name": "Wreck Remover",
+    "gihwr": 0.526,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "",
+    "isLand": false
+  },
+  "95050": {
+    "name": "Amonkhet Raceway",
+    "gihwr": 0.52,
+    "grade": "D",
+    "rarity": "uncommon",
+    "color": "",
+    "isLand": true
+  },
+  "95051": {
+    "name": "Avishkar Raceway",
+    "gihwr": 0.528,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "",
+    "isLand": true
+  },
+  "95052": {
+    "name": "Bleachbone Verge",
+    "gihwr": 0.548,
+    "grade": "C",
+    "rarity": "rare",
+    "color": "BW",
+    "isLand": true
+  },
+  "95053": {
+    "name": "Bloodfell Caves",
+    "gihwr": 0.54,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "BR",
+    "isLand": true
+  },
+  "95054": {
+    "name": "Blossoming Sands",
+    "gihwr": 0.548,
+    "grade": "C",
+    "rarity": "common",
+    "color": "GW",
+    "isLand": true
+  },
+  "95055": {
+    "name": "Country Roads",
+    "gihwr": 0.535,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "W",
+    "isLand": true
+  },
+  "95056": {
+    "name": "Dismal Backwater",
+    "gihwr": 0.553,
+    "grade": "C",
+    "rarity": "common",
+    "color": "BU",
+    "isLand": true
+  },
+  "95057": {
+    "name": "Foul Roads",
+    "gihwr": 0.55,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "B",
+    "isLand": true
+  },
+  "95058": {
+    "name": "Jungle Hollow",
+    "gihwr": 0.555,
+    "grade": "C",
+    "rarity": "common",
+    "color": "BG",
+    "isLand": true
+  },
+  "95059": {
+    "name": "Muraganda Raceway",
+    "gihwr": 0.513,
+    "grade": "D",
+    "rarity": "rare",
+    "color": "",
+    "isLand": true
+  },
+  "95060": {
+    "name": "Night Market",
+    "gihwr": 0.554,
+    "grade": "C",
+    "rarity": "common",
+    "color": "",
+    "isLand": true
+  },
+  "95061": {
+    "name": "Reef Roads",
+    "gihwr": 0.55,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "U",
+    "isLand": true
+  },
+  "95062": {
+    "name": "Riverpyre Verge",
+    "gihwr": 0.545,
+    "grade": "C-",
+    "rarity": "rare",
+    "color": "RU",
+    "isLand": true
+  },
+  "95063": {
+    "name": "Rocky Roads",
+    "gihwr": 0.522,
+    "grade": "D",
+    "rarity": "uncommon",
+    "color": "R",
+    "isLand": true
+  },
+  "95064": {
+    "name": "Rugged Highlands",
+    "gihwr": 0.543,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "GR",
+    "isLand": true
+  },
+  "95065": {
+    "name": "Scoured Barrens",
+    "gihwr": 0.551,
+    "grade": "C",
+    "rarity": "common",
+    "color": "BW",
+    "isLand": true
+  },
+  "95066": {
+    "name": "Sunbillow Verge",
+    "gihwr": 0.525,
+    "grade": "D+",
+    "rarity": "rare",
+    "color": "RW",
+    "isLand": true
+  },
+  "95067": {
+    "name": "Swiftwater Cliffs",
+    "gihwr": 0.548,
+    "grade": "C",
+    "rarity": "common",
+    "color": "RU",
+    "isLand": true
+  },
+  "95068": {
+    "name": "Thornwood Falls",
+    "gihwr": 0.562,
+    "grade": "C+",
+    "rarity": "common",
+    "color": "GU",
+    "isLand": true
+  },
+  "95069": {
+    "name": "Tranquil Cove",
+    "gihwr": 0.552,
+    "grade": "C",
+    "rarity": "common",
+    "color": "UW",
+    "isLand": true
+  },
+  "95070": {
+    "name": "Wastewood Verge",
+    "gihwr": 0.556,
+    "grade": "C",
+    "rarity": "rare",
+    "color": "BG",
+    "isLand": true
+  },
+  "95071": {
+    "name": "Wild Roads",
+    "gihwr": 0.554,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "G",
+    "isLand": true
+  },
+  "95072": {
+    "name": "Willowrush Verge",
+    "gihwr": 0.557,
+    "grade": "C",
+    "rarity": "rare",
+    "color": "GU",
+    "isLand": true
+  },
+  "95073": {
+    "name": "Wind-Scarred Crag",
+    "gihwr": 0.523,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "RW",
+    "isLand": true
+  },
+  "95106": {
+    "name": "Cavalier of Dawn",
+    "gihwr": 0.611,
+    "grade": "A-",
+    "rarity": "mythic",
+    "color": "W",
+    "isLand": false
+  },
+  "95107": {
+    "name": "Thoughtcast",
+    "gihwr": 0.494,
+    "grade": "F",
+    "rarity": "common",
+    "color": "U",
+    "isLand": false
+  },
+  "95108": {
+    "name": "Whir of Invention",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "rare",
+    "color": "U",
+    "isLand": false
+  },
+  "95109": {
+    "name": "Bone Miser",
+    "gihwr": 0.469,
+    "grade": "F",
+    "rarity": "rare",
+    "color": "B",
+    "isLand": false
+  },
+  "95110": {
+    "name": "Lord of the Undead",
+    "gihwr": 0.487,
+    "grade": "F",
+    "rarity": "rare",
+    "color": "B",
+    "isLand": false
+  },
+  "95111": {
+    "name": "Chandra's Ignition",
+    "gihwr": 0.583,
+    "grade": "B",
+    "rarity": "rare",
+    "color": "R",
+    "isLand": false
+  },
+  "95112": {
+    "name": "Galvanic Blast",
+    "gihwr": 0.546,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "R",
+    "isLand": false
+  },
+  "95113": {
+    "name": "Pathbreaker Ibex",
+    "gihwr": 0.568,
+    "grade": "C+",
+    "rarity": "rare",
+    "color": "G",
+    "isLand": false
+  },
+  "95114": {
+    "name": "Chrome Mox",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "mythic",
+    "color": "",
+    "isLand": false
+  },
+  "95115": {
+    "name": "Skysovereign, Consul Flagship",
+    "gihwr": 0.664,
+    "grade": "A+",
+    "rarity": "mythic",
+    "color": "",
+    "isLand": false
+  }
+}

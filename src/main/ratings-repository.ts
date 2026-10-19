@@ -1,3 +1,4 @@
+import dftCardRatings from '../../card-data/DFT.json';
 import eclCardRatings from '../../card-data/ECL.json';
 import fraCardRatings from '../../card-data/FRA.json';
 import type { CardRating, PackReceived, RatedPack } from '../model/draft';
@@ -5,6 +6,7 @@ import type { CardRating, PackReceived, RatedPack } from '../model/draft';
 type CardRatingDataset = Record<string, CardRating>;
 
 const RATINGS_BY_SET: Record<string, CardRatingDataset> = {
+  DFT: dftCardRatings,
   ECL: eclCardRatings,
   FRA: fraCardRatings,
 };
