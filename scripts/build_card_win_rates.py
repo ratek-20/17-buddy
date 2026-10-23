@@ -34,6 +34,7 @@ class CardColumns:
 class CardDisplayMetadata:
     rarity: str
     color: str
+    mana_value: int
     is_land: bool
 
 
@@ -168,6 +169,7 @@ def load_public_card_metadata(
             "name",
             "rarity",
             "color_identity",
+            "mana_value",
             "types",
             "is_booster",
         }
@@ -176,16 +178,25 @@ def load_public_card_metadata(
             missing = ", ".join(sorted(missing_columns))
             raise ValueError(f"Missing required card-list columns: {missing}")
 
-        for row in reader:
+        for row_number, row in enumerate(reader, start=2):
             expansion = row["expansion"].upper()
             if expansion not in metadata_by_expansion or row["is_booster"] != "True":
                 continue
+
+            try:
+                mana_value = int(row["mana_value"])
+            except ValueError as error:
+                raise ValueError(
+                    f"Invalid mana value on card-list row {row_number}: "
+                    f"{row['mana_value']!r}"
+                ) from error
 
             metadata_by_expansion[expansion].setdefault(
                 row["name"].strip(),
                 CardDisplayMetadata(
                     rarity=row["rarity"].lower(),
                     color=row["color_identity"].upper(),
+                    mana_value=mana_value,
                     is_land="Land" in row["types"],
                 ),
             )
@@ -378,6 +389,7 @@ def build_output(
                 {
                     "rarity": metadata.rarity,
                     "color": metadata.color,
+                    "manaValue": metadata.mana_value,
                     "isLand": metadata.is_land,
                 }
             )

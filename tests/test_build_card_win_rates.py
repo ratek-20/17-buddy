@@ -4,6 +4,7 @@ import unittest
 from pathlib import Path
 
 from scripts.build_card_win_rates import (
+    CardDisplayMetadata,
     CardStats,
     build_output,
     collect_stats,
@@ -113,6 +114,19 @@ class GradeTests(unittest.TestCase):
 
 
 class BuildOutputTests(unittest.TestCase):
+    def test_includes_display_metadata_used_by_the_overlay(self) -> None:
+        card_ids = {"Alpha": (100,)}
+        stats = {"Alpha": CardStats(games_in_hand=500, wins_in_hand=250)}
+        metadata = {
+            "Alpha": CardDisplayMetadata(
+                rarity="common", color="W", mana_value=3, is_land=False
+            )
+        }
+
+        output, _, _ = build_output(card_ids, stats, 500, metadata)
+
+        self.assertEqual(output["100"]["manaValue"], 3)
+
     def test_uses_population_statistics_and_nulls_cards_below_the_threshold(self) -> None:
         card_ids = {
             "Alpha": (200,),

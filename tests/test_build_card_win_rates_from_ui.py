@@ -9,6 +9,7 @@ from scripts.build_card_win_rates_from_ui import (
     grade_for_rounded_win_rate,
     load_ui_stats,
 )
+from scripts.build_card_win_rates import CardDisplayMetadata
 
 
 class LoadUiStatsTests(unittest.TestCase):
@@ -59,6 +60,19 @@ class LoadUiStatsTests(unittest.TestCase):
 
 
 class BuildUiOutputTests(unittest.TestCase):
+    def test_includes_display_metadata_used_by_the_overlay(self) -> None:
+        card_ids = {"Alpha": (100,)}
+        stats = {"Alpha": UiCardStats(games_in_hand=500, win_rate=0.5)}
+        metadata = {
+            "Alpha": CardDisplayMetadata(
+                rarity="common", color="U", mana_value=2, is_land=False
+            )
+        }
+
+        output, _, _ = build_ui_output(card_ids, stats, 500, metadata)
+
+        self.assertEqual(output["100"]["manaValue"], 2)
+
     def test_builds_ratings_and_nulls_cards_below_the_threshold(self) -> None:
         card_ids = {
             "Alpha": (200, 201),

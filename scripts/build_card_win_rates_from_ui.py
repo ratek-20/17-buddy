@@ -158,7 +158,7 @@ def build_ui_output(
     stats: dict[str, UiCardStats],
     min_gih_observations: int,
     card_metadata: dict[str, CardDisplayMetadata] | None = None,
-) -> tuple[dict[str, dict[str, str | float | bool | None]], float, float]:
+) -> tuple[dict[str, dict[str, object]], float, float]:
     if min_gih_observations < 1:
         raise ValueError("Minimum GIH observations must be at least 1")
 
@@ -174,7 +174,7 @@ def build_ui_output(
 
     mean = statistics.fmean(valid_win_rates)
     standard_deviation = statistics.pstdev(valid_win_rates)
-    output: dict[str, dict[str, str | float | None]] = {}
+    output: dict[str, dict[str, object]] = {}
 
     cards_by_id = sorted(
         (arena_id, name)
@@ -209,6 +209,7 @@ def build_ui_output(
                         else metadata.rarity
                     ),
                     "color": card_stats.color if card_stats else metadata.color,
+                    "manaValue": metadata.mana_value,
                     "isLand": metadata.is_land,
                 }
             )

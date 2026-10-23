@@ -5,6 +5,7 @@
     "grade": "D+",
     "rarity": "mythic",
     "color": "",
+    "manaValue": 10,
     "isLand": false
   },
   "106226": {
@@ -13,6 +14,7 @@
     "grade": "D+",
     "rarity": "common",
     "color": "W",
+    "manaValue": 2,
     "isLand": false
   },
   "106227": {
@@ -21,6 +23,7 @@
     "grade": "C+",
     "rarity": "common",
     "color": "W",
+    "manaValue": 4,
     "isLand": false
   },
   "106229": {
@@ -29,6 +32,7 @@
     "grade": "C",
     "rarity": "common",
     "color": "W",
+    "manaValue": 2,
     "isLand": false
   },
   "106230": {
@@ -37,6 +41,7 @@
     "grade": "C+",
     "rarity": "mythic",
     "color": "W",
+    "manaValue": 2,
     "isLand": false
   },
   "106231": {
@@ -45,6 +50,7 @@
     "grade": "D+",
     "rarity": "common",
     "color": "W",
+    "manaValue": 5,
     "isLand": false
   },
   "106232": {
@@ -53,6 +59,7 @@
     "grade": "F",
     "rarity": "rare",
     "color": "W",
+    "manaValue": 4,
     "isLand": false
   },
   "106233": {
@@ -61,6 +68,7 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "W",
+    "manaValue": 3,
     "isLand": false
   },
   "106234": {
@@ -69,6 +77,7 @@
     "grade": "F",
     "rarity": "rare",
     "color": "W",
+    "manaValue": 3,
     "isLand": false
   },
   "106235": {
@@ -77,6 +86,7 @@
     "grade": "D",
     "rarity": "common",
     "color": "W",
+    "manaValue": 3,
     "isLand": false
   },
   "106236": {
@@ -85,6 +95,7 @@
     "grade": "B-",
     "rarity": "rare",
     "color": "W",
+    "manaValue": 1,
     "isLand": false
   },
   "106237": {
@@ -93,6 +104,7 @@
     "grade": "B-",
     "rarity": "common",
     "color": "W",
+    "manaValue": 6,
     "isLand": false
   },
   "106238": {
@@ -101,6 +113,7 @@
     "grade": "A-",
     "rarity": "rare",
     "color": "W",
+    "manaValue": 7,
     "isLand": false
   },
   "106239": {
@@ -109,6 +122,7 @@
     "grade": null,
     "rarity": "rare",
     "color": "W",
+    "manaValue": 1,
     "isLand": false
   },
   "106240": {
@@ -117,6 +131,7 @@
     "grade": "C",
     "rarity": "common",
     "color": "W",
+    "manaValue": 3,
     "isLand": false
   },
   "106241": {
@@ -125,6 +140,7 @@
     "grade": "F",
     "rarity": "common",
     "color": "W",
+    "manaValue": 2,
     "isLand": false
   },
   "106242": {
@@ -133,6 +149,7 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "W",
+    "manaValue": 2,
     "isLand": false
   },
   "106243": {
@@ -141,6 +158,7 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "W",
+    "manaValue": 2,
     "isLand": false
   },
   "106244": {
@@ -149,6 +167,7 @@
     "grade": "B",
     "rarity": "rare",
     "color": "W",
+    "manaValue": 2,
     "isLand": false
   },
   "106245": {
@@ -157,6 +176,7 @@
     "grade": "D-",
     "rarity": "mythic",
     "color": "W",
+    "manaValue": 9,
     "isLand": false
   },
   "106246": {
@@ -165,6 +185,7 @@
     "grade": "C-",
     "rarity": "common",
     "color": "W",
+    "manaValue": 3,
     "isLand": false
   },
   "106247": {
@@ -173,6 +194,7 @@
     "grade": "B-",
     "rarity": "common",
     "color": "W",
+    "manaValue": 2,
     "isLand": false
   },
   "106248": {
@@ -181,6 +203,7 @@
     "grade": "C-",
     "rarity": "common",
     "color": "W",
+    "manaValue": 2,
     "isLand": false
   },
   "106249": {
@@ -189,6 +212,7 @@
     "grade": "B-",
     "rarity": "uncommon",
     "color": "W",
+    "manaValue": 3,
     "isLand": false
   },
   "106250": {
@@ -197,6 +221,7 @@
     "grade": "B",
     "rarity": "uncommon",
     "color": "U",
+    "manaValue": 2,
     "isLand": false
   },
   "106251": {
@@ -205,6 +230,7 @@
     "grade": "D-",
     "rarity": "rare",
     "color": "U",
+    "manaValue": 3,
     "isLand": false
   },
   "106252": {
@@ -213,6 +239,7 @@
     "grade": "C-",
     "rarity": "common",
     "color": "U",
+    "manaValue": 2,
     "isLand": false
   },
   "106253": {
@@ -221,6 +248,7 @@
     "grade": "B",
     "rarity": "rare",
     "color": "U",
+    "manaValue": 1,
     "isLand": false
   },
   "106255": {
@@ -229,6 +257,7 @@
     "grade": "C",
     "rarity": "common",
     "color": "U",
+    "manaValue": 3,
     "isLand": false
   },
   "106256": {
@@ -237,6 +266,7 @@
     "grade": "B-",
     "rarity": "common",
     "color": "U",
+    "manaValue": 2,
     "isLand": false
   },
   "106257": {
@@ -245,6 +275,7 @@
     "grade": "C+",
     "rarity": "common",
     "color": "U",
+    "manaValue": 3,
     "isLand": false
   },
   "106258": {
@@ -253,6 +284,7 @@
     "grade": "B-",
     "rarity": "rare",
     "color": "U",
+    "manaValue": 3,
     "isLand": false
   },
   "106259": {
@@ -261,6 +293,7 @@
     "grade": "B",
     "rarity": "common",
     "color": "U",
+    "manaValue": 3,
     "isLand": false
   },
   "106260": {
@@ -269,6 +302,7 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "U",
+    "manaValue": 1,
     "isLand": false
   },
   "106261": {
@@ -277,6 +311,7 @@
     "grade": "B",
     "rarity": "uncommon",
     "color": "U",
+    "manaValue": 4,
     "isLand": false
   },
   "106262": {
@@ -285,6 +320,7 @@
     "grade": null,
     "rarity": "uncommon",
     "color": "U",
+    "manaValue": 2,
     "isLand": false
   },
   "106263": {
@@ -293,6 +329,7 @@
     "grade": "B-",
     "rarity": "common",
     "color": "U",
+    "manaValue": 4,
     "isLand": false
   },
   "106264": {
@@ -301,6 +338,7 @@
     "grade": "B",
     "rarity": "mythic",
     "color": "U",
+    "manaValue": 3,
     "isLand": false
   },
   "106265": {
@@ -309,6 +347,7 @@
     "grade": "C-",
     "rarity": "common",
     "color": "U",
+    "manaValue": 4,
     "isLand": false
   },
   "106267": {
@@ -317,6 +356,7 @@
     "grade": "A",
     "rarity": "rare",
     "color": "U",
+    "manaValue": 4,
     "isLand": false
   },
   "106268": {
@@ -325,6 +365,7 @@
     "grade": "C+",
     "rarity": "common",
     "color": "U",
+    "manaValue": 3,
     "isLand": false
   },
   "106269": {
@@ -333,6 +374,7 @@
     "grade": "B-",
     "rarity": "common",
     "color": "U",
+    "manaValue": 2,
     "isLand": false
   },
   "106270": {
@@ -341,6 +383,7 @@
     "grade": "A+",
     "rarity": "mythic",
     "color": "U",
+    "manaValue": 4,
     "isLand": false
   },
   "106271": {
@@ -349,6 +392,7 @@
     "grade": "C+",
     "rarity": "rare",
     "color": "U",
+    "manaValue": 2,
     "isLand": false
   },
   "106272": {
@@ -357,6 +401,7 @@
     "grade": "C",
     "rarity": "common",
     "color": "U",
+    "manaValue": 5,
     "isLand": false
   },
   "106273": {
@@ -365,6 +410,7 @@
     "grade": "B-",
     "rarity": "common",
     "color": "U",
+    "manaValue": 1,
     "isLand": false
   },
   "106274": {
@@ -373,6 +419,7 @@
     "grade": "C+",
     "rarity": "rare",
     "color": "U",
+    "manaValue": 3,
     "isLand": false
   },
   "106276": {
@@ -381,6 +428,7 @@
     "grade": "C",
     "rarity": "common",
     "color": "B",
+    "manaValue": 6,
     "isLand": false
   },
   "106277": {
@@ -389,6 +437,7 @@
     "grade": "D",
     "rarity": "mythic",
     "color": "B",
+    "manaValue": 2,
     "isLand": false
   },
   "106279": {
@@ -397,6 +446,7 @@
     "grade": "B",
     "rarity": "uncommon",
     "color": "B",
+    "manaValue": 3,
     "isLand": false
   },
   "106280": {
@@ -405,6 +455,7 @@
     "grade": "D+",
     "rarity": "common",
     "color": "B",
+    "manaValue": 3,
     "isLand": false
   },
   "106281": {
@@ -413,6 +464,7 @@
     "grade": "B-",
     "rarity": "rare",
     "color": "B",
+    "manaValue": 1,
     "isLand": false
   },
   "106282": {
@@ -421,6 +473,7 @@
     "grade": "D+",
     "rarity": "mythic",
     "color": "B",
+    "manaValue": 4,
     "isLand": false
   },
   "106283": {
@@ -429,6 +482,7 @@
     "grade": "B",
     "rarity": "common",
     "color": "B",
+    "manaValue": 4,
     "isLand": false
   },
   "106284": {
@@ -437,6 +491,7 @@
     "grade": "D-",
     "rarity": "rare",
     "color": "B",
+    "manaValue": 2,
     "isLand": false
   },
   "106285": {
@@ -445,6 +500,7 @@
     "grade": "C+",
     "rarity": "common",
     "color": "B",
+    "manaValue": 2,
     "isLand": false
   },
   "106286": {
@@ -453,6 +509,7 @@
     "grade": "A",
     "rarity": "rare",
     "color": "B",
+    "manaValue": 1,
     "isLand": false
   },
   "106287": {
@@ -461,6 +518,7 @@
     "grade": "B",
     "rarity": "uncommon",
     "color": "B",
+    "manaValue": 2,
     "isLand": false
   },
   "106288": {
@@ -469,6 +527,7 @@
     "grade": "A+",
     "rarity": "mythic",
     "color": "B",
+    "manaValue": 6,
     "isLand": false
   },
   "106289": {
@@ -477,6 +536,7 @@
     "grade": "F",
     "rarity": "common",
     "color": "B",
+    "manaValue": 4,
     "isLand": false
   },
   "106290": {
@@ -485,6 +545,7 @@
     "grade": "C",
     "rarity": "common",
     "color": "B",
+    "manaValue": 2,
     "isLand": false
   },
   "106291": {
@@ -493,6 +554,7 @@
     "grade": "B",
     "rarity": "uncommon",
     "color": "B",
+    "manaValue": 4,
     "isLand": false
   },
   "106292": {
@@ -501,6 +563,7 @@
     "grade": "C",
     "rarity": "rare",
     "color": "B",
+    "manaValue": 5,
     "isLand": false
   },
   "106293": {
@@ -509,6 +572,7 @@
     "grade": "A-",
     "rarity": "rare",
     "color": "B",
+    "manaValue": 3,
     "isLand": false
   },
   "106294": {
@@ -517,6 +581,7 @@
     "grade": "C-",
     "rarity": "common",
     "color": "B",
+    "manaValue": 3,
     "isLand": false
   },
   "106295": {
@@ -525,6 +590,7 @@
     "grade": "D+",
     "rarity": "common",
     "color": "B",
+    "manaValue": 2,
     "isLand": false
   },
   "106296": {
@@ -533,6 +599,7 @@
     "grade": "D+",
     "rarity": "common",
     "color": "B",
+    "manaValue": 2,
     "isLand": false
   },
   "106297": {
@@ -541,6 +608,7 @@
     "grade": "D",
     "rarity": "uncommon",
     "color": "B",
+    "manaValue": 2,
     "isLand": false
   },
   "106298": {
@@ -549,6 +617,7 @@
     "grade": "C",
     "rarity": "common",
     "color": "B",
+    "manaValue": 3,
     "isLand": false
   },
   "106299": {
@@ -557,6 +626,7 @@
     "grade": "C",
     "rarity": "common",
     "color": "B",
+    "manaValue": 2,
     "isLand": false
   },
   "106301": {
@@ -565,6 +635,7 @@
     "grade": "C-",
     "rarity": "rare",
     "color": "B",
+    "manaValue": 2,
     "isLand": false
   },
   "106302": {
@@ -573,6 +644,7 @@
     "grade": "C+",
     "rarity": "rare",
     "color": "R",
+    "manaValue": 1,
     "isLand": false
   },
   "106303": {
@@ -581,6 +653,7 @@
     "grade": "D-",
     "rarity": "common",
     "color": "R",
+    "manaValue": 1,
     "isLand": false
   },
   "106304": {
@@ -589,6 +662,7 @@
     "grade": "C",
     "rarity": "common",
     "color": "R",
+    "manaValue": 5,
     "isLand": false
   },
   "106305": {
@@ -597,6 +671,7 @@
     "grade": "D",
     "rarity": "common",
     "color": "R",
+    "manaValue": 2,
     "isLand": false
   },
   "106306": {
@@ -605,6 +680,7 @@
     "grade": "D",
     "rarity": "common",
     "color": "R",
+    "manaValue": 3,
     "isLand": false
   },
   "106307": {
@@ -613,6 +689,7 @@
     "grade": "D-",
     "rarity": "uncommon",
     "color": "R",
+    "manaValue": 3,
     "isLand": false
   },
   "106308": {
@@ -621,6 +698,7 @@
     "grade": "C+",
     "rarity": "mythic",
     "color": "R",
+    "manaValue": 7,
     "isLand": false
   },
   "106309": {
@@ -629,6 +707,7 @@
     "grade": "C+",
     "rarity": "rare",
     "color": "R",
+    "manaValue": 4,
     "isLand": false
   },
   "106310": {
@@ -637,6 +716,7 @@
     "grade": "C-",
     "rarity": "rare",
     "color": "R",
+    "manaValue": 5,
     "isLand": false
   },
   "106311": {
@@ -645,6 +725,7 @@
     "grade": "D-",
     "rarity": "common",
     "color": "R",
+    "manaValue": 2,
     "isLand": false
   },
   "106312": {
@@ -653,6 +734,7 @@
     "grade": "F",
     "rarity": "uncommon",
     "color": "R",
+    "manaValue": 2,
     "isLand": false
   },
   "106313": {
@@ -661,6 +743,7 @@
     "grade": "C",
     "rarity": "rare",
     "color": "R",
+    "manaValue": 7,
     "isLand": false
   },
   "106314": {
@@ -669,6 +752,7 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "R",
+    "manaValue": 3,
     "isLand": false
   },
   "106315": {
@@ -677,6 +761,7 @@
     "grade": "D+",
     "rarity": "common",
     "color": "R",
+    "manaValue": 3,
     "isLand": false
   },
   "106317": {
@@ -685,6 +770,7 @@
     "grade": "C",
     "rarity": "common",
     "color": "R",
+    "manaValue": 4,
     "isLand": false
   },
   "106318": {
@@ -693,6 +779,7 @@
     "grade": null,
     "rarity": "rare",
     "color": "R",
+    "manaValue": 3,
     "isLand": false
   },
   "106319": {
@@ -701,6 +788,7 @@
     "grade": "C-",
     "rarity": "rare",
     "color": "R",
+    "manaValue": 2,
     "isLand": false
   },
   "106320": {
@@ -709,6 +797,7 @@
     "grade": "C+",
     "rarity": "common",
     "color": "R",
+    "manaValue": 2,
     "isLand": false
   },
   "106321": {
@@ -717,6 +806,7 @@
     "grade": "C-",
     "rarity": "rare",
     "color": "R",
+    "manaValue": 1,
     "isLand": false
   },
   "106323": {
@@ -725,6 +815,7 @@
     "grade": "D",
     "rarity": "rare",
     "color": "R",
+    "manaValue": 3,
     "isLand": false
   },
   "106325": {
@@ -733,6 +824,7 @@
     "grade": "D+",
     "rarity": "common",
     "color": "R",
+    "manaValue": 2,
     "isLand": false
   },
   "106326": {
@@ -741,6 +833,7 @@
     "grade": "C+",
     "rarity": "mythic",
     "color": "R",
+    "manaValue": 2,
     "isLand": false
   },
   "106327": {
@@ -749,6 +842,7 @@
     "grade": "D+",
     "rarity": "common",
     "color": "R",
+    "manaValue": 5,
     "isLand": false
   },
   "106328": {
@@ -757,6 +851,7 @@
     "grade": "B",
     "rarity": "uncommon",
     "color": "R",
+    "manaValue": 4,
     "isLand": false
   },
   "106329": {
@@ -765,6 +860,7 @@
     "grade": "C+",
     "rarity": "common",
     "color": "R",
+    "manaValue": 3,
     "isLand": false
   },
   "106330": {
@@ -773,6 +869,7 @@
     "grade": "C",
     "rarity": "common",
     "color": "G",
+    "manaValue": 2,
     "isLand": false
   },
   "106331": {
@@ -781,6 +878,7 @@
     "grade": "C+",
     "rarity": "common",
     "color": "G",
+    "manaValue": 4,
     "isLand": false
   },
   "106332": {
@@ -789,6 +887,7 @@
     "grade": "D",
     "rarity": "common",
     "color": "G",
+    "manaValue": 3,
     "isLand": false
   },
   "106333": {
@@ -797,6 +896,7 @@
     "grade": "B",
     "rarity": "rare",
     "color": "G",
+    "manaValue": 2,
     "isLand": false
   },
   "106335": {
@@ -805,6 +905,7 @@
     "grade": "C",
     "rarity": "common",
     "color": "G",
+    "manaValue": 2,
     "isLand": false
   },
   "106336": {
@@ -813,6 +914,7 @@
     "grade": "F",
     "rarity": "uncommon",
     "color": "G",
+    "manaValue": 1,
     "isLand": false
   },
   "106337": {
@@ -821,6 +923,7 @@
     "grade": null,
     "rarity": "rare",
     "color": "G",
+    "manaValue": 3,
     "isLand": false
   },
   "106338": {
@@ -829,6 +932,7 @@
     "grade": "C-",
     "rarity": "common",
     "color": "G",
+    "manaValue": 3,
     "isLand": false
   },
   "106339": {
@@ -837,6 +941,7 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "G",
+    "manaValue": 1,
     "isLand": false
   },
   "106341": {
@@ -845,6 +950,7 @@
     "grade": "C",
     "rarity": "mythic",
     "color": "G",
+    "manaValue": 4,
     "isLand": false
   },
   "106342": {
@@ -853,6 +959,7 @@
     "grade": "A-",
     "rarity": "rare",
     "color": "G",
+    "manaValue": 5,
     "isLand": false
   },
   "106343": {
@@ -861,6 +968,7 @@
     "grade": "D",
     "rarity": "uncommon",
     "color": "G",
+    "manaValue": 1,
     "isLand": false
   },
   "106344": {
@@ -869,6 +977,7 @@
     "grade": "D",
     "rarity": "common",
     "color": "G",
+    "manaValue": 3,
     "isLand": false
   },
   "106345": {
@@ -877,6 +986,7 @@
     "grade": null,
     "rarity": "mythic",
     "color": "G",
+    "manaValue": 8,
     "isLand": false
   },
   "106346": {
@@ -885,6 +995,7 @@
     "grade": "D",
     "rarity": "rare",
     "color": "G",
+    "manaValue": 2,
     "isLand": false
   },
   "106347": {
@@ -893,6 +1004,7 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "G",
+    "manaValue": 3,
     "isLand": false
   },
   "106348": {
@@ -901,6 +1013,7 @@
     "grade": "B",
     "rarity": "rare",
     "color": "G",
+    "manaValue": 3,
     "isLand": false
   },
   "106349": {
@@ -909,6 +1022,7 @@
     "grade": "C+",
     "rarity": "common",
     "color": "G",
+    "manaValue": 2,
     "isLand": false
   },
   "106350": {
@@ -917,6 +1031,7 @@
     "grade": "C-",
     "rarity": "common",
     "color": "G",
+    "manaValue": 2,
     "isLand": false
   },
   "106351": {
@@ -925,6 +1040,7 @@
     "grade": "C+",
     "rarity": "mythic",
     "color": "G",
+    "manaValue": 2,
     "isLand": false
   },
   "106352": {
@@ -933,6 +1049,7 @@
     "grade": "D",
     "rarity": "common",
     "color": "G",
+    "manaValue": 1,
     "isLand": false
   },
   "106353": {
@@ -941,6 +1058,7 @@
     "grade": "B-",
     "rarity": "rare",
     "color": "G",
+    "manaValue": 7,
     "isLand": false
   },
   "106354": {
@@ -949,6 +1067,7 @@
     "grade": "C",
     "rarity": "common",
     "color": "G",
+    "manaValue": 6,
     "isLand": false
   },
   "106355": {
@@ -957,6 +1076,7 @@
     "grade": "C",
     "rarity": "common",
     "color": "G",
+    "manaValue": 5,
     "isLand": false
   },
   "106356": {
@@ -965,6 +1085,7 @@
     "grade": "A+",
     "rarity": "mythic",
     "color": "RG",
+    "manaValue": 4,
     "isLand": false
   },
   "106357": {
@@ -973,6 +1094,7 @@
     "grade": "B",
     "rarity": "mythic",
     "color": "UG",
+    "manaValue": 2,
     "isLand": false
   },
   "106358": {
@@ -981,6 +1103,7 @@
     "grade": "C-",
     "rarity": "common",
     "color": "WB",
+    "manaValue": 1,
     "isLand": false
   },
   "106359": {
@@ -989,6 +1112,7 @@
     "grade": "B-",
     "rarity": "uncommon",
     "color": "WG",
+    "manaValue": 4,
     "isLand": false
   },
   "106360": {
@@ -997,6 +1121,7 @@
     "grade": "D",
     "rarity": "common",
     "color": "WR",
+    "manaValue": 3,
     "isLand": false
   },
   "106361": {
@@ -1005,6 +1130,7 @@
     "grade": "B-",
     "rarity": "uncommon",
     "color": "UR",
+    "manaValue": 3,
     "isLand": false
   },
   "106362": {
@@ -1013,6 +1139,7 @@
     "grade": "A-",
     "rarity": "uncommon",
     "color": "RG",
+    "manaValue": 7,
     "isLand": false
   },
   "106363": {
@@ -1021,6 +1148,7 @@
     "grade": "A-",
     "rarity": "mythic",
     "color": "WU",
+    "manaValue": 4,
     "isLand": false
   },
   "106364": {
@@ -1029,6 +1157,7 @@
     "grade": "B-",
     "rarity": "uncommon",
     "color": "WU",
+    "manaValue": 4,
     "isLand": false
   },
   "106365": {
@@ -1037,6 +1166,7 @@
     "grade": "C-",
     "rarity": "common",
     "color": "WG",
+    "manaValue": 1,
     "isLand": false
   },
   "106367": {
@@ -1045,6 +1175,7 @@
     "grade": null,
     "rarity": "rare",
     "color": "UG",
+    "manaValue": 5,
     "isLand": false
   },
   "106368": {
@@ -1053,6 +1184,7 @@
     "grade": "B-",
     "rarity": "uncommon",
     "color": "WU",
+    "manaValue": 2,
     "isLand": false
   },
   "106369": {
@@ -1061,6 +1193,7 @@
     "grade": "C+",
     "rarity": "common",
     "color": "WU",
+    "manaValue": 2,
     "isLand": false
   },
   "106371": {
@@ -1069,6 +1202,7 @@
     "grade": "D+",
     "rarity": "common",
     "color": "BG",
+    "manaValue": 2,
     "isLand": false
   },
   "106372": {
@@ -1077,6 +1211,7 @@
     "grade": "D",
     "rarity": "rare",
     "color": "UR",
+    "manaValue": 3,
     "isLand": false
   },
   "106373": {
@@ -1085,6 +1220,7 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "BR",
+    "manaValue": 2,
     "isLand": false
   },
   "106374": {
@@ -1093,6 +1229,7 @@
     "grade": "C+",
     "rarity": "mythic",
     "color": "BR",
+    "manaValue": 3,
     "isLand": false
   },
   "106375": {
@@ -1101,6 +1238,7 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "RG",
+    "manaValue": 2,
     "isLand": false
   },
   "106376": {
@@ -1109,6 +1247,7 @@
     "grade": "C-",
     "rarity": "common",
     "color": "RG",
+    "manaValue": 2,
     "isLand": false
   },
   "106378": {
@@ -1117,6 +1256,7 @@
     "grade": "A-",
     "rarity": "mythic",
     "color": "WG",
+    "manaValue": 6,
     "isLand": false
   },
   "106379": {
@@ -1125,6 +1265,7 @@
     "grade": "B-",
     "rarity": "uncommon",
     "color": "UG",
+    "manaValue": 6,
     "isLand": false
   },
   "106380": {
@@ -1133,6 +1274,7 @@
     "grade": "A-",
     "rarity": "rare",
     "color": "UB",
+    "manaValue": 4,
     "isLand": false
   },
   "106381": {
@@ -1141,6 +1283,7 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "UB",
+    "manaValue": 2,
     "isLand": false
   },
   "106383": {
@@ -1149,6 +1292,7 @@
     "grade": "B",
     "rarity": "uncommon",
     "color": "BG",
+    "manaValue": 3,
     "isLand": false
   },
   "106384": {
@@ -1157,6 +1301,7 @@
     "grade": "B+",
     "rarity": "rare",
     "color": "WU",
+    "manaValue": 2,
     "isLand": false
   },
   "106385": {
@@ -1165,6 +1310,7 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "WU",
+    "manaValue": 3,
     "isLand": false
   },
   "106387": {
@@ -1173,6 +1319,7 @@
     "grade": "B+",
     "rarity": "uncommon",
     "color": "UB",
+    "manaValue": 4,
     "isLand": false
   },
   "106388": {
@@ -1181,6 +1328,7 @@
     "grade": "C+",
     "rarity": "rare",
     "color": "WG",
+    "manaValue": 2,
     "isLand": false
   },
   "106389": {
@@ -1189,6 +1337,7 @@
     "grade": "D",
     "rarity": "rare",
     "color": "WR",
+    "manaValue": 2,
     "isLand": false
   },
   "106390": {
@@ -1197,6 +1346,7 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "BR",
+    "manaValue": 2,
     "isLand": false
   },
   "106391": {
@@ -1205,6 +1355,7 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "BR",
+    "manaValue": 1,
     "isLand": false
   },
   "106393": {
@@ -1213,6 +1364,7 @@
     "grade": "C-",
     "rarity": "rare",
     "color": "BR",
+    "manaValue": 2,
     "isLand": false
   },
   "106394": {
@@ -1221,6 +1373,7 @@
     "grade": "C+",
     "rarity": "common",
     "color": "UG",
+    "manaValue": 2,
     "isLand": false
   },
   "106395": {
@@ -1229,6 +1382,7 @@
     "grade": "B-",
     "rarity": "rare",
     "color": "RG",
+    "manaValue": 3,
     "isLand": false
   },
   "106396": {
@@ -1237,6 +1391,7 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "UB",
+    "manaValue": 2,
     "isLand": false
   },
   "106397": {
@@ -1245,6 +1400,7 @@
     "grade": "C-",
     "rarity": "common",
     "color": "UB",
+    "manaValue": 3,
     "isLand": false
   },
   "106399": {
@@ -1253,6 +1409,7 @@
     "grade": "B-",
     "rarity": "common",
     "color": "UR",
+    "manaValue": 2,
     "isLand": false
   },
   "106400": {
@@ -1261,6 +1418,7 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "WB",
+    "manaValue": 5,
     "isLand": false
   },
   "106401": {
@@ -1269,6 +1427,7 @@
     "grade": "A+",
     "rarity": "mythic",
     "color": "UB",
+    "manaValue": 6,
     "isLand": false
   },
   "106402": {
@@ -1277,6 +1436,7 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "WG",
+    "manaValue": 2,
     "isLand": false
   },
   "106403": {
@@ -1285,6 +1445,7 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "WG",
+    "manaValue": 2,
     "isLand": false
   },
   "106405": {
@@ -1293,6 +1454,7 @@
     "grade": "C",
     "rarity": "rare",
     "color": "WB",
+    "manaValue": 3,
     "isLand": false
   },
   "106406": {
@@ -1301,6 +1463,7 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "WR",
+    "manaValue": 4,
     "isLand": false
   },
   "106407": {
@@ -1309,6 +1472,7 @@
     "grade": "D-",
     "rarity": "common",
     "color": "BR",
+    "manaValue": 4,
     "isLand": false
   },
   "106409": {
@@ -1317,6 +1481,7 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "RG",
+    "manaValue": 3,
     "isLand": false
   },
   "106411": {
@@ -1325,6 +1490,7 @@
     "grade": "D+",
     "rarity": "common",
     "color": "",
+    "manaValue": 2,
     "isLand": false
   },
   "106412": {
@@ -1333,6 +1499,7 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "",
+    "manaValue": 6,
     "isLand": false
   },
   "106413": {
@@ -1341,6 +1508,7 @@
     "grade": "F",
     "rarity": "rare",
     "color": "",
+    "manaValue": 3,
     "isLand": false
   },
   "106414": {
@@ -1349,6 +1517,7 @@
     "grade": "B-",
     "rarity": "mythic",
     "color": "",
+    "manaValue": 2,
     "isLand": false
   },
   "106415": {
@@ -1357,6 +1526,7 @@
     "grade": "D",
     "rarity": "uncommon",
     "color": "",
+    "manaValue": 1,
     "isLand": false
   },
   "106416": {
@@ -1365,6 +1535,7 @@
     "grade": "C+",
     "rarity": "common",
     "color": "",
+    "manaValue": 3,
     "isLand": false
   },
   "106417": {
@@ -1373,6 +1544,7 @@
     "grade": "D+",
     "rarity": "common",
     "color": "",
+    "manaValue": 2,
     "isLand": false
   },
   "106418": {
@@ -1381,6 +1553,7 @@
     "grade": "C-",
     "rarity": "common",
     "color": "",
+    "manaValue": 2,
     "isLand": false
   },
   "106419": {
@@ -1389,6 +1562,7 @@
     "grade": "C+",
     "rarity": "common",
     "color": "",
+    "manaValue": 3,
     "isLand": false
   },
   "106420": {
@@ -1397,6 +1571,7 @@
     "grade": "D+",
     "rarity": "common",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106421": {
@@ -1405,6 +1580,7 @@
     "grade": "C",
     "rarity": "rare",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106422": {
@@ -1413,6 +1589,7 @@
     "grade": "C",
     "rarity": "common",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106423": {
@@ -1421,6 +1598,7 @@
     "grade": "C",
     "rarity": "common",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106424": {
@@ -1429,6 +1607,7 @@
     "grade": "C-",
     "rarity": "rare",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106425": {
@@ -1437,6 +1616,7 @@
     "grade": "C",
     "rarity": "rare",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106426": {
@@ -1445,6 +1625,7 @@
     "grade": "D-",
     "rarity": "uncommon",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106427": {
@@ -1453,6 +1634,7 @@
     "grade": "C+",
     "rarity": "common",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106428": {
@@ -1461,6 +1643,7 @@
     "grade": "C-",
     "rarity": "common",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106429": {
@@ -1469,6 +1652,7 @@
     "grade": "C-",
     "rarity": "common",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106430": {
@@ -1477,6 +1661,7 @@
     "grade": "D+",
     "rarity": "rare",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106431": {
@@ -1485,6 +1670,7 @@
     "grade": "C",
     "rarity": "rare",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106432": {
@@ -1493,6 +1679,7 @@
     "grade": "D-",
     "rarity": "rare",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106433": {
@@ -1501,6 +1688,7 @@
     "grade": "C",
     "rarity": "common",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106434": {
@@ -1509,6 +1697,7 @@
     "grade": "B-",
     "rarity": "rare",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106435": {
@@ -1517,6 +1706,7 @@
     "grade": "C-",
     "rarity": "common",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106436": {
@@ -1525,6 +1715,7 @@
     "grade": "B-",
     "rarity": "rare",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106437": {
@@ -1533,6 +1724,7 @@
     "grade": "C+",
     "rarity": "common",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106438": {
@@ -1541,6 +1733,7 @@
     "grade": "C+",
     "rarity": "common",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106439": {
@@ -1549,6 +1742,7 @@
     "grade": "C-",
     "rarity": "common",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106440": {
@@ -1557,6 +1751,7 @@
     "grade": "D+",
     "rarity": "mythic",
     "color": "W",
+    "manaValue": 2,
     "isLand": false
   },
   "106441": {
@@ -1565,6 +1760,7 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "W",
+    "manaValue": 3,
     "isLand": false
   },
   "106442": {
@@ -1573,6 +1769,7 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "W",
+    "manaValue": 9,
     "isLand": false
   },
   "106443": {
@@ -1581,6 +1778,7 @@
     "grade": "D",
     "rarity": "rare",
     "color": "W",
+    "manaValue": 2,
     "isLand": false
   },
   "106444": {
@@ -1589,6 +1787,7 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "W",
+    "manaValue": 3,
     "isLand": false
   },
   "106445": {
@@ -1597,6 +1796,7 @@
     "grade": "B-",
     "rarity": "rare",
     "color": "W",
+    "manaValue": 1,
     "isLand": false
   },
   "106446": {
@@ -1605,6 +1805,7 @@
     "grade": "B",
     "rarity": "rare",
     "color": "W",
+    "manaValue": 3,
     "isLand": false
   },
   "106447": {
@@ -1613,6 +1814,7 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "W",
+    "manaValue": 3,
     "isLand": false
   },
   "106448": {
@@ -1621,6 +1823,7 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "W",
+    "manaValue": 5,
     "isLand": false
   },
   "106449": {
@@ -1629,6 +1832,7 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "W",
+    "manaValue": 2,
     "isLand": false
   },
   "106450": {
@@ -1637,6 +1841,7 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "W",
+    "manaValue": 4,
     "isLand": false
   },
   "106451": {
@@ -1645,6 +1850,7 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "W",
+    "manaValue": 2,
     "isLand": false
   },
   "106452": {
@@ -1653,6 +1859,7 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "W",
+    "manaValue": 4,
     "isLand": false
   },
   "106453": {
@@ -1661,6 +1868,7 @@
     "grade": "D",
     "rarity": "uncommon",
     "color": "W",
+    "manaValue": 3,
     "isLand": false
   },
   "106454": {
@@ -1669,6 +1877,7 @@
     "grade": "D-",
     "rarity": "uncommon",
     "color": "W",
+    "manaValue": 3,
     "isLand": false
   },
   "106455": {
@@ -1677,6 +1886,7 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "W",
+    "manaValue": 4,
     "isLand": false
   },
   "106456": {
@@ -1685,6 +1895,7 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "U",
+    "manaValue": 3,
     "isLand": false
   },
   "106457": {
@@ -1693,6 +1904,7 @@
     "grade": "B",
     "rarity": "mythic",
     "color": "U",
+    "manaValue": 3,
     "isLand": false
   },
   "106458": {
@@ -1701,6 +1913,7 @@
     "grade": "B",
     "rarity": "uncommon",
     "color": "U",
+    "manaValue": 2,
     "isLand": false
   },
   "106459": {
@@ -1709,6 +1922,7 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "U",
+    "manaValue": 2,
     "isLand": false
   },
   "106460": {
@@ -1717,6 +1931,7 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "U",
+    "manaValue": 4,
     "isLand": false
   },
   "106461": {
@@ -1725,6 +1940,7 @@
     "grade": "B-",
     "rarity": "rare",
     "color": "U",
+    "manaValue": 5,
     "isLand": false
   },
   "106462": {
@@ -1733,6 +1949,7 @@
     "grade": "B+",
     "rarity": "rare",
     "color": "U",
+    "manaValue": 3,
     "isLand": false
   },
   "106463": {
@@ -1741,6 +1958,7 @@
     "grade": "B-",
     "rarity": "uncommon",
     "color": "U",
+    "manaValue": 2,
     "isLand": false
   },
   "106464": {
@@ -1749,6 +1967,7 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "U",
+    "manaValue": 6,
     "isLand": false
   },
   "106465": {
@@ -1757,6 +1976,7 @@
     "grade": "F",
     "rarity": "rare",
     "color": "U",
+    "manaValue": 2,
     "isLand": false
   },
   "106466": {
@@ -1765,6 +1985,7 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "U",
+    "manaValue": 2,
     "isLand": false
   },
   "106467": {
@@ -1773,6 +1994,7 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "U",
+    "manaValue": 4,
     "isLand": false
   },
   "106468": {
@@ -1781,6 +2003,7 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "U",
+    "manaValue": 3,
     "isLand": false
   },
   "106469": {
@@ -1789,6 +2012,7 @@
     "grade": "B-",
     "rarity": "uncommon",
     "color": "U",
+    "manaValue": 5,
     "isLand": false
   },
   "106470": {
@@ -1797,6 +2021,7 @@
     "grade": "F",
     "rarity": "uncommon",
     "color": "U",
+    "manaValue": 5,
     "isLand": false
   },
   "106471": {
@@ -1805,6 +2030,7 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "U",
+    "manaValue": 1,
     "isLand": false
   },
   "106472": {
@@ -1813,6 +2039,7 @@
     "grade": "D",
     "rarity": "uncommon",
     "color": "B",
+    "manaValue": 3,
     "isLand": false
   },
   "106473": {
@@ -1821,6 +2048,7 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "B",
+    "manaValue": 2,
     "isLand": false
   },
   "106474": {
@@ -1829,6 +2057,7 @@
     "grade": "A+",
     "rarity": "mythic",
     "color": "B",
+    "manaValue": 5,
     "isLand": false
   },
   "106475": {
@@ -1837,6 +2066,7 @@
     "grade": "B",
     "rarity": "rare",
     "color": "B",
+    "manaValue": 3,
     "isLand": false
   },
   "106476": {
@@ -1845,6 +2075,7 @@
     "grade": "C+",
     "rarity": "rare",
     "color": "B",
+    "manaValue": 2,
     "isLand": false
   },
   "106477": {
@@ -1853,6 +2084,7 @@
     "grade": "F",
     "rarity": "uncommon",
     "color": "B",
+    "manaValue": 3,
     "isLand": false
   },
   "106478": {
@@ -1861,6 +2093,7 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "B",
+    "manaValue": 1,
     "isLand": false
   },
   "106479": {
@@ -1869,6 +2102,7 @@
     "grade": "D-",
     "rarity": "uncommon",
     "color": "B",
+    "manaValue": 5,
     "isLand": false
   },
   "106480": {
@@ -1877,6 +2111,7 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "B",
+    "manaValue": 3,
     "isLand": false
   },
   "106481": {
@@ -1885,6 +2120,7 @@
     "grade": "D",
     "rarity": "uncommon",
     "color": "B",
+    "manaValue": 4,
     "isLand": false
   },
   "106482": {
@@ -1893,6 +2129,7 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "B",
+    "manaValue": 3,
     "isLand": false
   },
   "106483": {
@@ -1901,6 +2138,7 @@
     "grade": "D",
     "rarity": "uncommon",
     "color": "B",
+    "manaValue": 3,
     "isLand": false
   },
   "106484": {
@@ -1909,6 +2147,7 @@
     "grade": "F",
     "rarity": "uncommon",
     "color": "B",
+    "manaValue": 2,
     "isLand": false
   },
   "106485": {
@@ -1917,6 +2156,7 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "B",
+    "manaValue": 3,
     "isLand": false
   },
   "106486": {
@@ -1925,6 +2165,7 @@
     "grade": "F",
     "rarity": "uncommon",
     "color": "B",
+    "manaValue": 5,
     "isLand": false
   },
   "106487": {
@@ -1933,6 +2174,7 @@
     "grade": "A+",
     "rarity": "mythic",
     "color": "R",
+    "manaValue": 6,
     "isLand": false
   },
   "106488": {
@@ -1941,6 +2183,7 @@
     "grade": "F",
     "rarity": "uncommon",
     "color": "R",
+    "manaValue": 4,
     "isLand": false
   },
   "106489": {
@@ -1949,6 +2192,7 @@
     "grade": "B",
     "rarity": "mythic",
     "color": "R",
+    "manaValue": 4,
     "isLand": false
   },
   "106490": {
@@ -1957,6 +2201,7 @@
     "grade": "D",
     "rarity": "uncommon",
     "color": "R",
+    "manaValue": 2,
     "isLand": false
   },
   "106491": {
@@ -1965,6 +2210,7 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "R",
+    "manaValue": 5,
     "isLand": false
   },
   "106492": {
@@ -1973,6 +2219,7 @@
     "grade": "B+",
     "rarity": "uncommon",
     "color": "R",
+    "manaValue": 6,
     "isLand": false
   },
   "106493": {
@@ -1981,6 +2228,7 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "R",
+    "manaValue": 3,
     "isLand": false
   },
   "106494": {
@@ -1989,6 +2237,7 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "R",
+    "manaValue": 1,
     "isLand": false
   },
   "106495": {
@@ -1997,6 +2246,7 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "R",
+    "manaValue": 3,
     "isLand": false
   },
   "106496": {
@@ -2005,6 +2255,7 @@
     "grade": "C+",
     "rarity": "rare",
     "color": "R",
+    "manaValue": 2,
     "isLand": false
   },
   "106497": {
@@ -2013,6 +2264,7 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "R",
+    "manaValue": 4,
     "isLand": false
   },
   "106498": {
@@ -2021,6 +2273,7 @@
     "grade": "D",
     "rarity": "uncommon",
     "color": "R",
+    "manaValue": 2,
     "isLand": false
   },
   "106499": {
@@ -2029,6 +2282,7 @@
     "grade": "D",
     "rarity": "uncommon",
     "color": "R",
+    "manaValue": 2,
     "isLand": false
   },
   "106500": {
@@ -2037,6 +2291,7 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "R",
+    "manaValue": 3,
     "isLand": false
   },
   "106501": {
@@ -2045,6 +2300,7 @@
     "grade": "F",
     "rarity": "uncommon",
     "color": "R",
+    "manaValue": 5,
     "isLand": false
   },
   "106502": {
@@ -2053,6 +2309,7 @@
     "grade": "D-",
     "rarity": "uncommon",
     "color": "G",
+    "manaValue": 5,
     "isLand": false
   },
   "106503": {
@@ -2061,6 +2318,7 @@
     "grade": "B-",
     "rarity": "uncommon",
     "color": "G",
+    "manaValue": 2,
     "isLand": false
   },
   "106504": {
@@ -2069,6 +2327,7 @@
     "grade": "A+",
     "rarity": "mythic",
     "color": "G",
+    "manaValue": 5,
     "isLand": false
   },
   "106505": {
@@ -2077,6 +2336,7 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "G",
+    "manaValue": 9,
     "isLand": false
   },
   "106506": {
@@ -2085,6 +2345,7 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "G",
+    "manaValue": 4,
     "isLand": false
   },
   "106507": {
@@ -2093,6 +2354,7 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "G",
+    "manaValue": 3,
     "isLand": false
   },
   "106508": {
@@ -2101,6 +2363,7 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "G",
+    "manaValue": 2,
     "isLand": false
   },
   "106509": {
@@ -2109,6 +2372,7 @@
     "grade": "D-",
     "rarity": "uncommon",
     "color": "G",
+    "manaValue": 3,
     "isLand": false
   },
   "106510": {
@@ -2117,6 +2381,7 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "G",
+    "manaValue": 7,
     "isLand": false
   },
   "106511": {
@@ -2125,6 +2390,7 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "G",
+    "manaValue": 4,
     "isLand": false
   },
   "106512": {
@@ -2133,6 +2399,7 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "G",
+    "manaValue": 3,
     "isLand": false
   },
   "106513": {
@@ -2141,6 +2408,7 @@
     "grade": "C",
     "rarity": "uncommon",
     "color": "G",
+    "manaValue": 5,
     "isLand": false
   },
   "106514": {
@@ -2149,6 +2417,7 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "G",
+    "manaValue": 2,
     "isLand": false
   },
   "106515": {
@@ -2157,6 +2426,7 @@
     "grade": "D+",
     "rarity": "uncommon",
     "color": "WB",
+    "manaValue": 2,
     "isLand": false
   },
   "106516": {
@@ -2165,6 +2435,7 @@
     "grade": "B",
     "rarity": "uncommon",
     "color": "BG",
+    "manaValue": 5,
     "isLand": false
   },
   "106517": {
@@ -2173,6 +2444,7 @@
     "grade": "D",
     "rarity": "rare",
     "color": "WUBRG",
+    "manaValue": 5,
     "isLand": false
   },
   "106518": {
@@ -2181,6 +2453,7 @@
     "grade": "C-",
     "rarity": "uncommon",
     "color": "UG",
+    "manaValue": 3,
     "isLand": false
   },
   "106519": {
@@ -2189,6 +2462,7 @@
     "grade": "D",
     "rarity": "uncommon",
     "color": "WR",
+    "manaValue": 3,
     "isLand": false
   },
   "106520": {
@@ -2197,6 +2471,7 @@
     "grade": "C+",
     "rarity": "uncommon",
     "color": "UR",
+    "manaValue": 4,
     "isLand": false
   },
   "106521": {
@@ -2205,6 +2480,7 @@
     "grade": null,
     "rarity": "rare",
     "color": "UG",
+    "manaValue": 3,
     "isLand": false
   },
   "106522": {
@@ -2213,6 +2489,7 @@
     "grade": "C-",
     "rarity": "rare",
     "color": "WUR",
+    "manaValue": 3,
     "isLand": false
   },
   "106523": {
@@ -2221,6 +2498,7 @@
     "grade": "A-",
     "rarity": "rare",
     "color": "BG",
+    "manaValue": 3,
     "isLand": false
   },
   "106524": {
@@ -2229,6 +2507,7 @@
     "grade": "D-",
     "rarity": "rare",
     "color": "",
+    "manaValue": 2,
     "isLand": false
   },
   "106525": {
@@ -2237,6 +2516,7 @@
     "grade": "D",
     "rarity": "uncommon",
     "color": "",
+    "manaValue": 4,
     "isLand": false
   },
   "106566": {
@@ -2245,6 +2525,7 @@
     "grade": null,
     "rarity": "mythic",
     "color": "",
+    "manaValue": 0,
     "isLand": true
   },
   "106567": {
@@ -2253,6 +2534,7 @@
     "grade": "A-",
     "rarity": "rare",
     "color": "W",
+    "manaValue": 6,
     "isLand": false
   },
   "106568": {
@@ -2261,6 +2543,7 @@
     "grade": "C",
     "rarity": "rare",
     "color": "U",
+    "manaValue": 2,
     "isLand": false
   },
   "106569": {
@@ -2269,6 +2552,7 @@
     "grade": null,
     "rarity": "uncommon",
     "color": "U",
+    "manaValue": 1,
     "isLand": false
   },
   "106570": {
@@ -2277,6 +2561,7 @@
     "grade": "A+",
     "rarity": "rare",
     "color": "U",
+    "manaValue": 6,
     "isLand": false
   },
   "106571": {
@@ -2285,6 +2570,7 @@
     "grade": "C+",
     "rarity": "common",
     "color": "U",
+    "manaValue": 1,
     "isLand": false
   },
   "106572": {
@@ -2293,6 +2579,7 @@
     "grade": null,
     "rarity": "mythic",
     "color": "B",
+    "manaValue": 3,
     "isLand": false
   },
   "106573": {
@@ -2301,6 +2588,7 @@
     "grade": "A",
     "rarity": "rare",
     "color": "B",
+    "manaValue": 1,
     "isLand": false
   },
   "106574": {
@@ -2309,6 +2597,7 @@
     "grade": "A-",
     "rarity": "rare",
     "color": "R",
+    "manaValue": 4,
     "isLand": false
   },
   "106575": {
@@ -2317,6 +2606,7 @@
     "grade": null,
     "rarity": "mythic",
     "color": "G",
+    "manaValue": 1,
     "isLand": false
   }
 }
