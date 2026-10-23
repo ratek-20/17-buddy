@@ -9,7 +9,7 @@
   "author": "ratek-20",
   "main": ".vite/build/main.cjs",
   "scripts": {
-    "start": "electron-forge start",
+    "start": "node scripts/start-development.mjs",
     "test": "vitest run",
     "test:watch": "vitest",
     "package": "electron-forge package",
