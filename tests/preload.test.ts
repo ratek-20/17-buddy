@@ -48,6 +48,7 @@ describe('draft overlay preload API', () => {
       pickNumber: 2,
       availableDecks: [],
       cards: [],
+      pickedCards: [],
     };
 
     expect(electron.on).toHaveBeenCalledWith(RATED_PACK_CHANNEL, listener);

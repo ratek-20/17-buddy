@@ -9,6 +9,7 @@ export type PackReceived = {
   packNumber: number;
   pickNumber: number;
   cardIds: number[];
+  pickedCardIds: number[];
 };
 
 export type ArenaLogEvent = DraftStarted | PackReceived;
@@ -22,6 +23,7 @@ export type CardRating = WinRateGrade & {
   name: string;
   rarity?: string;
   color?: string;
+  manaValue?: number;
   isLand?: boolean;
   deckRatings?: Record<string, WinRateGrade>;
 };
@@ -36,4 +38,5 @@ export type RatedPack = {
   pickNumber: number;
   availableDecks: string[];
   cards: RatedCard[];
+  pickedCards: RatedCard[];
 };

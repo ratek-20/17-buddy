@@ -52,12 +52,14 @@ function parsePackReceived(line: string): ArenaLogEvent | null {
   const packNumber = parseInteger(payload.PackNumber);
   const pickNumber = parseInteger(payload.PickNumber);
   const cardIds = parseCardIds(payload.DraftPack);
+  const pickedCardIds = parseCardIds(payload.PickedCards);
 
   if (
     !setCode ||
     packNumber === null ||
     pickNumber === null ||
-    cardIds === null
+    cardIds === null ||
+    pickedCardIds === null
   ) {
     return null;
   }
@@ -68,6 +70,7 @@ function parsePackReceived(line: string): ArenaLogEvent | null {
     packNumber: packNumber + 1,
     pickNumber: pickNumber + 1,
     cardIds,
+    pickedCardIds,
   };
 }
 

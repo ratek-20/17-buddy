@@ -38,6 +38,7 @@ describe('RatingsRepository', () => {
         packNumber: 1,
         pickNumber: 1,
         cardIds: [200, 100],
+        pickedCardIds: [100],
       }),
     ).toEqual({
       setCode: 'TST',
@@ -62,6 +63,18 @@ describe('RatingsRepository', () => {
           },
         },
       ],
+      pickedCards: [
+        {
+          id: 100,
+          name: 'First card',
+          gihwr: 0.6,
+          grade: 'B+',
+          deckRatings: {
+            WU: { gihwr: 0.62, grade: 'A-' },
+            WUG: { gihwr: 0.61, grade: 'B+' },
+          },
+        },
+      ],
     });
   });
 
@@ -75,6 +88,7 @@ describe('RatingsRepository', () => {
         packNumber: 2,
         pickNumber: 3,
         cardIds: [999999],
+        pickedCardIds: [],
       }).cards,
     ).toEqual([
       {

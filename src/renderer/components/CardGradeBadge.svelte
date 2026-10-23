@@ -2,11 +2,13 @@
   import type { RatedCard } from '../../model/draft';
 
   export let card: RatedCard;
+  export let deckRow = false;
 
   $: gradeClass = `grade-${card.grade?.charAt(0).toLowerCase() ?? 'none'}`;
 </script>
 
 <span
+  class:deck-row={deckRow}
   class="grade {gradeClass}"
   aria-label={`${card.name}: grade ${card.grade ?? 'unrated'}`}
 >
@@ -28,6 +30,14 @@
     font-size: clamp(0.6rem, calc(0.95rem * var(--arena-scale, 1)), 1.9rem);
     font-weight: 900;
     line-height: 1;
+  }
+
+  .grade.deck-row {
+    box-sizing: border-box;
+    width: calc(50px * var(--arena-scale, 1));
+    height: calc(44.18px * var(--arena-scale, 1));
+    border-radius: calc(0.45rem * var(--arena-scale, 1));
+    font-size: calc(0.9rem * var(--arena-scale, 1));
   }
 
   .grade-a {

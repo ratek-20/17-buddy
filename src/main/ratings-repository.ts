@@ -1,7 +1,12 @@
 import dftCardRatings from '../../card-data/DFT.json';
 import eclCardRatings from '../../card-data/ECL.json';
 import fraCardRatings from '../../card-data/FRA.json';
-import type { CardRating, PackReceived, RatedPack } from '../model/draft';
+import type {
+  CardRating,
+  PackReceived,
+  RatedCard,
+  RatedPack,
+} from '../model/draft';
 
 type CardRatingDataset = Record<string, CardRating>;
 
@@ -49,21 +54,24 @@ export class RatingsRepository {
       packNumber: pack.packNumber,
       pickNumber: pack.pickNumber,
       availableDecks: this.getAvailableDecks(pack.setCode),
-      cards: pack.cardIds.map((id) => {
-        const rating = this.getRating(pack.setCode, id);
+      cards: pack.cardIds.map((id) => this.rateCard(pack.setCode, id)),
+      pickedCards: pack.pickedCardIds.map((id) =>
+        this.rateCard(pack.setCode, id),
+      ),
+    };
+  }
 
-        if (rating) {
-          return { id, ...rating };
-        }
+  private rateCard(setCode: string, id: number): RatedCard {
+    const rating = this.getRating(setCode, id);
 
-        return {
+    return rating
+      ? { id, ...rating }
+      : {
           id,
           name: 'Unknown card',
           gihwr: null,
           grade: null,
         };
-      }),
-    };
   }
 }
 

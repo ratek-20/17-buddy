@@ -1,62 +1,25 @@
 <script lang="ts">
-  import { onDestroy } from 'svelte';
-
   const ALL_DECKS = 'ALL';
-  const INTERACTION_PADDING = 32;
 
   export let options: string[];
   export let selected: string;
+  export let isOpen: boolean;
+  export let onToggle: () => void;
   export let onSelect: (deck: string) => void;
-
-  let isOpen = false;
-  let interactionIsEnabled = false;
-  let selectorElement: HTMLDivElement | undefined;
-
-  function handleMouseMove(event: MouseEvent): void {
-    if (!selectorElement) {
-      return;
-    }
-
-    const bounds = selectorElement.getBoundingClientRect();
-    const shouldEnableInteraction =
-      event.clientX >= bounds.left - INTERACTION_PADDING &&
-      event.clientX <= bounds.right + INTERACTION_PADDING &&
-      event.clientY >= bounds.top - INTERACTION_PADDING &&
-      event.clientY <= bounds.bottom + INTERACTION_PADDING;
-
-    if (shouldEnableInteraction === interactionIsEnabled) {
-      return;
-    }
-
-    interactionIsEnabled = shouldEnableInteraction;
-    window.draftOverlay.setInteractive(shouldEnableInteraction);
-    if (!shouldEnableInteraction) {
-      isOpen = false;
-    }
-  }
 
   function select(deck: string): void {
     onSelect(deck);
-    isOpen = false;
   }
-
-  onDestroy(() => {
-    if (interactionIsEnabled) {
-      window.draftOverlay.setInteractive(false);
-    }
-  });
 </script>
 
-<svelte:window onmousemove={handleMouseMove} />
-
-<div bind:this={selectorElement} class="deck-selector">
+<div class="deck-selector">
   <button
     type="button"
     class="selector-button"
     aria-controls="deck-options"
     aria-expanded={isOpen}
     aria-haspopup="listbox"
-    onclick={() => (isOpen = !isOpen)}
+    onclick={onToggle}
   >
     <span class="label">Deck</span>
     <strong>{selected === ALL_DECKS ? 'All' : selected}</strong>
@@ -82,15 +45,10 @@
 
 <style>
   .deck-selector {
-    position: fixed;
-    top: 12%;
-    left: 1rem;
-    z-index: 10;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     gap: 0.35rem;
-    pointer-events: auto;
   }
 
   button {

@@ -23,6 +23,7 @@ describe('parseArenaLogLine', () => {
       PackNumber: 0,
       PickNumber: '1',
       DraftPack: [106255, '106327', 106240],
+      PickedCards: [106325, '106371'],
     });
     const line = JSON.stringify({
       CurrentModule: 'BotDraft',
@@ -35,6 +36,7 @@ describe('parseArenaLogLine', () => {
       packNumber: 1,
       pickNumber: 2,
       cardIds: [106255, 106327, 106240],
+      pickedCardIds: [106325, 106371],
     });
   });
 
