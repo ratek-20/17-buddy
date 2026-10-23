@@ -22,14 +22,14 @@
     aria-expanded={isOpen}
     onclick={onToggle}
   >
-    <span>Deck state</span>
+    <span>My Picks</span>
     <strong>{cards.length}</strong>
     <span class:open={isOpen} class="arrow" aria-hidden="true">▾</span>
   </button>
 
   {#if isOpen}
     <div id="deck-state-options" class="editor" aria-label="Main deck and sideboard">
-      <p>Tell 17-buddy where you moved each card.</p>
+      <p>Move cards between your deck and sideboard.</p>
       {#if groups.length === 0}
         <p class="empty">Your picks will appear here.</p>
       {:else}
