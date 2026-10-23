@@ -10602,6 +10602,186 @@
       }
     }
   },
+  "95074": {
+    "name": "Plains",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "W",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "95075": {
+    "name": "Plains",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "W",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "95076": {
+    "name": "Plains",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "W",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "95077": {
+    "name": "Island",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "U",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "95078": {
+    "name": "Island",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "U",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "95079": {
+    "name": "Island",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "U",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "95080": {
+    "name": "Swamp",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "B",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "95081": {
+    "name": "Swamp",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "B",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "95082": {
+    "name": "Swamp",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "B",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "95083": {
+    "name": "Mountain",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "R",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "95084": {
+    "name": "Mountain",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "R",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "95085": {
+    "name": "Mountain",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "R",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "95086": {
+    "name": "Forest",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "G",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "95087": {
+    "name": "Forest",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "G",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "95088": {
+    "name": "Forest",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "G",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "95089": {
+    "name": "Plains",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "W",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "95090": {
+    "name": "Island",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "U",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "95091": {
+    "name": "Swamp",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "B",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "95092": {
+    "name": "Mountain",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "R",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "95093": {
+    "name": "Forest",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "G",
+    "manaValue": 0,
+    "isLand": true
+  },
   "95106": {
     "name": "Cavalier of Dawn",
     "gihwr": 0.611,

@@ -38,6 +38,13 @@ class CardDisplayMetadata:
     is_land: bool
 
 
+@dataclass(frozen=True)
+class BasicLand:
+    arena_id: int
+    name: str
+    metadata: CardDisplayMetadata
+
+
 @dataclass
 class CardStats:
     games_in_hand: int = 0
@@ -207,6 +214,89 @@ def load_public_card_metadata(
             metadata.setdefault(name, card_metadata)
 
     return metadata
+
+
+def load_public_basic_lands(
+    path: Path, expansions: Sequence[str]
+) -> tuple[BasicLand, ...]:
+    requested_expansions = {
+        expansion.strip().upper()
+        for expansion in expansions
+        if expansion.strip()
+    }
+    if not requested_expansions:
+        raise ValueError("At least one card expansion is required")
+
+    basic_lands: list[BasicLand] = []
+    with path.open(newline="", encoding="utf-8-sig") as csv_file:
+        reader = csv.DictReader(csv_file)
+        required_columns = {
+            "id",
+            "expansion",
+            "name",
+            "rarity",
+            "color_identity",
+            "mana_value",
+            "types",
+            "is_booster",
+        }
+        missing_columns = required_columns - set(reader.fieldnames or ())
+        if missing_columns:
+            missing = ", ".join(sorted(missing_columns))
+            raise ValueError(f"Missing required card-list columns: {missing}")
+
+        for row_number, row in enumerate(reader, start=2):
+            if (
+                row["expansion"].upper() not in requested_expansions
+                or row["is_booster"] != "True"
+                or row["rarity"].lower() != "basic"
+            ):
+                continue
+
+            try:
+                arena_id = int(row["id"])
+                mana_value = int(row["mana_value"])
+            except ValueError as error:
+                raise ValueError(
+                    f"Invalid basic-land metadata on card-list row {row_number}"
+                ) from error
+
+            basic_lands.append(
+                BasicLand(
+                    arena_id=arena_id,
+                    name=row["name"].strip(),
+                    metadata=CardDisplayMetadata(
+                        rarity="basic",
+                        color=row["color_identity"].upper(),
+                        mana_value=mana_value,
+                        is_land=True,
+                    ),
+                )
+            )
+
+    return tuple(sorted(basic_lands, key=lambda card: card.arena_id))
+
+
+def add_unrated_basic_lands(
+    output: dict[str, dict[str, object]], basic_lands: Sequence[BasicLand]
+) -> dict[str, dict[str, object]]:
+    enriched_output = dict(output)
+    for basic_land in basic_lands:
+        metadata = basic_land.metadata
+        enriched_output.setdefault(
+            str(basic_land.arena_id),
+            {
+                "name": basic_land.name,
+                "gihwr": None,
+                "grade": None,
+                "rarity": metadata.rarity,
+                "color": metadata.color,
+                "manaValue": metadata.mana_value,
+                "isLand": metadata.is_land,
+            },
+        )
+
+    return dict(sorted(enriched_output.items(), key=lambda item: int(item[0])))
 
 
 def find_card_columns(header: Sequence[str]) -> list[CardColumns]:
@@ -455,8 +545,14 @@ def main() -> None:
     card_metadata = load_public_card_metadata(
         args.card_list_path, args.card_expansions
     )
+    basic_lands = load_public_basic_lands(
+        args.card_list_path, args.card_expansions
+    )
 
-    missing_ids = sorted(set(collected.overall) - set(available_card_ids))
+    basic_land_names = {card.name for card in basic_lands}
+    missing_ids = sorted(
+        set(collected.overall) - set(available_card_ids) - basic_land_names
+    )
     card_ids = {
         name: available_card_ids[name]
         for name in collected.overall
@@ -469,6 +565,7 @@ def main() -> None:
         card_metadata,
         collected.by_deck,
     )
+    output = add_unrated_basic_lands(output, basic_lands)
 
     args.output_path.parent.mkdir(parents=True, exist_ok=True)
     with args.output_path.open("w", encoding="utf-8") as output_file:

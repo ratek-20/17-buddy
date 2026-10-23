@@ -7847,6 +7847,51 @@
       }
     }
   },
+  "98591": {
+    "name": "Plains",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "W",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "98592": {
+    "name": "Island",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "U",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "98593": {
+    "name": "Swamp",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "B",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "98594": {
+    "name": "Mountain",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "R",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "98595": {
+    "name": "Forest",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "G",
+    "manaValue": 0,
+    "isLand": true
+  },
   "98870": {
     "name": "Idyllic Tutor",
     "gihwr": null,
@@ -8026,5 +8071,95 @@
     "color": "",
     "manaValue": 3,
     "isLand": false
+  },
+  "101449": {
+    "name": "Plains",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "W",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "101450": {
+    "name": "Island",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "U",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "101451": {
+    "name": "Swamp",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "B",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "101452": {
+    "name": "Mountain",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "R",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "101453": {
+    "name": "Forest",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "G",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "101454": {
+    "name": "Plains",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "W",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "101455": {
+    "name": "Island",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "U",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "101456": {
+    "name": "Swamp",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "B",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "101457": {
+    "name": "Mountain",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "R",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "101458": {
+    "name": "Forest",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "G",
+    "manaValue": 0,
+    "isLand": true
   }
 }

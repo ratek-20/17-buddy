@@ -15,8 +15,10 @@ if __package__:
         DEFAULT_MIN_GIH_OBSERVATIONS,
         PUBLIC_CARD_LIST_URL,
         CardDisplayMetadata,
+        add_unrated_basic_lands,
         grade_for,
         load_public_card_ids,
+        load_public_basic_lands,
         load_public_card_metadata,
     )
 else:
@@ -24,8 +26,10 @@ else:
         DEFAULT_MIN_GIH_OBSERVATIONS,
         PUBLIC_CARD_LIST_URL,
         CardDisplayMetadata,
+        add_unrated_basic_lands,
         grade_for,
         load_public_card_ids,
+        load_public_basic_lands,
         load_public_card_metadata,
     )
 
@@ -240,6 +244,9 @@ def main() -> None:
     card_metadata = load_public_card_metadata(
         args.card_list_path, args.card_expansions
     )
+    basic_lands = load_public_basic_lands(
+        args.card_list_path, args.card_expansions
+    )
     missing_ids = sorted(set(stats) - set(available_card_ids))
 
     if missing_ids:
@@ -251,6 +258,7 @@ def main() -> None:
     output, mean, standard_deviation = build_ui_output(
         card_ids, stats, args.min_gih_observations, card_metadata
     )
+    output = add_unrated_basic_lands(output, basic_lands)
 
     args.output_path.parent.mkdir(parents=True, exist_ok=True)
     with args.output_path.open("w", encoding="utf-8") as output_file:

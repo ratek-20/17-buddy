@@ -2519,6 +2519,231 @@
     "manaValue": 4,
     "isLand": false
   },
+  "106526": {
+    "name": "Plains",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "W",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106527": {
+    "name": "Plains",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "W",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106528": {
+    "name": "Island",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "U",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106529": {
+    "name": "Island",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "U",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106530": {
+    "name": "Swamp",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "B",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106531": {
+    "name": "Swamp",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "B",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106532": {
+    "name": "Mountain",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "R",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106533": {
+    "name": "Mountain",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "R",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106534": {
+    "name": "Forest",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "G",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106535": {
+    "name": "Forest",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "G",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106536": {
+    "name": "Plains",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "W",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106537": {
+    "name": "Plains",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "W",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106538": {
+    "name": "Plains",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "W",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106539": {
+    "name": "Island",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "U",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106540": {
+    "name": "Island",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "U",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106541": {
+    "name": "Island",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "U",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106542": {
+    "name": "Swamp",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "B",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106543": {
+    "name": "Swamp",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "B",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106544": {
+    "name": "Swamp",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "B",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106545": {
+    "name": "Mountain",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "R",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106546": {
+    "name": "Mountain",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "R",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106547": {
+    "name": "Mountain",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "R",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106548": {
+    "name": "Forest",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "G",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106549": {
+    "name": "Forest",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "G",
+    "manaValue": 0,
+    "isLand": true
+  },
+  "106550": {
+    "name": "Forest",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "G",
+    "manaValue": 0,
+    "isLand": true
+  },
   "106566": {
     "name": "Eye of Ugin",
     "gihwr": null,

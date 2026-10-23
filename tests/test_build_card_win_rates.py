@@ -4,8 +4,10 @@ import unittest
 from pathlib import Path
 
 from scripts.build_card_win_rates import (
+    BasicLand,
     CardDisplayMetadata,
     CardStats,
+    add_unrated_basic_lands,
     build_output,
     collect_stats,
     find_card_columns,
@@ -114,6 +116,36 @@ class GradeTests(unittest.TestCase):
 
 
 class BuildOutputTests(unittest.TestCase):
+    def test_adds_basic_lands_without_assigning_a_rating(self) -> None:
+        output = {
+            "100": {"name": "Spell", "gihwr": 0.5, "grade": "C"}
+        }
+        basic_lands = (
+            BasicLand(
+                arena_id=50,
+                name="Island",
+                metadata=CardDisplayMetadata(
+                    rarity="basic", color="U", mana_value=0, is_land=True
+                ),
+            ),
+        )
+
+        enriched = add_unrated_basic_lands(output, basic_lands)
+
+        self.assertEqual(list(enriched), ["50", "100"])
+        self.assertEqual(
+            enriched["50"],
+            {
+                "name": "Island",
+                "gihwr": None,
+                "grade": None,
+                "rarity": "basic",
+                "color": "U",
+                "manaValue": 0,
+                "isLand": True,
+            },
+        )
+
     def test_includes_display_metadata_used_by_the_overlay(self) -> None:
         card_ids = {"Alpha": (100,)}
         stats = {"Alpha": CardStats(games_in_hand=500, wins_in_hand=250)}
