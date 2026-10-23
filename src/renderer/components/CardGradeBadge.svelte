@@ -31,23 +31,23 @@
   }
 
   .grade-a {
-    background: #62d88d;
+    background: #55c878;
   }
 
   .grade-b {
-    background: #72b7ff;
+    background: #a8cf63;
   }
 
   .grade-c {
-    background: #f2d06b;
+    background: #e9c95f;
   }
 
   .grade-d {
-    background: #f4a261;
+    background: #ed9a4d;
   }
 
   .grade-f {
-    background: #ef6b73;
+    background: #e56b3f;
   }
 
   .grade-none {
