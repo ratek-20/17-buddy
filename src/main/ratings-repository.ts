@@ -1,3 +1,4 @@
+import blbCardRatings from '../../card-data/BLB.json';
 import dftCardRatings from '../../card-data/DFT.json';
 import eclCardRatings from '../../card-data/ECL.json';
 import fraCardRatings from '../../card-data/FRA.json';
@@ -13,6 +14,7 @@ type CardRatingDataset = Record<string, CardRating>;
 const COLOR_ORDER = 'WUBRG';
 
 const RATINGS_BY_SET: Record<string, CardRatingDataset> = {
+  BLB: blbCardRatings,
   DFT: dftCardRatings,
   ECL: eclCardRatings,
   FRA: fraCardRatings,

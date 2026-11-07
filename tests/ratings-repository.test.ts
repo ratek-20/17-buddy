@@ -17,6 +17,17 @@ describe('RatingsRepository', () => {
     },
   });
 
+  it('loads the embedded Bloomburrow ratings', () => {
+    const embeddedRepository = new RatingsRepository();
+
+    expect(embeddedRepository.hasSet('BLB')).toBe(true);
+    expect(embeddedRepository.getRating('BLB', 91648)).toMatchObject({
+      name: 'Season of Loss',
+      gihwr: 0.657,
+      grade: 'A+',
+    });
+  });
+
   it('finds an embedded rating by set and Arena card ID', () => {
     expect(repository.hasSet('TST')).toBe(true);
     expect(repository.getRating('TST', 100)).toEqual({
