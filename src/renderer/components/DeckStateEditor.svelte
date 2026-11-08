@@ -12,6 +12,17 @@
   export let onMove: (cardId: number, destination: 'main' | 'sideboard') => void;
 
   $: groups = groupPickedCards(cards);
+
+  function displayManaCost(card: RatedCard): string {
+    if (card.isLand) {
+      return '';
+    }
+    return card.manaCost !== undefined
+      ? card.manaCost.replace(/\{([^}]+)\}/g, (_match, symbol: string) =>
+          symbol.includes('/') ? `(${symbol})` : symbol,
+        )
+      : String(card.manaValue ?? '—');
+  }
 </script>
 
 <div class="deck-state">
@@ -38,8 +49,19 @@
             {@const sideboardCount = sideboardCounts[group.card.id] ?? 0}
             {@const mainDeckCount = group.count - sideboardCount}
             <div class="card-row">
-              <span class="card-name" title={group.card.name}>
+              <span
+                class="card-name"
+                class:multicolor={(group.card.color?.length ?? 0) > 1}
+                data-color={group.card.color ?? ''}
+                title={group.card.name}
+              >
                 {group.card.name}{group.count > 1 ? ` ×${group.count}` : ''}
+              </span>
+              <span
+                class="mana-cost"
+                title={group.card.manaCost === undefined ? 'Mana value' : 'Mana cost'}
+              >
+                {displayManaCost(group.card)}
               </span>
               <button
                 type="button"
@@ -142,16 +164,48 @@
 
   .card-row {
     display: grid;
-    grid-template-columns: minmax(0, 1fr) 3.3rem 3.3rem;
+    grid-template-columns: minmax(0, 1fr) max-content 3.3rem 3.3rem;
     align-items: center;
     gap: 0.3rem;
   }
 
   .card-name {
     overflow: hidden;
+    color: #c4cbd3;
     font-size: 0.75rem;
     font-weight: 700;
     text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .card-name[data-color='W'] {
+    color: #f5e8bd;
+  }
+
+  .card-name[data-color='U'] {
+    color: #8ecbff;
+  }
+
+  .card-name[data-color='B'] {
+    color: #c4b2d5;
+  }
+
+  .card-name[data-color='R'] {
+    color: #ff9b8e;
+  }
+
+  .card-name[data-color='G'] {
+    color: #9cd6a4;
+  }
+
+  .card-name.multicolor {
+    color: #f2d06b;
+  }
+
+  .mana-cost {
+    color: #e3e6eb;
+    font-size: 0.75rem;
+    font-weight: 700;
     white-space: nowrap;
   }
 

@@ -52,7 +52,8 @@
         "gihwr": 0.474,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{2}{W}"
   },
   "91538": {
     "name": "Beza, the Bounding Spring",
@@ -79,7 +80,8 @@
         "gihwr": 0.641,
         "grade": "A+"
       }
-    }
+    },
+    "manaCost": "{2}{W}{W}"
   },
   "91539": {
     "name": "Brave-Kin Duo",
@@ -114,7 +116,8 @@
         "gihwr": 0.488,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{W}"
   },
   "91540": {
     "name": "Brightblade Stoat",
@@ -149,7 +152,8 @@
         "gihwr": 0.559,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "91541": {
     "name": "Builder's Talent",
@@ -184,7 +188,8 @@
         "gihwr": 0.594,
         "grade": "A"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "91542": {
     "name": "Caretaker's Talent",
@@ -211,7 +216,8 @@
         "gihwr": 0.586,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{2}{W}"
   },
   "91543": {
     "name": "Carrot Cake",
@@ -258,7 +264,8 @@
         "gihwr": 0.47,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "91544": {
     "name": "Crumb and Get It",
@@ -301,7 +308,8 @@
         "gihwr": 0.493,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{W}"
   },
   "91545": {
     "name": "Dawn's Truce",
@@ -324,7 +332,8 @@
         "gihwr": 0.483,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "91546": {
     "name": "Dewdrop Cure",
@@ -347,7 +356,8 @@
         "gihwr": 0.522,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{2}{W}"
   },
   "91547": {
     "name": "Driftgloom Coyote",
@@ -382,7 +392,8 @@
         "gihwr": 0.564,
         "grade": "A-"
       }
-    }
+    },
+    "manaCost": "{3}{W}{W}"
   },
   "91548": {
     "name": "Essence Channeler",
@@ -409,7 +420,8 @@
         "gihwr": 0.535,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "91549": {
     "name": "Feather of Flight",
@@ -440,7 +452,8 @@
         "gihwr": 0.573,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "91550": {
     "name": "Flowerfoot Swordmaster",
@@ -471,7 +484,8 @@
         "gihwr": 0.546,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{W}"
   },
   "91551": {
     "name": "Harvestrite Host",
@@ -510,7 +524,8 @@
         "gihwr": 0.528,
         "grade": "A+"
       }
-    }
+    },
+    "manaCost": "{2}{W}"
   },
   "91552": {
     "name": "Hop to It",
@@ -549,7 +564,8 @@
         "gihwr": 0.518,
         "grade": "A"
       }
-    }
+    },
+    "manaCost": "{2}{W}"
   },
   "91553": {
     "name": "Intrepid Rabbit",
@@ -592,7 +608,8 @@
         "gihwr": 0.518,
         "grade": "A"
       }
-    }
+    },
+    "manaCost": "{2}{W}"
   },
   "91554": {
     "name": "Jackdaw Savior",
@@ -619,7 +636,8 @@
         "gihwr": 0.582,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{2}{W}"
   },
   "91555": {
     "name": "Jolly Gerbils",
@@ -650,7 +668,8 @@
         "gihwr": 0.565,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "91556": {
     "name": "Lifecreed Duo",
@@ -693,7 +712,8 @@
         "gihwr": 0.496,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "91557": {
     "name": "Mabel's Mettle",
@@ -724,7 +744,8 @@
         "gihwr": 0.538,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "91558": {
     "name": "Mouse Trapper",
@@ -751,7 +772,8 @@
         "gihwr": 0.523,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{2}{W}"
   },
   "91559": {
     "name": "Nettle Guard",
@@ -794,7 +816,8 @@
         "gihwr": 0.479,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "91560": {
     "name": "Parting Gust",
@@ -825,7 +848,8 @@
         "gihwr": 0.534,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{W}{W}"
   },
   "91561": {
     "name": "Pileated Provisioner",
@@ -860,7 +884,8 @@
         "gihwr": 0.498,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{4}{W}"
   },
   "91562": {
     "name": "Rabbit Response",
@@ -891,7 +916,8 @@
         "gihwr": 0.555,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{2}{W}{W}"
   },
   "91563": {
     "name": "Repel Calamity",
@@ -922,7 +948,8 @@
         "gihwr": 0.58,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "91564": {
     "name": "Salvation Swan",
@@ -953,7 +980,8 @@
         "gihwr": 0.566,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{3}{W}"
   },
   "91565": {
     "name": "Season of the Burrow",
@@ -980,7 +1008,8 @@
         "gihwr": 0.639,
         "grade": "A+"
       }
-    }
+    },
+    "manaCost": "{3}{W}{W}"
   },
   "91566": {
     "name": "Seasoned Warrenguard",
@@ -1011,7 +1040,8 @@
         "gihwr": 0.578,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{W}"
   },
   "91567": {
     "name": "Shrike Force",
@@ -1042,7 +1072,8 @@
         "gihwr": 0.563,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{2}{W}"
   },
   "91568": {
     "name": "Sonar Strike",
@@ -1089,7 +1120,8 @@
         "gihwr": 0.485,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "91569": {
     "name": "Star Charter",
@@ -1120,7 +1152,8 @@
         "gihwr": 0.458,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{3}{W}"
   },
   "91570": {
     "name": "Starfall Invocation",
@@ -1147,7 +1180,8 @@
         "gihwr": 0.565,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{3}{W}{W}"
   },
   "91571": {
     "name": "Thistledown Players",
@@ -1182,7 +1216,8 @@
         "gihwr": 0.459,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{2}{W}"
   },
   "91572": {
     "name": "Valley Questcaller",
@@ -1213,7 +1248,8 @@
         "gihwr": 0.645,
         "grade": "A+"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "91573": {
     "name": "Warren Elder",
@@ -1256,7 +1292,8 @@
         "gihwr": 0.492,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "91574": {
     "name": "Warren Warleader",
@@ -1283,7 +1320,8 @@
         "gihwr": 0.645,
         "grade": "A+"
       }
-    }
+    },
+    "manaCost": "{2}{W}{W}"
   },
   "91575": {
     "name": "Wax-Wane Witness",
@@ -1318,7 +1356,8 @@
         "gihwr": 0.519,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{3}{W}"
   },
   "91576": {
     "name": "Whiskervale Forerunner",
@@ -1345,7 +1384,8 @@
         "gihwr": 0.563,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{3}{W}"
   },
   "91577": {
     "name": "Azure Beastbinder",
@@ -1376,7 +1416,8 @@
         "gihwr": 0.574,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "91578": {
     "name": "Bellowing Crier",
@@ -1411,7 +1452,8 @@
         "gihwr": 0.557,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "91579": {
     "name": "Calamitous Tide",
@@ -1442,7 +1484,8 @@
         "gihwr": 0.546,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{4}{U}{U}"
   },
   "91580": {
     "name": "Daring Waverider",
@@ -1473,7 +1516,8 @@
         "gihwr": 0.571,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{4}{U}{U}"
   },
   "91581": {
     "name": "Dazzling Denial",
@@ -1516,7 +1560,8 @@
         "gihwr": 0.529,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "91582": {
     "name": "Dire Downdraft",
@@ -1555,7 +1600,8 @@
         "gihwr": 0.576,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{3}{U}"
   },
   "91583": {
     "name": "Dour Port-Mage",
@@ -1586,7 +1632,8 @@
         "gihwr": 0.544,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "91584": {
     "name": "Eddymurk Crab",
@@ -1613,7 +1660,8 @@
         "gihwr": 0.552,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{5}{U}{U}"
   },
   "91585": {
     "name": "Eluge, the Shoreless Sea",
@@ -1636,7 +1684,8 @@
         "gihwr": 0.559,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{U}{U}{U}"
   },
   "91586": {
     "name": "Finch Formation",
@@ -1667,7 +1716,8 @@
         "gihwr": 0.507,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{2}{U}"
   },
   "91587": {
     "name": "Gossip's Talent",
@@ -1694,7 +1744,8 @@
         "gihwr": 0.511,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "91588": {
     "name": "Into the Flood Maw",
@@ -1721,7 +1772,8 @@
         "gihwr": 0.563,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{U}"
   },
   "91589": {
     "name": "Kitnap",
@@ -1752,7 +1804,8 @@
         "gihwr": 0.56,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{2}{U}{U}"
   },
   "91590": {
     "name": "Kitsa, Otterball Elite",
@@ -1779,7 +1832,8 @@
         "gihwr": 0.591,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "91591": {
     "name": "Knightfisher",
@@ -1810,7 +1864,8 @@
         "gihwr": 0.521,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{3}{U}{U}"
   },
   "91592": {
     "name": "Lightshell Duo",
@@ -1845,7 +1900,8 @@
         "gihwr": 0.55,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{3}{U}"
   },
   "91593": {
     "name": "Long River Lurker",
@@ -1880,7 +1936,8 @@
         "gihwr": 0.572,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{2}{U}"
   },
   "91594": {
     "name": "Long River's Pull",
@@ -1907,7 +1964,8 @@
         "gihwr": 0.548,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{U}{U}"
   },
   "91595": {
     "name": "Mind Spiral",
@@ -1938,7 +1996,8 @@
         "gihwr": 0.555,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{4}{U}"
   },
   "91596": {
     "name": "Mindwhisker",
@@ -1969,7 +2028,8 @@
         "gihwr": 0.566,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{2}{U}"
   },
   "91597": {
     "name": "Mockingbird",
@@ -2000,7 +2060,8 @@
         "gihwr": 0.538,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{X}{U}"
   },
   "91598": {
     "name": "Nightwhorl Hermit",
@@ -2027,7 +2088,8 @@
         "gihwr": 0.49,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{2}{U}"
   },
   "91599": {
     "name": "Otterball Antics",
@@ -2054,7 +2116,8 @@
         "gihwr": 0.505,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "91600": {
     "name": "Pearl of Wisdom",
@@ -2085,7 +2148,8 @@
         "gihwr": 0.54,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{2}{U}"
   },
   "91601": {
     "name": "Plumecreed Escort",
@@ -2120,7 +2184,8 @@
         "gihwr": 0.566,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "91602": {
     "name": "Portent of Calamity",
@@ -2143,7 +2208,8 @@
         "gihwr": 0.537,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{X}{U}"
   },
   "91603": {
     "name": "Run Away Together",
@@ -2178,7 +2244,8 @@
         "gihwr": 0.524,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "91604": {
     "name": "Season of Weaving",
@@ -2205,7 +2272,8 @@
         "gihwr": 0.629,
         "grade": "A-"
       }
-    }
+    },
+    "manaCost": "{4}{U}{U}"
   },
   "91605": {
     "name": "Shore Up",
@@ -2244,7 +2312,8 @@
         "gihwr": 0.51,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{U}"
   },
   "91606": {
     "name": "Shoreline Looter",
@@ -2283,7 +2352,8 @@
         "gihwr": 0.605,
         "grade": "B+"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "91607": {
     "name": "Skyskipper Duo",
@@ -2318,7 +2388,8 @@
         "gihwr": 0.551,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{4}{U}"
   },
   "91608": {
     "name": "Spellgyre",
@@ -2345,7 +2416,8 @@
         "gihwr": 0.557,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{2}{U}{U}"
   },
   "91609": {
     "name": "Splash Lasher",
@@ -2380,7 +2452,8 @@
         "gihwr": 0.572,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{3}{U}"
   },
   "91610": {
     "name": "Splash Portal",
@@ -2411,7 +2484,8 @@
         "gihwr": 0.532,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{U}"
   },
   "91611": {
     "name": "Stormchaser's Talent",
@@ -2438,7 +2512,8 @@
         "gihwr": 0.58,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{U}"
   },
   "91612": {
     "name": "Sugar Coat",
@@ -2473,7 +2548,8 @@
         "gihwr": 0.55,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{2}{U}"
   },
   "91613": {
     "name": "Thought Shucker",
@@ -2504,7 +2580,8 @@
         "gihwr": 0.561,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "91614": {
     "name": "Thundertrap Trainer",
@@ -2531,7 +2608,8 @@
         "gihwr": 0.59,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "91615": {
     "name": "Valley Floodcaller",
@@ -2558,7 +2636,8 @@
         "gihwr": 0.553,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{2}{U}"
   },
   "91616": {
     "name": "Waterspout Warden",
@@ -2585,7 +2664,8 @@
         "gihwr": 0.53,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{2}{U}"
   },
   "91617": {
     "name": "Wishing Well",
@@ -2600,7 +2680,8 @@
         "gihwr": 0.57,
         "grade": "B+"
       }
-    }
+    },
+    "manaCost": "{3}{U}"
   },
   "91618": {
     "name": "Agate-Blade Assassin",
@@ -2631,7 +2712,8 @@
         "gihwr": 0.518,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{1}{B}"
   },
   "91619": {
     "name": "Bandit's Talent",
@@ -2658,7 +2740,8 @@
         "gihwr": 0.526,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{1}{B}"
   },
   "91620": {
     "name": "Bonebind Orator",
@@ -2701,7 +2784,8 @@
         "gihwr": 0.505,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{1}{B}"
   },
   "91621": {
     "name": "Bonecache Overseer",
@@ -2732,7 +2816,8 @@
         "gihwr": 0.528,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{B}"
   },
   "91622": {
     "name": "Coiling Rebirth",
@@ -2759,7 +2844,8 @@
         "gihwr": 0.554,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{3}{B}{B}"
   },
   "91623": {
     "name": "Consumed by Greed",
@@ -2794,7 +2880,8 @@
         "gihwr": 0.611,
         "grade": "A-"
       }
-    }
+    },
+    "manaCost": "{1}{B}{B}"
   },
   "91624": {
     "name": "Cruelclaw's Heist",
@@ -2821,7 +2908,8 @@
         "gihwr": 0.547,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{B}{B}"
   },
   "91625": {
     "name": "Daggerfang Duo",
@@ -2860,7 +2948,8 @@
         "gihwr": 0.54,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{2}{B}"
   },
   "91626": {
     "name": "Darkstar Augur",
@@ -2887,7 +2976,8 @@
         "gihwr": 0.608,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{2}{B}"
   },
   "91627": {
     "name": "Diresight",
@@ -2918,7 +3008,8 @@
         "gihwr": 0.559,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{2}{B}"
   },
   "91628": {
     "name": "Downwind Ambusher",
@@ -2953,7 +3044,8 @@
         "gihwr": 0.583,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{3}{B}"
   },
   "91629": {
     "name": "Early Winter",
@@ -2988,7 +3080,8 @@
         "gihwr": 0.544,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{4}{B}"
   },
   "91630": {
     "name": "Feed the Cycle",
@@ -3023,7 +3116,8 @@
         "gihwr": 0.6,
         "grade": "B+"
       }
-    }
+    },
+    "manaCost": "{1}{B}"
   },
   "91631": {
     "name": "Fell",
@@ -3058,7 +3152,8 @@
         "gihwr": 0.575,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{B}"
   },
   "91632": {
     "name": "Glidedive Duo",
@@ -3101,7 +3196,8 @@
         "gihwr": 0.548,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{4}{B}"
   },
   "91633": {
     "name": "Hazel's Nocturne",
@@ -3132,7 +3228,8 @@
         "gihwr": 0.563,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{3}{B}"
   },
   "91634": {
     "name": "Huskburster Swarm",
@@ -3163,7 +3260,8 @@
         "gihwr": 0.546,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{7}{B}"
   },
   "91635": {
     "name": "Iridescent Vinelasher",
@@ -3190,7 +3288,8 @@
         "gihwr": 0.583,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{B}"
   },
   "91636": {
     "name": "Maha, Its Feathers Night",
@@ -3217,7 +3316,8 @@
         "gihwr": 0.655,
         "grade": "A+"
       }
-    }
+    },
+    "manaCost": "{3}{B}{B}"
   },
   "91637": {
     "name": "Moonstone Harbinger",
@@ -3244,7 +3344,8 @@
         "gihwr": 0.556,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{2}{B}"
   },
   "91638": {
     "name": "Nocturnal Hunger",
@@ -3299,7 +3400,8 @@
         "gihwr": 0.513,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{2}{B}"
   },
   "91639": {
     "name": "Osteomancer Adept",
@@ -3330,7 +3432,8 @@
         "gihwr": 0.587,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{1}{B}"
   },
   "91640": {
     "name": "Persistent Marshstalker",
@@ -3361,7 +3464,8 @@
         "gihwr": 0.561,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{B}"
   },
   "91641": {
     "name": "Psychic Whorl",
@@ -3388,7 +3492,8 @@
         "gihwr": 0.521,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{2}{B}"
   },
   "91642": {
     "name": "Ravine Raider",
@@ -3415,7 +3520,8 @@
         "gihwr": 0.525,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{B}"
   },
   "91643": {
     "name": "Rottenmouth Viper",
@@ -3446,7 +3552,8 @@
         "gihwr": 0.605,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{5}{B}"
   },
   "91644": {
     "name": "Ruthless Negotiation",
@@ -3477,7 +3584,8 @@
         "gihwr": 0.576,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{B}"
   },
   "91645": {
     "name": "Savor",
@@ -3528,7 +3636,8 @@
         "gihwr": 0.49,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{B}"
   },
   "91646": {
     "name": "Scales of Shale",
@@ -3563,7 +3672,8 @@
         "gihwr": 0.538,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{2}{B}"
   },
   "91647": {
     "name": "Scavenger's Talent",
@@ -3590,7 +3700,8 @@
         "gihwr": 0.582,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{B}"
   },
   "91648": {
     "name": "Season of Loss",
@@ -3617,7 +3728,8 @@
         "gihwr": 0.69,
         "grade": "A+"
       }
-    }
+    },
+    "manaCost": "{3}{B}{B}"
   },
   "91649": {
     "name": "Sinister Monolith",
@@ -3644,7 +3756,8 @@
         "gihwr": 0.501,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{3}{B}"
   },
   "91650": {
     "name": "Stargaze",
@@ -3671,7 +3784,8 @@
         "gihwr": 0.559,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{X}{B}{B}"
   },
   "91651": {
     "name": "Starlit Soothsayer",
@@ -3698,7 +3812,8 @@
         "gihwr": 0.498,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{2}{B}"
   },
   "91652": {
     "name": "Starscape Cleric",
@@ -3725,7 +3840,8 @@
         "gihwr": 0.54,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{1}{B}"
   },
   "91653": {
     "name": "Thornplate Intimidator",
@@ -3760,7 +3876,8 @@
         "gihwr": 0.538,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{3}{B}"
   },
   "91654": {
     "name": "Thought-Stalker Warlock",
@@ -3795,7 +3912,8 @@
         "gihwr": 0.605,
         "grade": "B+"
       }
-    }
+    },
+    "manaCost": "{2}{B}"
   },
   "91655": {
     "name": "Valley Rotcaller",
@@ -3822,7 +3940,8 @@
         "gihwr": 0.583,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{B}"
   },
   "91656": {
     "name": "Wick, the Whorled Mind",
@@ -3849,7 +3968,8 @@
         "gihwr": 0.55,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{3}{B}"
   },
   "91657": {
     "name": "Wick's Patrol",
@@ -3884,7 +4004,8 @@
         "gihwr": 0.61,
         "grade": "A-"
       }
-    }
+    },
+    "manaCost": "{4}{B}{B}"
   },
   "91658": {
     "name": "Agate Assault",
@@ -3927,7 +4048,8 @@
         "gihwr": 0.505,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{2}{R}"
   },
   "91659": {
     "name": "Alania's Pathmaker",
@@ -3966,7 +4088,8 @@
         "gihwr": 0.456,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{3}{R}"
   },
   "91660": {
     "name": "Artist's Talent",
@@ -3981,7 +4104,8 @@
         "gihwr": 0.461,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "91661": {
     "name": "Blacksmith's Talent",
@@ -4008,7 +4132,8 @@
         "gihwr": 0.553,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{R}"
   },
   "91662": {
     "name": "Blooming Blast",
@@ -4035,7 +4160,8 @@
         "gihwr": 0.54,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "91663": {
     "name": "Brambleguard Captain",
@@ -4062,7 +4188,8 @@
         "gihwr": 0.54,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{3}{R}"
   },
   "91664": {
     "name": "Brazen Collector",
@@ -4089,7 +4216,8 @@
         "gihwr": 0.542,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "91665": {
     "name": "Byway Barterer",
@@ -4116,7 +4244,8 @@
         "gihwr": 0.571,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{2}{R}"
   },
   "91666": {
     "name": "Coruscation Mage",
@@ -4143,7 +4272,8 @@
         "gihwr": 0.521,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "91667": {
     "name": "Conduct Electricity",
@@ -4170,7 +4300,8 @@
         "gihwr": 0.54,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{4}{R}"
   },
   "91668": {
     "name": "Emberheart Challenger",
@@ -4197,7 +4328,8 @@
         "gihwr": 0.577,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "91669": {
     "name": "Festival of Embers",
@@ -4212,7 +4344,8 @@
         "gihwr": 0.489,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{4}{R}"
   },
   "91670": {
     "name": "Flamecache Gecko",
@@ -4239,7 +4372,8 @@
         "gihwr": 0.551,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "91671": {
     "name": "Dragonhawk, Fate's Tempest",
@@ -4266,7 +4400,8 @@
         "gihwr": 0.643,
         "grade": "A+"
       }
-    }
+    },
+    "manaCost": "{3}{R}{R}"
   },
   "91672": {
     "name": "Frilled Sparkshooter",
@@ -4293,7 +4428,8 @@
         "gihwr": 0.504,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{3}{R}"
   },
   "91673": {
     "name": "Harnesser of Storms",
@@ -4320,7 +4456,8 @@
         "gihwr": 0.472,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{2}{R}"
   },
   "91674": {
     "name": "Heartfire Hero",
@@ -4347,7 +4484,8 @@
         "gihwr": 0.568,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{R}"
   },
   "91675": {
     "name": "Hearthborn Battler",
@@ -4374,7 +4512,8 @@
         "gihwr": 0.536,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{2}{R}"
   },
   "91676": {
     "name": "Hired Claw",
@@ -4401,7 +4540,8 @@
         "gihwr": 0.592,
         "grade": "A-"
       }
-    }
+    },
+    "manaCost": "{R}"
   },
   "91677": {
     "name": "Hoarder's Overflow",
@@ -4420,7 +4560,8 @@
         "gihwr": 0.463,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "91678": {
     "name": "Kindlespark Duo",
@@ -4447,7 +4588,8 @@
         "gihwr": 0.471,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{2}{R}"
   },
   "91679": {
     "name": "Manifold Mouse",
@@ -4474,7 +4616,8 @@
         "gihwr": 0.572,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "91680": {
     "name": "Might of the Meek",
@@ -4505,7 +4648,8 @@
         "gihwr": 0.492,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{R}"
   },
   "91681": {
     "name": "Playful Shove",
@@ -4532,7 +4676,8 @@
         "gihwr": 0.524,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "91682": {
     "name": "Quaketusk Boar",
@@ -4559,7 +4704,8 @@
         "gihwr": 0.564,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{3}{R}{R}"
   },
   "91683": {
     "name": "Rabid Gnaw",
@@ -4586,7 +4732,8 @@
         "gihwr": 0.585,
         "grade": "B+"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "91684": {
     "name": "Raccoon Rallier",
@@ -4617,7 +4764,8 @@
         "gihwr": 0.508,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "91685": {
     "name": "Reptilian Recruiter",
@@ -4640,7 +4788,8 @@
         "gihwr": 0.496,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{3}{R}{R}"
   },
   "91686": {
     "name": "Roughshod Duo",
@@ -4679,7 +4828,8 @@
         "gihwr": 0.482,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{2}{R}"
   },
   "91687": {
     "name": "Sazacap's Brew",
@@ -4706,7 +4856,8 @@
         "gihwr": 0.495,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "91688": {
     "name": "Season of the Bold",
@@ -4733,7 +4884,8 @@
         "gihwr": 0.524,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{3}{R}{R}"
   },
   "91689": {
     "name": "Steampath Charger",
@@ -4764,7 +4916,8 @@
         "gihwr": 0.5,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "91690": {
     "name": "Stormsplitter",
@@ -4779,7 +4932,8 @@
         "gihwr": 0.438,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{3}{R}"
   },
   "91691": {
     "name": "Sunspine Lynx",
@@ -4806,7 +4960,8 @@
         "gihwr": 0.516,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{2}{R}{R}"
   },
   "91692": {
     "name": "Take Out the Trash",
@@ -4853,7 +5008,8 @@
         "gihwr": 0.515,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "91693": {
     "name": "Teapot Slinger",
@@ -4880,7 +5036,8 @@
         "gihwr": 0.549,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{3}{R}"
   },
   "91694": {
     "name": "Valley Flamecaller",
@@ -4907,7 +5064,8 @@
         "gihwr": 0.559,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{2}{R}"
   },
   "91695": {
     "name": "War Squeak",
@@ -4934,7 +5092,8 @@
         "gihwr": 0.478,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{R}"
   },
   "91696": {
     "name": "Whiskerquill Scribe",
@@ -4965,7 +5124,8 @@
         "gihwr": 0.504,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "91697": {
     "name": "Wildfire Howl",
@@ -4992,7 +5152,8 @@
         "gihwr": 0.513,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{1}{R}{R}"
   },
   "91698": {
     "name": "Bakersbane Duo",
@@ -5043,7 +5204,8 @@
         "gihwr": 0.53,
         "grade": "A"
       }
-    }
+    },
+    "manaCost": "{1}{G}"
   },
   "91699": {
     "name": "Valley Rally",
@@ -5070,7 +5232,8 @@
         "gihwr": 0.499,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{2}{R}"
   },
   "91700": {
     "name": "Bark-Knuckle Boxer",
@@ -5101,7 +5264,8 @@
         "gihwr": 0.562,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{1}{G}"
   },
   "91701": {
     "name": "Brambleguard Veteran",
@@ -5128,7 +5292,8 @@
         "gihwr": 0.561,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{1}{G}{G}"
   },
   "91702": {
     "name": "Bushy Bodyguard",
@@ -5163,7 +5328,8 @@
         "gihwr": 0.553,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{G}"
   },
   "91703": {
     "name": "Cache Grab",
@@ -5210,7 +5376,8 @@
         "gihwr": 0.489,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{G}"
   },
   "91704": {
     "name": "Clifftop Lookout",
@@ -5245,7 +5412,8 @@
         "gihwr": 0.542,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{2}{G}"
   },
   "91705": {
     "name": "Curious Forager",
@@ -5280,7 +5448,8 @@
         "gihwr": 0.549,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{2}{G}"
   },
   "91706": {
     "name": "Druid of the Spade",
@@ -5311,7 +5480,8 @@
         "gihwr": 0.508,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{2}{G}"
   },
   "91707": {
     "name": "Fecund Greenshell",
@@ -5342,7 +5512,8 @@
         "gihwr": 0.662,
         "grade": "A+"
       }
-    }
+    },
+    "manaCost": "{3}{G}{G}"
   },
   "91708": {
     "name": "For the Common Good",
@@ -5357,7 +5528,8 @@
         "gihwr": 0.463,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{X}{X}{G}"
   },
   "91709": {
     "name": "Galewind Moose",
@@ -5396,7 +5568,8 @@
         "gihwr": 0.572,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{4}{G}{G}"
   },
   "91710": {
     "name": "Hazardroot Herbalist",
@@ -5423,7 +5596,8 @@
         "gihwr": 0.495,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{2}{G}"
   },
   "91711": {
     "name": "Heaped Harvest",
@@ -5470,7 +5644,8 @@
         "gihwr": 0.485,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{2}{G}"
   },
   "91712": {
     "name": "High Stride",
@@ -5497,7 +5672,8 @@
         "gihwr": 0.534,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{G}"
   },
   "91713": {
     "name": "Hivespine Wolverine",
@@ -5528,7 +5704,8 @@
         "gihwr": 0.585,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{3}{G}{G}"
   },
   "91714": {
     "name": "Honored Dreyleader",
@@ -5559,7 +5736,8 @@
         "gihwr": 0.526,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{2}{G}"
   },
   "91715": {
     "name": "Hunter's Talent",
@@ -5598,7 +5776,8 @@
         "gihwr": 0.624,
         "grade": "A"
       }
-    }
+    },
+    "manaCost": "{1}{G}"
   },
   "91716": {
     "name": "Innkeeper's Talent",
@@ -5629,7 +5808,8 @@
         "gihwr": 0.585,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{1}{G}"
   },
   "91717": {
     "name": "Keen-Eyed Curator",
@@ -5656,7 +5836,8 @@
         "gihwr": 0.579,
         "grade": "B+"
       }
-    }
+    },
+    "manaCost": "{G}{G}"
   },
   "91718": {
     "name": "Longstalk Brawl",
@@ -5707,7 +5888,8 @@
         "gihwr": 0.476,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{G}"
   },
   "91719": {
     "name": "Lumra, Bellow of the Woods",
@@ -5734,7 +5916,8 @@
         "gihwr": 0.569,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{4}{G}{G}"
   },
   "91720": {
     "name": "Mistbreath Elder",
@@ -5765,7 +5948,8 @@
         "gihwr": 0.571,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{G}"
   },
   "91721": {
     "name": "Overprotect",
@@ -5804,7 +5988,8 @@
         "gihwr": 0.591,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{1}{G}"
   },
   "91722": {
     "name": "Pawpatch Formation",
@@ -5839,7 +6024,8 @@
         "gihwr": 0.577,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{G}"
   },
   "91723": {
     "name": "Pawpatch Recruit",
@@ -5866,7 +6052,8 @@
         "gihwr": 0.565,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{G}"
   },
   "91724": {
     "name": "Peerless Recycling",
@@ -5893,7 +6080,8 @@
         "gihwr": 0.493,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{1}{G}"
   },
   "91725": {
     "name": "Polliwallop",
@@ -5944,7 +6132,8 @@
         "gihwr": 0.528,
         "grade": "A"
       }
-    }
+    },
+    "manaCost": "{3}{G}"
   },
   "91726": {
     "name": "Rust-Shield Rampager",
@@ -5991,7 +6180,8 @@
         "gihwr": 0.506,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{3}{G}"
   },
   "91727": {
     "name": "Scrapshooter",
@@ -6018,7 +6208,8 @@
         "gihwr": 0.545,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{G}{G}"
   },
   "91728": {
     "name": "Season of Gathering",
@@ -6045,7 +6236,8 @@
         "gihwr": 0.601,
         "grade": "A-"
       }
-    }
+    },
+    "manaCost": "{4}{G}{G}"
   },
   "91729": {
     "name": "Stickytongue Sentinel",
@@ -6088,7 +6280,8 @@
         "gihwr": 0.553,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{2}{G}"
   },
   "91730": {
     "name": "Stocking the Pantry",
@@ -6115,7 +6308,8 @@
         "gihwr": 0.476,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{G}"
   },
   "91731": {
     "name": "Sunshower Druid",
@@ -6150,7 +6344,8 @@
         "gihwr": 0.554,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{G}"
   },
   "91732": {
     "name": "Tender Wildguide",
@@ -6181,7 +6376,8 @@
         "gihwr": 0.614,
         "grade": "A-"
       }
-    }
+    },
+    "manaCost": "{1}{G}"
   },
   "91733": {
     "name": "Thornvault Forager",
@@ -6212,7 +6408,8 @@
         "gihwr": 0.6,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{1}{G}"
   },
   "91734": {
     "name": "Three Tree Rootweaver",
@@ -6267,7 +6464,8 @@
         "gihwr": 0.495,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{1}{G}"
   },
   "91735": {
     "name": "Three Tree Scribe",
@@ -6302,7 +6500,8 @@
         "gihwr": 0.559,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{G}"
   },
   "91736": {
     "name": "Treeguard Duo",
@@ -6349,7 +6548,8 @@
         "gihwr": 0.545,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{3}{G}"
   },
   "91737": {
     "name": "Treetop Sentries",
@@ -6392,7 +6592,8 @@
         "gihwr": 0.578,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{3}{G}"
   },
   "91738": {
     "name": "Valley Mightcaller",
@@ -6419,7 +6620,8 @@
         "gihwr": 0.55,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{G}"
   },
   "91739": {
     "name": "Wear Down",
@@ -6428,7 +6630,8 @@
     "rarity": "uncommon",
     "color": "G",
     "manaValue": 2,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{1}{G}"
   },
   "91740": {
     "name": "Alania, Divergent Storm",
@@ -6443,7 +6646,8 @@
         "gihwr": 0.496,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{3}{U}{R}"
   },
   "91741": {
     "name": "Baylen, the Haymaker",
@@ -6462,7 +6666,8 @@
         "gihwr": 0.481,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{R}{G}{W}"
   },
   "91742": {
     "name": "Burrowguard Mentor",
@@ -6489,7 +6694,8 @@
         "gihwr": 0.501,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{G}{W}"
   },
   "91743": {
     "name": "Camellia, the Seedmiser",
@@ -6512,7 +6718,8 @@
         "gihwr": 0.607,
         "grade": "B+"
       }
-    }
+    },
+    "manaCost": "{1}{B}{G}"
   },
   "91744": {
     "name": "Cindering Cutthroat",
@@ -6555,7 +6762,8 @@
         "gihwr": 0.485,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{2}{B/R}"
   },
   "91745": {
     "name": "Clement, the Worrywort",
@@ -6574,7 +6782,8 @@
         "gihwr": 0.568,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{1}{G}{U}"
   },
   "91746": {
     "name": "Corpseberry Cultivator",
@@ -6621,7 +6830,8 @@
         "gihwr": 0.481,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{1}{B/G}{B/G}"
   },
   "91747": {
     "name": "Dreamdew Entrancer",
@@ -6656,7 +6866,8 @@
         "gihwr": 0.664,
         "grade": "A+"
       }
-    }
+    },
+    "manaCost": "{2}{G}{U}"
   },
   "91748": {
     "name": "Finneas, Ace Archer",
@@ -6671,7 +6882,8 @@
         "gihwr": 0.612,
         "grade": "A-"
       }
-    }
+    },
+    "manaCost": "{G}{W}"
   },
   "91749": {
     "name": "Fireglass Mentor",
@@ -6690,7 +6902,8 @@
         "gihwr": 0.5,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{B}{R}"
   },
   "91750": {
     "name": "Gev, Scaled Scorch",
@@ -6705,7 +6918,8 @@
         "gihwr": 0.627,
         "grade": "A"
       }
-    }
+    },
+    "manaCost": "{B}{R}"
   },
   "91751": {
     "name": "Glarb, Calamity's Augur",
@@ -6732,7 +6946,8 @@
         "gihwr": 0.624,
         "grade": "A"
       }
-    }
+    },
+    "manaCost": "{B}{G}{U}"
   },
   "91752": {
     "name": "Head of the Homestead",
@@ -6791,7 +7006,8 @@
         "gihwr": 0.572,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{3}{G/W}{G/W}"
   },
   "91753": {
     "name": "Helga, Skittish Seer",
@@ -6810,7 +7026,8 @@
         "gihwr": 0.538,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{G}{W}{U}"
   },
   "91754": {
     "name": "Hugs, Grisly Guardian",
@@ -6825,7 +7042,8 @@
         "gihwr": 0.587,
         "grade": "B+"
       }
-    }
+    },
+    "manaCost": "{X}{R}{R}{G}{G}"
   },
   "91755": {
     "name": "The Infamous Cruelclaw",
@@ -6840,7 +7058,8 @@
         "gihwr": 0.563,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{B}{R}"
   },
   "91756": {
     "name": "Junkblade Bruiser",
@@ -6883,7 +7102,8 @@
         "gihwr": 0.489,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{3}{R/G}{R/G}"
   },
   "91757": {
     "name": "Kastral, the Windcrested",
@@ -6918,7 +7138,8 @@
         "gihwr": 0.548,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{3}{W}{U}"
   },
   "91758": {
     "name": "Lilysplash Mentor",
@@ -6949,7 +7170,8 @@
         "gihwr": 0.571,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{2}{G}{U}"
   },
   "91759": {
     "name": "Lunar Convocation",
@@ -6964,7 +7186,8 @@
         "gihwr": 0.539,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{W}{B}"
   },
   "91760": {
     "name": "Mabel, Heir to Cragflame",
@@ -6987,7 +7210,8 @@
         "gihwr": 0.568,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{1}{R}{W}"
   },
   "91761": {
     "name": "Mind Drill Assailant",
@@ -7030,7 +7254,8 @@
         "gihwr": 0.502,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{2}{U/B}{U/B}"
   },
   "91762": {
     "name": "Moonrise Cleric",
@@ -7081,7 +7306,8 @@
         "gihwr": 0.521,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{1}{W/B}{W/B}"
   },
   "91763": {
     "name": "Muerra, Trash Tactician",
@@ -7096,7 +7322,8 @@
         "gihwr": 0.589,
         "grade": "B+"
       }
-    }
+    },
+    "manaCost": "{1}{R}{G}"
   },
   "91764": {
     "name": "Plumecreed Mentor",
@@ -7127,7 +7354,8 @@
         "gihwr": 0.528,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{W}{U}"
   },
   "91765": {
     "name": "Pond Prophet",
@@ -7182,7 +7410,8 @@
         "gihwr": 0.521,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{G/U}{G/U}"
   },
   "91766": {
     "name": "Ral, Crackling Wit",
@@ -7201,7 +7430,8 @@
         "gihwr": 0.567,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{2}{U}{R}"
   },
   "91767": {
     "name": "Seedglaive Mentor",
@@ -7220,7 +7450,8 @@
         "gihwr": 0.468,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{1}{R}{W}"
   },
   "91768": {
     "name": "Seedpod Squire",
@@ -7271,7 +7502,8 @@
         "gihwr": 0.513,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{3}{W/U}"
   },
   "91769": {
     "name": "Starseer Mentor",
@@ -7294,7 +7526,8 @@
         "gihwr": 0.527,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{3}{W}{B}"
   },
   "91770": {
     "name": "Stormcatch Mentor",
@@ -7309,7 +7542,8 @@
         "gihwr": 0.523,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{U}{R}"
   },
   "91771": {
     "name": "Tempest Angler",
@@ -7352,7 +7586,8 @@
         "gihwr": 0.491,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{1}{U/R}{U/R}"
   },
   "91772": {
     "name": "Tidecaller Mentor",
@@ -7371,7 +7606,8 @@
         "gihwr": 0.557,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{U}{B}"
   },
   "91773": {
     "name": "Veteran Guardmouse",
@@ -7410,7 +7646,8 @@
         "gihwr": 0.472,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{3}{R/W}"
   },
   "91774": {
     "name": "Vinereap Mentor",
@@ -7433,7 +7670,8 @@
         "gihwr": 0.599,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{B}{G}"
   },
   "91775": {
     "name": "Vren, the Relentless",
@@ -7468,7 +7706,8 @@
         "gihwr": 0.594,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{2}{U}{B}"
   },
   "91776": {
     "name": "Wandertale Mentor",
@@ -7491,7 +7730,8 @@
         "gihwr": 0.504,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{R}{G}"
   },
   "91777": {
     "name": "Ygra, Eater of All",
@@ -7518,7 +7758,8 @@
         "gihwr": 0.651,
         "grade": "A+"
       }
-    }
+    },
+    "manaCost": "{3}{B}{G}"
   },
   "91778": {
     "name": "Zoraline, Cosmos Caller",
@@ -7545,7 +7786,8 @@
         "gihwr": 0.588,
         "grade": "A"
       }
-    }
+    },
+    "manaCost": "{1}{W}{B}"
   },
   "91779": {
     "name": "Barkform Harvester",
@@ -7600,7 +7842,8 @@
         "gihwr": 0.557,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{3}"
   },
   "91780": {
     "name": "Bumbleflower's Sharepot",
@@ -7647,7 +7890,8 @@
         "gihwr": 0.523,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{2}"
   },
   "91781": {
     "name": "Fountainport Bell",
@@ -7718,7 +7962,8 @@
         "gihwr": 0.551,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{1}"
   },
   "91782": {
     "name": "Heirloom Epic",
@@ -7745,7 +7990,8 @@
         "gihwr": 0.479,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{1}"
   },
   "91783": {
     "name": "Patchwork Banner",
@@ -7808,7 +8054,8 @@
         "gihwr": 0.591,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{3}"
   },
   "91784": {
     "name": "Short Bow",
@@ -7851,7 +8098,8 @@
         "gihwr": 0.532,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{2}"
   },
   "91785": {
     "name": "Starforged Sword",
@@ -7878,7 +8126,8 @@
         "gihwr": 0.472,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{4}"
   },
   "91786": {
     "name": "Tangle Tumbler",
@@ -7905,7 +8154,8 @@
         "gihwr": 0.527,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{3}"
   },
   "91787": {
     "name": "Three Tree Mascot",
@@ -7972,7 +8222,8 @@
         "gihwr": 0.559,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{2}"
   },
   "91788": {
     "name": "Fabled Passage",
@@ -8027,7 +8278,8 @@
         "gihwr": 0.576,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": ""
   },
   "91789": {
     "name": "Fountainport",
@@ -8078,7 +8330,8 @@
         "gihwr": 0.538,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": ""
   },
   "91790": {
     "name": "Hidden Grotto",
@@ -8157,7 +8410,8 @@
         "gihwr": 0.507,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": ""
   },
   "91791": {
     "name": "Lilypad Village",
@@ -8184,7 +8438,8 @@
         "gihwr": 0.553,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": ""
   },
   "91792": {
     "name": "Lupinflower Village",
@@ -8215,7 +8470,8 @@
         "gihwr": 0.58,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": ""
   },
   "91793": {
     "name": "Mudflat Village",
@@ -8246,7 +8502,8 @@
         "gihwr": 0.588,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": ""
   },
   "91794": {
     "name": "Oakhollow Village",
@@ -8277,7 +8534,8 @@
         "gihwr": 0.535,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": ""
   },
   "91795": {
     "name": "Rockface Village",
@@ -8304,7 +8562,8 @@
         "gihwr": 0.537,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": ""
   },
   "91796": {
     "name": "Three Tree City",
@@ -8323,7 +8582,8 @@
         "gihwr": 0.536,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": ""
   },
   "91797": {
     "name": "Uncharted Haven",
@@ -8402,7 +8662,8 @@
         "gihwr": 0.475,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": ""
   },
   "91811": {
     "name": "Plains",
@@ -8411,7 +8672,8 @@
     "rarity": "basic",
     "color": "W",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91812": {
     "name": "Plains",
@@ -8420,7 +8682,8 @@
     "rarity": "basic",
     "color": "W",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91813": {
     "name": "Plains",
@@ -8429,7 +8692,8 @@
     "rarity": "basic",
     "color": "W",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91814": {
     "name": "Plains",
@@ -8438,7 +8702,8 @@
     "rarity": "basic",
     "color": "W",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91815": {
     "name": "Island",
@@ -8447,7 +8712,8 @@
     "rarity": "basic",
     "color": "U",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91816": {
     "name": "Island",
@@ -8456,7 +8722,8 @@
     "rarity": "basic",
     "color": "U",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91817": {
     "name": "Island",
@@ -8465,7 +8732,8 @@
     "rarity": "basic",
     "color": "U",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91818": {
     "name": "Island",
@@ -8474,7 +8742,8 @@
     "rarity": "basic",
     "color": "U",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91819": {
     "name": "Swamp",
@@ -8483,7 +8752,8 @@
     "rarity": "basic",
     "color": "B",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91820": {
     "name": "Swamp",
@@ -8492,7 +8762,8 @@
     "rarity": "basic",
     "color": "B",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91821": {
     "name": "Swamp",
@@ -8501,7 +8772,8 @@
     "rarity": "basic",
     "color": "B",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91822": {
     "name": "Swamp",
@@ -8510,7 +8782,8 @@
     "rarity": "basic",
     "color": "B",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91823": {
     "name": "Mountain",
@@ -8519,7 +8792,8 @@
     "rarity": "basic",
     "color": "R",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91824": {
     "name": "Mountain",
@@ -8528,7 +8802,8 @@
     "rarity": "basic",
     "color": "R",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91825": {
     "name": "Mountain",
@@ -8537,7 +8812,8 @@
     "rarity": "basic",
     "color": "R",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91826": {
     "name": "Mountain",
@@ -8546,7 +8822,8 @@
     "rarity": "basic",
     "color": "R",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91827": {
     "name": "Forest",
@@ -8555,7 +8832,8 @@
     "rarity": "basic",
     "color": "G",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91828": {
     "name": "Forest",
@@ -8564,7 +8842,8 @@
     "rarity": "basic",
     "color": "G",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91829": {
     "name": "Forest",
@@ -8573,7 +8852,8 @@
     "rarity": "basic",
     "color": "G",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91830": {
     "name": "Forest",
@@ -8582,7 +8862,8 @@
     "rarity": "basic",
     "color": "G",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91831": {
     "name": "Plains",
@@ -8591,7 +8872,8 @@
     "rarity": "basic",
     "color": "W",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91833": {
     "name": "Island",
@@ -8600,7 +8882,8 @@
     "rarity": "basic",
     "color": "U",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91835": {
     "name": "Swamp",
@@ -8609,7 +8892,8 @@
     "rarity": "basic",
     "color": "B",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91837": {
     "name": "Mountain",
@@ -8618,7 +8902,8 @@
     "rarity": "basic",
     "color": "R",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91839": {
     "name": "Forest",
@@ -8627,7 +8912,8 @@
     "rarity": "basic",
     "color": "G",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "91870": {
     "name": "Swords to Plowshares",
@@ -8636,7 +8922,8 @@
     "rarity": "mythic",
     "color": "W",
     "manaValue": 1,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{W}"
   },
   "91871": {
     "name": "Ledger Shredder",
@@ -8651,7 +8938,8 @@
         "gihwr": 0.576,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "91872": {
     "name": "Rat Colony",
@@ -8660,7 +8948,8 @@
     "rarity": "mythic",
     "color": "B",
     "manaValue": 2,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{1}{B}"
   },
   "91873": {
     "name": "Relentless Rats",
@@ -8669,7 +8958,8 @@
     "rarity": "mythic",
     "color": "B",
     "manaValue": 3,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{1}{B}{B}"
   },
   "91874": {
     "name": "Kindred Charge",
@@ -8678,7 +8968,8 @@
     "rarity": "mythic",
     "color": "R",
     "manaValue": 6,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{4}{R}{R}"
   },
   "91875": {
     "name": "Sylvan Tutor",
@@ -8687,7 +8978,8 @@
     "rarity": "mythic",
     "color": "G",
     "manaValue": 1,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{G}"
   },
   "91876": {
     "name": "Toski, Bearer of Secrets",
@@ -8696,7 +8988,8 @@
     "rarity": "mythic",
     "color": "G",
     "manaValue": 4,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{3}{G}"
   },
   "91877": {
     "name": "Frogmite",
@@ -8705,7 +8998,8 @@
     "rarity": "mythic",
     "color": "",
     "manaValue": 4,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{4}"
   },
   "91878": {
     "name": "Sword of Fire and Ice",
@@ -8714,7 +9008,8 @@
     "rarity": "mythic",
     "color": "",
     "manaValue": 3,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{3}"
   },
   "91879": {
     "name": "Secluded Courtyard",
@@ -8723,6 +9018,7 @@
     "rarity": "mythic",
     "color": "",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   }
 }

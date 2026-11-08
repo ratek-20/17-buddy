@@ -24,7 +24,8 @@
         "gihwr": 0.518,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{2}{W}"
   },
   "94804": {
     "name": "Alacrian Armory",
@@ -51,7 +52,8 @@
         "gihwr": 0.461,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{3}{W}"
   },
   "94805": {
     "name": "Basri, Tomorrow's Champion",
@@ -78,7 +80,8 @@
         "gihwr": 0.601,
         "grade": "B+"
       }
-    }
+    },
+    "manaCost": "{W}"
   },
   "94806": {
     "name": "Brightfield Glider",
@@ -109,7 +112,8 @@
         "gihwr": 0.468,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{W}"
   },
   "94807": {
     "name": "Brightfield Mustang",
@@ -140,7 +144,8 @@
         "gihwr": 0.501,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{3}{W}"
   },
   "94808": {
     "name": "Broadcast Rambler",
@@ -195,7 +200,8 @@
         "gihwr": 0.515,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{4}{W}"
   },
   "94809": {
     "name": "Bulwark Ox",
@@ -222,7 +228,8 @@
         "gihwr": 0.576,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "94810": {
     "name": "Canyon Vaulter",
@@ -257,7 +264,8 @@
         "gihwr": 0.493,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "94811": {
     "name": "Cloudspire Captain",
@@ -288,7 +296,8 @@
         "gihwr": 0.528,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{2}{W}"
   },
   "94812": {
     "name": "Collision Course",
@@ -339,7 +348,8 @@
         "gihwr": 0.513,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "94813": {
     "name": "Daring Mechanic",
@@ -370,7 +380,8 @@
         "gihwr": 0.473,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{2}{W}"
   },
   "94814": {
     "name": "Detention Chariot",
@@ -413,7 +424,8 @@
         "gihwr": 0.526,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{4}{W}{W}"
   },
   "94815": {
     "name": "Gallant Strike",
@@ -460,7 +472,8 @@
         "gihwr": 0.539,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "94816": {
     "name": "Gloryheath Lynx",
@@ -507,7 +520,8 @@
         "gihwr": 0.556,
         "grade": "A-"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "94817": {
     "name": "Guardian Sunmare",
@@ -538,7 +552,8 @@
         "gihwr": 0.556,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{3}{W}{W}"
   },
   "94818": {
     "name": "Guidelight Synergist",
@@ -573,7 +588,8 @@
         "gihwr": 0.465,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{3}{W}"
   },
   "94819": {
     "name": "Interface Ace",
@@ -612,7 +628,8 @@
         "gihwr": 0.496,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "94820": {
     "name": "Leonin Surveyor",
@@ -655,7 +672,8 @@
         "gihwr": 0.487,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "94821": {
     "name": "Lightshield Parry",
@@ -682,7 +700,8 @@
         "gihwr": 0.53,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{W}"
   },
   "94822": {
     "name": "Lightwheel Enhancements",
@@ -709,7 +728,8 @@
         "gihwr": 0.5,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{W}"
   },
   "94823": {
     "name": "Lotusguard Disciple",
@@ -744,7 +764,8 @@
         "gihwr": 0.478,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{2}{W}"
   },
   "94824": {
     "name": "Nesting Bot",
@@ -775,7 +796,8 @@
         "gihwr": 0.577,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{W}"
   },
   "94825": {
     "name": "Perilous Snare",
@@ -822,7 +844,8 @@
         "gihwr": 0.557,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{2}{W}"
   },
   "94826": {
     "name": "Pride of the Road",
@@ -853,7 +876,8 @@
         "gihwr": 0.487,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{3}{W}"
   },
   "94827": {
     "name": "Ride's End",
@@ -924,7 +948,8 @@
         "gihwr": 0.518,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{4}{W}"
   },
   "94828": {
     "name": "Roadside Assistance",
@@ -951,7 +976,8 @@
         "gihwr": 0.55,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{2}{W}"
   },
   "94829": {
     "name": "Salvation Engine",
@@ -982,7 +1008,8 @@
         "gihwr": 0.566,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{4}{W}"
   },
   "94830": {
     "name": "Skyseer's Chariot",
@@ -1009,7 +1036,8 @@
         "gihwr": 0.545,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "94831": {
     "name": "Spectacular Pileup",
@@ -1040,7 +1068,8 @@
         "gihwr": 0.581,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{3}{W}{W}"
   },
   "94832": {
     "name": "Spotcycle Scouter",
@@ -1067,7 +1096,8 @@
         "gihwr": 0.51,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "94833": {
     "name": "Sundial, Dawn Tyrant",
@@ -1102,7 +1132,8 @@
         "gihwr": 0.517,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{W}"
   },
   "94834": {
     "name": "Swiftwing Assailant",
@@ -1133,7 +1164,8 @@
         "gihwr": 0.489,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{3}{W}"
   },
   "94835": {
     "name": "Tune Up",
@@ -1168,7 +1200,8 @@
         "gihwr": 0.563,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{3}{W}"
   },
   "94836": {
     "name": "Unswerving Sloth",
@@ -1199,7 +1232,8 @@
         "gihwr": 0.489,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{3}{W}{W}"
   },
   "94837": {
     "name": "Valor's Flagship",
@@ -1226,7 +1260,8 @@
         "gihwr": 0.545,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{4}{W}{W}{W}"
   },
   "94838": {
     "name": "Voyager Glidecar",
@@ -1253,7 +1288,8 @@
         "gihwr": 0.583,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{W}"
   },
   "94839": {
     "name": "Voyager Quickwelder",
@@ -1292,7 +1328,8 @@
         "gihwr": 0.523,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{2}{W}"
   },
   "94840": {
     "name": "Aether Syphon",
@@ -1335,7 +1372,8 @@
         "gihwr": 0.524,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{1}{U}{U}"
   },
   "94841": {
     "name": "Bounce Off",
@@ -1390,7 +1428,8 @@
         "gihwr": 0.563,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{U}"
   },
   "94842": {
     "name": "Caelorna, Coral Tyrant",
@@ -1417,7 +1456,8 @@
         "gihwr": 0.548,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "94843": {
     "name": "Diversion Unit",
@@ -1464,7 +1504,8 @@
         "gihwr": 0.541,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "94844": {
     "name": "Flood the Engine",
@@ -1523,7 +1564,8 @@
         "gihwr": 0.566,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{2}{U}"
   },
   "94845": {
     "name": "Gearseeker Serpent",
@@ -1562,7 +1604,8 @@
         "gihwr": 0.484,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{5}{U}{U}"
   },
   "94846": {
     "name": "Glitch Ghost Surveyor",
@@ -1601,7 +1644,8 @@
         "gihwr": 0.469,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{2}{U}"
   },
   "94847": {
     "name": "Guidelight Optimizer",
@@ -1656,7 +1700,8 @@
         "gihwr": 0.502,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "94848": {
     "name": "Howler's Heavy",
@@ -1711,7 +1756,8 @@
         "gihwr": 0.558,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{3}{U}"
   },
   "94849": {
     "name": "Hulldrifter",
@@ -1766,7 +1812,8 @@
         "gihwr": 0.538,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{3}{U}{U}"
   },
   "94850": {
     "name": "Keen Buccaneer",
@@ -1821,7 +1868,8 @@
         "gihwr": 0.535,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{2}{U}"
   },
   "94851": {
     "name": "Memory Guardian",
@@ -1860,7 +1908,8 @@
         "gihwr": 0.5,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{4}{U}"
   },
   "94852": {
     "name": "Midnight Mangler",
@@ -1915,7 +1964,8 @@
         "gihwr": 0.549,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "94853": {
     "name": "Mindspring Merfolk",
@@ -1954,7 +2004,8 @@
         "gihwr": 0.586,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{U}"
   },
   "94854": {
     "name": "Mu Yanling, Wind Rider",
@@ -1981,7 +2032,8 @@
         "gihwr": 0.667,
         "grade": "A+"
       }
-    }
+    },
+    "manaCost": "{2}{U}{U}"
   },
   "94855": {
     "name": "Nimble Thopterist",
@@ -2036,7 +2088,8 @@
         "gihwr": 0.543,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{3}{U}"
   },
   "94856": {
     "name": "Possession Engine",
@@ -2075,7 +2128,8 @@
         "gihwr": 0.58,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{3}{U}{U}"
   },
   "94857": {
     "name": "Rangers' Refueler",
@@ -2130,7 +2184,8 @@
         "gihwr": 0.579,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "94858": {
     "name": "Repurposing Bay",
@@ -2139,7 +2194,8 @@
     "rarity": "rare",
     "color": "U",
     "manaValue": 3,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{2}{U}"
   },
   "94859": {
     "name": "Riverchurn Monument",
@@ -2178,7 +2234,8 @@
         "gihwr": 0.599,
         "grade": "B+"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "94860": {
     "name": "Roadside Blowout",
@@ -2229,7 +2286,8 @@
         "gihwr": 0.562,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{2}{U}"
   },
   "94861": {
     "name": "Sabotage Strategist",
@@ -2268,7 +2326,8 @@
         "gihwr": 0.516,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{2}{U}{U}"
   },
   "94862": {
     "name": "Scrounging Skyray",
@@ -2307,7 +2366,8 @@
         "gihwr": 0.53,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "94863": {
     "name": "Skystreak Engineer",
@@ -2362,7 +2422,8 @@
         "gihwr": 0.555,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "94864": {
     "name": "Slick Imitator",
@@ -2397,7 +2458,8 @@
         "gihwr": 0.52,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "94865": {
     "name": "Spectral Interference",
@@ -2452,7 +2514,8 @@
         "gihwr": 0.544,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "94866": {
     "name": "Spell Pierce",
@@ -2475,7 +2538,8 @@
         "gihwr": 0.539,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{U}"
   },
   "94867": {
     "name": "Spikeshell Harrier",
@@ -2534,7 +2598,8 @@
         "gihwr": 0.59,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{4}{U}"
   },
   "94868": {
     "name": "Stall Out",
@@ -2565,7 +2630,8 @@
         "gihwr": 0.495,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "94869": {
     "name": "Stock Up",
@@ -2624,7 +2690,8 @@
         "gihwr": 0.596,
         "grade": "B+"
       }
-    }
+    },
+    "manaCost": "{2}{U}"
   },
   "94870": {
     "name": "Thopter Fabricator",
@@ -2663,7 +2730,8 @@
         "gihwr": 0.574,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{2}{U}"
   },
   "94871": {
     "name": "Trade the Helm",
@@ -2694,7 +2762,8 @@
         "gihwr": 0.557,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{4}{U}"
   },
   "94872": {
     "name": "Transit Mage",
@@ -2749,7 +2818,8 @@
         "gihwr": 0.567,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{2}{U}"
   },
   "94873": {
     "name": "Trip Up",
@@ -2804,7 +2874,8 @@
         "gihwr": 0.548,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{3}{U}"
   },
   "94874": {
     "name": "Unstoppable Plan",
@@ -2813,7 +2884,8 @@
     "rarity": "rare",
     "color": "U",
     "manaValue": 3,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{2}{U}"
   },
   "94875": {
     "name": "Vnwxt, Verbose Host",
@@ -2844,7 +2916,8 @@
         "gihwr": 0.547,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{U}"
   },
   "94876": {
     "name": "Waxen Shapethief",
@@ -2875,7 +2948,8 @@
         "gihwr": 0.543,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{3}{U}"
   },
   "94877": {
     "name": "Ancient Vendetta",
@@ -2884,7 +2958,8 @@
     "rarity": "uncommon",
     "color": "B",
     "manaValue": 4,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{3}{B}"
   },
   "94878": {
     "name": "Back on Track",
@@ -2931,7 +3006,8 @@
         "gihwr": 0.554,
         "grade": "B+"
       }
-    }
+    },
+    "manaCost": "{4}{B}"
   },
   "94879": {
     "name": "Bloodghast",
@@ -2958,7 +3034,8 @@
         "gihwr": 0.494,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{B}{B}"
   },
   "94880": {
     "name": "Carrion Cruiser",
@@ -3001,7 +3078,8 @@
         "gihwr": 0.494,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{2}{B}"
   },
   "94881": {
     "name": "Chitin Gravestalker",
@@ -3040,7 +3118,8 @@
         "gihwr": 0.477,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{5}{B}"
   },
   "94882": {
     "name": "Cryptcaller Chariot",
@@ -3075,7 +3154,8 @@
         "gihwr": 0.521,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{3}{B}"
   },
   "94883": {
     "name": "Cursecloth Wrappings",
@@ -3110,7 +3190,8 @@
         "gihwr": 0.557,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{2}{B}{B}"
   },
   "94884": {
     "name": "Deathless Pilot",
@@ -3161,7 +3242,8 @@
         "gihwr": 0.502,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{1}{B}"
   },
   "94885": {
     "name": "Demonic Junker",
@@ -3200,7 +3282,8 @@
         "gihwr": 0.52,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{6}{B}"
   },
   "94886": {
     "name": "Engine Rat",
@@ -3255,7 +3338,8 @@
         "gihwr": 0.536,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{B}"
   },
   "94887": {
     "name": "Gas Guzzler",
@@ -3282,7 +3366,8 @@
         "gihwr": 0.557,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{B}"
   },
   "94888": {
     "name": "Gastal Raider",
@@ -3317,7 +3402,8 @@
         "gihwr": 0.499,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{2}{B}"
   },
   "94889": {
     "name": "Gonti, Night Minister",
@@ -3352,7 +3438,8 @@
         "gihwr": 0.537,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{2}{B}{B}"
   },
   "94890": {
     "name": "Grim Bauble",
@@ -3407,7 +3494,8 @@
         "gihwr": 0.504,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{B}"
   },
   "94891": {
     "name": "Grim Javelineer",
@@ -3446,7 +3534,8 @@
         "gihwr": 0.492,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{2}{B}"
   },
   "94892": {
     "name": "Hellish Sideswipe",
@@ -3481,7 +3570,8 @@
         "gihwr": 0.504,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{B}"
   },
   "94893": {
     "name": "Hour of Victory",
@@ -3516,7 +3606,8 @@
         "gihwr": 0.448,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{2}{B}"
   },
   "94894": {
     "name": "Intimidation Tactics",
@@ -3551,7 +3642,8 @@
         "gihwr": 0.519,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{B}"
   },
   "94895": {
     "name": "Kalakscion, Hunger Tyrant",
@@ -3578,7 +3670,8 @@
         "gihwr": 0.533,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{1}{B}{B}"
   },
   "94896": {
     "name": "The Last Ride",
@@ -3605,7 +3698,8 @@
         "gihwr": 0.509,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{B}"
   },
   "94897": {
     "name": "Locust Spray",
@@ -3632,7 +3726,8 @@
         "gihwr": 0.548,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{B}"
   },
   "94898": {
     "name": "Maximum Overdrive",
@@ -3683,7 +3778,8 @@
         "gihwr": 0.511,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{B}"
   },
   "94899": {
     "name": "Momentum Breaker",
@@ -3722,7 +3818,8 @@
         "gihwr": 0.548,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{B}"
   },
   "94900": {
     "name": "Mutant Surveyor",
@@ -3777,7 +3874,8 @@
         "gihwr": 0.496,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{2}{B}"
   },
   "94901": {
     "name": "Pactdoll Terror",
@@ -3836,7 +3934,8 @@
         "gihwr": 0.481,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{3}{B}"
   },
   "94902": {
     "name": "Quag Feast",
@@ -3875,7 +3974,8 @@
         "gihwr": 0.572,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{1}{B}"
   },
   "94903": {
     "name": "Ripclaw Wrangler",
@@ -3902,7 +4002,8 @@
         "gihwr": 0.519,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{3}{B}"
   },
   "94904": {
     "name": "Risen Necroregent",
@@ -3941,7 +4042,8 @@
         "gihwr": 0.502,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{4}{B}"
   },
   "94905": {
     "name": "Risky Shortcut",
@@ -3976,7 +4078,8 @@
         "gihwr": 0.499,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{2}{B}"
   },
   "94906": {
     "name": "Shefet Archfiend",
@@ -4007,7 +4110,8 @@
         "gihwr": 0.558,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{5}{B}{B}"
   },
   "94907": {
     "name": "The Speed Demon",
@@ -4034,7 +4138,8 @@
         "gihwr": 0.621,
         "grade": "A-"
       }
-    }
+    },
+    "manaCost": "{3}{B}{B}"
   },
   "94908": {
     "name": "Spin Out",
@@ -4089,7 +4194,8 @@
         "gihwr": 0.521,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{1}{B}{B}"
   },
   "94909": {
     "name": "Streaking Oilgorger",
@@ -4124,7 +4230,8 @@
         "gihwr": 0.503,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{4}{B}"
   },
   "94910": {
     "name": "Syphon Fuel",
@@ -4175,7 +4282,8 @@
         "gihwr": 0.492,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{4}{B}"
   },
   "94911": {
     "name": "Wickerfolk Indomitable",
@@ -4202,7 +4310,8 @@
         "gihwr": 0.518,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{3}{B}"
   },
   "94912": {
     "name": "Wreckage Wickerfolk",
@@ -4257,7 +4366,8 @@
         "gihwr": 0.507,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{B}"
   },
   "94913": {
     "name": "Wretched Doll",
@@ -4296,7 +4406,8 @@
         "gihwr": 0.53,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{1}{B}"
   },
   "94914": {
     "name": "Adrenaline Jockey",
@@ -4327,7 +4438,8 @@
         "gihwr": 0.53,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{2}{R}"
   },
   "94915": {
     "name": "Boommobile",
@@ -4362,7 +4474,8 @@
         "gihwr": 0.603,
         "grade": "A-"
       }
-    }
+    },
+    "manaCost": "{2}{R}{R}"
   },
   "94916": {
     "name": "Burner Rocket",
@@ -4389,7 +4502,8 @@
         "gihwr": 0.519,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "94917": {
     "name": "Burnout Bashtronaut",
@@ -4420,7 +4534,8 @@
         "gihwr": 0.546,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{R}"
   },
   "94918": {
     "name": "Chandra, Spark Hunter",
@@ -4447,7 +4562,8 @@
         "gihwr": 0.61,
         "grade": "A-"
       }
-    }
+    },
+    "manaCost": "{3}{R}"
   },
   "94919": {
     "name": "Clamorous Ironclad",
@@ -4494,7 +4610,8 @@
         "gihwr": 0.517,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{3}{R}"
   },
   "94920": {
     "name": "Count on Luck",
@@ -4521,7 +4638,8 @@
         "gihwr": 0.493,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{R}{R}{R}"
   },
   "94921": {
     "name": "Crash and Burn",
@@ -4584,7 +4702,8 @@
         "gihwr": 0.516,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{3}{R}"
   },
   "94922": {
     "name": "Daretti, Rocketeer Engineer",
@@ -4611,7 +4730,8 @@
         "gihwr": 0.482,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{4}{R}"
   },
   "94923": {
     "name": "Draconautics Engineer",
@@ -4650,7 +4770,8 @@
         "gihwr": 0.621,
         "grade": "A"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "94924": {
     "name": "Dracosaur Auxiliary",
@@ -4685,7 +4806,8 @@
         "gihwr": 0.55,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{4}{R}{R}"
   },
   "94925": {
     "name": "Dynamite Diver",
@@ -4712,7 +4834,8 @@
         "gihwr": 0.503,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{R}"
   },
   "94926": {
     "name": "Endrider Catalyzer",
@@ -4763,7 +4886,8 @@
         "gihwr": 0.481,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "94927": {
     "name": "Endrider Spikespitter",
@@ -4802,7 +4926,8 @@
         "gihwr": 0.516,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{3}{R}"
   },
   "94928": {
     "name": "Fuel the Flames",
@@ -4833,7 +4958,8 @@
         "gihwr": 0.56,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{2}{R}"
   },
   "94929": {
     "name": "Full Throttle",
@@ -4848,7 +4974,8 @@
         "gihwr": 0.462,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{4}{R}{R}"
   },
   "94930": {
     "name": "Gastal Blockbuster",
@@ -4879,7 +5006,8 @@
         "gihwr": 0.491,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{2}{R}"
   },
   "94931": {
     "name": "Gastal Thrillroller",
@@ -4906,7 +5034,8 @@
         "gihwr": 0.546,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{2}{R}"
   },
   "94932": {
     "name": "Gilded Ghoda",
@@ -4961,7 +5090,8 @@
         "gihwr": 0.493,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "94933": {
     "name": "Goblin Surveyor",
@@ -5004,7 +5134,8 @@
         "gihwr": 0.474,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{2}{R}"
   },
   "94934": {
     "name": "Greasewrench Goblin",
@@ -5039,7 +5170,8 @@
         "gihwr": 0.579,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{R}"
   },
   "94935": {
     "name": "Hazoret, Godseeker",
@@ -5066,7 +5198,8 @@
         "gihwr": 0.583,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "94936": {
     "name": "Howlsquad Heavy",
@@ -5097,7 +5230,8 @@
         "gihwr": 0.582,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{2}{R}"
   },
   "94937": {
     "name": "Kickoff Celebrations",
@@ -5132,7 +5266,8 @@
         "gihwr": 0.512,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "94938": {
     "name": "Lightning Strike",
@@ -5191,7 +5326,8 @@
         "gihwr": 0.537,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "94939": {
     "name": "Magmakin Artillerist",
@@ -5230,7 +5366,8 @@
         "gihwr": 0.471,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{2}{R}"
   },
   "94940": {
     "name": "Marauding Mako",
@@ -5265,7 +5402,8 @@
         "gihwr": 0.516,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{R}"
   },
   "94941": {
     "name": "Outpace Oblivion",
@@ -5312,7 +5450,8 @@
         "gihwr": 0.524,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{2}{R}"
   },
   "94942": {
     "name": "Pacesetter Paragon",
@@ -5343,7 +5482,8 @@
         "gihwr": 0.477,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{2}{R}"
   },
   "94943": {
     "name": "Pedal to the Metal",
@@ -5370,7 +5510,8 @@
         "gihwr": 0.532,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{X}{R}"
   },
   "94944": {
     "name": "Prowcatcher Specialist",
@@ -5417,7 +5558,8 @@
         "gihwr": 0.512,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "94945": {
     "name": "Push the Limit",
@@ -5448,7 +5590,8 @@
         "gihwr": 0.525,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{5}{R}{R}"
   },
   "94946": {
     "name": "Reckless Velocitaur",
@@ -5475,7 +5618,8 @@
         "gihwr": 0.495,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{3}{R}"
   },
   "94947": {
     "name": "Road Rage",
@@ -5522,7 +5666,8 @@
         "gihwr": 0.537,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{R}"
   },
   "94948": {
     "name": "Skycrash",
@@ -5557,7 +5702,8 @@
         "gihwr": 0.539,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "94949": {
     "name": "Spire Mechcycle",
@@ -5592,7 +5738,8 @@
         "gihwr": 0.523,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{4}{R}"
   },
   "94950": {
     "name": "Thunderhead Gunner",
@@ -5659,7 +5806,8 @@
         "gihwr": 0.513,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{4}{R}"
   },
   "94951": {
     "name": "Tyrox, Saurid Tyrant",
@@ -5690,7 +5838,8 @@
         "gihwr": 0.542,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{R}"
   },
   "94952": {
     "name": "Afterburner Expert",
@@ -5725,7 +5874,8 @@
         "gihwr": 0.587,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{2}{G}"
   },
   "94953": {
     "name": "Agonasaur Rex",
@@ -5760,7 +5910,8 @@
         "gihwr": 0.634,
         "grade": "A+"
       }
-    }
+    },
+    "manaCost": "{3}{G}{G}"
   },
   "94954": {
     "name": "Alacrian Jaguar",
@@ -5795,7 +5946,8 @@
         "gihwr": 0.507,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{4}{G}"
   },
   "94955": {
     "name": "Autarch Mammoth",
@@ -5850,7 +6002,8 @@
         "gihwr": 0.562,
         "grade": "A-"
       }
-    }
+    },
+    "manaCost": "{4}{G}{G}"
   },
   "94956": {
     "name": "Beastrider Vanguard",
@@ -5905,7 +6058,8 @@
         "gihwr": 0.524,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{G}"
   },
   "94957": {
     "name": "Bestow Greatness",
@@ -5952,7 +6106,8 @@
         "gihwr": 0.54,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{2}{G}"
   },
   "94958": {
     "name": "Broken Wings",
@@ -6007,7 +6162,8 @@
         "gihwr": 0.488,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{2}{G}"
   },
   "94959": {
     "name": "Defend the Rider",
@@ -6050,7 +6206,8 @@
         "gihwr": 0.559,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{G}"
   },
   "94960": {
     "name": "District Mascot",
@@ -6081,7 +6238,8 @@
         "gihwr": 0.584,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{G}"
   },
   "94961": {
     "name": "Dredger's Insight",
@@ -6128,7 +6286,8 @@
         "gihwr": 0.53,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{G}"
   },
   "94962": {
     "name": "Earthrumbler",
@@ -6179,7 +6338,8 @@
         "gihwr": 0.514,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{4}{G}"
   },
   "94963": {
     "name": "Elvish Refueler",
@@ -6226,7 +6386,8 @@
         "gihwr": 0.545,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{2}{G}"
   },
   "94964": {
     "name": "Fang Guardian",
@@ -6269,7 +6430,8 @@
         "gihwr": 0.549,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{3}{G}"
   },
   "94965": {
     "name": "Fang-Druid Summoner",
@@ -6308,7 +6470,8 @@
         "gihwr": 0.572,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{3}{G}"
   },
   "94966": {
     "name": "Greenbelt Guardian",
@@ -6363,7 +6526,8 @@
         "gihwr": 0.538,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{1}{G}"
   },
   "94967": {
     "name": "Hazard of the Dunes",
@@ -6418,7 +6582,8 @@
         "gihwr": 0.541,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{3}{G}"
   },
   "94968": {
     "name": "Jibbirik Omnivore",
@@ -6473,7 +6638,8 @@
         "gihwr": 0.511,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{1}{G}"
   },
   "94969": {
     "name": "Loxodon Surveyor",
@@ -6524,7 +6690,8 @@
         "gihwr": 0.483,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{2}{G}"
   },
   "94970": {
     "name": "Lumbering Worldwagon",
@@ -6559,7 +6726,8 @@
         "gihwr": 0.632,
         "grade": "A+"
       }
-    }
+    },
+    "manaCost": "{2}{G}"
   },
   "94971": {
     "name": "March of the World Ooze",
@@ -6586,7 +6754,8 @@
         "gihwr": 0.621,
         "grade": "A"
       }
-    }
+    },
+    "manaCost": "{3}{G}{G}{G}"
   },
   "94972": {
     "name": "Migrating Ketradon",
@@ -6641,7 +6810,8 @@
         "gihwr": 0.525,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{4}{G}{G}"
   },
   "94973": {
     "name": "Molt Tender",
@@ -6696,7 +6866,8 @@
         "gihwr": 0.518,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{G}"
   },
   "94974": {
     "name": "Ooze Patrol",
@@ -6731,7 +6902,8 @@
         "gihwr": 0.506,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{3}{G}"
   },
   "94975": {
     "name": "Oviya, Automech Artisan",
@@ -6758,7 +6930,8 @@
         "gihwr": 0.523,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{3}{G}"
   },
   "94976": {
     "name": "Plow Through",
@@ -6805,7 +6978,8 @@
         "gihwr": 0.559,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{G}"
   },
   "94977": {
     "name": "Point the Way",
@@ -6828,7 +7002,8 @@
         "gihwr": 0.433,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{G}"
   },
   "94978": {
     "name": "Pothole Mole",
@@ -6883,7 +7058,8 @@
         "gihwr": 0.525,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{2}{G}"
   },
   "94979": {
     "name": "Regal Imperiosaur",
@@ -6910,7 +7086,8 @@
         "gihwr": 0.567,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{1}{G}{G}"
   },
   "94980": {
     "name": "Rise from the Wreck",
@@ -6949,7 +7126,8 @@
         "gihwr": 0.559,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{2}{G}"
   },
   "94981": {
     "name": "Run Over",
@@ -7004,7 +7182,8 @@
         "gihwr": 0.526,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{G}"
   },
   "94982": {
     "name": "Silken Strength",
@@ -7039,7 +7218,8 @@
         "gihwr": 0.563,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{G}"
   },
   "94983": {
     "name": "Stampeding Scurryfoot",
@@ -7094,7 +7274,8 @@
         "gihwr": 0.53,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{G}"
   },
   "94984": {
     "name": "Terrian, World Tyrant",
@@ -7133,7 +7314,8 @@
         "gihwr": 0.55,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{2}{G}{G}{G}"
   },
   "94985": {
     "name": "Thunderous Velocipede",
@@ -7160,7 +7342,8 @@
         "gihwr": 0.556,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{1}{G}{G}"
   },
   "94986": {
     "name": "Veloheart Bike",
@@ -7215,7 +7398,8 @@
         "gihwr": 0.512,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{2}{G}"
   },
   "94987": {
     "name": "Venomsac Lagac",
@@ -7270,7 +7454,8 @@
         "gihwr": 0.533,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{1}{G}"
   },
   "94988": {
     "name": "Webstrike Elite",
@@ -7305,7 +7490,8 @@
         "gihwr": 0.537,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{G}{G}"
   },
   "94989": {
     "name": "Aatchik, Emerald Radian",
@@ -7340,7 +7526,8 @@
         "gihwr": 0.545,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{3}{B}{B}{G}"
   },
   "94990": {
     "name": "Apocalypse Runner",
@@ -7367,7 +7554,8 @@
         "gihwr": 0.45,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{2}{B}{R}"
   },
   "94991": {
     "name": "Boom Scholar",
@@ -7398,7 +7586,8 @@
         "gihwr": 0.451,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{1}{R}{G}"
   },
   "94992": {
     "name": "Boosted Sloop",
@@ -7425,7 +7614,8 @@
         "gihwr": 0.527,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{1}{U}{R}"
   },
   "94993": {
     "name": "Brightglass Gearhulk",
@@ -7440,7 +7630,8 @@
         "gihwr": 0.623,
         "grade": "A-"
       }
-    }
+    },
+    "manaCost": "{G}{G}{W}{W}"
   },
   "94994": {
     "name": "Broadside Barrage",
@@ -7487,7 +7678,8 @@
         "gihwr": 0.583,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{1}{U}{R}"
   },
   "94995": {
     "name": "Broodheart Engine",
@@ -7518,7 +7710,8 @@
         "gihwr": 0.515,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{B}{G}"
   },
   "94996": {
     "name": "Captain Howler, Sea Scourge",
@@ -7541,7 +7734,8 @@
         "gihwr": 0.571,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{2}{U}{R}"
   },
   "94997": {
     "name": "Caradora, Heart of Alacria",
@@ -7580,7 +7774,8 @@
         "gihwr": 0.559,
         "grade": "A"
       }
-    }
+    },
+    "manaCost": "{2}{G}{W}"
   },
   "94998": {
     "name": "Cloudspire Coordinator",
@@ -7607,7 +7802,8 @@
         "gihwr": 0.505,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{R}{W}"
   },
   "94999": {
     "name": "Cloudspire Skycycle",
@@ -7634,7 +7830,8 @@
         "gihwr": 0.473,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{2}{R}{W}"
   },
   "95000": {
     "name": "Coalstoke Gearhulk",
@@ -7649,7 +7846,8 @@
         "gihwr": 0.579,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{1}{B}{B}{R}{R}"
   },
   "95001": {
     "name": "Debris Beetle",
@@ -7692,7 +7890,8 @@
         "gihwr": 0.591,
         "grade": "A+"
       }
-    }
+    },
+    "manaCost": "{2}{B}{G}"
   },
   "95002": {
     "name": "Dune Drifter",
@@ -7735,7 +7934,8 @@
         "gihwr": 0.529,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{X}{W}{B}"
   },
   "95003": {
     "name": "Embalmed Ascendant",
@@ -7774,7 +7974,8 @@
         "gihwr": 0.57,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{1}{W}{B}"
   },
   "95004": {
     "name": "Explosive Getaway",
@@ -7813,7 +8014,8 @@
         "gihwr": 0.529,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{3}{R}{W}"
   },
   "95005": {
     "name": "Far Fortune, End Boss",
@@ -7860,7 +8062,8 @@
         "gihwr": 0.577,
         "grade": "A+"
       }
-    }
+    },
+    "manaCost": "{2}{B}{R}"
   },
   "95006": {
     "name": "Fearless Swashbuckler",
@@ -7879,7 +8082,8 @@
         "gihwr": 0.549,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{1}{U}{R}"
   },
   "95007": {
     "name": "Gastal Thrillseeker",
@@ -7906,7 +8110,8 @@
         "gihwr": 0.509,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{B}{R}"
   },
   "95008": {
     "name": "Guidelight Pathmaker",
@@ -7949,7 +8154,8 @@
         "gihwr": 0.565,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{4}{W}{U}"
   },
   "95009": {
     "name": "Haunt the Network",
@@ -8000,7 +8206,8 @@
         "gihwr": 0.56,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{3}{U}{B}"
   },
   "95010": {
     "name": "Haunted Hellride",
@@ -8027,7 +8234,8 @@
         "gihwr": 0.453,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{1}{U}{B}"
   },
   "95011": {
     "name": "Ketramose, the New Dawn",
@@ -8036,7 +8244,8 @@
     "rarity": "mythic",
     "color": "BW",
     "manaValue": 3,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{1}{W}{B}"
   },
   "95012": {
     "name": "Kolodin, Triumph Caster",
@@ -8055,7 +8264,8 @@
         "gihwr": 0.507,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{R}{W}"
   },
   "95013": {
     "name": "Lagorin, Soul of Alacria",
@@ -8082,7 +8292,8 @@
         "gihwr": 0.488,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{G}{W}"
   },
   "95014": {
     "name": "Loot, the Pathfinder",
@@ -8109,7 +8320,8 @@
         "gihwr": 0.639,
         "grade": "A+"
       }
-    }
+    },
+    "manaCost": "{2}{G}{U}{R}"
   },
   "95015": {
     "name": "Mendicant Core, Guidelight",
@@ -8132,7 +8344,8 @@
         "gihwr": 0.589,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{W}{U}"
   },
   "95016": {
     "name": "Mimeoplasm, Revered One",
@@ -8155,7 +8368,8 @@
         "gihwr": 0.483,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{X}{B}{G}{U}"
   },
   "95017": {
     "name": "Oildeep Gearhulk",
@@ -8174,7 +8388,8 @@
         "gihwr": 0.553,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{U}{U}{B}{B}"
   },
   "95018": {
     "name": "Pyrewood Gearhulk",
@@ -8193,7 +8408,8 @@
         "gihwr": 0.578,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{2}{R}{R}{G}{G}"
   },
   "95019": {
     "name": "Rangers' Aetherhive",
@@ -8224,7 +8440,8 @@
         "gihwr": 0.518,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{1}{G}{U}"
   },
   "95020": {
     "name": "Redshift, Rocketeer Chief",
@@ -8247,7 +8464,8 @@
         "gihwr": 0.546,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{R}{G}"
   },
   "95021": {
     "name": "Riptide Gearhulk",
@@ -8266,7 +8484,8 @@
         "gihwr": 0.642,
         "grade": "A+"
       }
-    }
+    },
+    "manaCost": "{1}{W}{W}{U}{U}"
   },
   "95022": {
     "name": "Rocketeer Boostbuggy",
@@ -8297,7 +8516,8 @@
         "gihwr": 0.511,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{R}{G}"
   },
   "95023": {
     "name": "Sab-Sunen, Luxa Embodied",
@@ -8344,7 +8564,8 @@
         "gihwr": 0.704,
         "grade": "A+"
       }
-    }
+    },
+    "manaCost": "{3}{G}{U}"
   },
   "95024": {
     "name": "Samut, the Driving Force",
@@ -8371,7 +8592,8 @@
         "gihwr": 0.543,
         "grade": "B+"
       }
-    }
+    },
+    "manaCost": "{3}{R}{G}{W}"
   },
   "95025": {
     "name": "Sita Varma, Masked Racer",
@@ -8406,7 +8628,8 @@
         "gihwr": 0.582,
         "grade": "B"
       }
-    }
+    },
+    "manaCost": "{G}{U}"
   },
   "95026": {
     "name": "Skyserpent Seeker",
@@ -8441,7 +8664,8 @@
         "gihwr": 0.569,
         "grade": "B-"
       }
-    }
+    },
+    "manaCost": "{G}{U}"
   },
   "95027": {
     "name": "Thundering Broodwagon",
@@ -8480,7 +8704,8 @@
         "gihwr": 0.574,
         "grade": "A"
       }
-    }
+    },
+    "manaCost": "{2}{B}{B}{G}{G}"
   },
   "95028": {
     "name": "Veteran Beastrider",
@@ -8519,7 +8744,8 @@
         "gihwr": 0.555,
         "grade": "A-"
       }
-    }
+    },
+    "manaCost": "{1}{G}{W}"
   },
   "95029": {
     "name": "Voyage Home",
@@ -8554,7 +8780,8 @@
         "gihwr": 0.545,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{5}{W}{U}"
   },
   "95030": {
     "name": "Winter, Cursed Rider",
@@ -8577,7 +8804,8 @@
         "gihwr": 0.518,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{U}{B}"
   },
   "95031": {
     "name": "Zahur, Glory's Past",
@@ -8612,7 +8840,8 @@
         "gihwr": 0.543,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{W}{B}"
   },
   "95032": {
     "name": "Aetherjacket",
@@ -8667,7 +8896,8 @@
         "gihwr": 0.514,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{3}"
   },
   "95033": {
     "name": "The Aetherspark",
@@ -8710,7 +8940,8 @@
         "gihwr": 0.603,
         "grade": "A-"
       }
-    }
+    },
+    "manaCost": "{4}"
   },
   "95034": {
     "name": "Camera Launcher",
@@ -8773,7 +9004,8 @@
         "gihwr": 0.509,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{3}"
   },
   "95035": {
     "name": "Guidelight Matrix",
@@ -8820,7 +9052,8 @@
         "gihwr": 0.554,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": "{2}"
   },
   "95036": {
     "name": "Lifecraft Engine",
@@ -8871,7 +9104,8 @@
         "gihwr": 0.508,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{3}"
   },
   "95037": {
     "name": "Marketback Walker",
@@ -8922,7 +9156,8 @@
         "gihwr": 0.558,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{X}{X}"
   },
   "95038": {
     "name": "Marshals' Pathcruiser",
@@ -9009,7 +9244,8 @@
         "gihwr": 0.567,
         "grade": "A-"
       }
-    }
+    },
+    "manaCost": "{3}"
   },
   "95039": {
     "name": "Monument to Endurance",
@@ -9028,7 +9264,8 @@
         "gihwr": 0.511,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{3}"
   },
   "95040": {
     "name": "Pit Automaton",
@@ -9071,7 +9308,8 @@
         "gihwr": 0.558,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": "{2}"
   },
   "95041": {
     "name": "Racers' Scoreboard",
@@ -9086,7 +9324,8 @@
         "gihwr": 0.481,
         "grade": "F"
       }
-    }
+    },
+    "manaCost": "{4}"
   },
   "95042": {
     "name": "Radiant Lotus",
@@ -9095,7 +9334,8 @@
     "rarity": "mythic",
     "color": "",
     "manaValue": 6,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{6}"
   },
   "95043": {
     "name": "Rover Blades",
@@ -9146,7 +9386,8 @@
         "gihwr": 0.507,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": "{3}"
   },
   "95044": {
     "name": "Scrap Compactor",
@@ -9221,7 +9462,8 @@
         "gihwr": 0.534,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{1}"
   },
   "95045": {
     "name": "Skybox Ferry",
@@ -9268,7 +9510,8 @@
         "gihwr": 0.52,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": "{5}"
   },
   "95046": {
     "name": "Starting Column",
@@ -9359,7 +9602,8 @@
         "gihwr": 0.504,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{3}"
   },
   "95047": {
     "name": "Ticket Tortoise",
@@ -9430,7 +9674,8 @@
         "gihwr": 0.513,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{2}"
   },
   "95048": {
     "name": "Walking Sarcophagus",
@@ -9489,7 +9734,8 @@
         "gihwr": 0.49,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": "{2}"
   },
   "95049": {
     "name": "Wreck Remover",
@@ -9548,7 +9794,8 @@
         "gihwr": 0.54,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": "{4}"
   },
   "95050": {
     "name": "Amonkhet Raceway",
@@ -9587,7 +9834,8 @@
         "gihwr": 0.519,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95051": {
     "name": "Avishkar Raceway",
@@ -9638,7 +9886,8 @@
         "gihwr": 0.492,
         "grade": "D-"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95052": {
     "name": "Bleachbone Verge",
@@ -9673,7 +9922,8 @@
         "gihwr": 0.538,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95053": {
     "name": "Bloodfell Caves",
@@ -9724,7 +9974,8 @@
         "gihwr": 0.491,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95054": {
     "name": "Blossoming Sands",
@@ -9775,7 +10026,8 @@
         "gihwr": 0.516,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95055": {
     "name": "Country Roads",
@@ -9806,7 +10058,8 @@
         "gihwr": 0.552,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95056": {
     "name": "Dismal Backwater",
@@ -9857,7 +10110,8 @@
         "gihwr": 0.537,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95057": {
     "name": "Foul Roads",
@@ -9892,7 +10146,8 @@
         "gihwr": 0.541,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95058": {
     "name": "Jungle Hollow",
@@ -9943,7 +10198,8 @@
         "gihwr": 0.52,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95059": {
     "name": "Muraganda Raceway",
@@ -9962,7 +10218,8 @@
         "gihwr": 0.531,
         "grade": "D"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95060": {
     "name": "Night Market",
@@ -10053,7 +10310,8 @@
         "gihwr": 0.519,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95061": {
     "name": "Reef Roads",
@@ -10092,7 +10350,8 @@
         "gihwr": 0.542,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95062": {
     "name": "Riverpyre Verge",
@@ -10127,7 +10386,8 @@
         "gihwr": 0.55,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95063": {
     "name": "Rocky Roads",
@@ -10158,7 +10418,8 @@
         "gihwr": 0.532,
         "grade": "D+"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95064": {
     "name": "Rugged Highlands",
@@ -10209,7 +10470,8 @@
         "gihwr": 0.518,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95065": {
     "name": "Scoured Barrens",
@@ -10260,7 +10522,8 @@
         "gihwr": 0.558,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95066": {
     "name": "Sunbillow Verge",
@@ -10287,7 +10550,8 @@
         "gihwr": 0.566,
         "grade": "A+"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95067": {
     "name": "Swiftwater Cliffs",
@@ -10338,7 +10602,8 @@
         "gihwr": 0.554,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95068": {
     "name": "Thornwood Falls",
@@ -10389,7 +10654,8 @@
         "gihwr": 0.555,
         "grade": "C"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95069": {
     "name": "Tranquil Cove",
@@ -10440,7 +10706,8 @@
         "gihwr": 0.562,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95070": {
     "name": "Wastewood Verge",
@@ -10475,7 +10742,8 @@
         "gihwr": 0.524,
         "grade": "C+"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95071": {
     "name": "Wild Roads",
@@ -10510,7 +10778,8 @@
         "gihwr": 0.539,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95072": {
     "name": "Willowrush Verge",
@@ -10549,7 +10818,8 @@
         "gihwr": 0.537,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95073": {
     "name": "Wind-Scarred Crag",
@@ -10600,7 +10870,8 @@
         "gihwr": 0.501,
         "grade": "C-"
       }
-    }
+    },
+    "manaCost": ""
   },
   "95074": {
     "name": "Plains",
@@ -10609,7 +10880,8 @@
     "rarity": "basic",
     "color": "W",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "95075": {
     "name": "Plains",
@@ -10618,7 +10890,8 @@
     "rarity": "basic",
     "color": "W",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "95076": {
     "name": "Plains",
@@ -10627,7 +10900,8 @@
     "rarity": "basic",
     "color": "W",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "95077": {
     "name": "Island",
@@ -10636,7 +10910,8 @@
     "rarity": "basic",
     "color": "U",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "95078": {
     "name": "Island",
@@ -10645,7 +10920,8 @@
     "rarity": "basic",
     "color": "U",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "95079": {
     "name": "Island",
@@ -10654,7 +10930,8 @@
     "rarity": "basic",
     "color": "U",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "95080": {
     "name": "Swamp",
@@ -10663,7 +10940,8 @@
     "rarity": "basic",
     "color": "B",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "95081": {
     "name": "Swamp",
@@ -10672,7 +10950,8 @@
     "rarity": "basic",
     "color": "B",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "95082": {
     "name": "Swamp",
@@ -10681,7 +10960,8 @@
     "rarity": "basic",
     "color": "B",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "95083": {
     "name": "Mountain",
@@ -10690,7 +10970,8 @@
     "rarity": "basic",
     "color": "R",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "95084": {
     "name": "Mountain",
@@ -10699,7 +10980,8 @@
     "rarity": "basic",
     "color": "R",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "95085": {
     "name": "Mountain",
@@ -10708,7 +10990,8 @@
     "rarity": "basic",
     "color": "R",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "95086": {
     "name": "Forest",
@@ -10717,7 +11000,8 @@
     "rarity": "basic",
     "color": "G",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "95087": {
     "name": "Forest",
@@ -10726,7 +11010,8 @@
     "rarity": "basic",
     "color": "G",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "95088": {
     "name": "Forest",
@@ -10735,7 +11020,8 @@
     "rarity": "basic",
     "color": "G",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "95089": {
     "name": "Plains",
@@ -10744,7 +11030,8 @@
     "rarity": "basic",
     "color": "W",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "95090": {
     "name": "Island",
@@ -10753,7 +11040,8 @@
     "rarity": "basic",
     "color": "U",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "95091": {
     "name": "Swamp",
@@ -10762,7 +11050,8 @@
     "rarity": "basic",
     "color": "B",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "95092": {
     "name": "Mountain",
@@ -10771,7 +11060,8 @@
     "rarity": "basic",
     "color": "R",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "95093": {
     "name": "Forest",
@@ -10780,7 +11070,8 @@
     "rarity": "basic",
     "color": "G",
     "manaValue": 0,
-    "isLand": true
+    "isLand": true,
+    "manaCost": ""
   },
   "95106": {
     "name": "Cavalier of Dawn",
@@ -10789,7 +11080,8 @@
     "rarity": "mythic",
     "color": "W",
     "manaValue": 5,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{2}{W}{W}{W}"
   },
   "95107": {
     "name": "Thoughtcast",
@@ -10798,7 +11090,8 @@
     "rarity": "common",
     "color": "U",
     "manaValue": 5,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{4}{U}"
   },
   "95108": {
     "name": "Whir of Invention",
@@ -10807,7 +11100,8 @@
     "rarity": "rare",
     "color": "U",
     "manaValue": 3,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{X}{U}{U}{U}"
   },
   "95109": {
     "name": "Bone Miser",
@@ -10816,7 +11110,8 @@
     "rarity": "rare",
     "color": "B",
     "manaValue": 5,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{4}{B}"
   },
   "95110": {
     "name": "Lord of the Undead",
@@ -10825,7 +11120,8 @@
     "rarity": "rare",
     "color": "B",
     "manaValue": 3,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{1}{B}{B}"
   },
   "95111": {
     "name": "Chandra's Ignition",
@@ -10834,7 +11130,8 @@
     "rarity": "rare",
     "color": "R",
     "manaValue": 5,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{3}{R}{R}"
   },
   "95112": {
     "name": "Galvanic Blast",
@@ -10843,7 +11140,8 @@
     "rarity": "common",
     "color": "R",
     "manaValue": 1,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{R}"
   },
   "95113": {
     "name": "Pathbreaker Ibex",
@@ -10852,7 +11150,8 @@
     "rarity": "rare",
     "color": "G",
     "manaValue": 6,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{4}{G}{G}"
   },
   "95114": {
     "name": "Chrome Mox",
@@ -10861,7 +11160,8 @@
     "rarity": "mythic",
     "color": "",
     "manaValue": 0,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{0}"
   },
   "95115": {
     "name": "Skysovereign, Consul Flagship",
@@ -10870,6 +11170,7 @@
     "rarity": "mythic",
     "color": "",
     "manaValue": 5,
-    "isLand": false
+    "isLand": false,
+    "manaCost": "{5}"
   }
 }

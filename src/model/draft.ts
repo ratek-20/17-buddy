@@ -24,6 +24,7 @@ export type CardRating = WinRateGrade & {
   rarity?: string;
   color?: string;
   manaValue?: number;
+  manaCost?: string;
   isLand?: boolean;
   deckRatings?: Record<string, WinRateGrade>;
 };
