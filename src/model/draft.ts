@@ -12,7 +12,12 @@ export type PackReceived = {
   pickedCardIds: number[];
 };
 
-export type ArenaLogEvent = DraftStarted | PackReceived;
+export type SceneChanged = {
+  type: 'scene-changed';
+  sceneName: string;
+};
+
+export type ArenaLogEvent = DraftStarted | PackReceived | SceneChanged;
 
 export type WinRateGrade = {
   gihwr: number | null;

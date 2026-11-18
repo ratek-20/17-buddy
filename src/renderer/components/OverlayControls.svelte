@@ -7,19 +7,25 @@
 
   const INTERACTION_PADDING = 32;
 
-  export let options: string[];
-  export let selected: string;
-  export let pickedCards: RatedCard[];
-  export let sideboardCounts: SideboardCounts;
-  export let onSelectDeck: (deck: string) => void;
-  export let onMoveCard: (
-    cardId: number,
-    destination: 'main' | 'sideboard',
-  ) => void;
+  let {
+    options,
+    selected,
+    pickedCards,
+    sideboardCounts,
+    onSelectDeck,
+    onMoveCard,
+  }: {
+    options: string[];
+    selected: string;
+    pickedCards: RatedCard[];
+    sideboardCounts: SideboardCounts;
+    onSelectDeck: (deck: string) => void;
+    onMoveCard: (cardId: number, destination: 'main' | 'sideboard') => void;
+  } = $props();
 
-  let openPanel: 'deck' | 'state' | null = null;
+  let openPanel = $state<'deck' | 'state' | null>(null);
   let interactionIsEnabled = false;
-  let controlsElement: HTMLDivElement | undefined;
+  let controlsElement = $state<HTMLDivElement>();
 
   function handleMouseMove(event: MouseEvent): void {
     if (!controlsElement) {
@@ -49,14 +55,25 @@
     openPanel = null;
   }
 
-  onDestroy(() => {
+  function resetInteraction(): void {
+    openPanel = null;
     if (interactionIsEnabled) {
+      interactionIsEnabled = false;
       window.draftOverlay.setInteractive(false);
     }
-  });
+  }
+
+  function handleVisibilityChange(): void {
+    if (document.hidden) {
+      resetInteraction();
+    }
+  }
+
+  onDestroy(resetInteraction);
 </script>
 
-<svelte:window onmousemove={handleMouseMove} />
+<svelte:window onmousemove={handleMouseMove} onmouseleave={resetInteraction} />
+<svelte:document onvisibilitychange={handleVisibilityChange} />
 
 <div bind:this={controlsElement} class="controls">
   {#if options.length > 0}

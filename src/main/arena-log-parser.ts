@@ -6,7 +6,25 @@ const QUICK_DRAFT_EVENT_NAME = /^QuickDraft_([^_]+)/;
 const DRAFT_STATUS_MARKERS = ['BotDraftDraftStatus', 'BotDraft_DraftStatus'];
 
 export function parseArenaLogLine(line: string): ArenaLogEvent | null {
-  return parseDraftStarted(line) ?? parsePackReceived(line);
+  return (
+    parseSceneChanged(line) ??
+    parseDraftStarted(line) ??
+    parsePackReceived(line)
+  );
+}
+
+function parseSceneChanged(line: string): ArenaLogEvent | null {
+  const marker = 'SceneChange';
+  const markerIndex = line.indexOf(marker);
+  if (markerIndex === -1) {
+    return null;
+  }
+
+  const message = parseJsonObjectFrom(line, markerIndex + marker.length);
+  const sceneName = message?.toSceneName;
+  return typeof sceneName === 'string' && sceneName.length > 0
+    ? { type: 'scene-changed', sceneName }
+    : null;
 }
 
 function parseDraftStarted(line: string): ArenaLogEvent | null {

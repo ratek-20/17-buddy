@@ -7,6 +7,22 @@ import {
 } from '../src/renderer/arena-deck-layout';
 
 describe('splitDeckCards', () => {
+  it('orders color pairs consistently when the dataset reverses their letters', () => {
+    const pairs = ['WU', 'UB', 'BR', 'RG', 'WG', 'WB', 'UR', 'BG', 'WR', 'UG'];
+    const cards = pairs.map((pair, index) =>
+      createCard(
+        index,
+        String(pairs.length - index),
+        [...pair].reverse().join(''),
+        5,
+      ),
+    );
+
+    expect(
+      splitDeckCards(cards, {}).mainDeck.map(({ card }) => card.color),
+    ).toEqual(cards.map((card) => card.color));
+  });
+
   it('groups duplicates and follows Arena mana, color, and name ordering', () => {
     const cards = [
       createCard(1, 'Possession Engine', 'U', 5),

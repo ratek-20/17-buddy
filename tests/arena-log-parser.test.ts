@@ -2,6 +2,37 @@ import { describe, expect, it } from 'vitest';
 import { parseArenaLogLine } from '../src/main/arena-log-parser';
 
 describe('parseArenaLogLine', () => {
+  it.each(['Draft', 'DeckBuilder', 'DeckDetails', 'Home', 'EventLanding'])(
+    'parses navigation to the %s scene',
+    (sceneName) => {
+      const line =
+        '[UnityCrossThreadLogger] SceneChange ' +
+        JSON.stringify({
+          fromSceneName: 'Draft',
+          toSceneName: sceneName,
+          initiator: 'User',
+          context: 'navigation',
+        }) +
+        ' trailing text';
+
+      expect(parseArenaLogLine(line)).toEqual({
+        type: 'scene-changed',
+        sceneName,
+      });
+    },
+  );
+
+  it.each([
+    'SceneChange {"fromSceneName":"Draft"}',
+    'SceneChange {"toSceneName":null}',
+    'SceneChange {"toSceneName":5}',
+    'SceneChange {"toSceneName":""}',
+    'SceneChange {"toSceneName":"DeckBuilder"',
+    'SceneLoader:LoadContentInternal(NavContentType, SceneChangeInitiator)',
+  ])('ignores an incomplete scene change: %s', (line) => {
+    expect(parseArenaLogLine(line)).toBeNull();
+  });
+
   it.each(['BotDraftDraftStatus', 'BotDraft_DraftStatus'])(
     'parses a draft start using the %s marker',
     (marker) => {

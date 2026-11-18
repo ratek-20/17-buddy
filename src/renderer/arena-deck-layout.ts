@@ -141,7 +141,11 @@ function colorOrder(card: RatedCard): number {
 
 function multicolorOrder(card: RatedCard): number {
   const color = card.color ?? '';
-  const index = MULTICOLOR_ORDER.indexOf(color);
+  // Datasets may encode the same pair as GR or RG, for example.
+  const normalizedColor = [...MONO_COLOR_ORDER]
+    .filter((symbol) => color.includes(symbol))
+    .join('');
+  const index = MULTICOLOR_ORDER.indexOf(normalizedColor);
   return index === -1 ? MULTICOLOR_ORDER.length : index;
 }
 

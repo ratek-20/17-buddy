@@ -151,6 +151,10 @@ function multicolorOrder(card: RatedCard): number {
     return 0;
   }
 
-  const order = MULTICOLOR_ORDER.indexOf(color);
+  // Datasets may encode the same pair as GR or RG, for example.
+  const normalizedColor = [...MONO_COLOR_ORDER]
+    .filter((symbol) => color.includes(symbol))
+    .join('');
+  const order = MULTICOLOR_ORDER.indexOf(normalizedColor);
   return order === -1 ? MULTICOLOR_ORDER.length : order;
 }

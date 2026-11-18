@@ -30,6 +30,7 @@ let arenaForegroundMonitor: ArenaForegroundMonitor | null = null;
 let foregroundArenaWindow: ArenaWindow | null = null;
 let overlayWindow: BrowserWindow | null = null;
 let latestRatedPack: RatedPack | null = null;
+let currentArenaScene: string | null = null;
 
 const tolerateClosedOutputPipe = (stream: NodeJS.WriteStream): void => {
   stream.on('error', (error: NodeJS.ErrnoException) => {
@@ -111,7 +112,11 @@ const updateOverlayVisibility = (): void => {
     return;
   }
 
-  if (!foregroundArenaWindow) {
+  if (
+    !foregroundArenaWindow ||
+    currentArenaScene !== 'Draft' ||
+    !latestRatedPack
+  ) {
     overlayWindow.setIgnoreMouseEvents(true, { forward: true });
     overlayWindow.hide();
     return;
@@ -132,8 +137,10 @@ const handleOverlayInteraction = (
   if (
     typeof interactive !== 'boolean' ||
     !foregroundArenaWindow ||
+    currentArenaScene !== 'Draft' ||
     !overlayWindow ||
     overlayWindow.isDestroyed() ||
+    !overlayWindow.isVisible() ||
     event.sender !== overlayWindow.webContents
   ) {
     return;
@@ -233,6 +240,12 @@ const logRatedPack = (pack: RatedPack): void => {
 const handleArenaEvent = (event: ArenaLogEvent): void => {
   console.info(`[arena-log] ${JSON.stringify(event)}`);
 
+  if (event.type === 'scene-changed') {
+    currentArenaScene = event.sceneName;
+    updateOverlayVisibility();
+    return;
+  }
+
   if (event.type !== 'pack-received') {
     return;
   }
@@ -244,8 +257,11 @@ const handleArenaEvent = (event: ArenaLogEvent): void => {
   }
 
   latestRatedPack = ratingsRepository.ratePack(event);
+  // A live pack identifies the draft if the app started after its scene change.
+  currentArenaScene ??= 'Draft';
   logRatedPack(latestRatedPack);
   sendRatedPack(latestRatedPack);
+  updateOverlayVisibility();
 };
 
 const startArenaLogWatcher = (): void => {
