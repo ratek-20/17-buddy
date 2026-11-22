@@ -1,6 +1,9 @@
 import type { IpcMainEvent } from 'electron';
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
-import { OVERLAY_INTERACTION_CHANNEL } from '../src/ipc/draft-overlay';
+import {
+  OVERLAY_INTERACTION_CHANNEL,
+  RATED_PACK_CHANNEL,
+} from '../src/ipc/draft-overlay';
 import type { ArenaWindow } from '../src/main/arena-foreground-monitor';
 
 const harness = vi.hoisted(() => {
@@ -157,6 +160,63 @@ describe('draft overlay navigation', () => {
     expect(harness.overlay.isVisible()).toBe(false);
     receivePack();
     expect(harness.overlay.isVisible()).toBe(true);
+  });
+
+  it('switches from Quick Draft to Premier packs and sends rated picks through IPC', () => {
+    receivePack();
+    expect(harness.overlay.isVisible()).toBe(true);
+    harness.onLine(
+      'EventJoin {"request":"{\\"EventName\\":\\"PremierDraft_TDM_2026\\"}"}',
+    );
+    expect(harness.overlay.isVisible()).toBe(false);
+
+    harness.onLine(
+      'Draft.Notify {"draftId":"test-draft","SelfPack":1,"SelfPick":2,"PackCards":"95516,95712"}',
+    );
+    expect(harness.overlay.isVisible()).toBe(true);
+    expect(harness.overlay.webContents.send).toHaveBeenLastCalledWith(
+      RATED_PACK_CHANNEL,
+      expect.objectContaining({
+        setCode: 'TDM',
+        packNumber: 1,
+        pickNumber: 2,
+        cards: [
+          expect.objectContaining({
+            id: 95516,
+            name: 'Ugin, Eye of the Storms',
+            grade: 'A+',
+          }),
+          expect.objectContaining({ id: 95712, name: 'Glacial Dragonhunt' }),
+        ],
+      }),
+    );
+
+    harness.onLine(
+      'EventPlayerDraftMakePick {"request":{"DraftId":"test-draft","Pack":1,"Pick":2,"GrpIds":[95516]}}',
+    );
+    expect(harness.overlay.webContents.send).toHaveBeenLastCalledWith(
+      RATED_PACK_CHANNEL,
+      expect.objectContaining({
+        cards: [],
+        pickedCards: [expect.objectContaining({ id: 95516, grade: 'A+' })],
+      }),
+    );
+
+    navigateTo('DeckBuilder');
+    harness.onLine(
+      'Draft.Notify {"draftId":"test-draft","SelfPack":1,"SelfPick":3,"PackCards":"95712"}',
+    );
+    expect(harness.overlay.isVisible()).toBe(false);
+    navigateTo('Draft');
+    expect(harness.overlay.isVisible()).toBe(true);
+    expect(harness.overlay.webContents.send).toHaveBeenLastCalledWith(
+      RATED_PACK_CHANNEL,
+      expect.objectContaining({
+        pickNumber: 3,
+        cards: [expect.objectContaining({ id: 95712 })],
+        pickedCards: [expect.objectContaining({ id: 95516 })],
+      }),
+    );
   });
 
   it.each(['DeckDetails', 'DeckBuilder', 'Home', 'EventLanding'])(

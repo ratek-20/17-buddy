@@ -18,7 +18,7 @@ import {
   ArenaForegroundMonitor,
   type ArenaWindow,
 } from './arena-foreground-monitor';
-import { parseArenaLogLine } from './arena-log-parser';
+import { ArenaLogParser } from './arena-log-parser';
 import { ArenaLogWatcher } from './arena-log-watcher';
 import { resolveMacOverlayBounds } from './arena-window-bounds';
 import { RatingsRepository } from './ratings-repository';
@@ -246,7 +246,9 @@ const handleArenaEvent = (event: ArenaLogEvent): void => {
     return;
   }
 
-  if (event.type !== 'pack-received') {
+  if (event.type === 'draft-started') {
+    latestRatedPack = null;
+    updateOverlayVisibility();
     return;
   }
 
@@ -276,10 +278,11 @@ const startArenaLogWatcher = (): void => {
     return;
   }
 
+  const parser = new ArenaLogParser();
   arenaLogWatcher = new ArenaLogWatcher(
     logPath,
     (line) => {
-      const event = parseArenaLogLine(line);
+      const event = parser.parseLine(line);
 
       if (event) {
         handleArenaEvent(event);
@@ -287,6 +290,11 @@ const startArenaLogWatcher = (): void => {
     },
     (error) => {
       console.error('[arena-log] Failed to read the Arena log', error);
+    },
+    () => {
+      parser.reset();
+      latestRatedPack = null;
+      updateOverlayVisibility();
     },
   );
   arenaLogWatcher.start();

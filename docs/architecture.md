@@ -75,10 +75,10 @@ sequenceDiagram
     participant Preload as Preload bridge
     participant UI as Svelte renderer
 
-    Arena->>Log: Append BotDraft pack payload
+    Arena->>Log: Append BotDraft payload or Draft.Notify
     Watcher->>Log: Read bytes appended after startup
     Log-->>Watcher: Complete log lines
-    Watcher->>Parser: parseArenaLogLine(line)
+    Watcher->>Parser: ArenaLogParser.parseLine(line)
     Parser-->>Main: PackReceived
     Main->>Ratings: ratePack(pack)
     Ratings-->>Main: RatedPack and available decks
@@ -88,6 +88,19 @@ sequenceDiagram
     UI->>UI: Sort cards like Arena
     UI->>UI: Scale positions and render badges
 ```
+
+Quick Draft payloads contain the event name, pack, and picked cards together.
+Premier Draft uses separate join/course, `Draft.Notify`, and
+`EventPlayerDraftMakePick` messages. Each watcher owns a parser instance that
+remembers the Premier set and draft ID, keeps picks by pack and pick number,
+and emits the same `PackReceived` model for both formats. `LogBusinessEvents`
+records supply event context and auto-picks; their historical `CardsInPack`
+never replace the live pack. Pick requests and business records for the same
+pick count once. These formats can be checked against the
+[17Lands client parser](https://github.com/rconroy293/mtga-log-client/blob/master/src/python/seventeenlands/mtga_follower.py).
+
+Arena may log Premier P1P1 only after the pick, so this log-only overlay may
+start showing grades at P1P2. It collects Premier picks observed after startup.
 
 The watcher starts at the end of the existing file, so historical draft events
 are ignored. It reads only content produced while 17-buddy is running and

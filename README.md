@@ -1,6 +1,6 @@
 # 🃏 17-buddy
 
-> An experimental, non-commercial MTG Arena Quick Draft overlay that displays
+> An experimental, non-commercial MTG Arena Quick and Premier Draft overlay that displays
 > 17Lands card win-rate grades directly on the draft screen.
 
 **All-decks ratings**
@@ -13,7 +13,7 @@
 
 ## Overview
 
-17-buddy watches the local MTG Arena log, detects each Quick Draft pack, joins
+17-buddy watches the local MTG Arena log, detects Quick and Premier Draft packs, joins
 the card IDs with embedded 17Lands ratings, and renders a transparent Electron
 overlay over Arena. The overlay follows the Arena window, scales with it, and
 hides its badges while a card is enlarged on hover. A deck selector switches
@@ -31,7 +31,7 @@ gameplay data, or telemetry.
 
 ## Features
 
-- Detects Quick Draft packs from newly appended Arena log entries.
+- Detects Quick and Premier Draft packs from newly appended Arena log entries.
 - Displays a color-coded grade on each card.
 - Provides an in-game selector for switching between all-decks and deck-color
   ratings when the dataset supports them.
@@ -65,8 +65,13 @@ npm start
 
 17-buddy starts in the background and prints its status in the terminal. Start
 it before opening the draft so it can process new log entries. No separate app
-window opens; grade badges appear when Arena is showing a supported Quick Draft
-pack.
+window opens; grade badges appear when Arena is showing a supported Quick or
+Premier Draft pack.
+
+For Premier Draft, start 17-buddy before joining or reopening the draft. Arena
+may not log the opening pack before the first pick, so live grades may begin
+at pack 1, pick 2. My Picks tracks picks observed while 17-buddy is running;
+earlier picks are not recovered when starting midway through a Premier Draft.
 
 The deck selector defaults to **All**. Select a color combination such as
 **WU**, **UG**, or **WUG** to use ratings calculated from decks with those main
@@ -97,7 +102,7 @@ sequenceDiagram
     participant Preload as Preload bridge
     participant UI as Svelte renderer
 
-    Arena->>Log: Append Quick Draft pack
+    Arena->>Log: Append Quick or Premier Draft pack
     Log-->>Main: Watch and parse new entries
     Main->>Ratings: Look up card ratings
     Ratings-->>Main: Return rated pack

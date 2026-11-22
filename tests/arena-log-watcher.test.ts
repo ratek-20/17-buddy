@@ -63,6 +63,30 @@ describe('ArenaLogWatcher', () => {
     expect(errors).toEqual([]);
   });
 
+  it('resets draft context before emitting lines from a truncated log', async () => {
+    const logPath = createTemporaryLog(
+      'old history that is longer than the replacement log\n',
+    );
+    const events: string[] = [];
+    const watcher = new ArenaLogWatcher(
+      logPath,
+      (line) => events.push(line),
+      (error) => {
+        throw error;
+      },
+      () => events.push('reset'),
+    );
+    activeWatchers.push(watcher);
+    watcher.start();
+    appendFileSync(logPath, 'live before reset\n');
+    await vi.waitFor(() => expect(events).toEqual(['live before reset']));
+
+    writeFileSync(logPath, 'new session\n');
+    await vi.waitFor(() =>
+      expect(events).toEqual(['live before reset', 'reset', 'new session']),
+    );
+  });
+
   function createTemporaryLog(contents = ''): string {
     const directory = mkdtempSync(path.join(tmpdir(), '17-buddy-watcher-'));
     temporaryDirectories.push(directory);

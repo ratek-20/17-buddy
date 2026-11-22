@@ -18,6 +18,7 @@ export class ArenaLogWatcher {
     private readonly logPath: string,
     private readonly onLine: LineHandler,
     private readonly onError: ErrorHandler,
+    private readonly onReset: () => void = () => {},
   ) {}
 
   start(): void {
@@ -130,6 +131,7 @@ export class ArenaLogWatcher {
     this.byteOffset = 0;
     this.decoder = new StringDecoder('utf8');
     this.pendingLine = '';
+    this.onReset();
   }
 
   private moveToEndOfExistingFile(): void {
