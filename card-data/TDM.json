@@ -1,0 +1,10248 @@
+{
+  "95516": {
+    "name": "Ugin, Eye of the Storms",
+    "gihwr": 0.687,
+    "grade": "A+",
+    "rarity": "mythic",
+    "color": "",
+    "manaValue": 7,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.728,
+        "grade": "A+"
+      },
+      "WUR": {
+        "gihwr": 0.697,
+        "grade": "A+"
+      },
+      "WBR": {
+        "gihwr": 0.606,
+        "grade": "A"
+      },
+      "WBG": {
+        "gihwr": 0.639,
+        "grade": "A+"
+      },
+      "UBG": {
+        "gihwr": 0.696,
+        "grade": "A+"
+      },
+      "URG": {
+        "gihwr": 0.705,
+        "grade": "A+"
+      }
+    },
+    "manaCost": "{7}"
+  },
+  "95517": {
+    "name": "Anafenza, Unyielding Lineage",
+    "gihwr": 0.567,
+    "grade": "C+",
+    "rarity": "rare",
+    "color": "W",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.573,
+        "grade": "B"
+      },
+      "WR": {
+        "gihwr": 0.598,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.56,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.564,
+        "grade": "B-"
+      },
+      "WBG": {
+        "gihwr": 0.552,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{2}{W}"
+  },
+  "95518": {
+    "name": "Arashin Sunshield",
+    "gihwr": 0.518,
+    "grade": "D-",
+    "rarity": "common",
+    "color": "W",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.522,
+        "grade": "D+"
+      },
+      "WR": {
+        "gihwr": 0.514,
+        "grade": "F"
+      },
+      "WUR": {
+        "gihwr": 0.523,
+        "grade": "D"
+      },
+      "WBR": {
+        "gihwr": 0.528,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.495,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{3}{W}"
+  },
+  "95519": {
+    "name": "Bearer of Glory",
+    "gihwr": 0.547,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "W",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.6,
+        "grade": "B+"
+      },
+      "WB": {
+        "gihwr": 0.551,
+        "grade": "C"
+      },
+      "WR": {
+        "gihwr": 0.566,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.528,
+        "grade": "D+"
+      },
+      "WBR": {
+        "gihwr": 0.541,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.523,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{1}{W}"
+  },
+  "95520": {
+    "name": "Clarion Conqueror",
+    "gihwr": 0.57,
+    "grade": "C+",
+    "rarity": "rare",
+    "color": "W",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.586,
+        "grade": "B+"
+      },
+      "WR": {
+        "gihwr": 0.58,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.58,
+        "grade": "B-"
+      },
+      "WBR": {
+        "gihwr": 0.581,
+        "grade": "B"
+      },
+      "WBG": {
+        "gihwr": 0.541,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{2}{W}"
+  },
+  "95521": {
+    "name": "Coordinated Maneuver",
+    "gihwr": 0.552,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "W",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.55,
+        "grade": "C"
+      },
+      "WR": {
+        "gihwr": 0.578,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.537,
+        "grade": "D+"
+      },
+      "WBR": {
+        "gihwr": 0.553,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.502,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{1}{W}"
+  },
+  "95522": {
+    "name": "Dalkovan Packbeasts",
+    "gihwr": 0.57,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "W",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.57,
+        "grade": "B-"
+      },
+      "WR": {
+        "gihwr": 0.607,
+        "grade": "B"
+      },
+      "WUR": {
+        "gihwr": 0.543,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.564,
+        "grade": "B-"
+      },
+      "WBG": {
+        "gihwr": 0.519,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{2}{W}"
+  },
+  "95523": {
+    "name": "Descendant of Storms",
+    "gihwr": 0.582,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "W",
+    "manaValue": 1,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.586,
+        "grade": "B+"
+      },
+      "WR": {
+        "gihwr": 0.614,
+        "grade": "B+"
+      },
+      "WUR": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.566,
+        "grade": "B-"
+      },
+      "WBG": {
+        "gihwr": 0.551,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{W}"
+  },
+  "95524": {
+    "name": "Dragonback Lancer",
+    "gihwr": 0.507,
+    "grade": "F",
+    "rarity": "common",
+    "color": "W",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.493,
+        "grade": "F"
+      },
+      "WR": {
+        "gihwr": 0.52,
+        "grade": "F"
+      },
+      "WUR": {
+        "gihwr": 0.477,
+        "grade": "F"
+      },
+      "WBR": {
+        "gihwr": 0.517,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.47,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{3}{W}"
+  },
+  "95525": {
+    "name": "Duty Beyond Death",
+    "gihwr": 0.557,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "W",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.545,
+        "grade": "C"
+      },
+      "WR": {
+        "gihwr": 0.594,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.515,
+        "grade": "D"
+      },
+      "WBR": {
+        "gihwr": 0.549,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.506,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{1}{W}"
+  },
+  "95526": {
+    "name": "Elspeth, Storm Slayer",
+    "gihwr": 0.668,
+    "grade": "A+",
+    "rarity": "mythic",
+    "color": "W",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.706,
+        "grade": "A+"
+      },
+      "WUR": {
+        "gihwr": 0.65,
+        "grade": "A+"
+      },
+      "WBR": {
+        "gihwr": 0.67,
+        "grade": "A+"
+      },
+      "WBG": {
+        "gihwr": 0.667,
+        "grade": "A+"
+      }
+    },
+    "manaCost": "{3}{W}{W}"
+  },
+  "95527": {
+    "name": "Fortress Kin-Guard",
+    "gihwr": 0.57,
+    "grade": "C+",
+    "rarity": "common",
+    "color": "W",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.579,
+        "grade": "C+"
+      },
+      "WB": {
+        "gihwr": 0.579,
+        "grade": "B"
+      },
+      "WR": {
+        "gihwr": 0.587,
+        "grade": "C+"
+      },
+      "WG": {
+        "gihwr": 0.547,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.559,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.571,
+        "grade": "B-"
+      },
+      "WBG": {
+        "gihwr": 0.535,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{1}{W}"
+  },
+  "95528": {
+    "name": "Furious Forebear",
+    "gihwr": 0.554,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "W",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.547,
+        "grade": "C"
+      },
+      "WR": {
+        "gihwr": 0.576,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.552,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.526,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{1}{W}"
+  },
+  "95529": {
+    "name": "Lightfoot Technique",
+    "gihwr": 0.532,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "W",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.539,
+        "grade": "C-"
+      },
+      "WR": {
+        "gihwr": 0.55,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.515,
+        "grade": "D"
+      },
+      "WBR": {
+        "gihwr": 0.531,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.519,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{1}{W}"
+  },
+  "95530": {
+    "name": "Loxodon Battle Priest",
+    "gihwr": 0.524,
+    "grade": "D",
+    "rarity": "uncommon",
+    "color": "W",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.535,
+        "grade": "C-"
+      },
+      "WR": {
+        "gihwr": 0.529,
+        "grade": "D-"
+      },
+      "WUR": {
+        "gihwr": 0.526,
+        "grade": "D"
+      },
+      "WBR": {
+        "gihwr": 0.518,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.523,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{4}{W}"
+  },
+  "95531": {
+    "name": "Mardu Devotee",
+    "gihwr": 0.584,
+    "grade": "B-",
+    "rarity": "common",
+    "color": "BRW",
+    "manaValue": 1,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.578,
+        "grade": "B"
+      },
+      "WR": {
+        "gihwr": 0.593,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.567,
+        "grade": "C+"
+      },
+      "WBR": {
+        "gihwr": 0.591,
+        "grade": "B+"
+      },
+      "WBG": {
+        "gihwr": 0.548,
+        "grade": "C+"
+      },
+      "WUBR": {
+        "gihwr": 0.571,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.506,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{W}"
+  },
+  "95532": {
+    "name": "Osseous Exhale",
+    "gihwr": 0.55,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "W",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.568,
+        "grade": "C"
+      },
+      "WB": {
+        "gihwr": 0.57,
+        "grade": "B-"
+      },
+      "WR": {
+        "gihwr": 0.563,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.557,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.531,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.529,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.59,
+        "grade": "B-"
+      },
+      "WUBR": {
+        "gihwr": 0.573,
+        "grade": "C+"
+      },
+      "WUBG": {
+        "gihwr": 0.564,
+        "grade": "C+"
+      },
+      "WURG": {
+        "gihwr": 0.549,
+        "grade": "D+"
+      },
+      "WUBRG": {
+        "gihwr": 0.572,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{1}{W}"
+  },
+  "95533": {
+    "name": "Poised Practitioner",
+    "gihwr": 0.527,
+    "grade": "D",
+    "rarity": "common",
+    "color": "W",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.498,
+        "grade": "F"
+      },
+      "WR": {
+        "gihwr": 0.542,
+        "grade": "D"
+      },
+      "WUR": {
+        "gihwr": 0.527,
+        "grade": "D"
+      },
+      "WBR": {
+        "gihwr": 0.524,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.481,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{2}{W}"
+  },
+  "95534": {
+    "name": "Rally the Monastery",
+    "gihwr": 0.592,
+    "grade": "B",
+    "rarity": "uncommon",
+    "color": "W",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.559,
+        "grade": "C+"
+      },
+      "WR": {
+        "gihwr": 0.619,
+        "grade": "B+"
+      },
+      "WUR": {
+        "gihwr": 0.603,
+        "grade": "B"
+      },
+      "WBR": {
+        "gihwr": 0.583,
+        "grade": "B+"
+      },
+      "WBG": {
+        "gihwr": 0.547,
+        "grade": "C+"
+      },
+      "WURG": {
+        "gihwr": 0.566,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.558,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{3}{W}"
+  },
+  "95535": {
+    "name": "Rebellious Strike",
+    "gihwr": 0.557,
+    "grade": "C",
+    "rarity": "common",
+    "color": "W",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.548,
+        "grade": "C"
+      },
+      "WR": {
+        "gihwr": 0.579,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.525,
+        "grade": "D"
+      },
+      "WBR": {
+        "gihwr": 0.55,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.494,
+        "grade": "D-"
+      }
+    },
+    "manaCost": "{1}{W}"
+  },
+  "95536": {
+    "name": "Riling Dawnbreaker",
+    "gihwr": 0.537,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "W",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.538,
+        "grade": "D-"
+      },
+      "WB": {
+        "gihwr": 0.556,
+        "grade": "C+"
+      },
+      "WR": {
+        "gihwr": 0.553,
+        "grade": "D+"
+      },
+      "WG": {
+        "gihwr": 0.558,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.548,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.532,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.511,
+        "grade": "D+"
+      },
+      "WUBR": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "WUBG": {
+        "gihwr": 0.514,
+        "grade": "F"
+      },
+      "WURG": {
+        "gihwr": 0.523,
+        "grade": "D-"
+      },
+      "WUBRG": {
+        "gihwr": 0.51,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{4}{W}"
+  },
+  "95538": {
+    "name": "Sage of the Skies",
+    "gihwr": 0.65,
+    "grade": "A+",
+    "rarity": "rare",
+    "color": "W",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.633,
+        "grade": "A+"
+      },
+      "WR": {
+        "gihwr": 0.662,
+        "grade": "A+"
+      },
+      "WUR": {
+        "gihwr": 0.657,
+        "grade": "A+"
+      },
+      "WBR": {
+        "gihwr": 0.646,
+        "grade": "A+"
+      },
+      "WBG": {
+        "gihwr": 0.626,
+        "grade": "A+"
+      },
+      "URG": {
+        "gihwr": 0.657,
+        "grade": "A+"
+      },
+      "WURG": {
+        "gihwr": 0.643,
+        "grade": "A"
+      },
+      "WUBRG": {
+        "gihwr": 0.655,
+        "grade": "A+"
+      }
+    },
+    "manaCost": "{2}{W}"
+  },
+  "95539": {
+    "name": "Salt Road Packbeast",
+    "gihwr": 0.58,
+    "grade": "B-",
+    "rarity": "common",
+    "color": "W",
+    "manaValue": 6,
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.612,
+        "grade": "A-"
+      },
+      "WB": {
+        "gihwr": 0.583,
+        "grade": "B+"
+      },
+      "WR": {
+        "gihwr": 0.609,
+        "grade": "B"
+      },
+      "WG": {
+        "gihwr": 0.562,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.578,
+        "grade": "C+"
+      },
+      "WBR": {
+        "gihwr": 0.574,
+        "grade": "B"
+      },
+      "WBG": {
+        "gihwr": 0.54,
+        "grade": "C"
+      },
+      "WUBG": {
+        "gihwr": 0.552,
+        "grade": "C-"
+      },
+      "WURG": {
+        "gihwr": 0.515,
+        "grade": "F"
+      },
+      "WUBRG": {
+        "gihwr": 0.475,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{5}{W}"
+  },
+  "95540": {
+    "name": "Smile at Death",
+    "gihwr": 0.519,
+    "grade": "D-",
+    "rarity": "mythic",
+    "color": "W",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.529,
+        "grade": "D-"
+      },
+      "WUR": {
+        "gihwr": 0.498,
+        "grade": "F"
+      },
+      "WBR": {
+        "gihwr": 0.514,
+        "grade": "D"
+      },
+      "WBG": {
+        "gihwr": 0.508,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{3}{W}{W}"
+  },
+  "95541": {
+    "name": "Starry-Eyed Skyrider",
+    "gihwr": 0.52,
+    "grade": "D",
+    "rarity": "uncommon",
+    "color": "W",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.505,
+        "grade": "D-"
+      },
+      "WR": {
+        "gihwr": 0.541,
+        "grade": "D"
+      },
+      "WUR": {
+        "gihwr": 0.493,
+        "grade": "F"
+      },
+      "WBR": {
+        "gihwr": 0.517,
+        "grade": "D"
+      },
+      "WBG": {
+        "gihwr": 0.511,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{2}{W}"
+  },
+  "95542": {
+    "name": "Static Snare",
+    "gihwr": 0.564,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "W",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.556,
+        "grade": "C+"
+      },
+      "WR": {
+        "gihwr": 0.597,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.56,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.565,
+        "grade": "B-"
+      },
+      "WBG": {
+        "gihwr": 0.531,
+        "grade": "C"
+      },
+      "WUBG": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      },
+      "WURG": {
+        "gihwr": 0.541,
+        "grade": "D+"
+      },
+      "WUBRG": {
+        "gihwr": 0.545,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{4}{W}"
+  },
+  "95543": {
+    "name": "Stormbeacon Blade",
+    "gihwr": 0.501,
+    "grade": "F",
+    "rarity": "uncommon",
+    "color": "W",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.475,
+        "grade": "F"
+      },
+      "WR": {
+        "gihwr": 0.517,
+        "grade": "F"
+      },
+      "WUR": {
+        "gihwr": 0.477,
+        "grade": "F"
+      },
+      "WBR": {
+        "gihwr": 0.505,
+        "grade": "D-"
+      },
+      "WBG": {
+        "gihwr": 0.475,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{1}{W}"
+  },
+  "95544": {
+    "name": "Stormplain Detainment",
+    "gihwr": 0.556,
+    "grade": "C",
+    "rarity": "common",
+    "color": "W",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.537,
+        "grade": "D-"
+      },
+      "WB": {
+        "gihwr": 0.553,
+        "grade": "C+"
+      },
+      "WR": {
+        "gihwr": 0.579,
+        "grade": "C+"
+      },
+      "WG": {
+        "gihwr": 0.583,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.561,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.549,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.539,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.577,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.547,
+        "grade": "D+"
+      },
+      "WUBR": {
+        "gihwr": 0.555,
+        "grade": "C-"
+      },
+      "WUBG": {
+        "gihwr": 0.569,
+        "grade": "B-"
+      },
+      "WURG": {
+        "gihwr": 0.553,
+        "grade": "C-"
+      },
+      "WUBRG": {
+        "gihwr": 0.545,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{2}{W}"
+  },
+  "95545": {
+    "name": "Sunpearl Kirin",
+    "gihwr": 0.568,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "W",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.559,
+        "grade": "C+"
+      },
+      "WR": {
+        "gihwr": 0.597,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.562,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.574,
+        "grade": "B"
+      },
+      "WBG": {
+        "gihwr": 0.52,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{1}{W}"
+  },
+  "95546": {
+    "name": "Teeming Dragonstorm",
+    "gihwr": 0.567,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "W",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.569,
+        "grade": "B-"
+      },
+      "WR": {
+        "gihwr": 0.576,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.591,
+        "grade": "B-"
+      },
+      "WBR": {
+        "gihwr": 0.56,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.542,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.564,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.553,
+        "grade": "C-"
+      },
+      "WUBG": {
+        "gihwr": 0.568,
+        "grade": "C+"
+      },
+      "WURG": {
+        "gihwr": 0.573,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.552,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{3}{W}"
+  },
+  "95547": {
+    "name": "Tempest Hawk",
+    "gihwr": 0.522,
+    "grade": "D",
+    "rarity": "common",
+    "color": "W",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.507,
+        "grade": "D-"
+      },
+      "WR": {
+        "gihwr": 0.552,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.493,
+        "grade": "F"
+      },
+      "WBR": {
+        "gihwr": 0.521,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.502,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{2}{W}"
+  },
+  "95548": {
+    "name": "United Battlefront",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "rare",
+    "color": "W",
+    "manaValue": 4,
+    "isLand": false,
+    "manaCost": "{3}{W}"
+  },
+  "95549": {
+    "name": "Voice of Victory",
+    "gihwr": 0.603,
+    "grade": "B+",
+    "rarity": "rare",
+    "color": "W",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.615,
+        "grade": "A+"
+      },
+      "WR": {
+        "gihwr": 0.639,
+        "grade": "A"
+      },
+      "WUR": {
+        "gihwr": 0.597,
+        "grade": "B"
+      },
+      "WBR": {
+        "gihwr": 0.606,
+        "grade": "A"
+      },
+      "WBG": {
+        "gihwr": 0.565,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{1}{W}"
+  },
+  "95550": {
+    "name": "Wayspeaker Bodyguard",
+    "gihwr": 0.546,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "W",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.545,
+        "grade": "C"
+      },
+      "WR": {
+        "gihwr": 0.584,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.531,
+        "grade": "D+"
+      },
+      "WBR": {
+        "gihwr": 0.528,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.518,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{3}{W}"
+  },
+  "95551": {
+    "name": "Aegis Sculptor",
+    "gihwr": 0.539,
+    "grade": "D+",
+    "rarity": "uncommon",
+    "color": "U",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.538,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.519,
+        "grade": "D"
+      },
+      "UBG": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.542,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{3}{U}"
+  },
+  "95552": {
+    "name": "Agent of Kotis",
+    "gihwr": 0.522,
+    "grade": "D",
+    "rarity": "common",
+    "color": "U",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.555,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.501,
+        "grade": "F"
+      },
+      "WUR": {
+        "gihwr": 0.535,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.511,
+        "grade": "D-"
+      },
+      "URG": {
+        "gihwr": 0.53,
+        "grade": "D"
+      },
+      "WURG": {
+        "gihwr": 0.511,
+        "grade": "F"
+      },
+      "UBRG": {
+        "gihwr": 0.516,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{1}{U}"
+  },
+  "95553": {
+    "name": "Ambling Stormshell",
+    "gihwr": 0.603,
+    "grade": "B+",
+    "rarity": "rare",
+    "color": "U",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.616,
+        "grade": "A-"
+      },
+      "UG": {
+        "gihwr": 0.623,
+        "grade": "A-"
+      },
+      "WUR": {
+        "gihwr": 0.579,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.602,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.609,
+        "grade": "B"
+      },
+      "WURG": {
+        "gihwr": 0.613,
+        "grade": "B+"
+      },
+      "UBRG": {
+        "gihwr": 0.618,
+        "grade": "B+"
+      },
+      "WUBRG": {
+        "gihwr": 0.586,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{3}{U}{U}"
+  },
+  "95554": {
+    "name": "Bewildering Blizzard",
+    "gihwr": 0.566,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "U",
+    "manaValue": 6,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.569,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.56,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.564,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.57,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.573,
+        "grade": "C"
+      },
+      "WUBG": {
+        "gihwr": 0.535,
+        "grade": "D"
+      },
+      "WURG": {
+        "gihwr": 0.558,
+        "grade": "C-"
+      },
+      "UBRG": {
+        "gihwr": 0.579,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.515,
+        "grade": "D-"
+      }
+    },
+    "manaCost": "{4}{U}{U}"
+  },
+  "95555": {
+    "name": "Constrictor Sage",
+    "gihwr": 0.545,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "U",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.552,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.57,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.523,
+        "grade": "D"
+      },
+      "UBG": {
+        "gihwr": 0.54,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.559,
+        "grade": "C-"
+      },
+      "WURG": {
+        "gihwr": 0.546,
+        "grade": "D+"
+      },
+      "UBRG": {
+        "gihwr": 0.521,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{4}{U}"
+  },
+  "95556": {
+    "name": "Dirgur Island Dragon",
+    "gihwr": 0.561,
+    "grade": "C",
+    "rarity": "common",
+    "color": "U",
+    "manaValue": 6,
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.562,
+        "grade": "C-"
+      },
+      "UR": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.566,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.564,
+        "grade": "C"
+      },
+      "WUBR": {
+        "gihwr": 0.559,
+        "grade": "C-"
+      },
+      "WUBG": {
+        "gihwr": 0.539,
+        "grade": "D+"
+      },
+      "WURG": {
+        "gihwr": 0.58,
+        "grade": "C+"
+      },
+      "UBRG": {
+        "gihwr": 0.552,
+        "grade": "D+"
+      },
+      "WUBRG": {
+        "gihwr": 0.555,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{5}{U}"
+  },
+  "95558": {
+    "name": "Dispelling Exhale",
+    "gihwr": 0.581,
+    "grade": "B-",
+    "rarity": "common",
+    "color": "U",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.574,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.579,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.561,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.578,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.579,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.585,
+        "grade": "C+"
+      },
+      "WUBR": {
+        "gihwr": 0.588,
+        "grade": "B"
+      },
+      "WUBG": {
+        "gihwr": 0.578,
+        "grade": "B"
+      },
+      "WURG": {
+        "gihwr": 0.589,
+        "grade": "B-"
+      },
+      "UBRG": {
+        "gihwr": 0.598,
+        "grade": "B-"
+      },
+      "WUBRG": {
+        "gihwr": 0.587,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{1}{U}"
+  },
+  "95559": {
+    "name": "Dragonologist",
+    "gihwr": 0.591,
+    "grade": "B",
+    "rarity": "rare",
+    "color": "U",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.59,
+        "grade": "B-"
+      },
+      "UG": {
+        "gihwr": 0.576,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.593,
+        "grade": "B"
+      },
+      "UBG": {
+        "gihwr": 0.587,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.586,
+        "grade": "C+"
+      },
+      "WURG": {
+        "gihwr": 0.605,
+        "grade": "B"
+      },
+      "UBRG": {
+        "gihwr": 0.607,
+        "grade": "B"
+      },
+      "WUBRG": {
+        "gihwr": 0.628,
+        "grade": "A-"
+      }
+    },
+    "manaCost": "{2}{U}"
+  },
+  "95560": {
+    "name": "Dragonstorm Forecaster",
+    "gihwr": 0.567,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "U",
+    "manaValue": 1,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.523,
+        "grade": "D-"
+      },
+      "UG": {
+        "gihwr": 0.555,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.571,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.56,
+        "grade": "C-"
+      },
+      "WURG": {
+        "gihwr": 0.585,
+        "grade": "B-"
+      },
+      "UBRG": {
+        "gihwr": 0.566,
+        "grade": "C-"
+      },
+      "WUBRG": {
+        "gihwr": 0.605,
+        "grade": "B"
+      }
+    },
+    "manaCost": "{U}"
+  },
+  "95561": {
+    "name": "Essence Anchor",
+    "gihwr": 0.529,
+    "grade": "D",
+    "rarity": "uncommon",
+    "color": "U",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.513,
+        "grade": "F"
+      },
+      "UBG": {
+        "gihwr": 0.523,
+        "grade": "D"
+      },
+      "URG": {
+        "gihwr": 0.562,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{2}{U}"
+  },
+  "95562": {
+    "name": "Focus the Mind",
+    "gihwr": 0.555,
+    "grade": "C",
+    "rarity": "common",
+    "color": "U",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.533,
+        "grade": "F"
+      },
+      "UR": {
+        "gihwr": 0.552,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.546,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.557,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.542,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.559,
+        "grade": "C-"
+      },
+      "WUBG": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      },
+      "WURG": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "UBRG": {
+        "gihwr": 0.572,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.582,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{4}{U}"
+  },
+  "95563": {
+    "name": "Fresh Start",
+    "gihwr": 0.577,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "U",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.564,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.576,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.574,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.571,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.583,
+        "grade": "C+"
+      },
+      "WUBG": {
+        "gihwr": 0.568,
+        "grade": "C+"
+      },
+      "WURG": {
+        "gihwr": 0.573,
+        "grade": "C+"
+      },
+      "UBRG": {
+        "gihwr": 0.592,
+        "grade": "C+"
+      },
+      "WUBRG": {
+        "gihwr": 0.578,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{1}{U}"
+  },
+  "95564": {
+    "name": "Highspire Bell-Ringer",
+    "gihwr": 0.518,
+    "grade": "D-",
+    "rarity": "common",
+    "color": "U",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.558,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.52,
+        "grade": "D"
+      },
+      "UBG": {
+        "gihwr": 0.505,
+        "grade": "F"
+      },
+      "URG": {
+        "gihwr": 0.508,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{2}{U}"
+  },
+  "95565": {
+    "name": "Humbling Elder",
+    "gihwr": 0.55,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "U",
+    "manaValue": 1,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.543,
+        "grade": "D+"
+      },
+      "UG": {
+        "gihwr": 0.539,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.558,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.534,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.538,
+        "grade": "D+"
+      },
+      "WURG": {
+        "gihwr": 0.544,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{U}"
+  },
+  "95566": {
+    "name": "Iceridge Serpent",
+    "gihwr": 0.561,
+    "grade": "C",
+    "rarity": "common",
+    "color": "U",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.569,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.558,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.557,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.569,
+        "grade": "C"
+      },
+      "WUBG": {
+        "gihwr": 0.542,
+        "grade": "D+"
+      },
+      "WURG": {
+        "gihwr": 0.552,
+        "grade": "C-"
+      },
+      "UBRG": {
+        "gihwr": 0.571,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.556,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{4}{U}"
+  },
+  "95567": {
+    "name": "Kishla Trawlers",
+    "gihwr": 0.574,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "U",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.582,
+        "grade": "B-"
+      },
+      "UG": {
+        "gihwr": 0.572,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.574,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.573,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.577,
+        "grade": "C+"
+      },
+      "WURG": {
+        "gihwr": 0.552,
+        "grade": "C-"
+      },
+      "UBRG": {
+        "gihwr": 0.574,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.576,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{2}{U}"
+  },
+  "95568": {
+    "name": "Marang River Regent",
+    "gihwr": 0.677,
+    "grade": "A+",
+    "rarity": "rare",
+    "color": "U",
+    "manaValue": 6,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.691,
+        "grade": "A+"
+      },
+      "UG": {
+        "gihwr": 0.697,
+        "grade": "A+"
+      },
+      "WUR": {
+        "gihwr": 0.666,
+        "grade": "A+"
+      },
+      "UBG": {
+        "gihwr": 0.679,
+        "grade": "A+"
+      },
+      "URG": {
+        "gihwr": 0.697,
+        "grade": "A+"
+      },
+      "WURG": {
+        "gihwr": 0.645,
+        "grade": "A+"
+      },
+      "UBRG": {
+        "gihwr": 0.67,
+        "grade": "A+"
+      },
+      "WUBRG": {
+        "gihwr": 0.619,
+        "grade": "A-"
+      }
+    },
+    "manaCost": "{4}{U}{U}"
+  },
+  "95570": {
+    "name": "Naga Fleshcrafter",
+    "gihwr": 0.564,
+    "grade": "C",
+    "rarity": "rare",
+    "color": "U",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.567,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.601,
+        "grade": "B"
+      },
+      "WUR": {
+        "gihwr": 0.564,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.56,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "UBRG": {
+        "gihwr": 0.567,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{3}{U}"
+  },
+  "95571": {
+    "name": "Ringing Strike Mastery",
+    "gihwr": 0.525,
+    "grade": "D",
+    "rarity": "common",
+    "color": "U",
+    "manaValue": 1,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.548,
+        "grade": "D+"
+      },
+      "UG": {
+        "gihwr": 0.495,
+        "grade": "F"
+      },
+      "WUR": {
+        "gihwr": 0.529,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.512,
+        "grade": "D-"
+      },
+      "URG": {
+        "gihwr": 0.519,
+        "grade": "D-"
+      }
+    },
+    "manaCost": "{U}"
+  },
+  "95572": {
+    "name": "Riverwalk Technique",
+    "gihwr": 0.571,
+    "grade": "C+",
+    "rarity": "common",
+    "color": "U",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.59,
+        "grade": "B-"
+      },
+      "UR": {
+        "gihwr": 0.56,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.568,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.573,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.575,
+        "grade": "C+"
+      },
+      "WUBR": {
+        "gihwr": 0.578,
+        "grade": "C+"
+      },
+      "WUBG": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      },
+      "WURG": {
+        "gihwr": 0.573,
+        "grade": "C"
+      },
+      "UBRG": {
+        "gihwr": 0.598,
+        "grade": "B-"
+      },
+      "WUBRG": {
+        "gihwr": 0.571,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{3}{U}"
+  },
+  "95573": {
+    "name": "Roiling Dragonstorm",
+    "gihwr": 0.592,
+    "grade": "B",
+    "rarity": "uncommon",
+    "color": "U",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.614,
+        "grade": "A-"
+      },
+      "UG": {
+        "gihwr": 0.588,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.593,
+        "grade": "B"
+      },
+      "UBG": {
+        "gihwr": 0.591,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.589,
+        "grade": "B-"
+      },
+      "WUBG": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      },
+      "WURG": {
+        "gihwr": 0.601,
+        "grade": "B"
+      },
+      "UBRG": {
+        "gihwr": 0.614,
+        "grade": "B"
+      },
+      "WUBRG": {
+        "gihwr": 0.599,
+        "grade": "B"
+      }
+    },
+    "manaCost": "{1}{U}"
+  },
+  "95574": {
+    "name": "Sibsig Appraiser",
+    "gihwr": 0.595,
+    "grade": "B",
+    "rarity": "common",
+    "color": "U",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.591,
+        "grade": "B"
+      },
+      "UR": {
+        "gihwr": 0.592,
+        "grade": "B"
+      },
+      "UG": {
+        "gihwr": 0.583,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.601,
+        "grade": "B"
+      },
+      "UBG": {
+        "gihwr": 0.59,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.595,
+        "grade": "B-"
+      },
+      "WUBR": {
+        "gihwr": 0.571,
+        "grade": "C"
+      },
+      "WUBG": {
+        "gihwr": 0.587,
+        "grade": "B+"
+      },
+      "WURG": {
+        "gihwr": 0.603,
+        "grade": "B"
+      },
+      "UBRG": {
+        "gihwr": 0.61,
+        "grade": "B"
+      },
+      "WUBRG": {
+        "gihwr": 0.605,
+        "grade": "B+"
+      }
+    },
+    "manaCost": "{2}{U}"
+  },
+  "95575": {
+    "name": "Snowmelt Stag",
+    "gihwr": 0.542,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "U",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.568,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.542,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.533,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.543,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{3}{U}"
+  },
+  "95576": {
+    "name": "Spectral Denial",
+    "gihwr": 0.577,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "U",
+    "manaValue": 1,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.555,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.569,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.564,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.579,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.585,
+        "grade": "C+"
+      },
+      "WURG": {
+        "gihwr": 0.586,
+        "grade": "B-"
+      },
+      "UBRG": {
+        "gihwr": 0.602,
+        "grade": "B-"
+      },
+      "WUBRG": {
+        "gihwr": 0.564,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{X}{U}"
+  },
+  "95577": {
+    "name": "Stillness in Motion",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "rare",
+    "color": "U",
+    "manaValue": 2,
+    "isLand": false,
+    "manaCost": "{1}{U}"
+  },
+  "95578": {
+    "name": "Taigam, Master Opportunist",
+    "gihwr": 0.552,
+    "grade": "C-",
+    "rarity": "mythic",
+    "color": "U",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WUR": {
+        "gihwr": 0.554,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.557,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.569,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{1}{U}"
+  },
+  "95579": {
+    "name": "Temur Devotee",
+    "gihwr": 0.548,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "GRU",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.53,
+        "grade": "D"
+      },
+      "UG": {
+        "gihwr": 0.539,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.552,
+        "grade": "C-"
+      },
+      "WUBG": {
+        "gihwr": 0.513,
+        "grade": "F"
+      },
+      "WURG": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      },
+      "UBRG": {
+        "gihwr": 0.552,
+        "grade": "D+"
+      },
+      "WUBRG": {
+        "gihwr": 0.549,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{1}{U}"
+  },
+  "95580": {
+    "name": "Unending Whisper",
+    "gihwr": 0.571,
+    "grade": "C+",
+    "rarity": "common",
+    "color": "U",
+    "manaValue": 1,
+    "isLand": false,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.581,
+        "grade": "C+"
+      },
+      "UR": {
+        "gihwr": 0.57,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.575,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.574,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.555,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.576,
+        "grade": "C+"
+      },
+      "WUBG": {
+        "gihwr": 0.54,
+        "grade": "D+"
+      },
+      "WURG": {
+        "gihwr": 0.584,
+        "grade": "C+"
+      },
+      "UBRG": {
+        "gihwr": 0.569,
+        "grade": "C-"
+      },
+      "WUBRG": {
+        "gihwr": 0.553,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{U}"
+  },
+  "95581": {
+    "name": "Ureni's Rebuff",
+    "gihwr": 0.568,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "U",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.542,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.559,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.587,
+        "grade": "B-"
+      },
+      "WURG": {
+        "gihwr": 0.53,
+        "grade": "D"
+      },
+      "UBRG": {
+        "gihwr": 0.563,
+        "grade": "C-"
+      },
+      "WUBRG": {
+        "gihwr": 0.573,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{1}{U}"
+  },
+  "95582": {
+    "name": "Veteran Ice Climber",
+    "gihwr": 0.543,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "U",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.586,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.529,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.534,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.537,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{1}{U}"
+  },
+  "95583": {
+    "name": "Wingblade Disciple",
+    "gihwr": 0.581,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "U",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.588,
+        "grade": "B-"
+      },
+      "UG": {
+        "gihwr": 0.578,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.577,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.572,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.591,
+        "grade": "B-"
+      },
+      "WURG": {
+        "gihwr": 0.573,
+        "grade": "C+"
+      },
+      "UBRG": {
+        "gihwr": 0.582,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.616,
+        "grade": "B+"
+      }
+    },
+    "manaCost": "{2}{U}"
+  },
+  "95584": {
+    "name": "Wingspan Stride",
+    "gihwr": 0.496,
+    "grade": "F",
+    "rarity": "common",
+    "color": "U",
+    "manaValue": 1,
+    "isLand": false,
+    "deckRatings": {
+      "WUR": {
+        "gihwr": 0.485,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{U}"
+  },
+  "95585": {
+    "name": "Winternight Stories",
+    "gihwr": 0.608,
+    "grade": "B+",
+    "rarity": "rare",
+    "color": "U",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.592,
+        "grade": "B"
+      },
+      "UG": {
+        "gihwr": 0.576,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.607,
+        "grade": "B+"
+      },
+      "UBG": {
+        "gihwr": 0.608,
+        "grade": "B+"
+      },
+      "URG": {
+        "gihwr": 0.623,
+        "grade": "B+"
+      },
+      "WURG": {
+        "gihwr": 0.588,
+        "grade": "B-"
+      },
+      "UBRG": {
+        "gihwr": 0.623,
+        "grade": "B+"
+      },
+      "WUBRG": {
+        "gihwr": 0.604,
+        "grade": "B"
+      }
+    },
+    "manaCost": "{2}{U}"
+  },
+  "95586": {
+    "name": "Abzan Devotee",
+    "gihwr": 0.529,
+    "grade": "D",
+    "rarity": "common",
+    "color": "BGW",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.538,
+        "grade": "C-"
+      },
+      "BG": {
+        "gihwr": 0.539,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.522,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.522,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.537,
+        "grade": "D+"
+      },
+      "WUBG": {
+        "gihwr": 0.541,
+        "grade": "D+"
+      },
+      "WBRG": {
+        "gihwr": 0.535,
+        "grade": "B-"
+      },
+      "UBRG": {
+        "gihwr": 0.515,
+        "grade": "F"
+      },
+      "WUBRG": {
+        "gihwr": 0.533,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{1}{B}"
+  },
+  "95587": {
+    "name": "Adorned Crocodile",
+    "gihwr": 0.523,
+    "grade": "D",
+    "rarity": "common",
+    "color": "B",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.508,
+        "grade": "D-"
+      },
+      "BG": {
+        "gihwr": 0.532,
+        "grade": "D+"
+      },
+      "WBR": {
+        "gihwr": 0.499,
+        "grade": "D-"
+      },
+      "WBG": {
+        "gihwr": 0.508,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.538,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{4}{B}"
+  },
+  "95588": {
+    "name": "Aggressive Negotiations",
+    "gihwr": 0.548,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "B",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.549,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.56,
+        "grade": "C+"
+      },
+      "WBR": {
+        "gihwr": 0.534,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.542,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.559,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{2}{B}"
+  },
+  "95589": {
+    "name": "Alchemist's Assistant",
+    "gihwr": 0.539,
+    "grade": "D+",
+    "rarity": "uncommon",
+    "color": "B",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.544,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.534,
+        "grade": "D+"
+      },
+      "WBR": {
+        "gihwr": 0.523,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.536,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{1}{B}"
+  },
+  "95590": {
+    "name": "Alesha's Legacy",
+    "gihwr": 0.502,
+    "grade": "F",
+    "rarity": "common",
+    "color": "B",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.52,
+        "grade": "D"
+      },
+      "BG": {
+        "gihwr": 0.51,
+        "grade": "D-"
+      },
+      "WBR": {
+        "gihwr": 0.503,
+        "grade": "D-"
+      },
+      "WBG": {
+        "gihwr": 0.494,
+        "grade": "D-"
+      },
+      "UBG": {
+        "gihwr": 0.494,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{1}{B}"
+  },
+  "95591": {
+    "name": "Avenger of the Fallen",
+    "gihwr": 0.553,
+    "grade": "C-",
+    "rarity": "rare",
+    "color": "B",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.532,
+        "grade": "C-"
+      },
+      "BG": {
+        "gihwr": 0.586,
+        "grade": "B"
+      },
+      "WBR": {
+        "gihwr": 0.557,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.539,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.558,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{2}{B}"
+  },
+  "95592": {
+    "name": "Caustic Exhale",
+    "gihwr": 0.569,
+    "grade": "C+",
+    "rarity": "common",
+    "color": "B",
+    "manaValue": 1,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.565,
+        "grade": "B-"
+      },
+      "UB": {
+        "gihwr": 0.612,
+        "grade": "C"
+      },
+      "UG": {
+        "gihwr": 0.566,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.564,
+        "grade": "C+"
+      },
+      "WBR": {
+        "gihwr": 0.559,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.557,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.577,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.576,
+        "grade": "C+"
+      },
+      "WUBR": {
+        "gihwr": 0.587,
+        "grade": "B-"
+      },
+      "WUBG": {
+        "gihwr": 0.569,
+        "grade": "B-"
+      },
+      "WBRG": {
+        "gihwr": 0.539,
+        "grade": "B-"
+      },
+      "UBRG": {
+        "gihwr": 0.59,
+        "grade": "C+"
+      },
+      "WUBRG": {
+        "gihwr": 0.581,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{B}"
+  },
+  "95593": {
+    "name": "Corroding Dragonstorm",
+    "gihwr": 0.502,
+    "grade": "F",
+    "rarity": "uncommon",
+    "color": "B",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WBR": {
+        "gihwr": 0.488,
+        "grade": "F"
+      },
+      "WBG": {
+        "gihwr": 0.481,
+        "grade": "F"
+      },
+      "UBG": {
+        "gihwr": 0.529,
+        "grade": "D"
+      },
+      "UBRG": {
+        "gihwr": 0.493,
+        "grade": "F"
+      },
+      "WUBRG": {
+        "gihwr": 0.486,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{1}{B}"
+  },
+  "95594": {
+    "name": "Cruel Truths",
+    "gihwr": 0.502,
+    "grade": "F",
+    "rarity": "common",
+    "color": "B",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.515,
+        "grade": "D"
+      },
+      "BG": {
+        "gihwr": 0.499,
+        "grade": "F"
+      },
+      "WBR": {
+        "gihwr": 0.503,
+        "grade": "D-"
+      },
+      "WBG": {
+        "gihwr": 0.503,
+        "grade": "D"
+      },
+      "UBG": {
+        "gihwr": 0.49,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{3}{B}"
+  },
+  "95595": {
+    "name": "Delta Bloodflies",
+    "gihwr": 0.512,
+    "grade": "D-",
+    "rarity": "common",
+    "color": "B",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.507,
+        "grade": "D-"
+      },
+      "BG": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.467,
+        "grade": "F"
+      },
+      "WBG": {
+        "gihwr": 0.509,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.492,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{1}{B}"
+  },
+  "95596": {
+    "name": "Desperate Measures",
+    "gihwr": 0.523,
+    "grade": "D",
+    "rarity": "uncommon",
+    "color": "B",
+    "manaValue": 1,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.547,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.517,
+        "grade": "D"
+      },
+      "WBG": {
+        "gihwr": 0.525,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.512,
+        "grade": "D-"
+      }
+    },
+    "manaCost": "{B}"
+  },
+  "95597": {
+    "name": "Dragon's Prey",
+    "gihwr": 0.554,
+    "grade": "C",
+    "rarity": "common",
+    "color": "B",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.534,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.546,
+        "grade": "D+"
+      },
+      "BG": {
+        "gihwr": 0.565,
+        "grade": "C+"
+      },
+      "WBR": {
+        "gihwr": 0.538,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.54,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.569,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.547,
+        "grade": "D+"
+      },
+      "WUBR": {
+        "gihwr": 0.553,
+        "grade": "D+"
+      },
+      "WUBG": {
+        "gihwr": 0.534,
+        "grade": "D"
+      },
+      "WBRG": {
+        "gihwr": 0.521,
+        "grade": "C"
+      },
+      "UBRG": {
+        "gihwr": 0.568,
+        "grade": "C-"
+      },
+      "WUBRG": {
+        "gihwr": 0.565,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{2}{B}"
+  },
+  "95598": {
+    "name": "Feral Deathgorger",
+    "gihwr": 0.534,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "B",
+    "manaValue": 6,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.527,
+        "grade": "D+"
+      },
+      "BG": {
+        "gihwr": 0.544,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.519,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.527,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.552,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.489,
+        "grade": "F"
+      },
+      "WUBG": {
+        "gihwr": 0.539,
+        "grade": "D+"
+      },
+      "UBRG": {
+        "gihwr": 0.533,
+        "grade": "D-"
+      },
+      "WUBRG": {
+        "gihwr": 0.523,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{5}{B}"
+  },
+  "95600": {
+    "name": "Gurmag Rakshasa",
+    "gihwr": 0.552,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "B",
+    "manaValue": 6,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.514,
+        "grade": "D"
+      },
+      "BG": {
+        "gihwr": 0.604,
+        "grade": "A-"
+      },
+      "WBR": {
+        "gihwr": 0.54,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.559,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{4}{B}{B}"
+  },
+  "95601": {
+    "name": "Hundred-Battle Veteran",
+    "gihwr": 0.496,
+    "grade": "F",
+    "rarity": "uncommon",
+    "color": "B",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "BG": {
+        "gihwr": 0.491,
+        "grade": "F"
+      },
+      "WBR": {
+        "gihwr": 0.462,
+        "grade": "F"
+      },
+      "WBG": {
+        "gihwr": 0.507,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.498,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{3}{B}"
+  },
+  "95602": {
+    "name": "Kin-Tree Nurturer",
+    "gihwr": 0.547,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "B",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.563,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.549,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.545,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.531,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{2}{B}"
+  },
+  "95603": {
+    "name": "Krumar Initiate",
+    "gihwr": 0.523,
+    "grade": "D",
+    "rarity": "uncommon",
+    "color": "B",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.538,
+        "grade": "C-"
+      },
+      "BG": {
+        "gihwr": 0.522,
+        "grade": "D"
+      },
+      "WBR": {
+        "gihwr": 0.529,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.521,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.52,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{1}{B}"
+  },
+  "95604": {
+    "name": "Nightblade Brigade",
+    "gihwr": 0.529,
+    "grade": "D",
+    "rarity": "common",
+    "color": "B",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.546,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.516,
+        "grade": "D-"
+      },
+      "WBR": {
+        "gihwr": 0.531,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.522,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.522,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{2}{B}"
+  },
+  "95605": {
+    "name": "Qarsi Revenant",
+    "gihwr": 0.612,
+    "grade": "A-",
+    "rarity": "rare",
+    "color": "B",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.616,
+        "grade": "A+"
+      },
+      "BG": {
+        "gihwr": 0.65,
+        "grade": "A+"
+      },
+      "WBR": {
+        "gihwr": 0.585,
+        "grade": "B+"
+      },
+      "WBG": {
+        "gihwr": 0.628,
+        "grade": "A+"
+      },
+      "UBG": {
+        "gihwr": 0.608,
+        "grade": "B+"
+      }
+    },
+    "manaCost": "{1}{B}{B}"
+  },
+  "95606": {
+    "name": "Rot-Curse Rakshasa",
+    "gihwr": 0.526,
+    "grade": "D",
+    "rarity": "mythic",
+    "color": "B",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WBR": {
+        "gihwr": 0.533,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.511,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.53,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{1}{B}"
+  },
+  "95607": {
+    "name": "Salt Road Skirmish",
+    "gihwr": 0.553,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "B",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.556,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.542,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.559,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.553,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.557,
+        "grade": "C"
+      },
+      "UBRG": {
+        "gihwr": 0.556,
+        "grade": "D+"
+      },
+      "WUBRG": {
+        "gihwr": 0.527,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{3}{B}"
+  },
+  "95608": {
+    "name": "Sandskitter Outrider",
+    "gihwr": 0.522,
+    "grade": "D",
+    "rarity": "common",
+    "color": "B",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.524,
+        "grade": "D+"
+      },
+      "BG": {
+        "gihwr": 0.533,
+        "grade": "D+"
+      },
+      "WBR": {
+        "gihwr": 0.527,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.512,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.541,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{3}{B}"
+  },
+  "95609": {
+    "name": "Scavenger Regent",
+    "gihwr": 0.604,
+    "grade": "B+",
+    "rarity": "rare",
+    "color": "B",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.575,
+        "grade": "B"
+      },
+      "BG": {
+        "gihwr": 0.611,
+        "grade": "A-"
+      },
+      "WBR": {
+        "gihwr": 0.582,
+        "grade": "B"
+      },
+      "WBG": {
+        "gihwr": 0.584,
+        "grade": "B+"
+      },
+      "UBG": {
+        "gihwr": 0.603,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.589,
+        "grade": "B-"
+      },
+      "UBRG": {
+        "gihwr": 0.642,
+        "grade": "A"
+      },
+      "WUBRG": {
+        "gihwr": 0.654,
+        "grade": "A+"
+      }
+    },
+    "manaCost": "{3}{B}"
+  },
+  "95611": {
+    "name": "The Sibsig Ceremony",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "rare",
+    "color": "B",
+    "manaValue": 3,
+    "isLand": false,
+    "manaCost": "{B}{B}{B}"
+  },
+  "95612": {
+    "name": "Sidisi, Regent of the Mire",
+    "gihwr": 0.522,
+    "grade": "D",
+    "rarity": "rare",
+    "color": "B",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WBR": {
+        "gihwr": 0.532,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.505,
+        "grade": "D"
+      },
+      "UBG": {
+        "gihwr": 0.536,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{1}{B}"
+  },
+  "95613": {
+    "name": "Sinkhole Surveyor",
+    "gihwr": 0.602,
+    "grade": "B+",
+    "rarity": "rare",
+    "color": "B",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.607,
+        "grade": "A"
+      },
+      "BG": {
+        "gihwr": 0.628,
+        "grade": "A+"
+      },
+      "WBR": {
+        "gihwr": 0.605,
+        "grade": "A"
+      },
+      "WBG": {
+        "gihwr": 0.614,
+        "grade": "A+"
+      },
+      "UBG": {
+        "gihwr": 0.598,
+        "grade": "B"
+      }
+    },
+    "manaCost": "{1}{B}"
+  },
+  "95614": {
+    "name": "Strategic Betrayal",
+    "gihwr": 0.551,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "B",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.537,
+        "grade": "C-"
+      },
+      "BG": {
+        "gihwr": 0.538,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.546,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.545,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.563,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{1}{B}"
+  },
+  "95615": {
+    "name": "Unburied Earthcarver",
+    "gihwr": 0.507,
+    "grade": "F",
+    "rarity": "common",
+    "color": "B",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.497,
+        "grade": "F"
+      },
+      "BG": {
+        "gihwr": 0.517,
+        "grade": "D"
+      },
+      "WBR": {
+        "gihwr": 0.511,
+        "grade": "D"
+      },
+      "WBG": {
+        "gihwr": 0.508,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.492,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{1}{B}"
+  },
+  "95616": {
+    "name": "Unrooted Ancestor",
+    "gihwr": 0.496,
+    "grade": "F",
+    "rarity": "uncommon",
+    "color": "B",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.521,
+        "grade": "D"
+      },
+      "WBR": {
+        "gihwr": 0.489,
+        "grade": "F"
+      },
+      "WBG": {
+        "gihwr": 0.497,
+        "grade": "D"
+      },
+      "UBG": {
+        "gihwr": 0.473,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{2}{B}"
+  },
+  "95617": {
+    "name": "Venerated Stormsinger",
+    "gihwr": 0.554,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "B",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.571,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.527,
+        "grade": "D"
+      },
+      "WBR": {
+        "gihwr": 0.569,
+        "grade": "B-"
+      },
+      "WBG": {
+        "gihwr": 0.525,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.523,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{3}{B}"
+  },
+  "95618": {
+    "name": "Wail of War",
+    "gihwr": 0.546,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "B",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.507,
+        "grade": "D-"
+      },
+      "BG": {
+        "gihwr": 0.558,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.523,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.544,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.553,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{2}{B}"
+  },
+  "95619": {
+    "name": "Worthy Cost",
+    "gihwr": 0.513,
+    "grade": "D-",
+    "rarity": "common",
+    "color": "B",
+    "manaValue": 1,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.519,
+        "grade": "D"
+      },
+      "BG": {
+        "gihwr": 0.509,
+        "grade": "D-"
+      },
+      "WBR": {
+        "gihwr": 0.51,
+        "grade": "D"
+      },
+      "WBG": {
+        "gihwr": 0.514,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.525,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{B}"
+  },
+  "95620": {
+    "name": "Yathan Tombguard",
+    "gihwr": 0.513,
+    "grade": "D-",
+    "rarity": "uncommon",
+    "color": "B",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.493,
+        "grade": "F"
+      },
+      "BG": {
+        "gihwr": 0.51,
+        "grade": "D-"
+      },
+      "WBR": {
+        "gihwr": 0.494,
+        "grade": "F"
+      },
+      "WBG": {
+        "gihwr": 0.527,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.522,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{2}{B}"
+  },
+  "95621": {
+    "name": "Breaching Dragonstorm",
+    "gihwr": 0.523,
+    "grade": "D",
+    "rarity": "uncommon",
+    "color": "R",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "WUR": {
+        "gihwr": 0.509,
+        "grade": "D-"
+      },
+      "WBR": {
+        "gihwr": 0.516,
+        "grade": "D"
+      },
+      "URG": {
+        "gihwr": 0.53,
+        "grade": "D"
+      },
+      "WURG": {
+        "gihwr": 0.546,
+        "grade": "D+"
+      },
+      "UBRG": {
+        "gihwr": 0.544,
+        "grade": "D"
+      },
+      "WUBRG": {
+        "gihwr": 0.515,
+        "grade": "D-"
+      }
+    },
+    "manaCost": "{4}{R}"
+  },
+  "95622": {
+    "name": "Channeled Dragonfire",
+    "gihwr": 0.57,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "R",
+    "manaValue": 1,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.589,
+        "grade": "B-"
+      },
+      "UR": {
+        "gihwr": 0.564,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.572,
+        "grade": "C+"
+      },
+      "WBR": {
+        "gihwr": 0.565,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.564,
+        "grade": "C"
+      },
+      "WURG": {
+        "gihwr": 0.612,
+        "grade": "B+"
+      },
+      "UBRG": {
+        "gihwr": 0.575,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{R}"
+  },
+  "95623": {
+    "name": "Cori-Steel Cutter",
+    "gihwr": 0.597,
+    "grade": "B",
+    "rarity": "rare",
+    "color": "R",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.628,
+        "grade": "A-"
+      },
+      "UR": {
+        "gihwr": 0.646,
+        "grade": "A+"
+      },
+      "WUR": {
+        "gihwr": 0.608,
+        "grade": "B+"
+      },
+      "WBR": {
+        "gihwr": 0.552,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.588,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{1}{R}"
+  },
+  "95624": {
+    "name": "Devoted Duelist",
+    "gihwr": 0.527,
+    "grade": "D",
+    "rarity": "common",
+    "color": "R",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.551,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.524,
+        "grade": "D-"
+      },
+      "WUR": {
+        "gihwr": 0.516,
+        "grade": "D"
+      },
+      "WBR": {
+        "gihwr": 0.518,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.485,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{1}{R}"
+  },
+  "95625": {
+    "name": "Dracogenesis",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "mythic",
+    "color": "R",
+    "manaValue": 8,
+    "isLand": false,
+    "manaCost": "{6}{R}{R}"
+  },
+  "95626": {
+    "name": "Equilibrium Adept",
+    "gihwr": 0.564,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "R",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.58,
+        "grade": "C+"
+      },
+      "UR": {
+        "gihwr": 0.573,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.559,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.556,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "WURG": {
+        "gihwr": 0.554,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{3}{R}"
+  },
+  "95627": {
+    "name": "Fire-Rim Form",
+    "gihwr": 0.526,
+    "grade": "D",
+    "rarity": "common",
+    "color": "R",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.552,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.475,
+        "grade": "F"
+      },
+      "WBR": {
+        "gihwr": 0.514,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{1}{R}"
+  },
+  "95628": {
+    "name": "Fleeting Effigy",
+    "gihwr": 0.554,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "R",
+    "manaValue": 1,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.583,
+        "grade": "C+"
+      },
+      "UR": {
+        "gihwr": 0.539,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.536,
+        "grade": "D+"
+      },
+      "WBR": {
+        "gihwr": 0.544,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{R}"
+  },
+  "95629": {
+    "name": "Iridescent Tiger",
+    "gihwr": 0.565,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "BGRUW",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.541,
+        "grade": "D"
+      },
+      "UR": {
+        "gihwr": 0.591,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.566,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.544,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.568,
+        "grade": "C"
+      },
+      "WURG": {
+        "gihwr": 0.568,
+        "grade": "C"
+      },
+      "UBRG": {
+        "gihwr": 0.57,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.581,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{4}{R}"
+  },
+  "95630": {
+    "name": "Jeskai Devotee",
+    "gihwr": 0.548,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "RUW",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.552,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.529,
+        "grade": "D"
+      },
+      "WUR": {
+        "gihwr": 0.561,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.529,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.535,
+        "grade": "D"
+      },
+      "WUBR": {
+        "gihwr": 0.554,
+        "grade": "D+"
+      },
+      "WURG": {
+        "gihwr": 0.545,
+        "grade": "D+"
+      },
+      "WUBRG": {
+        "gihwr": 0.521,
+        "grade": "D-"
+      }
+    },
+    "manaCost": "{1}{R}"
+  },
+  "95631": {
+    "name": "Magmatic Hellkite",
+    "gihwr": 0.589,
+    "grade": "B",
+    "rarity": "rare",
+    "color": "R",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.612,
+        "grade": "B+"
+      },
+      "UR": {
+        "gihwr": 0.584,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.588,
+        "grade": "B-"
+      },
+      "WBR": {
+        "gihwr": 0.575,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.595,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{2}{R}{R}"
+  },
+  "95632": {
+    "name": "Meticulous Artisan",
+    "gihwr": 0.552,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "R",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.541,
+        "grade": "D"
+      },
+      "UR": {
+        "gihwr": 0.575,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.51,
+        "grade": "D"
+      },
+      "URG": {
+        "gihwr": 0.546,
+        "grade": "D+"
+      },
+      "WURG": {
+        "gihwr": 0.562,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{3}{R}"
+  },
+  "95633": {
+    "name": "Molten Exhale",
+    "gihwr": 0.579,
+    "grade": "B-",
+    "rarity": "common",
+    "color": "R",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.581,
+        "grade": "C+"
+      },
+      "UR": {
+        "gihwr": 0.58,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.558,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.593,
+        "grade": "B"
+      },
+      "WBR": {
+        "gihwr": 0.558,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.562,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.584,
+        "grade": "C+"
+      },
+      "WUBR": {
+        "gihwr": 0.593,
+        "grade": "B"
+      },
+      "WURG": {
+        "gihwr": 0.578,
+        "grade": "C+"
+      },
+      "UBRG": {
+        "gihwr": 0.587,
+        "grade": "C+"
+      },
+      "WUBRG": {
+        "gihwr": 0.563,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{1}{R}"
+  },
+  "95634": {
+    "name": "Narset's Rebuke",
+    "gihwr": 0.56,
+    "grade": "C",
+    "rarity": "common",
+    "color": "RUW",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.539,
+        "grade": "D"
+      },
+      "UR": {
+        "gihwr": 0.573,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.573,
+        "grade": "C+"
+      },
+      "WBR": {
+        "gihwr": 0.521,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "WUBR": {
+        "gihwr": 0.51,
+        "grade": "F"
+      },
+      "WURG": {
+        "gihwr": 0.558,
+        "grade": "C-"
+      },
+      "UBRG": {
+        "gihwr": 0.572,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{4}{R}"
+  },
+  "95635": {
+    "name": "Overwhelming Surge",
+    "gihwr": 0.545,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "R",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.537,
+        "grade": "D"
+      },
+      "UR": {
+        "gihwr": 0.534,
+        "grade": "D"
+      },
+      "WUR": {
+        "gihwr": 0.552,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.535,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.56,
+        "grade": "C-"
+      },
+      "WURG": {
+        "gihwr": 0.527,
+        "grade": "D"
+      },
+      "UBRG": {
+        "gihwr": 0.518,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{2}{R}"
+  },
+  "95636": {
+    "name": "Rescue Leopard",
+    "gihwr": 0.544,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "R",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.543,
+        "grade": "D"
+      },
+      "UR": {
+        "gihwr": 0.577,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.545,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.536,
+        "grade": "D"
+      },
+      "WURG": {
+        "gihwr": 0.546,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{2}{R}"
+  },
+  "95637": {
+    "name": "Reverberating Summons",
+    "gihwr": 0.488,
+    "grade": "F",
+    "rarity": "uncommon",
+    "color": "R",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.528,
+        "grade": "D-"
+      },
+      "WUR": {
+        "gihwr": 0.462,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{1}{R}"
+  },
+  "95638": {
+    "name": "Sarkhan, Dragon Ascendant",
+    "gihwr": 0.569,
+    "grade": "C+",
+    "rarity": "rare",
+    "color": "R",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.556,
+        "grade": "C-"
+      },
+      "UR": {
+        "gihwr": 0.625,
+        "grade": "A"
+      },
+      "WUR": {
+        "gihwr": 0.586,
+        "grade": "B-"
+      },
+      "WBR": {
+        "gihwr": 0.543,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.569,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{1}{R}"
+  },
+  "95639": {
+    "name": "Seize Opportunity",
+    "gihwr": 0.523,
+    "grade": "D",
+    "rarity": "common",
+    "color": "R",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.534,
+        "grade": "D"
+      },
+      "WUR": {
+        "gihwr": 0.509,
+        "grade": "D-"
+      },
+      "WBR": {
+        "gihwr": 0.529,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.491,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{2}{R}"
+  },
+  "95640": {
+    "name": "Shock Brigade",
+    "gihwr": 0.563,
+    "grade": "C",
+    "rarity": "common",
+    "color": "R",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.585,
+        "grade": "C+"
+      },
+      "UR": {
+        "gihwr": 0.539,
+        "grade": "D+"
+      },
+      "BR": {
+        "gihwr": 0.508,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.531,
+        "grade": "D+"
+      },
+      "WBR": {
+        "gihwr": 0.561,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.519,
+        "grade": "D-"
+      }
+    },
+    "manaCost": "{1}{R}"
+  },
+  "95641": {
+    "name": "Shocking Sharpshooter",
+    "gihwr": 0.579,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "R",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.605,
+        "grade": "B"
+      },
+      "UR": {
+        "gihwr": 0.556,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.578,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.528,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{1}{R}"
+  },
+  "95642": {
+    "name": "Stadium Headliner",
+    "gihwr": 0.581,
+    "grade": "B-",
+    "rarity": "rare",
+    "color": "R",
+    "manaValue": 1,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.612,
+        "grade": "B+"
+      },
+      "WUR": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.571,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.569,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{R}"
+  },
+  "95643": {
+    "name": "Stormscale Scion",
+    "gihwr": 0.566,
+    "grade": "C+",
+    "rarity": "mythic",
+    "color": "R",
+    "manaValue": 6,
+    "isLand": false,
+    "deckRatings": {
+      "WUR": {
+        "gihwr": 0.546,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.523,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.598,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{4}{R}{R}"
+  },
+  "95644": {
+    "name": "Stormshriek Feral",
+    "gihwr": 0.55,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "R",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.548,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.548,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.536,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.552,
+        "grade": "C-"
+      },
+      "WUBR": {
+        "gihwr": 0.546,
+        "grade": "D"
+      },
+      "WURG": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "UBRG": {
+        "gihwr": 0.543,
+        "grade": "D"
+      },
+      "WUBRG": {
+        "gihwr": 0.541,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{4}{R}"
+  },
+  "95646": {
+    "name": "Summit Intimidator",
+    "gihwr": 0.515,
+    "grade": "D-",
+    "rarity": "common",
+    "color": "R",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.534,
+        "grade": "D-"
+      },
+      "WUR": {
+        "gihwr": 0.51,
+        "grade": "D-"
+      },
+      "WBR": {
+        "gihwr": 0.507,
+        "grade": "D"
+      },
+      "URG": {
+        "gihwr": 0.499,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{3}{R}"
+  },
+  "95647": {
+    "name": "Sunset Strikemaster",
+    "gihwr": 0.579,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "R",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.59,
+        "grade": "B-"
+      },
+      "UR": {
+        "gihwr": 0.591,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.586,
+        "grade": "B-"
+      },
+      "WBR": {
+        "gihwr": 0.564,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.576,
+        "grade": "C+"
+      },
+      "WURG": {
+        "gihwr": 0.6,
+        "grade": "B"
+      },
+      "UBRG": {
+        "gihwr": 0.589,
+        "grade": "C+"
+      },
+      "WUBRG": {
+        "gihwr": 0.589,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{1}{R}"
+  },
+  "95648": {
+    "name": "Tersa Lightshatter",
+    "gihwr": 0.591,
+    "grade": "B",
+    "rarity": "rare",
+    "color": "R",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.608,
+        "grade": "B"
+      },
+      "UR": {
+        "gihwr": 0.587,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.603,
+        "grade": "B"
+      },
+      "WBR": {
+        "gihwr": 0.58,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.594,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{2}{R}"
+  },
+  "95649": {
+    "name": "Twin Bolt",
+    "gihwr": 0.538,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "R",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.543,
+        "grade": "D"
+      },
+      "UR": {
+        "gihwr": 0.544,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.546,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.518,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.542,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{1}{R}"
+  },
+  "95650": {
+    "name": "Underfoot Underdogs",
+    "gihwr": 0.542,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "R",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.562,
+        "grade": "C-"
+      },
+      "UR": {
+        "gihwr": 0.472,
+        "grade": "F"
+      },
+      "WUR": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.528,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{2}{R}"
+  },
+  "95651": {
+    "name": "Unsparing Boltcaster",
+    "gihwr": 0.54,
+    "grade": "D+",
+    "rarity": "uncommon",
+    "color": "R",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.568,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.504,
+        "grade": "D-"
+      },
+      "WBR": {
+        "gihwr": 0.54,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.502,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{2}{R}"
+  },
+  "95652": {
+    "name": "War Effort",
+    "gihwr": 0.564,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "R",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.586,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.528,
+        "grade": "D+"
+      },
+      "WBR": {
+        "gihwr": 0.563,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{3}{R}"
+  },
+  "95653": {
+    "name": "Wild Ride",
+    "gihwr": 0.514,
+    "grade": "D-",
+    "rarity": "common",
+    "color": "R",
+    "manaValue": 1,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.537,
+        "grade": "D"
+      },
+      "UR": {
+        "gihwr": 0.49,
+        "grade": "F"
+      },
+      "WUR": {
+        "gihwr": 0.493,
+        "grade": "F"
+      },
+      "WBR": {
+        "gihwr": 0.504,
+        "grade": "D-"
+      },
+      "URG": {
+        "gihwr": 0.486,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{R}"
+  },
+  "95654": {
+    "name": "Zurgo's Vanguard",
+    "gihwr": 0.566,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "R",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.585,
+        "grade": "C+"
+      },
+      "UR": {
+        "gihwr": 0.521,
+        "grade": "D-"
+      },
+      "WUR": {
+        "gihwr": 0.56,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.556,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.552,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{2}{R}"
+  },
+  "95655": {
+    "name": "Ainok Wayfarer",
+    "gihwr": 0.573,
+    "grade": "C+",
+    "rarity": "common",
+    "color": "G",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.566,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.563,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.557,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.583,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.577,
+        "grade": "C+"
+      },
+      "WUBG": {
+        "gihwr": 0.557,
+        "grade": "C"
+      },
+      "WURG": {
+        "gihwr": 0.564,
+        "grade": "C"
+      },
+      "UBRG": {
+        "gihwr": 0.583,
+        "grade": "C+"
+      },
+      "WUBRG": {
+        "gihwr": 0.579,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{1}{G}"
+  },
+  "95656": {
+    "name": "Attuned Hunter",
+    "gihwr": 0.533,
+    "grade": "D+",
+    "rarity": "uncommon",
+    "color": "G",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.559,
+        "grade": "C-"
+      },
+      "BG": {
+        "gihwr": 0.563,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.509,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.538,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.529,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{2}{G}"
+  },
+  "95657": {
+    "name": "Bloomvine Regent",
+    "gihwr": 0.591,
+    "grade": "B",
+    "rarity": "rare",
+    "color": "G",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.607,
+        "grade": "B"
+      },
+      "BG": {
+        "gihwr": 0.56,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.583,
+        "grade": "B+"
+      },
+      "UBG": {
+        "gihwr": 0.606,
+        "grade": "B+"
+      },
+      "URG": {
+        "gihwr": 0.593,
+        "grade": "B-"
+      },
+      "WURG": {
+        "gihwr": 0.588,
+        "grade": "B-"
+      },
+      "UBRG": {
+        "gihwr": 0.581,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.6,
+        "grade": "B"
+      }
+    },
+    "manaCost": "{3}{G}{G}"
+  },
+  "95659": {
+    "name": "Champion of Dusan",
+    "gihwr": 0.557,
+    "grade": "C",
+    "rarity": "common",
+    "color": "G",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.605,
+        "grade": "A-"
+      },
+      "UG": {
+        "gihwr": 0.576,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.549,
+        "grade": "C"
+      },
+      "RG": {
+        "gihwr": 0.537,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.542,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.557,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.561,
+        "grade": "C-"
+      },
+      "WUBG": {
+        "gihwr": 0.546,
+        "grade": "C-"
+      },
+      "WURG": {
+        "gihwr": 0.495,
+        "grade": "F"
+      },
+      "UBRG": {
+        "gihwr": 0.559,
+        "grade": "C-"
+      },
+      "WUBRG": {
+        "gihwr": 0.564,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{2}{G}"
+  },
+  "95660": {
+    "name": "Craterhoof Behemoth",
+    "gihwr": 0.575,
+    "grade": "C+",
+    "rarity": "mythic",
+    "color": "G",
+    "manaValue": 8,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.569,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.55,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.589,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.592,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{5}{G}{G}{G}"
+  },
+  "95661": {
+    "name": "Dragon Sniper",
+    "gihwr": 0.581,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "G",
+    "manaValue": 1,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.596,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.579,
+        "grade": "B-"
+      },
+      "WBG": {
+        "gihwr": 0.554,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.582,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.588,
+        "grade": "B-"
+      },
+      "WUBG": {
+        "gihwr": 0.541,
+        "grade": "D+"
+      },
+      "WURG": {
+        "gihwr": 0.583,
+        "grade": "C+"
+      },
+      "UBRG": {
+        "gihwr": 0.595,
+        "grade": "B-"
+      },
+      "WUBRG": {
+        "gihwr": 0.595,
+        "grade": "B"
+      }
+    },
+    "manaCost": "{G}"
+  },
+  "95662": {
+    "name": "Dragonbroods' Relic",
+    "gihwr": 0.585,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "BGRUW",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.581,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.541,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.579,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.59,
+        "grade": "B-"
+      },
+      "WUBG": {
+        "gihwr": 0.583,
+        "grade": "B"
+      },
+      "WURG": {
+        "gihwr": 0.605,
+        "grade": "B"
+      },
+      "UBRG": {
+        "gihwr": 0.603,
+        "grade": "B-"
+      },
+      "WUBRG": {
+        "gihwr": 0.577,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{1}{G}"
+  },
+  "95663": {
+    "name": "Dusyut Earthcarver",
+    "gihwr": 0.557,
+    "grade": "C",
+    "rarity": "common",
+    "color": "G",
+    "manaValue": 6,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.579,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.542,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.531,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.571,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.559,
+        "grade": "C-"
+      },
+      "WUBG": {
+        "gihwr": 0.565,
+        "grade": "C+"
+      },
+      "WURG": {
+        "gihwr": 0.534,
+        "grade": "D"
+      },
+      "UBRG": {
+        "gihwr": 0.555,
+        "grade": "D+"
+      },
+      "WUBRG": {
+        "gihwr": 0.526,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{5}{G}"
+  },
+  "95664": {
+    "name": "Encroaching Dragonstorm",
+    "gihwr": 0.546,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "G",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.515,
+        "grade": "D-"
+      },
+      "WBG": {
+        "gihwr": 0.468,
+        "grade": "F"
+      },
+      "UBG": {
+        "gihwr": 0.541,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.552,
+        "grade": "C-"
+      },
+      "WUBG": {
+        "gihwr": 0.57,
+        "grade": "B-"
+      },
+      "WURG": {
+        "gihwr": 0.581,
+        "grade": "C+"
+      },
+      "UBRG": {
+        "gihwr": 0.573,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.557,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{3}{G}"
+  },
+  "95665": {
+    "name": "Formation Breaker",
+    "gihwr": 0.547,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "G",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.541,
+        "grade": "D+"
+      },
+      "BG": {
+        "gihwr": 0.568,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.547,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.543,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{1}{G}"
+  },
+  "95666": {
+    "name": "Herd Heirloom",
+    "gihwr": 0.57,
+    "grade": "C+",
+    "rarity": "rare",
+    "color": "G",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.594,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.56,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.548,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.569,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.58,
+        "grade": "C+"
+      },
+      "UBRG": {
+        "gihwr": 0.579,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{1}{G}"
+  },
+  "95667": {
+    "name": "Heritage Reclamation",
+    "gihwr": 0.501,
+    "grade": "F",
+    "rarity": "common",
+    "color": "G",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.501,
+        "grade": "F"
+      },
+      "WBG": {
+        "gihwr": 0.461,
+        "grade": "F"
+      },
+      "UBG": {
+        "gihwr": 0.488,
+        "grade": "F"
+      },
+      "URG": {
+        "gihwr": 0.534,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{1}{G}"
+  },
+  "95668": {
+    "name": "Inspirited Vanguard",
+    "gihwr": 0.553,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "G",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.577,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.56,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.545,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      },
+      "UBRG": {
+        "gihwr": 0.559,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{4}{G}"
+  },
+  "95669": {
+    "name": "Knockout Maneuver",
+    "gihwr": 0.587,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "G",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.598,
+        "grade": "B"
+      },
+      "BG": {
+        "gihwr": 0.611,
+        "grade": "A-"
+      },
+      "WBG": {
+        "gihwr": 0.569,
+        "grade": "B"
+      },
+      "UBG": {
+        "gihwr": 0.589,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.598,
+        "grade": "B-"
+      },
+      "WUBG": {
+        "gihwr": 0.582,
+        "grade": "B"
+      },
+      "WURG": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "UBRG": {
+        "gihwr": 0.558,
+        "grade": "D+"
+      },
+      "WUBRG": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{2}{G}"
+  },
+  "95670": {
+    "name": "Krotiq Nestguard",
+    "gihwr": 0.512,
+    "grade": "D-",
+    "rarity": "common",
+    "color": "G",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.571,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.518,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.495,
+        "grade": "F"
+      },
+      "URG": {
+        "gihwr": 0.511,
+        "grade": "F"
+      },
+      "UBRG": {
+        "gihwr": 0.486,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{2}{G}"
+  },
+  "95671": {
+    "name": "Lasyd Prowler",
+    "gihwr": 0.583,
+    "grade": "B-",
+    "rarity": "rare",
+    "color": "G",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.584,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.604,
+        "grade": "A-"
+      },
+      "WBG": {
+        "gihwr": 0.564,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.586,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.593,
+        "grade": "B-"
+      },
+      "UBRG": {
+        "gihwr": 0.576,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{2}{G}{G}"
+  },
+  "95672": {
+    "name": "Nature's Rhythm",
+    "gihwr": 0.544,
+    "grade": "C-",
+    "rarity": "rare",
+    "color": "G",
+    "manaValue": 2,
+    "isLand": false,
+    "manaCost": "{X}{G}{G}"
+  },
+  "95673": {
+    "name": "Piercing Exhale",
+    "gihwr": 0.576,
+    "grade": "B-",
+    "rarity": "common",
+    "color": "G",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.572,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.582,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.572,
+        "grade": "B-"
+      },
+      "WBG": {
+        "gihwr": 0.555,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.579,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.586,
+        "grade": "C+"
+      },
+      "WUBG": {
+        "gihwr": 0.565,
+        "grade": "C+"
+      },
+      "WURG": {
+        "gihwr": 0.569,
+        "grade": "C"
+      },
+      "UBRG": {
+        "gihwr": 0.584,
+        "grade": "C+"
+      },
+      "WUBRG": {
+        "gihwr": 0.564,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{1}{G}"
+  },
+  "95674": {
+    "name": "Rainveil Rejuvenator",
+    "gihwr": 0.514,
+    "grade": "D-",
+    "rarity": "uncommon",
+    "color": "G",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.524,
+        "grade": "D-"
+      },
+      "WBG": {
+        "gihwr": 0.487,
+        "grade": "D-"
+      },
+      "UBG": {
+        "gihwr": 0.513,
+        "grade": "D-"
+      },
+      "URG": {
+        "gihwr": 0.527,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{3}{G}"
+  },
+  "95675": {
+    "name": "Rite of Renewal",
+    "gihwr": 0.523,
+    "grade": "D",
+    "rarity": "uncommon",
+    "color": "G",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.558,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.476,
+        "grade": "F"
+      },
+      "UBG": {
+        "gihwr": 0.53,
+        "grade": "D"
+      },
+      "URG": {
+        "gihwr": 0.528,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{3}{G}"
+  },
+  "95676": {
+    "name": "Roamer's Routine",
+    "gihwr": 0.522,
+    "grade": "D",
+    "rarity": "common",
+    "color": "G",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.515,
+        "grade": "D-"
+      },
+      "WBG": {
+        "gihwr": 0.475,
+        "grade": "F"
+      },
+      "UBG": {
+        "gihwr": 0.512,
+        "grade": "D-"
+      },
+      "URG": {
+        "gihwr": 0.542,
+        "grade": "D+"
+      },
+      "WUBG": {
+        "gihwr": 0.498,
+        "grade": "F"
+      },
+      "WURG": {
+        "gihwr": 0.521,
+        "grade": "D-"
+      },
+      "UBRG": {
+        "gihwr": 0.533,
+        "grade": "D-"
+      },
+      "WUBRG": {
+        "gihwr": 0.535,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{2}{G}"
+  },
+  "95677": {
+    "name": "Sage of the Fang",
+    "gihwr": 0.552,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "G",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.569,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.554,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.547,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.557,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.549,
+        "grade": "D+"
+      },
+      "UBRG": {
+        "gihwr": 0.53,
+        "grade": "D-"
+      }
+    },
+    "manaCost": "{2}{G}"
+  },
+  "95678": {
+    "name": "Sagu Pummeler",
+    "gihwr": 0.552,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "G",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.514,
+        "grade": "F"
+      },
+      "UG": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.551,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.532,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.562,
+        "grade": "C-"
+      },
+      "WUBG": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      },
+      "WURG": {
+        "gihwr": 0.541,
+        "grade": "D+"
+      },
+      "UBRG": {
+        "gihwr": 0.56,
+        "grade": "C-"
+      },
+      "WUBRG": {
+        "gihwr": 0.532,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{3}{G}"
+  },
+  "95679": {
+    "name": "Sagu Wildling",
+    "gihwr": 0.57,
+    "grade": "C+",
+    "rarity": "common",
+    "color": "G",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.57,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      },
+      "WUG": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.539,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.58,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.574,
+        "grade": "C"
+      },
+      "WUBG": {
+        "gihwr": 0.564,
+        "grade": "C+"
+      },
+      "WURG": {
+        "gihwr": 0.559,
+        "grade": "C-"
+      },
+      "WBRG": {
+        "gihwr": 0.56,
+        "grade": "B+"
+      },
+      "UBRG": {
+        "gihwr": 0.59,
+        "grade": "C+"
+      },
+      "WUBRG": {
+        "gihwr": 0.562,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{4}{G}"
+  },
+  "95681": {
+    "name": "Sarkhan's Resolve",
+    "gihwr": 0.562,
+    "grade": "C",
+    "rarity": "common",
+    "color": "G",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.574,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.571,
+        "grade": "B-"
+      },
+      "WBG": {
+        "gihwr": 0.548,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.561,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "WUBG": {
+        "gihwr": 0.553,
+        "grade": "C"
+      },
+      "WURG": {
+        "gihwr": 0.572,
+        "grade": "C"
+      },
+      "UBRG": {
+        "gihwr": 0.57,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.561,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{1}{G}"
+  },
+  "95682": {
+    "name": "Snakeskin Veil",
+    "gihwr": 0.563,
+    "grade": "C",
+    "rarity": "common",
+    "color": "G",
+    "manaValue": 1,
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.575,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.578,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.566,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.549,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.566,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.564,
+        "grade": "C"
+      },
+      "WUBG": {
+        "gihwr": 0.529,
+        "grade": "D"
+      },
+      "WURG": {
+        "gihwr": 0.564,
+        "grade": "C"
+      },
+      "UBRG": {
+        "gihwr": 0.578,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.575,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{G}"
+  },
+  "95683": {
+    "name": "Sultai Devotee",
+    "gihwr": 0.558,
+    "grade": "C",
+    "rarity": "common",
+    "color": "BGU",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.569,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.541,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.527,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.561,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.564,
+        "grade": "C"
+      },
+      "WUBG": {
+        "gihwr": 0.543,
+        "grade": "D+"
+      },
+      "WURG": {
+        "gihwr": 0.534,
+        "grade": "D"
+      },
+      "UBRG": {
+        "gihwr": 0.573,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.556,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{1}{G}"
+  },
+  "95684": {
+    "name": "Surrak, Elusive Hunter",
+    "gihwr": 0.608,
+    "grade": "B+",
+    "rarity": "rare",
+    "color": "G",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.612,
+        "grade": "B+"
+      },
+      "BG": {
+        "gihwr": 0.597,
+        "grade": "B+"
+      },
+      "WBG": {
+        "gihwr": 0.589,
+        "grade": "A-"
+      },
+      "UBG": {
+        "gihwr": 0.618,
+        "grade": "A-"
+      },
+      "URG": {
+        "gihwr": 0.611,
+        "grade": "B"
+      },
+      "WURG": {
+        "gihwr": 0.586,
+        "grade": "B-"
+      },
+      "UBRG": {
+        "gihwr": 0.637,
+        "grade": "A-"
+      }
+    },
+    "manaCost": "{2}{G}"
+  },
+  "95685": {
+    "name": "Synchronized Charge",
+    "gihwr": 0.567,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "G",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.584,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.599,
+        "grade": "B+"
+      },
+      "WBG": {
+        "gihwr": 0.557,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.568,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.563,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{1}{G}"
+  },
+  "95686": {
+    "name": "Trade Route Envoy",
+    "gihwr": 0.534,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "G",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WG": {
+        "gihwr": 0.571,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.527,
+        "grade": "D"
+      },
+      "BG": {
+        "gihwr": 0.536,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.531,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.534,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.538,
+        "grade": "D+"
+      },
+      "WUBG": {
+        "gihwr": 0.533,
+        "grade": "D"
+      },
+      "UBRG": {
+        "gihwr": 0.509,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{3}{G}"
+  },
+  "95687": {
+    "name": "Traveling Botanist",
+    "gihwr": 0.594,
+    "grade": "B",
+    "rarity": "uncommon",
+    "color": "G",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.599,
+        "grade": "B"
+      },
+      "BG": {
+        "gihwr": 0.59,
+        "grade": "B"
+      },
+      "WBG": {
+        "gihwr": 0.589,
+        "grade": "A-"
+      },
+      "UBG": {
+        "gihwr": 0.597,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.598,
+        "grade": "B-"
+      },
+      "WUBG": {
+        "gihwr": 0.601,
+        "grade": "A"
+      },
+      "WURG": {
+        "gihwr": 0.596,
+        "grade": "B-"
+      },
+      "UBRG": {
+        "gihwr": 0.589,
+        "grade": "C+"
+      },
+      "WUBRG": {
+        "gihwr": 0.565,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{1}{G}"
+  },
+  "95688": {
+    "name": "Undergrowth Leopard",
+    "gihwr": 0.544,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "G",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      },
+      "BG": {
+        "gihwr": 0.534,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.535,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.54,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.552,
+        "grade": "C-"
+      },
+      "WUBG": {
+        "gihwr": 0.561,
+        "grade": "C+"
+      },
+      "WURG": {
+        "gihwr": 0.535,
+        "grade": "D"
+      },
+      "UBRG": {
+        "gihwr": 0.542,
+        "grade": "D"
+      },
+      "WUBRG": {
+        "gihwr": 0.54,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{1}{G}"
+  },
+  "95689": {
+    "name": "Warden of the Grove",
+    "gihwr": 0.61,
+    "grade": "B+",
+    "rarity": "rare",
+    "color": "G",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.611,
+        "grade": "B+"
+      },
+      "BG": {
+        "gihwr": 0.611,
+        "grade": "A-"
+      },
+      "WBG": {
+        "gihwr": 0.613,
+        "grade": "A+"
+      },
+      "UBG": {
+        "gihwr": 0.616,
+        "grade": "A-"
+      },
+      "URG": {
+        "gihwr": 0.609,
+        "grade": "B"
+      },
+      "UBRG": {
+        "gihwr": 0.667,
+        "grade": "A+"
+      }
+    },
+    "manaCost": "{2}{G}"
+  },
+  "95690": {
+    "name": "All-Out Assault",
+    "gihwr": 0.599,
+    "grade": "B+",
+    "rarity": "mythic",
+    "color": "BRW",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.608,
+        "grade": "B"
+      },
+      "WBR": {
+        "gihwr": 0.617,
+        "grade": "A+"
+      }
+    },
+    "manaCost": "{2}{R}{W}{B}"
+  },
+  "95691": {
+    "name": "Armament Dragon",
+    "gihwr": 0.553,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "BGW",
+    "manaValue": 6,
+    "isLand": false,
+    "deckRatings": {
+      "BG": {
+        "gihwr": 0.555,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.556,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.557,
+        "grade": "C"
+      },
+      "WUBG": {
+        "gihwr": 0.563,
+        "grade": "C+"
+      },
+      "UBRG": {
+        "gihwr": 0.586,
+        "grade": "C+"
+      },
+      "WUBRG": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{3}{W}{B}{G}"
+  },
+  "95692": {
+    "name": "Auroral Procession",
+    "gihwr": 0.544,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "GU",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.544,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.539,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.548,
+        "grade": "D+"
+      },
+      "WURG": {
+        "gihwr": 0.555,
+        "grade": "C-"
+      },
+      "UBRG": {
+        "gihwr": 0.567,
+        "grade": "C-"
+      },
+      "WUBRG": {
+        "gihwr": 0.49,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{G}{U}"
+  },
+  "95693": {
+    "name": "Awaken the Honored Dead",
+    "gihwr": 0.601,
+    "grade": "B+",
+    "rarity": "rare",
+    "color": "BGU",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.621,
+        "grade": "A-"
+      },
+      "UBG": {
+        "gihwr": 0.605,
+        "grade": "B+"
+      },
+      "URG": {
+        "gihwr": 0.605,
+        "grade": "B"
+      },
+      "WUBG": {
+        "gihwr": 0.621,
+        "grade": "A+"
+      },
+      "UBRG": {
+        "gihwr": 0.597,
+        "grade": "B-"
+      },
+      "WUBRG": {
+        "gihwr": 0.585,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{B}{G}{U}"
+  },
+  "95694": {
+    "name": "Barrensteppe Siege",
+    "gihwr": 0.518,
+    "grade": "D-",
+    "rarity": "rare",
+    "color": "BW",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.541,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.529,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.512,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{2}{W}{B}"
+  },
+  "95695": {
+    "name": "Betor, Kin to All",
+    "gihwr": 0.621,
+    "grade": "A-",
+    "rarity": "mythic",
+    "color": "BGW",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "WBG": {
+        "gihwr": 0.63,
+        "grade": "A+"
+      },
+      "UBG": {
+        "gihwr": 0.623,
+        "grade": "A-"
+      },
+      "WUBRG": {
+        "gihwr": 0.62,
+        "grade": "A-"
+      }
+    },
+    "manaCost": "{2}{W}{B}{G}"
+  },
+  "95696": {
+    "name": "Bone-Cairn Butcher",
+    "gihwr": 0.52,
+    "grade": "D",
+    "rarity": "uncommon",
+    "color": "BRW",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.529,
+        "grade": "D-"
+      },
+      "WBR": {
+        "gihwr": 0.523,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{1}{R}{W}{B}"
+  },
+  "95697": {
+    "name": "Call the Spirit Dragons",
+    "gihwr": 0.476,
+    "grade": "F",
+    "rarity": "mythic",
+    "color": "BGRUW",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "WUBRG": {
+        "gihwr": 0.482,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{W}{U}{B}{R}{G}"
+  },
+  "95698": {
+    "name": "Cori Mountain Stalwart",
+    "gihwr": 0.562,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "RW",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.57,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.569,
+        "grade": "C+"
+      },
+      "WBR": {
+        "gihwr": 0.551,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{1}{R}{W}"
+  },
+  "95699": {
+    "name": "Death Begets Life",
+    "gihwr": 0.611,
+    "grade": "A-",
+    "rarity": "mythic",
+    "color": "BGU",
+    "manaValue": 8,
+    "isLand": false,
+    "deckRatings": {
+      "UBG": {
+        "gihwr": 0.607,
+        "grade": "B+"
+      },
+      "URG": {
+        "gihwr": 0.614,
+        "grade": "B+"
+      },
+      "UBRG": {
+        "gihwr": 0.631,
+        "grade": "A-"
+      },
+      "WUBRG": {
+        "gihwr": 0.591,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{5}{B}{G}{U}"
+  },
+  "95700": {
+    "name": "Defibrillating Current",
+    "gihwr": 0.539,
+    "grade": "D+",
+    "rarity": "uncommon",
+    "color": "BRW",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.55,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.539,
+        "grade": "D+"
+      },
+      "WBR": {
+        "gihwr": 0.536,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.518,
+        "grade": "D+"
+      },
+      "WUBRG": {
+        "gihwr": 0.516,
+        "grade": "D-"
+      }
+    },
+    "manaCost": "{2/R}{2/W}{2/B}"
+  },
+  "95701": {
+    "name": "Disruptive Stormbrood",
+    "gihwr": 0.588,
+    "grade": "B",
+    "rarity": "uncommon",
+    "color": "BG",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.61,
+        "grade": "B+"
+      },
+      "BG": {
+        "gihwr": 0.551,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.573,
+        "grade": "B"
+      },
+      "UBG": {
+        "gihwr": 0.593,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.591,
+        "grade": "B-"
+      },
+      "WUBG": {
+        "gihwr": 0.584,
+        "grade": "B"
+      },
+      "WURG": {
+        "gihwr": 0.623,
+        "grade": "A-"
+      },
+      "UBRG": {
+        "gihwr": 0.611,
+        "grade": "B"
+      },
+      "WUBRG": {
+        "gihwr": 0.594,
+        "grade": "B"
+      }
+    },
+    "manaCost": "{4}{G}"
+  },
+  "95703": {
+    "name": "Dragonback Assault",
+    "gihwr": 0.675,
+    "grade": "A+",
+    "rarity": "mythic",
+    "color": "GRU",
+    "manaValue": 6,
+    "isLand": false,
+    "deckRatings": {
+      "UBG": {
+        "gihwr": 0.669,
+        "grade": "A+"
+      },
+      "URG": {
+        "gihwr": 0.683,
+        "grade": "A+"
+      },
+      "WURG": {
+        "gihwr": 0.703,
+        "grade": "A+"
+      },
+      "UBRG": {
+        "gihwr": 0.679,
+        "grade": "A+"
+      }
+    },
+    "manaCost": "{3}{G}{U}{R}"
+  },
+  "95704": {
+    "name": "Dragonclaw Strike",
+    "gihwr": 0.565,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "GRU",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.53,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.57,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.577,
+        "grade": "C+"
+      },
+      "WURG": {
+        "gihwr": 0.542,
+        "grade": "D+"
+      },
+      "UBRG": {
+        "gihwr": 0.548,
+        "grade": "D+"
+      },
+      "WUBRG": {
+        "gihwr": 0.52,
+        "grade": "D-"
+      }
+    },
+    "manaCost": "{2/G}{2/U}{2/R}"
+  },
+  "95705": {
+    "name": "Effortless Master",
+    "gihwr": 0.524,
+    "grade": "D",
+    "rarity": "uncommon",
+    "color": "RU",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.545,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.52,
+        "grade": "D"
+      },
+      "URG": {
+        "gihwr": 0.53,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{2}{U}{R}"
+  },
+  "95706": {
+    "name": "Eshki Dragonclaw",
+    "gihwr": 0.611,
+    "grade": "A-",
+    "rarity": "rare",
+    "color": "GRU",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.622,
+        "grade": "A-"
+      },
+      "WUR": {
+        "gihwr": 0.574,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.609,
+        "grade": "B+"
+      },
+      "URG": {
+        "gihwr": 0.619,
+        "grade": "B+"
+      },
+      "WURG": {
+        "gihwr": 0.586,
+        "grade": "B-"
+      },
+      "UBRG": {
+        "gihwr": 0.59,
+        "grade": "C+"
+      },
+      "WUBRG": {
+        "gihwr": 0.612,
+        "grade": "B+"
+      }
+    },
+    "manaCost": "{1}{G}{U}{R}"
+  },
+  "95707": {
+    "name": "Fangkeeper's Familiar",
+    "gihwr": 0.609,
+    "grade": "B+",
+    "rarity": "rare",
+    "color": "BGU",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.591,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.609,
+        "grade": "B+"
+      },
+      "URG": {
+        "gihwr": 0.62,
+        "grade": "B+"
+      },
+      "WUBG": {
+        "gihwr": 0.639,
+        "grade": "A+"
+      },
+      "UBRG": {
+        "gihwr": 0.61,
+        "grade": "B"
+      },
+      "WUBRG": {
+        "gihwr": 0.599,
+        "grade": "B"
+      }
+    },
+    "manaCost": "{1}{B}{G}{U}"
+  },
+  "95708": {
+    "name": "Felothar, Dawn of the Abzan",
+    "gihwr": 0.523,
+    "grade": "D",
+    "rarity": "rare",
+    "color": "BGW",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WBG": {
+        "gihwr": 0.541,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{W}{B}{G}"
+  },
+  "95709": {
+    "name": "Flamehold Grappler",
+    "gihwr": 0.549,
+    "grade": "C-",
+    "rarity": "rare",
+    "color": "RUW",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WUR": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.558,
+        "grade": "C-"
+      },
+      "WURG": {
+        "gihwr": 0.506,
+        "grade": "F"
+      }
+    },
+    "manaCost": "{U}{R}{W}"
+  },
+  "95710": {
+    "name": "Frontline Rush",
+    "gihwr": 0.577,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "RW",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.598,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.574,
+        "grade": "B"
+      }
+    },
+    "manaCost": "{R}{W}"
+  },
+  "95711": {
+    "name": "Frostcliff Siege",
+    "gihwr": 0.544,
+    "grade": "C-",
+    "rarity": "rare",
+    "color": "RU",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.589,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.552,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.541,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{1}{U}{R}"
+  },
+  "95712": {
+    "name": "Glacial Dragonhunt",
+    "gihwr": 0.592,
+    "grade": "B",
+    "rarity": "uncommon",
+    "color": "RU",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.589,
+        "grade": "B-"
+      },
+      "UG": {
+        "gihwr": 0.587,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.596,
+        "grade": "B"
+      },
+      "UBG": {
+        "gihwr": 0.571,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.59,
+        "grade": "B-"
+      },
+      "WURG": {
+        "gihwr": 0.59,
+        "grade": "B-"
+      },
+      "UBRG": {
+        "gihwr": 0.623,
+        "grade": "B+"
+      },
+      "WUBRG": {
+        "gihwr": 0.573,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{U}{R}"
+  },
+  "95713": {
+    "name": "Glacierwood Siege",
+    "gihwr": 0.501,
+    "grade": "F",
+    "rarity": "rare",
+    "color": "GU",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.52,
+        "grade": "D-"
+      },
+      "UBG": {
+        "gihwr": 0.484,
+        "grade": "F"
+      },
+      "URG": {
+        "gihwr": 0.529,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{1}{G}{U}"
+  },
+  "95714": {
+    "name": "Gurmag Nightwatch",
+    "gihwr": 0.558,
+    "grade": "C",
+    "rarity": "common",
+    "color": "BGU",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.538,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.562,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      },
+      "WUBG": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      },
+      "UBRG": {
+        "gihwr": 0.55,
+        "grade": "D+"
+      },
+      "WUBRG": {
+        "gihwr": 0.586,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{2/B}{2/G}{2/U}"
+  },
+  "95715": {
+    "name": "Hardened Tactician",
+    "gihwr": 0.526,
+    "grade": "D",
+    "rarity": "uncommon",
+    "color": "BW",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.561,
+        "grade": "C+"
+      },
+      "WBR": {
+        "gihwr": 0.529,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.487,
+        "grade": "D-"
+      }
+    },
+    "manaCost": "{1}{W}{B}"
+  },
+  "95716": {
+    "name": "Hollowmurk Siege",
+    "gihwr": 0.548,
+    "grade": "C-",
+    "rarity": "rare",
+    "color": "BG",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "BG": {
+        "gihwr": 0.581,
+        "grade": "B"
+      },
+      "WBG": {
+        "gihwr": 0.55,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.544,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{B}{G}"
+  },
+  "95717": {
+    "name": "Host of the Hereafter",
+    "gihwr": 0.54,
+    "grade": "D+",
+    "rarity": "uncommon",
+    "color": "BG",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "BG": {
+        "gihwr": 0.564,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.539,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.531,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{2}{B}{G}"
+  },
+  "95718": {
+    "name": "Inevitable Defeat",
+    "gihwr": 0.602,
+    "grade": "B+",
+    "rarity": "rare",
+    "color": "BRW",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.614,
+        "grade": "B+"
+      },
+      "WUR": {
+        "gihwr": 0.575,
+        "grade": "C+"
+      },
+      "WBR": {
+        "gihwr": 0.602,
+        "grade": "A-"
+      },
+      "WUBRG": {
+        "gihwr": 0.626,
+        "grade": "A-"
+      }
+    },
+    "manaCost": "{1}{R}{W}{B}"
+  },
+  "95719": {
+    "name": "Jeskai Brushmaster",
+    "gihwr": 0.52,
+    "grade": "D",
+    "rarity": "uncommon",
+    "color": "RUW",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WUR": {
+        "gihwr": 0.523,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{1}{U}{R}{W}"
+  },
+  "95720": {
+    "name": "Jeskai Revelation",
+    "gihwr": 0.695,
+    "grade": "A+",
+    "rarity": "mythic",
+    "color": "RUW",
+    "manaValue": 7,
+    "isLand": false,
+    "deckRatings": {
+      "WUR": {
+        "gihwr": 0.707,
+        "grade": "A+"
+      },
+      "URG": {
+        "gihwr": 0.698,
+        "grade": "A+"
+      },
+      "WURG": {
+        "gihwr": 0.708,
+        "grade": "A+"
+      },
+      "WUBRG": {
+        "gihwr": 0.669,
+        "grade": "A+"
+      }
+    },
+    "manaCost": "{4}{U}{R}{W}"
+  },
+  "95721": {
+    "name": "Jeskai Shrinekeeper",
+    "gihwr": 0.585,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "RUW",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.569,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.597,
+        "grade": "B"
+      },
+      "WUR": {
+        "gihwr": 0.595,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.583,
+        "grade": "C+"
+      },
+      "WUBR": {
+        "gihwr": 0.559,
+        "grade": "C-"
+      },
+      "WURG": {
+        "gihwr": 0.579,
+        "grade": "C+"
+      },
+      "UBRG": {
+        "gihwr": 0.574,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.575,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{2}{U}{R}{W}"
+  },
+  "95722": {
+    "name": "Karakyk Guardian",
+    "gihwr": 0.603,
+    "grade": "B+",
+    "rarity": "uncommon",
+    "color": "GRU",
+    "manaValue": 6,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.58,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.608,
+        "grade": "B"
+      },
+      "WUR": {
+        "gihwr": 0.612,
+        "grade": "B+"
+      },
+      "UBG": {
+        "gihwr": 0.594,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.61,
+        "grade": "B"
+      },
+      "WURG": {
+        "gihwr": 0.595,
+        "grade": "B-"
+      },
+      "UBRG": {
+        "gihwr": 0.612,
+        "grade": "B"
+      },
+      "WUBRG": {
+        "gihwr": 0.572,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{3}{G}{U}{R}"
+  },
+  "95723": {
+    "name": "Kheru Goldkeeper",
+    "gihwr": 0.548,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "BGU",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.543,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.553,
+        "grade": "C-"
+      },
+      "WUBG": {
+        "gihwr": 0.546,
+        "grade": "C-"
+      },
+      "UBRG": {
+        "gihwr": 0.526,
+        "grade": "D-"
+      },
+      "WUBRG": {
+        "gihwr": 0.535,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{1}{B}{G}{U}"
+  },
+  "95724": {
+    "name": "Kin-Tree Severance",
+    "gihwr": 0.562,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "BGW",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.575,
+        "grade": "B"
+      },
+      "BG": {
+        "gihwr": 0.562,
+        "grade": "C+"
+      },
+      "WBR": {
+        "gihwr": 0.524,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.549,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.569,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.546,
+        "grade": "D+"
+      },
+      "WUBG": {
+        "gihwr": 0.58,
+        "grade": "B"
+      },
+      "UBRG": {
+        "gihwr": 0.61,
+        "grade": "B"
+      },
+      "WUBRG": {
+        "gihwr": 0.578,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{2/W}{2/B}{2/G}"
+  },
+  "95725": {
+    "name": "Kishla Skimmer",
+    "gihwr": 0.577,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "GU",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.579,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.58,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.578,
+        "grade": "C+"
+      },
+      "WUBG": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "WURG": {
+        "gihwr": 0.573,
+        "grade": "C"
+      },
+      "UBRG": {
+        "gihwr": 0.573,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.566,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{G}{U}"
+  },
+  "95726": {
+    "name": "Kotis, the Fangkeeper",
+    "gihwr": 0.528,
+    "grade": "D",
+    "rarity": "rare",
+    "color": "BGU",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "UBG": {
+        "gihwr": 0.542,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{1}{B}{G}{U}"
+  },
+  "95727": {
+    "name": "Lie in Wait",
+    "gihwr": 0.571,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "BGU",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.573,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.573,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.567,
+        "grade": "C"
+      },
+      "WUBG": {
+        "gihwr": 0.56,
+        "grade": "C"
+      },
+      "UBRG": {
+        "gihwr": 0.583,
+        "grade": "C+"
+      },
+      "WUBRG": {
+        "gihwr": 0.573,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{B}{G}{U}"
+  },
+  "95728": {
+    "name": "Lotuslight Dancers",
+    "gihwr": 0.583,
+    "grade": "B-",
+    "rarity": "rare",
+    "color": "BGU",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.608,
+        "grade": "B+"
+      },
+      "UBG": {
+        "gihwr": 0.589,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.561,
+        "grade": "C-"
+      },
+      "WUBG": {
+        "gihwr": 0.559,
+        "grade": "C"
+      },
+      "UBRG": {
+        "gihwr": 0.573,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{2}{B}{G}{U}"
+  },
+  "95729": {
+    "name": "Mammoth Bellow",
+    "gihwr": 0.55,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "GRU",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.575,
+        "grade": "C+"
+      },
+      "WUR": {
+        "gihwr": 0.517,
+        "grade": "D"
+      },
+      "UBG": {
+        "gihwr": 0.543,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.554,
+        "grade": "C-"
+      },
+      "WURG": {
+        "gihwr": 0.522,
+        "grade": "D-"
+      },
+      "UBRG": {
+        "gihwr": 0.558,
+        "grade": "D+"
+      },
+      "WUBRG": {
+        "gihwr": 0.519,
+        "grade": "D-"
+      }
+    },
+    "manaCost": "{2}{G}{U}{R}"
+  },
+  "95730": {
+    "name": "Mardu Siegebreaker",
+    "gihwr": 0.554,
+    "grade": "C",
+    "rarity": "rare",
+    "color": "BRW",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.555,
+        "grade": "D+"
+      },
+      "WBR": {
+        "gihwr": 0.566,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{1}{R}{W}{B}"
+  },
+  "95731": {
+    "name": "Marshal of the Lost",
+    "gihwr": 0.537,
+    "grade": "D+",
+    "rarity": "uncommon",
+    "color": "BW",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.538,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.549,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.523,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{2}{W}{B}"
+  },
+  "95732": {
+    "name": "Monastery Messenger",
+    "gihwr": 0.532,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "RUW",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.533,
+        "grade": "D-"
+      },
+      "UR": {
+        "gihwr": 0.521,
+        "grade": "D-"
+      },
+      "WUR": {
+        "gihwr": 0.537,
+        "grade": "D+"
+      },
+      "WBR": {
+        "gihwr": 0.542,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.529,
+        "grade": "D"
+      },
+      "WUBR": {
+        "gihwr": 0.515,
+        "grade": "F"
+      },
+      "WURG": {
+        "gihwr": 0.515,
+        "grade": "F"
+      },
+      "WUBRG": {
+        "gihwr": 0.519,
+        "grade": "D-"
+      }
+    },
+    "manaCost": "{2/U}{2/R}{2/W}"
+  },
+  "95733": {
+    "name": "Narset, Jeskai Waymaster",
+    "gihwr": 0.559,
+    "grade": "C",
+    "rarity": "rare",
+    "color": "RUW",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WUR": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "WURG": {
+        "gihwr": 0.539,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{U}{R}{W}"
+  },
+  "95734": {
+    "name": "Neriv, Heart of the Storm",
+    "gihwr": 0.551,
+    "grade": "C-",
+    "rarity": "mythic",
+    "color": "BRW",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WBR": {
+        "gihwr": 0.561,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{1}{R}{W}{B}"
+  },
+  "95735": {
+    "name": "New Way Forward",
+    "gihwr": 0.548,
+    "grade": "C-",
+    "rarity": "rare",
+    "color": "RUW",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "WUR": {
+        "gihwr": 0.553,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      },
+      "WURG": {
+        "gihwr": 0.527,
+        "grade": "D"
+      },
+      "WUBRG": {
+        "gihwr": 0.533,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{2}{U}{R}{W}"
+  },
+  "95736": {
+    "name": "Perennation",
+    "gihwr": 0.541,
+    "grade": "D+",
+    "rarity": "mythic",
+    "color": "BGW",
+    "manaValue": 6,
+    "isLand": false,
+    "deckRatings": {
+      "WBG": {
+        "gihwr": 0.521,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.562,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{3}{W}{B}{G}"
+  },
+  "95737": {
+    "name": "Purging Stormbrood",
+    "gihwr": 0.57,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "BW",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.566,
+        "grade": "B-"
+      },
+      "WR": {
+        "gihwr": 0.586,
+        "grade": "C+"
+      },
+      "BG": {
+        "gihwr": 0.549,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.557,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.565,
+        "grade": "B-"
+      },
+      "WBG": {
+        "gihwr": 0.566,
+        "grade": "B"
+      },
+      "UBG": {
+        "gihwr": 0.588,
+        "grade": "B-"
+      },
+      "WUBG": {
+        "gihwr": 0.557,
+        "grade": "C"
+      },
+      "UBRG": {
+        "gihwr": 0.588,
+        "grade": "C+"
+      },
+      "WUBRG": {
+        "gihwr": 0.576,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{4}{B}"
+  },
+  "95739": {
+    "name": "Rakshasa's Bargain",
+    "gihwr": 0.586,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "BGU",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.589,
+        "grade": "B-"
+      },
+      "BG": {
+        "gihwr": 0.577,
+        "grade": "B-"
+      },
+      "WBG": {
+        "gihwr": 0.573,
+        "grade": "B"
+      },
+      "UBG": {
+        "gihwr": 0.584,
+        "grade": "B-"
+      },
+      "URG": {
+        "gihwr": 0.584,
+        "grade": "C+"
+      },
+      "WUBG": {
+        "gihwr": 0.582,
+        "grade": "B"
+      },
+      "WURG": {
+        "gihwr": 0.588,
+        "grade": "B-"
+      },
+      "UBRG": {
+        "gihwr": 0.602,
+        "grade": "B-"
+      },
+      "WUBRG": {
+        "gihwr": 0.585,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{2/B}{2/G}{2/U}"
+  },
+  "95740": {
+    "name": "Rediscover the Way",
+    "gihwr": 0.594,
+    "grade": "B",
+    "rarity": "rare",
+    "color": "RUW",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WUR": {
+        "gihwr": 0.597,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.59,
+        "grade": "B-"
+      },
+      "WURG": {
+        "gihwr": 0.597,
+        "grade": "B"
+      },
+      "WUBRG": {
+        "gihwr": 0.591,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{U}{R}{W}"
+  },
+  "95741": {
+    "name": "Reigning Victor",
+    "gihwr": 0.559,
+    "grade": "C",
+    "rarity": "common",
+    "color": "BRW",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.519,
+        "grade": "D"
+      },
+      "WR": {
+        "gihwr": 0.578,
+        "grade": "C+"
+      },
+      "WBR": {
+        "gihwr": 0.56,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{2/R}{2/W}{2/B}"
+  },
+  "95742": {
+    "name": "Reputable Merchant",
+    "gihwr": 0.527,
+    "grade": "D",
+    "rarity": "common",
+    "color": "BGW",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "BG": {
+        "gihwr": 0.529,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.53,
+        "grade": "C"
+      },
+      "WUBG": {
+        "gihwr": 0.525,
+        "grade": "D-"
+      }
+    },
+    "manaCost": "{2/W}{2/B}{2/G}"
+  },
+  "95743": {
+    "name": "Revival of the Ancestors",
+    "gihwr": 0.615,
+    "grade": "A-",
+    "rarity": "rare",
+    "color": "BGW",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "BG": {
+        "gihwr": 0.585,
+        "grade": "B"
+      },
+      "WBG": {
+        "gihwr": 0.639,
+        "grade": "A+"
+      },
+      "UBG": {
+        "gihwr": 0.602,
+        "grade": "B"
+      },
+      "WUBG": {
+        "gihwr": 0.633,
+        "grade": "A+"
+      },
+      "WUBRG": {
+        "gihwr": 0.586,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{1}{W}{B}{G}"
+  },
+  "95744": {
+    "name": "Riverwheel Sweep",
+    "gihwr": 0.581,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "RUW",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.591,
+        "grade": "B-"
+      },
+      "UR": {
+        "gihwr": 0.585,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.589,
+        "grade": "B-"
+      },
+      "WBR": {
+        "gihwr": 0.552,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "WURG": {
+        "gihwr": 0.568,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.577,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{2/U}{2/R}{2/W}"
+  },
+  "95745": {
+    "name": "Roar of Endless Song",
+    "gihwr": 0.655,
+    "grade": "A+",
+    "rarity": "rare",
+    "color": "GRU",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.66,
+        "grade": "A+"
+      },
+      "WUR": {
+        "gihwr": 0.615,
+        "grade": "B+"
+      },
+      "UBG": {
+        "gihwr": 0.619,
+        "grade": "A-"
+      },
+      "URG": {
+        "gihwr": 0.668,
+        "grade": "A+"
+      },
+      "WURG": {
+        "gihwr": 0.657,
+        "grade": "A+"
+      },
+      "UBRG": {
+        "gihwr": 0.653,
+        "grade": "A+"
+      },
+      "WUBRG": {
+        "gihwr": 0.661,
+        "grade": "A+"
+      }
+    },
+    "manaCost": "{2}{G}{U}{R}"
+  },
+  "95746": {
+    "name": "Runescale Stormbrood",
+    "gihwr": 0.56,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "RU",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.502,
+        "grade": "F"
+      },
+      "UR": {
+        "gihwr": 0.557,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.566,
+        "grade": "C"
+      },
+      "WURG": {
+        "gihwr": 0.584,
+        "grade": "C+"
+      },
+      "UBRG": {
+        "gihwr": 0.564,
+        "grade": "C-"
+      },
+      "WUBRG": {
+        "gihwr": 0.537,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{3}{R}"
+  },
+  "95748": {
+    "name": "Severance Priest",
+    "gihwr": 0.567,
+    "grade": "C+",
+    "rarity": "rare",
+    "color": "BGW",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WBG": {
+        "gihwr": 0.574,
+        "grade": "B"
+      }
+    },
+    "manaCost": "{W}{B}{G}"
+  },
+  "95749": {
+    "name": "Shiko, Paragon of the Way",
+    "gihwr": 0.634,
+    "grade": "A+",
+    "rarity": "mythic",
+    "color": "RUW",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "WUR": {
+        "gihwr": 0.635,
+        "grade": "A"
+      },
+      "URG": {
+        "gihwr": 0.649,
+        "grade": "A+"
+      },
+      "WURG": {
+        "gihwr": 0.641,
+        "grade": "A"
+      },
+      "WUBRG": {
+        "gihwr": 0.579,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{2}{U}{R}{W}"
+  },
+  "95750": {
+    "name": "Skirmish Rhino",
+    "gihwr": 0.552,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "BGW",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WBG": {
+        "gihwr": 0.56,
+        "grade": "B-"
+      },
+      "WUBG": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      },
+      "WUBRG": {
+        "gihwr": 0.527,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{W}{B}{G}"
+  },
+  "95751": {
+    "name": "Songcrafter Mage",
+    "gihwr": 0.566,
+    "grade": "C+",
+    "rarity": "rare",
+    "color": "GRU",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UBG": {
+        "gihwr": 0.569,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.567,
+        "grade": "C"
+      },
+      "WURG": {
+        "gihwr": 0.549,
+        "grade": "D+"
+      },
+      "UBRG": {
+        "gihwr": 0.59,
+        "grade": "C+"
+      },
+      "WUBRG": {
+        "gihwr": 0.561,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{G}{U}{R}"
+  },
+  "95752": {
+    "name": "Sonic Shrieker",
+    "gihwr": 0.611,
+    "grade": "A-",
+    "rarity": "uncommon",
+    "color": "BRW",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.567,
+        "grade": "B-"
+      },
+      "WR": {
+        "gihwr": 0.6,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.627,
+        "grade": "A-"
+      },
+      "WBR": {
+        "gihwr": 0.612,
+        "grade": "A"
+      },
+      "WBG": {
+        "gihwr": 0.609,
+        "grade": "A"
+      },
+      "UBG": {
+        "gihwr": 0.617,
+        "grade": "A-"
+      },
+      "URG": {
+        "gihwr": 0.591,
+        "grade": "B-"
+      },
+      "WUBR": {
+        "gihwr": 0.624,
+        "grade": "A+"
+      },
+      "WUBG": {
+        "gihwr": 0.602,
+        "grade": "A"
+      },
+      "WURG": {
+        "gihwr": 0.597,
+        "grade": "B"
+      },
+      "WBRG": {
+        "gihwr": 0.566,
+        "grade": "A-"
+      },
+      "UBRG": {
+        "gihwr": 0.626,
+        "grade": "B+"
+      },
+      "WUBRG": {
+        "gihwr": 0.621,
+        "grade": "A-"
+      }
+    },
+    "manaCost": "{2}{R}{W}{B}"
+  },
+  "95753": {
+    "name": "Stalwart Successor",
+    "gihwr": 0.532,
+    "grade": "D+",
+    "rarity": "uncommon",
+    "color": "BG",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "BG": {
+        "gihwr": 0.565,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.533,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.523,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{1}{B}{G}"
+  },
+  "95754": {
+    "name": "Temur Battlecrier",
+    "gihwr": 0.592,
+    "grade": "B",
+    "rarity": "rare",
+    "color": "GRU",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "URG": {
+        "gihwr": 0.596,
+        "grade": "B-"
+      },
+      "WURG": {
+        "gihwr": 0.577,
+        "grade": "C+"
+      },
+      "UBRG": {
+        "gihwr": 0.596,
+        "grade": "B-"
+      },
+      "WUBRG": {
+        "gihwr": 0.574,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{G}{U}{R}"
+  },
+  "95755": {
+    "name": "Temur Tawnyback",
+    "gihwr": 0.573,
+    "grade": "C+",
+    "rarity": "common",
+    "color": "GRU",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.548,
+        "grade": "D+"
+      },
+      "UG": {
+        "gihwr": 0.555,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.561,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.559,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.578,
+        "grade": "C+"
+      },
+      "WURG": {
+        "gihwr": 0.581,
+        "grade": "C+"
+      },
+      "UBRG": {
+        "gihwr": 0.578,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{2/G}{2/U}{2/R}"
+  },
+  "95756": {
+    "name": "Teval, Arbiter of Virtue",
+    "gihwr": 0.615,
+    "grade": "A-",
+    "rarity": "mythic",
+    "color": "BGU",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "UBG": {
+        "gihwr": 0.628,
+        "grade": "A"
+      },
+      "URG": {
+        "gihwr": 0.611,
+        "grade": "B"
+      },
+      "UBRG": {
+        "gihwr": 0.599,
+        "grade": "B-"
+      },
+      "WUBRG": {
+        "gihwr": 0.616,
+        "grade": "B+"
+      }
+    },
+    "manaCost": "{2}{B}{G}{U}"
+  },
+  "95757": {
+    "name": "Thunder of Unity",
+    "gihwr": 0.536,
+    "grade": "D+",
+    "rarity": "rare",
+    "color": "BRW",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.548,
+        "grade": "D+"
+      },
+      "WBR": {
+        "gihwr": 0.541,
+        "grade": "C"
+      }
+    },
+    "manaCost": "{R}{W}{B}"
+  },
+  "95758": {
+    "name": "Twinmaw Stormbrood",
+    "gihwr": 0.594,
+    "grade": "B",
+    "rarity": "uncommon",
+    "color": "RW",
+    "manaValue": 6,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.589,
+        "grade": "C+"
+      },
+      "UR": {
+        "gihwr": 0.594,
+        "grade": "B"
+      },
+      "WUR": {
+        "gihwr": 0.606,
+        "grade": "B+"
+      },
+      "WBR": {
+        "gihwr": 0.567,
+        "grade": "B-"
+      },
+      "WBG": {
+        "gihwr": 0.55,
+        "grade": "C+"
+      },
+      "UBG": {
+        "gihwr": 0.598,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.614,
+        "grade": "B+"
+      },
+      "WUBR": {
+        "gihwr": 0.617,
+        "grade": "A"
+      },
+      "WUBG": {
+        "gihwr": 0.582,
+        "grade": "B"
+      },
+      "WURG": {
+        "gihwr": 0.601,
+        "grade": "B"
+      },
+      "UBRG": {
+        "gihwr": 0.609,
+        "grade": "B"
+      },
+      "WUBRG": {
+        "gihwr": 0.624,
+        "grade": "A-"
+      }
+    },
+    "manaCost": "{5}{W}"
+  },
+  "95760": {
+    "name": "Ureni, the Song Unending",
+    "gihwr": 0.68,
+    "grade": "A+",
+    "rarity": "mythic",
+    "color": "GRU",
+    "manaValue": 8,
+    "isLand": false,
+    "deckRatings": {
+      "WUR": {
+        "gihwr": 0.651,
+        "grade": "A+"
+      },
+      "UBG": {
+        "gihwr": 0.703,
+        "grade": "A+"
+      },
+      "URG": {
+        "gihwr": 0.687,
+        "grade": "A+"
+      },
+      "UBRG": {
+        "gihwr": 0.707,
+        "grade": "A+"
+      }
+    },
+    "manaCost": "{5}{G}{U}{R}"
+  },
+  "95761": {
+    "name": "Whirlwing Stormbrood",
+    "gihwr": 0.556,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "GU",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.568,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.535,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.559,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.564,
+        "grade": "C"
+      },
+      "WUBG": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      },
+      "WURG": {
+        "gihwr": 0.536,
+        "grade": "D"
+      },
+      "UBRG": {
+        "gihwr": 0.562,
+        "grade": "C-"
+      },
+      "WUBRG": {
+        "gihwr": 0.513,
+        "grade": "D-"
+      }
+    },
+    "manaCost": "{4}{U}"
+  },
+  "95763": {
+    "name": "Windcrag Siege",
+    "gihwr": 0.587,
+    "grade": "B-",
+    "rarity": "rare",
+    "color": "RW",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.616,
+        "grade": "B+"
+      },
+      "WUR": {
+        "gihwr": 0.587,
+        "grade": "B-"
+      },
+      "WBR": {
+        "gihwr": 0.586,
+        "grade": "B+"
+      }
+    },
+    "manaCost": "{1}{R}{W}"
+  },
+  "95764": {
+    "name": "Yathan Roadwatcher",
+    "gihwr": 0.566,
+    "grade": "C+",
+    "rarity": "rare",
+    "color": "BGW",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "WBG": {
+        "gihwr": 0.579,
+        "grade": "B+"
+      },
+      "UBG": {
+        "gihwr": 0.537,
+        "grade": "D+"
+      },
+      "WUBG": {
+        "gihwr": 0.535,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{1}{W}{B}{G}"
+  },
+  "95765": {
+    "name": "Zurgo, Thunder's Decree",
+    "gihwr": 0.577,
+    "grade": "B-",
+    "rarity": "rare",
+    "color": "BRW",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.587,
+        "grade": "C+"
+      },
+      "WBR": {
+        "gihwr": 0.584,
+        "grade": "B+"
+      }
+    },
+    "manaCost": "{R}{W}{B}"
+  },
+  "95766": {
+    "name": "Abzan Monument",
+    "gihwr": 0.538,
+    "grade": "D+",
+    "rarity": "uncommon",
+    "color": "BGW",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WBG": {
+        "gihwr": 0.541,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.549,
+        "grade": "C-"
+      },
+      "WUBG": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      },
+      "UBRG": {
+        "gihwr": 0.547,
+        "grade": "D+"
+      },
+      "WUBRG": {
+        "gihwr": 0.544,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{2}"
+  },
+  "95767": {
+    "name": "Boulderborn Dragon",
+    "gihwr": 0.515,
+    "grade": "D-",
+    "rarity": "common",
+    "color": "",
+    "manaValue": 5,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.53,
+        "grade": "D"
+      },
+      "UG": {
+        "gihwr": 0.499,
+        "grade": "F"
+      },
+      "WUR": {
+        "gihwr": 0.542,
+        "grade": "C-"
+      },
+      "WBG": {
+        "gihwr": 0.476,
+        "grade": "F"
+      },
+      "UBG": {
+        "gihwr": 0.521,
+        "grade": "D"
+      },
+      "URG": {
+        "gihwr": 0.501,
+        "grade": "F"
+      },
+      "WUBG": {
+        "gihwr": 0.523,
+        "grade": "D-"
+      },
+      "WURG": {
+        "gihwr": 0.537,
+        "grade": "D"
+      },
+      "UBRG": {
+        "gihwr": 0.519,
+        "grade": "F"
+      },
+      "WUBRG": {
+        "gihwr": 0.513,
+        "grade": "D-"
+      }
+    },
+    "manaCost": "{5}"
+  },
+  "95768": {
+    "name": "Dragonfire Blade",
+    "gihwr": 0.533,
+    "grade": "D+",
+    "rarity": "rare",
+    "color": "",
+    "manaValue": 1,
+    "isLand": false,
+    "deckRatings": {
+      "WUR": {
+        "gihwr": 0.495,
+        "grade": "F"
+      },
+      "WBR": {
+        "gihwr": 0.541,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.533,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.54,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.553,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{1}"
+  },
+  "95769": {
+    "name": "Dragonstorm Globe",
+    "gihwr": 0.563,
+    "grade": "C",
+    "rarity": "common",
+    "color": "",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.557,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.546,
+        "grade": "D+"
+      },
+      "BG": {
+        "gihwr": 0.489,
+        "grade": "F"
+      },
+      "WUR": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.509,
+        "grade": "D"
+      },
+      "WBG": {
+        "gihwr": 0.508,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.566,
+        "grade": "C"
+      },
+      "WUBR": {
+        "gihwr": 0.59,
+        "grade": "B"
+      },
+      "WUBG": {
+        "gihwr": 0.564,
+        "grade": "C+"
+      },
+      "WURG": {
+        "gihwr": 0.576,
+        "grade": "C+"
+      },
+      "WBRG": {
+        "gihwr": 0.461,
+        "grade": "F"
+      },
+      "UBRG": {
+        "gihwr": 0.585,
+        "grade": "C+"
+      },
+      "WUBRG": {
+        "gihwr": 0.583,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{3}"
+  },
+  "95770": {
+    "name": "Embermouth Sentinel",
+    "gihwr": 0.539,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.548,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.543,
+        "grade": "D+"
+      },
+      "UG": {
+        "gihwr": 0.543,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.544,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.502,
+        "grade": "D"
+      },
+      "UBG": {
+        "gihwr": 0.538,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.546,
+        "grade": "D+"
+      },
+      "WUBG": {
+        "gihwr": 0.521,
+        "grade": "D-"
+      },
+      "WURG": {
+        "gihwr": 0.538,
+        "grade": "D"
+      },
+      "UBRG": {
+        "gihwr": 0.546,
+        "grade": "D+"
+      },
+      "WUBRG": {
+        "gihwr": 0.546,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{2}"
+  },
+  "95771": {
+    "name": "Jade-Cast Sentinel",
+    "gihwr": 0.523,
+    "grade": "D",
+    "rarity": "common",
+    "color": "",
+    "manaValue": 4,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.544,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.512,
+        "grade": "D-"
+      },
+      "URG": {
+        "gihwr": 0.532,
+        "grade": "D"
+      }
+    },
+    "manaCost": "{4}"
+  },
+  "95772": {
+    "name": "Jeskai Monument",
+    "gihwr": 0.581,
+    "grade": "B-",
+    "rarity": "uncommon",
+    "color": "RUW",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.565,
+        "grade": "C-"
+      },
+      "UR": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.591,
+        "grade": "B-"
+      },
+      "WBR": {
+        "gihwr": 0.487,
+        "grade": "F"
+      },
+      "URG": {
+        "gihwr": 0.58,
+        "grade": "C+"
+      },
+      "WUBR": {
+        "gihwr": 0.588,
+        "grade": "B"
+      },
+      "WURG": {
+        "gihwr": 0.577,
+        "grade": "C+"
+      },
+      "UBRG": {
+        "gihwr": 0.563,
+        "grade": "C-"
+      },
+      "WUBRG": {
+        "gihwr": 0.583,
+        "grade": "B-"
+      }
+    },
+    "manaCost": "{2}"
+  },
+  "95773": {
+    "name": "Mardu Monument",
+    "gihwr": 0.589,
+    "grade": "B",
+    "rarity": "uncommon",
+    "color": "BRW",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.586,
+        "grade": "B+"
+      },
+      "WR": {
+        "gihwr": 0.603,
+        "grade": "B"
+      },
+      "WUR": {
+        "gihwr": 0.554,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.602,
+        "grade": "A-"
+      },
+      "WBG": {
+        "gihwr": 0.552,
+        "grade": "C+"
+      },
+      "WUBR": {
+        "gihwr": 0.578,
+        "grade": "C+"
+      },
+      "UBRG": {
+        "gihwr": 0.54,
+        "grade": "D"
+      },
+      "WUBRG": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      }
+    },
+    "manaCost": "{2}"
+  },
+  "95774": {
+    "name": "Mox Jasper",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "mythic",
+    "color": "",
+    "manaValue": 0,
+    "isLand": false,
+    "manaCost": "{0}"
+  },
+  "95775": {
+    "name": "Sultai Monument",
+    "gihwr": 0.57,
+    "grade": "C+",
+    "rarity": "uncommon",
+    "color": "BGU",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.526,
+        "grade": "D"
+      },
+      "WBG": {
+        "gihwr": 0.521,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.573,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.554,
+        "grade": "C-"
+      },
+      "WUBG": {
+        "gihwr": 0.579,
+        "grade": "B"
+      },
+      "WURG": {
+        "gihwr": 0.575,
+        "grade": "C+"
+      },
+      "UBRG": {
+        "gihwr": 0.595,
+        "grade": "B-"
+      },
+      "WUBRG": {
+        "gihwr": 0.575,
+        "grade": "C+"
+      }
+    },
+    "manaCost": "{2}"
+  },
+  "95776": {
+    "name": "Temur Monument",
+    "gihwr": 0.565,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "GRU",
+    "manaValue": 2,
+    "isLand": false,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.537,
+        "grade": "D"
+      },
+      "WUR": {
+        "gihwr": 0.589,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.572,
+        "grade": "C"
+      },
+      "WURG": {
+        "gihwr": 0.557,
+        "grade": "C-"
+      },
+      "UBRG": {
+        "gihwr": 0.57,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.541,
+        "grade": "D+"
+      }
+    },
+    "manaCost": "{2}"
+  },
+  "95777": {
+    "name": "Watcher of the Wayside",
+    "gihwr": 0.539,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "",
+    "manaValue": 3,
+    "isLand": false,
+    "deckRatings": {
+      "UBG": {
+        "gihwr": 0.546,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.522,
+        "grade": "D-"
+      }
+    },
+    "manaCost": "{3}"
+  },
+  "95778": {
+    "name": "Bloodfell Caves",
+    "gihwr": 0.547,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "BR",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.534,
+        "grade": "C-"
+      },
+      "WR": {
+        "gihwr": 0.558,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.542,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.555,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.543,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.499,
+        "grade": "D"
+      },
+      "UBG": {
+        "gihwr": 0.567,
+        "grade": "C+"
+      },
+      "URG": {
+        "gihwr": 0.549,
+        "grade": "D+"
+      },
+      "WUBR": {
+        "gihwr": 0.564,
+        "grade": "C"
+      },
+      "WUBG": {
+        "gihwr": 0.57,
+        "grade": "B-"
+      },
+      "WURG": {
+        "gihwr": 0.552,
+        "grade": "C-"
+      },
+      "WBRG": {
+        "gihwr": 0.528,
+        "grade": "C+"
+      },
+      "UBRG": {
+        "gihwr": 0.554,
+        "grade": "D+"
+      },
+      "WUBRG": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      }
+    },
+    "manaCost": ""
+  },
+  "95779": {
+    "name": "Blossoming Sands",
+    "gihwr": 0.545,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "GW",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.531,
+        "grade": "D+"
+      },
+      "UG": {
+        "gihwr": 0.545,
+        "grade": "D+"
+      },
+      "BG": {
+        "gihwr": 0.525,
+        "grade": "D"
+      },
+      "WUR": {
+        "gihwr": 0.567,
+        "grade": "C+"
+      },
+      "WBR": {
+        "gihwr": 0.519,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.533,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.54,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.559,
+        "grade": "C-"
+      },
+      "WUBG": {
+        "gihwr": 0.567,
+        "grade": "C+"
+      },
+      "WURG": {
+        "gihwr": 0.553,
+        "grade": "C-"
+      },
+      "WBRG": {
+        "gihwr": 0.513,
+        "grade": "C"
+      },
+      "UBRG": {
+        "gihwr": 0.554,
+        "grade": "D+"
+      },
+      "WUBRG": {
+        "gihwr": 0.549,
+        "grade": "C-"
+      }
+    },
+    "manaCost": ""
+  },
+  "95780": {
+    "name": "Cori Mountain Monastery",
+    "gihwr": 0.59,
+    "grade": "B",
+    "rarity": "rare",
+    "color": "R",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.608,
+        "grade": "B"
+      },
+      "UR": {
+        "gihwr": 0.599,
+        "grade": "B"
+      },
+      "WUR": {
+        "gihwr": 0.591,
+        "grade": "B-"
+      },
+      "WBR": {
+        "gihwr": 0.582,
+        "grade": "B"
+      },
+      "URG": {
+        "gihwr": 0.601,
+        "grade": "B"
+      }
+    },
+    "manaCost": ""
+  },
+  "95781": {
+    "name": "Dalkovan Encampment",
+    "gihwr": 0.559,
+    "grade": "C",
+    "rarity": "rare",
+    "color": "W",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.537,
+        "grade": "C-"
+      },
+      "WR": {
+        "gihwr": 0.6,
+        "grade": "B-"
+      },
+      "WUR": {
+        "gihwr": 0.56,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.546,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.529,
+        "grade": "C-"
+      }
+    },
+    "manaCost": ""
+  },
+  "95782": {
+    "name": "Dismal Backwater",
+    "gihwr": 0.56,
+    "grade": "C",
+    "rarity": "common",
+    "color": "BU",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.559,
+        "grade": "C-"
+      },
+      "BG": {
+        "gihwr": 0.529,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.554,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.489,
+        "grade": "F"
+      },
+      "WBG": {
+        "gihwr": 0.525,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.564,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.561,
+        "grade": "C-"
+      },
+      "WUBR": {
+        "gihwr": 0.596,
+        "grade": "B"
+      },
+      "WUBG": {
+        "gihwr": 0.553,
+        "grade": "C"
+      },
+      "WURG": {
+        "gihwr": 0.541,
+        "grade": "D+"
+      },
+      "UBRG": {
+        "gihwr": 0.574,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.557,
+        "grade": "C-"
+      }
+    },
+    "manaCost": ""
+  },
+  "95783": {
+    "name": "Evolving Wilds",
+    "gihwr": 0.556,
+    "grade": "C",
+    "rarity": "common",
+    "color": "",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.552,
+        "grade": "C+"
+      },
+      "WR": {
+        "gihwr": 0.569,
+        "grade": "C"
+      },
+      "UR": {
+        "gihwr": 0.558,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.547,
+        "grade": "D+"
+      },
+      "BG": {
+        "gihwr": 0.513,
+        "grade": "D-"
+      },
+      "WUR": {
+        "gihwr": 0.568,
+        "grade": "C+"
+      },
+      "WBR": {
+        "gihwr": 0.551,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.539,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.553,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.561,
+        "grade": "C-"
+      },
+      "WUBR": {
+        "gihwr": 0.542,
+        "grade": "D"
+      },
+      "WUBG": {
+        "gihwr": 0.531,
+        "grade": "D"
+      },
+      "WURG": {
+        "gihwr": 0.57,
+        "grade": "C"
+      },
+      "UBRG": {
+        "gihwr": 0.568,
+        "grade": "C-"
+      },
+      "WUBRG": {
+        "gihwr": 0.562,
+        "grade": "C"
+      }
+    },
+    "manaCost": ""
+  },
+  "95784": {
+    "name": "Frontier Bivouac",
+    "gihwr": 0.557,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "GRU",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.527,
+        "grade": "D-"
+      },
+      "UG": {
+        "gihwr": 0.562,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.559,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.568,
+        "grade": "C"
+      },
+      "WUBG": {
+        "gihwr": 0.536,
+        "grade": "D"
+      },
+      "WURG": {
+        "gihwr": 0.529,
+        "grade": "D"
+      },
+      "UBRG": {
+        "gihwr": 0.555,
+        "grade": "D+"
+      },
+      "WUBRG": {
+        "gihwr": 0.542,
+        "grade": "D+"
+      }
+    },
+    "manaCost": ""
+  },
+  "95785": {
+    "name": "Great Arashin City",
+    "gihwr": 0.576,
+    "grade": "C+",
+    "rarity": "rare",
+    "color": "B",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.605,
+        "grade": "A"
+      },
+      "WBR": {
+        "gihwr": 0.566,
+        "grade": "B-"
+      },
+      "WBG": {
+        "gihwr": 0.562,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.592,
+        "grade": "B"
+      }
+    },
+    "manaCost": ""
+  },
+  "95786": {
+    "name": "Jungle Hollow",
+    "gihwr": 0.551,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "BG",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.53,
+        "grade": "D+"
+      },
+      "UG": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.524,
+        "grade": "D"
+      },
+      "WBR": {
+        "gihwr": 0.527,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.531,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.556,
+        "grade": "C-"
+      },
+      "WUBG": {
+        "gihwr": 0.573,
+        "grade": "B-"
+      },
+      "WURG": {
+        "gihwr": 0.557,
+        "grade": "C-"
+      },
+      "WBRG": {
+        "gihwr": 0.493,
+        "grade": "D+"
+      },
+      "UBRG": {
+        "gihwr": 0.554,
+        "grade": "D+"
+      },
+      "WUBRG": {
+        "gihwr": 0.549,
+        "grade": "C-"
+      }
+    },
+    "manaCost": ""
+  },
+  "95787": {
+    "name": "Kishla Village",
+    "gihwr": 0.559,
+    "grade": "C",
+    "rarity": "rare",
+    "color": "G",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.572,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.557,
+        "grade": "B-"
+      },
+      "UBG": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.569,
+        "grade": "C"
+      }
+    },
+    "manaCost": ""
+  },
+  "95788": {
+    "name": "Maelstrom of the Spirit Dragon",
+    "gihwr": 0.572,
+    "grade": "C+",
+    "rarity": "rare",
+    "color": "",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "WUR": {
+        "gihwr": 0.549,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.555,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.587,
+        "grade": "B-"
+      },
+      "WUBRG": {
+        "gihwr": 0.549,
+        "grade": "C-"
+      }
+    },
+    "manaCost": ""
+  },
+  "95789": {
+    "name": "Mistrise Village",
+    "gihwr": 0.52,
+    "grade": "D",
+    "rarity": "rare",
+    "color": "U",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "URG": {
+        "gihwr": 0.542,
+        "grade": "D+"
+      }
+    },
+    "manaCost": ""
+  },
+  "95790": {
+    "name": "Mystic Monastery",
+    "gihwr": 0.557,
+    "grade": "C",
+    "rarity": "uncommon",
+    "color": "RUW",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.55,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.577,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.544,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.57,
+        "grade": "C+"
+      },
+      "WBR": {
+        "gihwr": 0.535,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.54,
+        "grade": "D+"
+      },
+      "URG": {
+        "gihwr": 0.566,
+        "grade": "C"
+      },
+      "WUBR": {
+        "gihwr": 0.542,
+        "grade": "D"
+      },
+      "WUBG": {
+        "gihwr": 0.55,
+        "grade": "C-"
+      },
+      "WURG": {
+        "gihwr": 0.538,
+        "grade": "D+"
+      },
+      "UBRG": {
+        "gihwr": 0.577,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.531,
+        "grade": "D"
+      }
+    },
+    "manaCost": ""
+  },
+  "95791": {
+    "name": "Nomad Outpost",
+    "gihwr": 0.55,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "BRW",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.523,
+        "grade": "D+"
+      },
+      "WR": {
+        "gihwr": 0.564,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.537,
+        "grade": "D+"
+      },
+      "WBR": {
+        "gihwr": 0.556,
+        "grade": "C+"
+      },
+      "WBG": {
+        "gihwr": 0.534,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "WUBG": {
+        "gihwr": 0.542,
+        "grade": "D+"
+      },
+      "WURG": {
+        "gihwr": 0.556,
+        "grade": "C-"
+      },
+      "UBRG": {
+        "gihwr": 0.531,
+        "grade": "D-"
+      },
+      "WUBRG": {
+        "gihwr": 0.543,
+        "grade": "D+"
+      }
+    },
+    "manaCost": ""
+  },
+  "95792": {
+    "name": "Opulent Palace",
+    "gihwr": 0.552,
+    "grade": "C-",
+    "rarity": "uncommon",
+    "color": "BGU",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "UG": {
+        "gihwr": 0.561,
+        "grade": "C-"
+      },
+      "BG": {
+        "gihwr": 0.536,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.537,
+        "grade": "D+"
+      },
+      "WBG": {
+        "gihwr": 0.53,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.561,
+        "grade": "C-"
+      },
+      "WUBG": {
+        "gihwr": 0.542,
+        "grade": "D+"
+      },
+      "WURG": {
+        "gihwr": 0.527,
+        "grade": "D"
+      },
+      "UBRG": {
+        "gihwr": 0.565,
+        "grade": "C-"
+      },
+      "WUBRG": {
+        "gihwr": 0.547,
+        "grade": "C-"
+      }
+    },
+    "manaCost": ""
+  },
+  "95793": {
+    "name": "Rugged Highlands",
+    "gihwr": 0.559,
+    "grade": "C",
+    "rarity": "common",
+    "color": "GR",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.547,
+        "grade": "D+"
+      },
+      "UG": {
+        "gihwr": 0.554,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.575,
+        "grade": "C+"
+      },
+      "WBR": {
+        "gihwr": 0.493,
+        "grade": "F"
+      },
+      "WBG": {
+        "gihwr": 0.517,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.559,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.567,
+        "grade": "C"
+      },
+      "WUBG": {
+        "gihwr": 0.542,
+        "grade": "D+"
+      },
+      "WURG": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "WBRG": {
+        "gihwr": 0.494,
+        "grade": "D+"
+      },
+      "UBRG": {
+        "gihwr": 0.55,
+        "grade": "D+"
+      },
+      "WUBRG": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      }
+    },
+    "manaCost": ""
+  },
+  "95794": {
+    "name": "Sandsteppe Citadel",
+    "gihwr": 0.54,
+    "grade": "D+",
+    "rarity": "uncommon",
+    "color": "BGW",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.557,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.497,
+        "grade": "F"
+      },
+      "BG": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      },
+      "WBR": {
+        "gihwr": 0.542,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.524,
+        "grade": "C-"
+      },
+      "UBG": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.522,
+        "grade": "D-"
+      },
+      "WUBG": {
+        "gihwr": 0.573,
+        "grade": "B-"
+      },
+      "WURG": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "UBRG": {
+        "gihwr": 0.523,
+        "grade": "D-"
+      },
+      "WUBRG": {
+        "gihwr": 0.57,
+        "grade": "C+"
+      }
+    },
+    "manaCost": ""
+  },
+  "95795": {
+    "name": "Scoured Barrens",
+    "gihwr": 0.542,
+    "grade": "D+",
+    "rarity": "common",
+    "color": "BW",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.545,
+        "grade": "C"
+      },
+      "WR": {
+        "gihwr": 0.554,
+        "grade": "D+"
+      },
+      "BG": {
+        "gihwr": 0.515,
+        "grade": "D-"
+      },
+      "WUR": {
+        "gihwr": 0.535,
+        "grade": "D+"
+      },
+      "WBR": {
+        "gihwr": 0.546,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.537,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.546,
+        "grade": "C-"
+      },
+      "URG": {
+        "gihwr": 0.539,
+        "grade": "D+"
+      },
+      "WUBR": {
+        "gihwr": 0.543,
+        "grade": "D"
+      },
+      "WUBG": {
+        "gihwr": 0.532,
+        "grade": "D"
+      },
+      "WURG": {
+        "gihwr": 0.52,
+        "grade": "D-"
+      },
+      "WBRG": {
+        "gihwr": 0.491,
+        "grade": "D"
+      },
+      "UBRG": {
+        "gihwr": 0.54,
+        "grade": "D"
+      },
+      "WUBRG": {
+        "gihwr": 0.561,
+        "grade": "C"
+      }
+    },
+    "manaCost": ""
+  },
+  "95796": {
+    "name": "Swiftwater Cliffs",
+    "gihwr": 0.561,
+    "grade": "C",
+    "rarity": "common",
+    "color": "RU",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "WR": {
+        "gihwr": 0.548,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.557,
+        "grade": "C-"
+      },
+      "UG": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.478,
+        "grade": "F"
+      },
+      "UBG": {
+        "gihwr": 0.555,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.565,
+        "grade": "C"
+      },
+      "WUBR": {
+        "gihwr": 0.55,
+        "grade": "D+"
+      },
+      "WUBG": {
+        "gihwr": 0.556,
+        "grade": "C"
+      },
+      "WURG": {
+        "gihwr": 0.551,
+        "grade": "C-"
+      },
+      "UBRG": {
+        "gihwr": 0.573,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.564,
+        "grade": "C"
+      }
+    },
+    "manaCost": ""
+  },
+  "95797": {
+    "name": "Thornwood Falls",
+    "gihwr": 0.562,
+    "grade": "C",
+    "rarity": "common",
+    "color": "GU",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "UR": {
+        "gihwr": 0.548,
+        "grade": "D+"
+      },
+      "UG": {
+        "gihwr": 0.566,
+        "grade": "C"
+      },
+      "BG": {
+        "gihwr": 0.535,
+        "grade": "D+"
+      },
+      "WUR": {
+        "gihwr": 0.564,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.511,
+        "grade": "D+"
+      },
+      "UBG": {
+        "gihwr": 0.558,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.57,
+        "grade": "C"
+      },
+      "WUBG": {
+        "gihwr": 0.555,
+        "grade": "C"
+      },
+      "WURG": {
+        "gihwr": 0.562,
+        "grade": "C"
+      },
+      "UBRG": {
+        "gihwr": 0.577,
+        "grade": "C"
+      },
+      "WUBRG": {
+        "gihwr": 0.544,
+        "grade": "D+"
+      }
+    },
+    "manaCost": ""
+  },
+  "95798": {
+    "name": "Tranquil Cove",
+    "gihwr": 0.56,
+    "grade": "C",
+    "rarity": "common",
+    "color": "UW",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "WU": {
+        "gihwr": 0.556,
+        "grade": "D+"
+      },
+      "WR": {
+        "gihwr": 0.545,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.571,
+        "grade": "C+"
+      },
+      "UG": {
+        "gihwr": 0.56,
+        "grade": "C-"
+      },
+      "WUR": {
+        "gihwr": 0.561,
+        "grade": "C"
+      },
+      "WBR": {
+        "gihwr": 0.539,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.534,
+        "grade": "C"
+      },
+      "UBG": {
+        "gihwr": 0.563,
+        "grade": "C"
+      },
+      "URG": {
+        "gihwr": 0.573,
+        "grade": "C"
+      },
+      "WUBR": {
+        "gihwr": 0.563,
+        "grade": "C-"
+      },
+      "WUBG": {
+        "gihwr": 0.545,
+        "grade": "C-"
+      },
+      "WURG": {
+        "gihwr": 0.552,
+        "grade": "C-"
+      },
+      "UBRG": {
+        "gihwr": 0.569,
+        "grade": "C-"
+      },
+      "WUBRG": {
+        "gihwr": 0.549,
+        "grade": "C-"
+      }
+    },
+    "manaCost": ""
+  },
+  "95799": {
+    "name": "Wind-Scarred Crag",
+    "gihwr": 0.552,
+    "grade": "C-",
+    "rarity": "common",
+    "color": "RW",
+    "manaValue": 0,
+    "isLand": true,
+    "deckRatings": {
+      "WB": {
+        "gihwr": 0.536,
+        "grade": "C-"
+      },
+      "WR": {
+        "gihwr": 0.555,
+        "grade": "D+"
+      },
+      "UR": {
+        "gihwr": 0.561,
+        "grade": "C"
+      },
+      "WUR": {
+        "gihwr": 0.568,
+        "grade": "C+"
+      },
+      "WBR": {
+        "gihwr": 0.54,
+        "grade": "C"
+      },
+      "WBG": {
+        "gihwr": 0.504,
+        "grade": "D"
+      },
+      "URG": {
+        "gihwr": 0.556,
+        "grade": "C-"
+      },
+      "WUBR": {
+        "gihwr": 0.575,
+        "grade": "C+"
+      },
+      "WUBG": {
+        "gihwr": 0.538,
+        "grade": "D+"
+      },
+      "WURG": {
+        "gihwr": 0.554,
+        "grade": "C-"
+      },
+      "WBRG": {
+        "gihwr": 0.492,
+        "grade": "D+"
+      },
+      "UBRG": {
+        "gihwr": 0.558,
+        "grade": "D+"
+      },
+      "WUBRG": {
+        "gihwr": 0.529,
+        "grade": "D"
+      }
+    },
+    "manaCost": ""
+  },
+  "95800": {
+    "name": "Plains",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "W",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95801": {
+    "name": "Plains",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "W",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95802": {
+    "name": "Island",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "U",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95803": {
+    "name": "Island",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "U",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95804": {
+    "name": "Swamp",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "B",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95805": {
+    "name": "Swamp",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "B",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95806": {
+    "name": "Mountain",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "R",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95807": {
+    "name": "Mountain",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "R",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95808": {
+    "name": "Forest",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "G",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95809": {
+    "name": "Forest",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "G",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95810": {
+    "name": "Plains",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "W",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95811": {
+    "name": "Island",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "U",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95812": {
+    "name": "Swamp",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "B",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95813": {
+    "name": "Mountain",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "R",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95814": {
+    "name": "Forest",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "G",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95815": {
+    "name": "Plains",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "W",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95816": {
+    "name": "Island",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "U",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95817": {
+    "name": "Swamp",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "B",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95818": {
+    "name": "Mountain",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "R",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95819": {
+    "name": "Forest",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "basic",
+    "color": "G",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95836": {
+    "name": "Eerie Ultimatum",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "rare",
+    "color": "BGW",
+    "manaValue": 7,
+    "isLand": false,
+    "manaCost": "{W}{W}{B}{B}{B}{G}{G}"
+  },
+  "95837": {
+    "name": "Emergent Ultimatum",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "rare",
+    "color": "BGU",
+    "manaValue": 7,
+    "isLand": false,
+    "manaCost": "{B}{B}{G}{G}{G}{U}{U}"
+  },
+  "95838": {
+    "name": "Genesis Ultimatum",
+    "gihwr": 0.593,
+    "grade": "B",
+    "rarity": "rare",
+    "color": "GRU",
+    "manaValue": 7,
+    "isLand": false,
+    "manaCost": "{G}{G}{U}{U}{U}{R}{R}"
+  },
+  "95839": {
+    "name": "Inspired Ultimatum",
+    "gihwr": 0.626,
+    "grade": "A",
+    "rarity": "rare",
+    "color": "RUW",
+    "manaValue": 7,
+    "isLand": false,
+    "deckRatings": {
+      "WUR": {
+        "gihwr": 0.635,
+        "grade": "A"
+      }
+    },
+    "manaCost": "{U}{U}{R}{R}{R}{W}{W}"
+  },
+  "95840": {
+    "name": "Ruinous Ultimatum",
+    "gihwr": null,
+    "grade": null,
+    "rarity": "rare",
+    "color": "BRW",
+    "manaValue": 7,
+    "isLand": false,
+    "manaCost": "{R}{R}{W}{W}{W}{B}{B}"
+  },
+  "95841": {
+    "name": "Arid Mesa",
+    "gihwr": 0.547,
+    "grade": "C-",
+    "rarity": "rare",
+    "color": "",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95842": {
+    "name": "Marsh Flats",
+    "gihwr": 0.543,
+    "grade": "C-",
+    "rarity": "rare",
+    "color": "",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95843": {
+    "name": "Misty Rainforest",
+    "gihwr": 0.56,
+    "grade": "C",
+    "rarity": "rare",
+    "color": "",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95844": {
+    "name": "Scalding Tarn",
+    "gihwr": 0.552,
+    "grade": "C-",
+    "rarity": "rare",
+    "color": "",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  },
+  "95845": {
+    "name": "Verdant Catacombs",
+    "gihwr": 0.55,
+    "grade": "C-",
+    "rarity": "rare",
+    "color": "",
+    "manaValue": 0,
+    "isLand": true,
+    "manaCost": ""
+  }
+}

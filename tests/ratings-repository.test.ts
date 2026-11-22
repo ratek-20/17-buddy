@@ -28,6 +28,41 @@ describe('RatingsRepository', () => {
     });
   });
 
+  it('rates Tarkir: Dragonstorm packs including Special Guests and basic lands', () => {
+    const embeddedRepository = new RatingsRepository();
+
+    expect(embeddedRepository.hasSet('TDM')).toBe(true);
+    const pack = embeddedRepository.ratePack({
+      type: 'pack-received',
+      setCode: 'TDM',
+      packNumber: 1,
+      pickNumber: 1,
+      cardIds: [95516, 95843, 95800],
+      pickedCardIds: [95712],
+    });
+
+    expect(pack.cards).toMatchObject([
+      {
+        name: 'Ugin, Eye of the Storms',
+        gihwr: 0.687,
+        grade: 'A+',
+        manaCost: '{7}',
+      },
+      { name: 'Misty Rainforest', gihwr: 0.56, isLand: true },
+      { name: 'Plains', gihwr: null, grade: null, isLand: true },
+    ]);
+    expect(pack.pickedCards).toMatchObject([
+      {
+        name: 'Glacial Dragonhunt',
+        manaCost: '{U}{R}',
+        deckRatings: { WUR: { gihwr: 0.596, grade: 'B' } },
+      },
+    ]);
+    expect(pack.availableDecks).toEqual(
+      expect.arrayContaining(['WUR', 'WBR', 'WBG', 'UBG', 'URG']),
+    );
+  });
+
   it('finds an embedded rating by set and Arena card ID', () => {
     expect(repository.hasSet('TST')).toBe(true);
     expect(repository.getRating('TST', 100)).toEqual({

@@ -2,6 +2,7 @@ import blbCardRatings from '../../card-data/BLB.json';
 import dftCardRatings from '../../card-data/DFT.json';
 import eclCardRatings from '../../card-data/ECL.json';
 import fraCardRatings from '../../card-data/FRA.json';
+import tdmCardRatings from '../../card-data/TDM.json';
 import type {
   CardRating,
   PackReceived,
@@ -18,6 +19,7 @@ const RATINGS_BY_SET: Record<string, CardRatingDataset> = {
   DFT: dftCardRatings,
   ECL: eclCardRatings,
   FRA: fraCardRatings,
+  TDM: tdmCardRatings,
 };
 
 export class RatingsRepository {

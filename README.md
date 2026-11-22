@@ -113,7 +113,8 @@ tracking, and card-data generation diagrams.
 ## Card data
 
 Runtime datasets live in `card-data/<SET>.json`. Raw inputs are intentionally
-excluded from Git. Embedded ratings currently cover BLB, DFT, ECL, and FRA.
+excluded from Git. Embedded ratings currently cover BLB, DFT, ECL, FRA, and
+Tarkir: Dragonstorm (TDM).
 
 - `scripts/build_card_win_rates.py` processes official 17Lands public game-data
   CSV files into all-decks and deck-color ratings.
@@ -129,9 +130,9 @@ excluded from Git. Embedded ratings currently cover BLB, DFT, ECL, and FRA.
   These costs appear beside card names in My Picks, which follows mana-value
   order with lands last. Missing costs fall back to the known mana value.
 
-The BLB, DFT, and ECL ratings and shared card-list metadata are adapted from
+The BLB, DFT, ECL, and TDM ratings and shared card-list metadata are adapted from
 [17Lands Public Data](https://www.17lands.com/public_datasets), licensed under
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). For BLB, DFT, and ECL,
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). For these sets,
 17-buddy aggregates game records into GIH win rates for all decks and each
 primary-color combination, calculates grades, selects runtime fields, and maps
 cards to Arena IDs.
