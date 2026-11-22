@@ -8,6 +8,53 @@ import {
 } from '../src/renderer/arena-card-layout';
 
 describe('positionCards', () => {
+  it('keeps the TDM P1P1 badges on the cards shown in Arena', () => {
+    const pack = new RatingsRepository().ratePack({
+      type: 'pack-received',
+      setCode: 'TDM',
+      packNumber: 1,
+      pickNumber: 1,
+      cardIds: [
+        95574, 95663, 95741, 95608, 95640, 95521, 95840, 95704, 95551, 95744,
+        95758, 95614, 95736, 95799,
+      ],
+      pickedCardIds: [],
+    });
+
+    expect(
+      positionCards(pack.cards).map(({ card, column, row }) => [
+        card.name,
+        card.grade,
+        column,
+        row,
+      ]),
+    ).toEqual([
+      ['Perennation', 'D+', 0, 0],
+      ['Ruinous Ultimatum', null, 1, 0],
+      ['Twinmaw Stormbrood', 'B', 2, 0],
+      ['Aegis Sculptor', 'D+', 3, 0],
+      ['Strategic Betrayal', 'C-', 4, 0],
+      ['Dragonclaw Strike', 'C', 0, 1],
+      ['Riverwheel Sweep', 'B-', 1, 1],
+      ['Coordinated Maneuver', 'C-', 2, 1],
+      ['Sibsig Appraiser', 'B', 3, 1],
+      ['Sandskitter Outrider', 'D', 4, 1],
+      ['Shock Brigade', 'C', 0, 2],
+      ['Dusyut Earthcarver', 'C', 1, 2],
+      ['Reigning Victor', 'C', 2, 2],
+      ['Wind-Scarred Crag', 'C-', 3, 2],
+    ]);
+  });
+
+  it('sorts colorless artifacts by their Arena color rather than colored abilities', () => {
+    const artifact = { ...createCard(1, 'Monument', 'WUR'), arenaColor: '' };
+    const multicolor = createCard(2, 'Gold spell', 'UR');
+
+    expect(
+      positionCards([artifact, multicolor]).map(({ card }) => card.name),
+    ).toEqual(['Gold spell', 'Monument']);
+  });
+
   it('keeps the BLB P3P7 grades on their matching Arena cards', () => {
     const pack = new RatingsRepository().ratePack({
       type: 'pack-received',

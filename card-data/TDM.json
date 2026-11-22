@@ -529,7 +529,8 @@
         "grade": "F"
       }
     },
-    "manaCost": "{W}"
+    "manaCost": "{W}",
+    "arenaColor": "W"
   },
   "95532": {
     "name": "Osseous Exhale",
@@ -2341,7 +2342,8 @@
         "grade": "C-"
       }
     },
-    "manaCost": "{1}{U}"
+    "manaCost": "{1}{U}",
+    "arenaColor": "U"
   },
   "95580": {
     "name": "Unending Whisper",
@@ -2621,7 +2623,8 @@
         "grade": "D"
       }
     },
-    "manaCost": "{1}{B}"
+    "manaCost": "{1}{B}",
+    "arenaColor": "B"
   },
   "95587": {
     "name": "Adorned Crocodile",
@@ -3973,7 +3976,8 @@
         "grade": "C+"
       }
     },
-    "manaCost": "{4}{R}"
+    "manaCost": "{4}{R}",
+    "arenaColor": "R"
   },
   "95630": {
     "name": "Jeskai Devotee",
@@ -4017,7 +4021,8 @@
         "grade": "D-"
       }
     },
-    "manaCost": "{1}{R}"
+    "manaCost": "{1}{R}",
+    "arenaColor": "R"
   },
   "95631": {
     "name": "Magmatic Hellkite",
@@ -4189,7 +4194,8 @@
         "grade": "C-"
       }
     },
-    "manaCost": "{4}{R}"
+    "manaCost": "{4}{R}",
+    "arenaColor": "R"
   },
   "95635": {
     "name": "Overwhelming Surge",
@@ -5093,7 +5099,8 @@
         "grade": "C+"
       }
     },
-    "manaCost": "{1}{G}"
+    "manaCost": "{1}{G}",
+    "arenaColor": "G"
   },
   "95663": {
     "name": "Dusyut Earthcarver",
@@ -5887,7 +5894,8 @@
         "grade": "C-"
       }
     },
-    "manaCost": "{1}{G}"
+    "manaCost": "{1}{G}",
+    "arenaColor": "G"
   },
   "95684": {
     "name": "Surrak, Elusive Hunter",
@@ -6479,7 +6487,8 @@
         "grade": "B"
       }
     },
-    "manaCost": "{4}{G}"
+    "manaCost": "{4}{G}",
+    "arenaColor": "G"
   },
   "95703": {
     "name": "Dragonback Assault",
@@ -7543,7 +7552,8 @@
         "grade": "C+"
       }
     },
-    "manaCost": "{4}{B}"
+    "manaCost": "{4}{B}",
+    "arenaColor": "B"
   },
   "95739": {
     "name": "Rakshasa's Bargain",
@@ -7819,7 +7829,8 @@
         "grade": "D+"
       }
     },
-    "manaCost": "{3}{R}"
+    "manaCost": "{3}{R}",
+    "arenaColor": "R"
   },
   "95748": {
     "name": "Severance Priest",
@@ -8187,7 +8198,8 @@
         "grade": "A-"
       }
     },
-    "manaCost": "{5}{W}"
+    "manaCost": "{5}{W}",
+    "arenaColor": "W"
   },
   "95760": {
     "name": "Ureni, the Song Unending",
@@ -8259,7 +8271,8 @@
         "grade": "D-"
       }
     },
-    "manaCost": "{4}{U}"
+    "manaCost": "{4}{U}",
+    "arenaColor": "U"
   },
   "95763": {
     "name": "Windcrag Siege",
@@ -8359,7 +8372,8 @@
         "grade": "D+"
       }
     },
-    "manaCost": "{2}"
+    "manaCost": "{2}",
+    "arenaColor": ""
   },
   "95767": {
     "name": "Boulderborn Dragon",
@@ -8643,7 +8657,8 @@
         "grade": "B-"
       }
     },
-    "manaCost": "{2}"
+    "manaCost": "{2}",
+    "arenaColor": ""
   },
   "95773": {
     "name": "Mardu Monument",
@@ -8687,7 +8702,8 @@
         "grade": "C-"
       }
     },
-    "manaCost": "{2}"
+    "manaCost": "{2}",
+    "arenaColor": ""
   },
   "95774": {
     "name": "Mox Jasper",
@@ -8741,7 +8757,8 @@
         "grade": "C+"
       }
     },
-    "manaCost": "{2}"
+    "manaCost": "{2}",
+    "arenaColor": ""
   },
   "95776": {
     "name": "Temur Monument",
@@ -8781,7 +8798,8 @@
         "grade": "D+"
       }
     },
-    "manaCost": "{2}"
+    "manaCost": "{2}",
+    "arenaColor": ""
   },
   "95777": {
     "name": "Watcher of the Wayside",

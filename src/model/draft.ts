@@ -28,6 +28,8 @@ export type CardRating = WinRateGrade & {
   name: string;
   rarity?: string;
   color?: string;
+  // Front-face color used by Arena when it differs from color identity.
+  arenaColor?: string;
   manaValue?: number;
   manaCost?: string;
   isLand?: boolean;

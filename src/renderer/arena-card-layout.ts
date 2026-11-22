@@ -137,7 +137,7 @@ function colorOrder(card: RatedCard): number {
     return 7;
   }
 
-  const color = card.color ?? '';
+  const color = card.arenaColor ?? card.color ?? '';
   if (color.length > 1) {
     return 5;
   }
@@ -146,7 +146,7 @@ function colorOrder(card: RatedCard): number {
 }
 
 function multicolorOrder(card: RatedCard): number {
-  const color = card.color ?? '';
+  const color = card.arenaColor ?? card.color ?? '';
   if (color.length <= 1) {
     return 0;
   }

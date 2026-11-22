@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import type { RatedCard } from '../src/model/draft';
+import { RatingsRepository } from '../src/main/ratings-repository';
 import {
   positionMainDeckCards,
   reconcileSideboardCounts,
@@ -7,6 +8,23 @@ import {
 } from '../src/renderer/arena-deck-layout';
 
 describe('splitDeckCards', () => {
+  it('orders an Omen creature by its front color among picks with the same mana value', () => {
+    const pack = new RatingsRepository().ratePack({
+      type: 'pack-received',
+      setCode: 'TDM',
+      packNumber: 1,
+      pickNumber: 3,
+      cardIds: [],
+      pickedCardIds: [95663, 95758],
+    });
+
+    expect(
+      splitDeckCards(pack.pickedCards, {}).mainDeck.map(
+        ({ card }) => card.name,
+      ),
+    ).toEqual(['Twinmaw Stormbrood', 'Dusyut Earthcarver']);
+  });
+
   it('orders color pairs consistently when the dataset reverses their letters', () => {
     const pairs = ['WU', 'UB', 'BR', 'RG', 'WG', 'WB', 'UR', 'BG', 'WR', 'UG'];
     const cards = pairs.map((pair, index) =>

@@ -129,7 +129,7 @@ function compareDeckCards(first: DeckCardGroup, second: DeckCardGroup): number {
 }
 
 function colorOrder(card: RatedCard): number {
-  const color = card.color ?? '';
+  const color = card.arenaColor ?? card.color ?? '';
   if (color.length === 1) {
     return MONO_COLOR_ORDER.indexOf(color);
   }
@@ -140,7 +140,7 @@ function colorOrder(card: RatedCard): number {
 }
 
 function multicolorOrder(card: RatedCard): number {
-  const color = card.color ?? '';
+  const color = card.arenaColor ?? card.color ?? '';
   // Datasets may encode the same pair as GR or RG, for example.
   const normalizedColor = [...MONO_COLOR_ORDER]
     .filter((symbol) => color.includes(symbol))

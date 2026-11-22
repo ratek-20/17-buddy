@@ -130,10 +130,14 @@ Tarkir: Dragonstorm (TDM).
   [official 17Lands public card list](https://17lands-public.s3.amazonaws.com/analysis_data/cards/cards.csv)
   to map cards to Arena IDs.
 - After generating ratings, `scripts/add_card_mana_costs.py` enriches the JSONs
-  with mana costs from a manually downloaded Scryfall bulk file in JSONL format:
+  with mana costs and Arena sorting colors from a manually downloaded Scryfall
+  bulk file in JSONL format:
   `python3 scripts/add_card_mana_costs.py <bulk.jsonl> card-data/<SET>.json`.
   These costs appear beside card names in My Picks, which follows mana-value
   order with lands last. Missing costs fall back to the known mana value.
+  Nonland cards whose displayed color differs from their color identity receive
+  an `arenaColor` override, so cards with off-color Omen spells or abilities
+  sort by their displayed face. Lands retain their existing mana-color ordering.
 
 The BLB, DFT, ECL, and TDM ratings and shared card-list metadata are adapted from
 [17Lands Public Data](https://www.17lands.com/public_datasets), licensed under
