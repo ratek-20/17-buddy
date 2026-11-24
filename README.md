@@ -139,20 +139,16 @@ Tarkir: Dragonstorm (TDM).
   an `arenaColor` override, so cards with off-color Omen spells or abilities
   sort by their displayed face. Lands retain their existing mana-color ordering.
 
-The BLB, DFT, ECL, and TDM ratings and shared card-list metadata are adapted from
+The embedded ratings and shared card-list metadata are adapted from
 [17Lands Public Data](https://www.17lands.com/public_datasets), licensed under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). For these sets,
 17-buddy aggregates game records into GIH win rates for all decks and each
 primary-color combination, calculates grades, selects runtime fields, and maps
 cards to Arena IDs.
 
-The FRA ratings are derived from a CSV manually exported in October 2026 from
-the publicly accessible
-[17Lands FRA Card Data table](https://www.17lands.com/card_data?expansion=FRA&format=PremierDraft&time_period=ALL_TIME).
-17-buddy filters ratings by sample size, rounds the displayed statistics,
-calculates letter grades, selects the fields required at runtime, and maps cards
-to Arena IDs. FRA is not represented here as part of the CC BY 4.0 public
-dataset collection. The raw exported CSV is not included in this repository.
+The FRA ratings use the
+[public Premier Draft game dataset](https://data.17landscapes.com/analysis_data/game_data/game_data_public.FRA.PremierDraft.csv.gz),
+covering September 29 through November 1, 2026.
 
 17Lands does not endorse this project.
 

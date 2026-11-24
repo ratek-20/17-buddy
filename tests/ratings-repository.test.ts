@@ -63,6 +63,60 @@ describe('RatingsRepository', () => {
     );
   });
 
+  it('loads public Reality Fracture ratings with deck choices, Special Guests, and basic lands', () => {
+    const embeddedRepository = new RatingsRepository();
+    expect(embeddedRepository.hasSet('FRA')).toBe(true);
+
+    const pack = embeddedRepository.ratePack({
+      type: 'pack-received',
+      setCode: 'FRA',
+      packNumber: 1,
+      pickNumber: 2,
+      cardIds: [106247, 106571, 106526],
+      pickedCardIds: [106226, 106227],
+    });
+
+    expect(pack.cards).toMatchObject([
+      {
+        name: 'Surgical Precision',
+        gihwr: 0.579,
+        grade: 'B-',
+        manaCost: '{1}{W}',
+        deckRatings: { WU: { gihwr: 0.601, grade: 'B-' } },
+      },
+      { name: 'Consider', gihwr: 0.561, grade: 'C', manaCost: '{U}' },
+      { name: 'Plains', gihwr: null, grade: null, isLand: true, manaCost: '' },
+    ]);
+    expect(pack.pickedCards).toMatchObject([
+      {
+        name: 'Academic Ascent',
+        gihwr: 0.53,
+        grade: 'D+',
+        deckRatings: { WU: { gihwr: 0.559, grade: 'C-' } },
+      },
+      { name: 'Blossom-Blessed Angel', arenaColor: 'W' },
+    ]);
+    expect(pack.availableDecks).toEqual(
+      expect.arrayContaining([
+        'WU',
+        'WB',
+        'WR',
+        'WG',
+        'UB',
+        'UR',
+        'UG',
+        'BR',
+        'BG',
+        'RG',
+      ]),
+    );
+    expect(embeddedRepository.getRating('FRA', 106284)).toMatchObject({
+      name: 'Extrapolate the Impossible',
+      gihwr: null,
+      grade: null,
+    });
+  });
+
   it('finds an embedded rating by set and Arena card ID', () => {
     expect(repository.hasSet('TST')).toBe(true);
     expect(repository.getRating('TST', 100)).toEqual({
